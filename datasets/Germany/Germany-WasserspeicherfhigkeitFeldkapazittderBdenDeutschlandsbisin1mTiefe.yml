@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: ger
+  charset: utf8
+  title: "Wasserspeicherf\xE4higkeit (Feldkapazit\xE4t) der B\xF6den Deutschlands\
+    \ bis in 1m Tiefe"
+  abstract: 'The map of the field capacity of soils in Germany gives an overview of
+    the amount of water which can be stored in a soil (depth 1 m)
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 26-11-2015
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - avaliable water capacity
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://geoviewer.bgr.de/mapapps/resources/apps/geoviewer/index.html?lang=de&serviceURL=https://services.bgr.de/wms/boden/fk10dm1000/%3F
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: SteggerUlrich
+    country: Germany
+    email: geodatenmanagement@bgr.de
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://services.bgr.de/wms/boden/fk10dm1000/?
+    type: ogc:wms
+    name: WMS
+  GEOTiff:
+    url: https://download.bgr.de/bgr/Boden/FK10DM1000/geotiff/FK10dm1000_250.zip
+    type: GEOTIFF
+    name: GEOTiff
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

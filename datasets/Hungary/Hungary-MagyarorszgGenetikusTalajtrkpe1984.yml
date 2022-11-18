@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: hun
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:250000
+  resolution: null
+identification:
+  language: hun
+  charset: utf8
+  title: "Magyarorsz\xE1g Genetikus Talajt\xE9rk\xE9pe 1984"
+  abstract: "Genetic Soil Map of Hungary M\xC9M-NAK 1984\n"
+  edition: 1.8.0
+  dates:
+    pubblication: 1984
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: "Istv\xE1n Sis\xE1k"
+    country: Hungary
+    email: bjs@georgikon.hu
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://vektor.georgikon.hu/memnakh/
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

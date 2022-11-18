@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: lav
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:10000
+  resolution: null
+identification:
+  language: lav
+  charset: utf8
+  title: 'Augsnes laukumi '
+  abstract: 'Historical digital soil database
+
+    '
+  edition: 1.8.0
+  dates:
+    last revision: 3-3-2017
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://geolatvija.lv/geo/mapviewer?licenceId=Free-243
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: ''
+    country: Latvia
+    email: support@vraa.gov.lv
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://dpps.viss.gov.lv/DPPS.REQ/URN_IVIS_100001_ISS-ZM-Zemes_novertejums_WMS_geop-v1-0/guest/URN_IVIS_100273_LIC-DC3672A84F866340AD11ED9D1AFFEC6C?request=GetCapabilities&service=WMS
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

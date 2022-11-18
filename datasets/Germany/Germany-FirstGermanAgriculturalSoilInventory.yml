@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: ger
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: null
+  resolution: 8Km
+identification:
+  language: ger
+  charset: utf8
+  title: First German Agricultural Soil Inventory
+  abstract: "The Federal Republic of Germany is obliged to report all anthropogenic\
+    \ sources and sinks of greenhouse gases on a national scale. Changes in soil organic\
+    \ carbon (SOC) stocks are among these sources and sinks. Furthermore, soil organic\
+    \ matter is a key indicator of soil fertility. The Th\xFCnen Institute of Climate-Smart\
+    \ Agriculture was commissioned by the German Federal Ministry of Food and Agriculture\
+    \ to conduct the first German agricultural soil inventory and obtain a first representative\
+    \ and consistent baseline of SOC stocks in agricultural soils across Germany.\
+    \ Potential explanatory variables were also assessed. Between 2009 and 2018, a\
+    \ total of 3104 field sites were sampled in a 8x8 km grid (Jacobs et al., 2018).\
+    \ \n"
+  edition: 1.8.0
+  dates:
+    pubblication: 20-5-2020
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - carbon stock
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://arcg.is/1XXTyv0
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Christopher Poeplau
+    country: Germany
+    email: ak@thuenen.de
+    contactinstructions: email
+distribution:
+  xls:
+    url: https://doi.org/10.3220/DATA20200203151139
+    type: application/xls
+    name: xls
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

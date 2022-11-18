@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:200000
+  resolution: null
+identification:
+  language: ger
+  charset: utf8
+  title: "Nutzungsdifferenzierte Boden\xFCbersichtskarte der Bundesrepublik Deutschland\
+    \ 1:1.000.000 - Auszug Gr\xFCnlandb\xF6den und landwirtschaftliche Fl\xE4chen\
+    \ heterogener Struktur"
+  abstract: 'Use-differentiated soil survey map of the Federal Republic of Germany
+    1: 1.000.000 - Excerpt grassland soils and agricultural areas of heterogeneous
+    structure
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 22-2-2013
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Andreas Richter
+    country: Germany
+    email: fis.bo@bgr.de
+    contactinstructions: email
+distribution:
+  accdb:
+    url: https://download.bgr.de/bgr/Boden/BUEK1000N/Gruenland/mdb/buek1000n_Gruenland_v231.zip
+    type: application/accdb
+    name: ACCDB
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

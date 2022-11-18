@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: cze
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: cze
+  charset: utf8
+  title: "P\u016Fdn\xED mapa 1 : 1 000 000"
+  abstract: "Soil map compiled by Milan Tom\xE1\u0161ek and published as part of the\
+    \ Soil of the Czech Republic publication (3rd edition, Czech Geological Survey,\
+    \ 2003). \n"
+  edition: 1.8.0
+  dates:
+    creation: 1-2-2012
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: "Martin Pale\u010Dek"
+    country: Czech Republic
+    email: martin.palecek@geology.cz
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://mapy.geology.cz/arcgis/services/Inspire/Pudni_typy/MapServer/WMSServer
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

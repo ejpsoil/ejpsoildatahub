@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: dut
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: null
+  resolution: 1KM
+identification:
+  language: dut
+  charset: utf8
+  title: Soil Organic Carbon Stock Maps for Belgium
+  abstract: 'Soil Organic Carbon Stock Maps for Belgium: mean (1 km grid)
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 15-1-2018
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - carbon stock
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://www.dov.vlaanderen.be/portaal/?module=public-bodemverkenner
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Graaf De Ferraris
+    country: Belgium
+    email: vpo.omgeving@vlaanderen.be
+    contactinstructions: email
+distribution:
+  wcs:
+    url: https://www.dov.vlaanderen.be/geoserver/wcs?
+    type: ogc:wcs
+    name: WCS
+  KML:
+    url: https://www.dov.vlaanderen.be/geoserver/wms/kml?layers=organische_koolstof:carbon_sd_40
+    type: KML
+    name: KML
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

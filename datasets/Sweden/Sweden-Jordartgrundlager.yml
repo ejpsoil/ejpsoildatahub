@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: swe
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: swe
+  charset: utf8
+  title: Jordart, grundlager
+  abstract: 'Map of soil parent material
+
+    '
+  edition: 1.8.0
+  dates:
+    last revision: 20-5-2019
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://apps.sgu.se/kartvisare/kartvisare-jordarter-1-miljon.html?
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: ''
+    country: Sweden
+    email: kundservice@sgu.se
+    contactinstructions: email
+distribution:
+  pdf:
+    url: https://apps.sgu.se/sgumapviewer/tmpout/sgupdf2708000174632283360.pdf
+    type: application/pdf
+    name: PDF
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

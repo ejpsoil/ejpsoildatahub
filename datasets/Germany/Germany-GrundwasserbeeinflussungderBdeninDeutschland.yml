@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: ger
+  charset: utf8
+  title: "Grundwasserbeeinflussung der B\xF6den in Deutschland"
+  abstract: 'The map of the groundwater influence on soils in Germany gives an overview
+    of depth of groundwater below the surface. Soils that are influenced by groundwater
+    usually have a limited crop yield
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 26-11-2015
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - the following soil degradation processes
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - soil contamination
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://geoviewer.bgr.de/mapapps4/resources/apps/geoviewer/index.html?lang=en&serviceURL=https://services.bgr.de/wms/boden/gws1000/?&layers=-boden_nfkwe1000_ags
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Stegger Ulrich
+    country: Germany
+    email: geodatenmanagement@bgr.de
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://services.bgr.de/wms/boden/gws1000/?
+    type: ogc:wms
+    name: WMS
+  GEOTiff:
+    url: https://download.bgr.de/bgr/boden/GWS1000/geotiff/GWS1000_250.zip
+    type: GEOTIFF
+    name: GEOTiff
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

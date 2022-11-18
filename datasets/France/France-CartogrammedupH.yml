@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: fre
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: null
+  resolution: 1KM
+identification:
+  language: fre
+  charset: utf8
+  title: Cartogramme du pH
+  abstract: 'Map of the pH. The data come from the soil analysis results of the 2200
+    sites of the Soil Quality Measurement Network, during the first sampling campaign.
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 28-5-2015
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - pH
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://agroenvgeo.data.inra.fr/sviewer/?x=358337&y=5901707&z=6&title=Cartogramme%20du%20pH&layers=gissol_rmqs:teneur_ph_eau_rmqs
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Marion Bardy
+    country: France
+    email: infosol@orleans.inra.fr
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_rmqs/wms?
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

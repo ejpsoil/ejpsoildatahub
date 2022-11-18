@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: spa
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: spa
+  charset: utf8
+  title: 'Espana Mapa de suelos '
+  abstract: 'Soil map of Spain
+
+    '
+  edition: 1.8.0
+  dates:
+    creation: 2001
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: ''
+  rights: registation needed
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: ''
+    country: Spain
+    email: null
+    contactinstructions: email
+distribution:
+  pdf:
+    url: http://centrodedescargas.cnig.es/CentroDescargas/busquedaRedirigida.do?ruta=PUBLICACION_CNIG_DATOS_VARIOS/aneTematico/Espana_Mapa-de-suelos_2001_mapa_15220_spa.pdf
+    type: application/pdf
+    name: PDF
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: ger
+  charset: utf8
+  title: "Gehalte an organischer Substanz in Oberb\xF6den Deutschlands"
+  abstract: 'Organic Matter Content of Top-Soils in Germany 1:1,000,000
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 2007
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - organic carbon
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://geoviewer.bgr.de/mapapps4/resources/apps/geoviewer/index.html?lang=en&serviceURL=https://services.bgr.de/rest/services/boden/humus1000ob/MapServer/&layers=-boden_boart1000ob_ags
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Palo di Florian
+    country: Germany
+    email: Florian.Stange@bgr.de
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://services.bgr.de/wms/boden/humus1000ob/?
+    type: ogc:wms
+    name: WMS
+  SHP:
+    url: https://download.bgr.de/bgr/Boden/HUMUS1000OB/shp/humus1000_ob_v20.zip
+    type: SHP
+    name: SHP
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

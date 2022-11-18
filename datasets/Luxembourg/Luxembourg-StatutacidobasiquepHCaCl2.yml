@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: fre
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: null
+  resolution: 5m
+identification:
+  language: fre
+  charset: utf8
+  title: Statut acido-basique (pHCaCl2)
+  abstract: 'Interpolation (Kriging) of the Acid-base status of soils (pHCaCl2)
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 2015
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - pH
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://map.geoportail.lu/theme/main?zoom=8&X=669751&Y=6416190&layers=703&pk_campaign=geoseo_data&lang=fr&version=3&opacities=1&bgLayer=basemap_2015_global&crosshair=false
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Simone Marx
+    country: Luxembourg
+    email: pedologie@asta.etat.lu
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://ws.geoportail.lu/250k
+    type: ogc:wms
+    name: WMS
+  ARC GRID:
+    url: https://data.public.lu/fr/datasets/r/b2d2527b-fc25-41ed-b5fc-98ca90434dc3
+    type: ARC GRID
+    name: ARC GRID
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

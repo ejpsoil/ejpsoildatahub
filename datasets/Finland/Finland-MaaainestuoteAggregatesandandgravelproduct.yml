@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: fin
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:20000
+  resolution: null
+identification:
+  language: fin
+  charset: utf8
+  title: Maa-aines-tuote/Aggregate sand and gravel -product
+  abstract: 'The soil data contains information on the location and volume of sand
+    and gravel deposits and their ability to meet the needs of municipal engineering
+
+    '
+  edition: 1.8.0
+  dates:
+    last revision: 28-9-2018
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - texture
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: ''
+  rights: filled online order form
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: ''
+    country: Finland
+    email: geodata@gtk.fi
+    contactinstructions: email
+distribution:
+  gdb:
+    url: http://hakku.gtk.fi
+    type: application/gdb
+    name: GDB
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

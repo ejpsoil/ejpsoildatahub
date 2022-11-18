@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: dut
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:40000
+  resolution: null
+identification:
+  language: dut
+  charset: utf8
+  title: WRB Soil Units 40k
+  abstract: 'WRB Soil Units 40k: Soil map of the Flemish Region according to the international
+    soil classification system World Reference Base on a scale of 1: 40,000
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 26-4-2015
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Koning Albert
+    country: Belgium
+    email: vpo.omgeving@vlaanderen.be
+    contactinstructions: email
+distribution:
+  wfs:
+    url: https://www.dov.vlaanderen.be/geoserver/wfs?SERVICE=WFS&version=1.1.0&request=GetFeature
+      .
+    type: ogc:wfs
+    name: WFS
+  KML:
+    url: https://www.dov.vlaanderen.be/geoserver/wms/kml?layers=bodemkaart_afgeleid:wrb_40000
+    type: KML
+    name: KML
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: null
+  resolution: 1KM
+identification:
+  language: ger
+  charset: utf8
+  title: "Bodenkarte von \xD6sterreich eBOD"
+  abstract: 'The digital soil map of Austria eBOD. Several characteristics, e.g. Parent
+    material, soil type,  coarse fraction or humus and carbonate content
+
+    '
+  edition: 1.8.0
+  dates:
+    last revision: 28-6-2019
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: ''
+  rights: no conditions apply
+  url: https://bodenkarte.at/
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Michael Wandl
+    country: Austria
+    email: eBod2@bfw.gv.at
+    contactinstructions: email
+distribution:
+  shp:
+    url: http://geo.bfw.ac.at/boden/downloads/boka_1km_etrs89_2016.zip
+    type: application/shp
+    name: SHP
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

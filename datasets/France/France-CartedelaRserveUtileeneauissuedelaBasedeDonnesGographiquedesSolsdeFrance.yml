@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: fre
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: fre
+  charset: utf8
+  title: "Carte de la R\xE9serve Utile en eau issue de la Base de Donn\xE9es G\xE9\
+    ographique des Sols de France"
+  abstract: 'Map of the dominant class of  available water by Cartographic Unit of
+    Soil
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 17-6-2019
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - avaliable water capacity
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://agroenvgeo.data.inra.fr/sviewer/?x=358337&y=5901707&z=6&title=Carte%20de%20la%20R%C3%A9serve%20Utile%20en%20eau%20issue%20de%20la%20Base%20de%20Donn%C3%A9es%20G%C3%A9ographique%20des%20Sols%20de%20France&layers=inra_bdgsf:bdgsf_classe_ru
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Le Bas, Christine
+    country: France
+    email: infosol@inra.fr
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://agroenvgeo.data.inra.fr/geoserver/inra_bdgsf/wms?
+    type: ogc:wms
+    name: WMS
+  SHP:
+    url: https://agroenvgeo.data.inra.fr/geoserver/inra_bdgsf/wfs?typeName=inra_bdgsf:bdgsf_classe_ru&outputFormat=shape-zip&request=GetFeature&service=WFS&version=2.0.0
+    type: SHP
+    name: SHP
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: dut
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:150000
+  resolution: 5m
+identification:
+  language: dut
+  charset: utf8
+  title: "Potenti\xEBle bodemerosiekaart per perceel "
+  abstract: 'The potential soil erosion map per parcel is based on the 2017 parcel
+    map. The erosion calculation is based on the revised universal soil loss equation
+    or R.U.S.L.E
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 14-12-2017
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - the following soil degradation processes
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - soil erosion
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://www.dov.vlaanderen.be/geoserver/wms/kml?layers=erosie:so_potbdmerosiepp_2018
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Koning Albert
+    country: Belgium
+    email: vpo.omgeving@vlaanderen.be
+    contactinstructions: email
+distribution:
+  wfs:
+    url: https://www.dov.vlaanderen.be/geoserver/wfs?SERVICE=WFS&version=1.1.0&request=GetCapabilities
+    type: ogc:wfs
+    name: WFS
+  KML:
+    url: https://www.dov.vlaanderen.be/geoserver/wms/kml?layers=erosie:so_potbdmerosiepp_2018
+    type: KML
+    name: KML
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

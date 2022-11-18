@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: swe
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: swe
+  charset: utf8
+  title: "Torvmarker and 'Torvlagerf\xF6ljder"
+  abstract: 'Map of peatlands and extraction
+
+    '
+  edition: 1.8.0
+  dates:
+    last revision: 20-5-2019
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - carbon stock
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://apps.sgu.se/kartvisare/kartvisare-torv.html?zoom=-1131289.4423268852,6097443.42499685,2311037.442326885,7672446.57500315
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Johan Stendahl,
+    country: Sweden
+    email: kundservice@sgu.se
+    contactinstructions: email
+distribution:
+  gpkg:
+    url: https://resource.sgu.se/oppnadata/data/jord/torvlagerfoljder/torvlagerfoljder.gpkg
+    type: application/gpkg
+    name: GPKG
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: eng
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:250000
+  resolution: null
+identification:
+  language: eng
+  charset: utf8
+  title: 'Available Water Capacity, Scotland '
+  abstract: "Available Water Capacity (AWC) (2012 version) \n"
+  edition: 1.8.0
+  dates:
+    pubblication: 27-3-2019
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - avaliable water capacity
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: David Donnelly
+    country: UK
+    email: david.donnelly@hutton.ac.uk
+    contactinstructions: email
+distribution:
+  shp:
+    url: https://www.hutton.ac.uk/sites/default/files/files/soils/downloads/Hutton_AWC_OSGB.zip
+    type: application/shp
+    name: SHP
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

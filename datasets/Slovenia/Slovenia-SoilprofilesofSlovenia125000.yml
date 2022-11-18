@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: slv
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:25000
+  resolution: null
+identification:
+  language: slv
+  charset: utf8
+  title: Soil profiles of Slovenia 1:25.000
+  abstract: "1644 points of detailed soil profile description using standard soil\
+    \ science methods. The profiles were carried out between 1960 and 1999 \n"
+  edition: 1.8.0
+  dates:
+    pubblication: 2022
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: ''
+  rights: registation needed
+  url: http://rkg.gov.si/GERK/WebViewer/#map_x=461984&map_y=200000&map_sc=914285
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Janez Bergant
+    country: Slovenia
+    email: rkg.mko@gov.si
+    contactinstructions: email
+distribution: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

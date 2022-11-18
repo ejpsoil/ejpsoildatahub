@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: cze
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 3,513888889
+  resolution: null
+identification:
+  language: cze
+  charset: utf8
+  title: "V\u011Btrn\xE1 eroze p\u016Fd \u010CR"
+  abstract: 'Map of potential soil loss by water erosion
+
+    '
+  edition: 1.8.0
+  dates:
+    creation: 1-9-2013
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - the following soil degradation processes
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - soil erosion
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://me.vumop.cz/app/
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: "Daniel \u017D\xED\u017Eala"
+    country: Czech Republic
+    email: data@vumop.cz
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://geoportal.gov.cz/web/guest/map?wms=http://geoportal.vumop.cz/wms_vumop/zchbpej.asp
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

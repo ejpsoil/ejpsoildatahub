@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: pol
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:25000
+  resolution: null
+identification:
+  language: pol
+  charset: utf8
+  title: Mapa kategorii glebowych
+  abstract: 'Spatial diversity of soil cover in Poland by soil susceptibility category
+    to drought. The basic factor determining the belonging of soils to a given soil
+    category is the granulometric composition and its diversity in the soil profile
+    to a depth of 1.5 m.
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 18-5-2012
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: http://www.susza.iung.pulawy.pl/mapa-kategorii/
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: ''
+    country: Poland
+    email: susza@iung.pulawy.pl
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://mapy.geoportal.gov.pl/wss/service/pub/guest/G2_GO_WMS/MapServer/WMSServer?
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

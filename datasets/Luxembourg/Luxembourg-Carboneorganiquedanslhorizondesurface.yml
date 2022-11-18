@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: fre
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: null
+  resolution: 5m
+identification:
+  language: fre
+  charset: utf8
+  title: Carbone organique dans l'horizon de surface
+  abstract: 'Topsoil Organic Carbon Content%
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 2013
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - organic carbon
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://map.geoportail.lu/theme/agriculture?layers=704-1637&zoom=8&lang=fr&version=3&X=669751&Y=6416190&opacities=1-1&bgLayer=orthogr_2013_global
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Simone Marx
+    country: Luxembourg
+    email: pedologie@asta.etat.lu
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://ws.geoportail.lu/250k
+    type: ogc:wms
+    name: WMS
+  GEOTiff:
+    url: https://data.public.lu/fr/datasets/r/70a465d6-b907-4087-807a-147ccbf31de2
+    type: GEOTIFF
+    name: GEOTiff
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

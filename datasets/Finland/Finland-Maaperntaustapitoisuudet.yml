@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: fin
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: null
+  resolution: 1Km
+identification:
+  language: fin
+  charset: utf8
+  title: "Maaper\xE4n taustapitoisuudet"
+  abstract: 'Soil geochemical baselines.In Finland, a Government Decree on the Assessment
+    of Soil Contamination and Remediation Needs has generated a need for reliable
+    and readily accessible data on geochemical baseline concentrations in Finnish
+    soils
+
+    '
+  edition: 1.8.0
+  dates:
+    creation: 1983
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - soil contamination
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: ''
+  rights: filled online order form
+  url: http://gtkdata.gtk.fi/Tapir/
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Lilja, Harri
+    country: Finland
+    email: geodata@gtk.fi
+    contactinstructions: email
+distribution:
+  gdb:
+    url: https://hakku.gtk.fi/en/shopping_cart/edit
+    type: application/gdb
+    name: GDB
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

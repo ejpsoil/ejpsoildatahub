@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: dut
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: null
+  resolution: 1KM
+identification:
+  language: dut
+  charset: utf8
+  title: Potential soil erosion aggregated for a grid of 1 km by 1 km in Flanders
+  abstract: 'The potential soil erosion aggregated for a grid of 1 km  (ton/ha)
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 1-1-2011
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - the following soil degradation processes
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - soil erosion
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Koning Albert
+    country: Belgium
+    email: vpo.omgeving@vlaanderen.be
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://www.dov.vlaanderen.be/geoserver/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

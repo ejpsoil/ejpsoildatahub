@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: fre
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: null
+  resolution: 1KM
+identification:
+  language: fre
+  charset: utf8
+  title: "La carte nationale des stocks de carbone des sols int\xE9gr\xE9e dans la\
+    \ carte mondiale de la FAO"
+  abstract: 'Estimation of organic carbon stocks from 0 to 30 cm deep in metropolitan
+    France excluding Corsica
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 5-7-2019
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - carbon stock
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://www.gissol.fr/donnees/cartes/la-carte-nationale-des-stocks-de-carbone-des-sols-integree-dans-la-carte-mondiale-de-la-fao-4335
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Le Bas, Christine
+    country: France
+    email: infosol@orleans.inra.fr
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_gsm/wms?
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

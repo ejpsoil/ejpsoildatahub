@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: eng
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:250000
+  resolution: null
+identification:
+  language: eng
+  charset: utf8
+  title: 'Irish Soil Map '
+  abstract: 'Irish Soil Map 1:250,000
+
+    '
+  edition: 1.8.0
+  dates:
+    last revision: 30-9-2014
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: http://gis.teagasc.ie/soils/map.php
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Rachel Creamer
+    country: Ireland
+    email: soils@teagasc.ie
+    contactinstructions: email
+distribution:
+  shp:
+    url: http://gis.teagasc.ie/soils/downloads/INSM250k_ING_1b.zip
+    type: application/shp
+    name: SHP
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

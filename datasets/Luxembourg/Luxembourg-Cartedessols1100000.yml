@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: fre
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:100000
+  resolution: null
+identification:
+  language: fre
+  charset: utf8
+  title: Carte des sols 1:100'000
+  abstract: 'Soil Map 1:100000. Vector database of the soil associations map of the
+    Grand Duchy of Luxembourg
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 1-1-1969
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://map.geoportail.lu/theme/agriculture?layers=272-1637&zoom=8&lang=fr&version=3&X=669751&Y=6416190&opacities=1-1&bgLayer=orthogr_2013_global
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Simone Marx
+    country: Luxembourg
+    email: pedologie@asta.etat.lu
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://ws.geoportail.lu/250k
+    type: ogc:wms
+    name: WMS
+  WMS:
+    url: https://data.public.lu/fr/datasets/r/79ae39b4-9a86-4693-88d9-fdfc51a2f139
+    type: WMS
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

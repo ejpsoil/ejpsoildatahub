@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: eng
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:25000
+  resolution: null
+identification:
+  language: eng
+  charset: utf8
+  title: Topsoil Texture in Scotland
+  abstract: 'Indicative soil texture classes for Nitrate Vulnerable Zones in Scotland
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 1-5-2011
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - texture
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=JHTopsoilTexture
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: David Donnelly
+    country: UK
+    email: david.donnelly@hutton.ac.uk
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://DRUID.HUTTON.AC.UK/arcgis/services/Hutton_SoilTexture/MapServer/WMSServer?
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

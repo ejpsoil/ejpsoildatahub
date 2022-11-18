@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: slv
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:25000
+  resolution: null
+identification:
+  language: slv
+  charset: utf8
+  title: Soil depth for Slovenia
+  abstract: 'Data about soils, sorted into 5 classes form very shallow (less than
+    15cm) to deep soils (more than 100cm). Unofficial data in digital form
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 1999
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - soildepth
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: ''
+  rights: registation needed
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: ' Borut Vrscaj'
+    country: Slovenia
+    email: borut.vrscaj@kis.si
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://etla.kis.si/KIS-WebGIS/
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

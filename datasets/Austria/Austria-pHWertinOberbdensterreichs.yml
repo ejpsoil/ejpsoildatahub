@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:250000
+  resolution: null
+identification:
+  language: ger
+  charset: utf8
+  title: "pH-Wert in Oberb\xF6den \xD6sterreichs"
+  abstract: 'Topsoil pH value (CaCl2) (0-10/20 cm) of Austria
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 2004
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - pH
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: ''
+  rights: filled online order form
+  url: https://boris.umweltbundesamt.at/borisdaten/alias.xhtml?alias=Login
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: ''
+    country: Austria
+    email: boden@umweltbundesamt.at
+    contactinstructions: email
+distribution:
+  xls:
+    url: https://www.umweltbundesamt.at/umweltsituation/boden/boris/boris_datenzugang/
+    type: application/xls
+    name: XLS
+  PDF:
+    url: https://www.umweltbundesamt.at/fileadmin/site/umweltthemen/boden/BORIS/pH_Wert_Referenzwerteband.pdf
+    type: PDF
+    name: PDF
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

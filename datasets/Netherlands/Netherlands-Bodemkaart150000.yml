@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: dut
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:50000
+  resolution: null
+identification:
+  language: dut
+  charset: utf8
+  title: Bodemkaart 1:50.000
+  abstract: 'The soil map of the Netherlands, scale 1: 50 000, provides spatial information
+    about soil composition up to a depth of 1.2 meters.
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 2014
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://www.pdok.nl/viewer/
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Fokke Brouwer
+    country: Netherlands
+    email: info.alterra@wur.nl
+    contactinstructions: email
+distribution:
+  wfs:
+    url: https://geodata.nationaalgeoregister.nl/bodemkaart50000/wfs?request=getCapabilities&service=wfs
+    type: ogc:wfs
+    name: WFS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

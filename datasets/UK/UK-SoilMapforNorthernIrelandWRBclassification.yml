@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: eng
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:250000
+  resolution: null
+identification:
+  language: eng
+  charset: utf8
+  title: Soil Map for Northern Ireland (WRB classification)
+  abstract: "Soil map for Northern Ireland \u2014 WRB 2006 tier 1 version\n"
+  edition: 1.8.0
+  dates:
+    pubblication: 2-1-2012
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=AFBIWRB
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: ''
+    country: UK
+    email: info@afbi.gov.uk
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://www.landis.org.uk/arcgis/services/UKSoilObservatory/WorldReferenceBase_AFBI/MapServer/WmsServer?
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

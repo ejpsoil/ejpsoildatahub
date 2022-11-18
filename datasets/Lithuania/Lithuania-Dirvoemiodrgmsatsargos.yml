@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: lit
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:50000
+  resolution: null
+identification:
+  language: lit
+  charset: utf8
+  title: "Dirvo\u017Eemio dr\u0117gm\u0117s atsargos"
+  abstract: 'Map of The National Atlas of Lithuania - Soil moisture reserves
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 6-6-2013
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - soil moisture
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://www.geoportal.lt/map/?lang=en
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: "J. Ka\u017Eys"
+    country: Lithuania
+    email: e.indilaite@gis-centras.lt
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://192.168.166.27:8080/geoserver/Atlasas_Tema-3/wms?service=WMS&version=1.1.0&request=GetMap&layers=Atlasas_Tema-3:28_5
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

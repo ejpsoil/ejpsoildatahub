@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: eng
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:25000
+  resolution: null
+identification:
+  language: eng
+  charset: utf8
+  title: Map of soil erosion
+  abstract: 'Scotlands Soil Data. Map of soil erosion risk (partial cover)
+
+    '
+  edition: 1.8.0
+  dates:
+    last revision: 8-10-2018
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - the following soil degradation processes
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - soil erosion
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Allan Lilly
+    country: UK
+    email: allan.lilly@hutton.ac.uk
+    contactinstructions: email
+distribution:
+  shp:
+    url: http://www.hutton.ac.uk/learning/natural-resource-datasets/soilshutton/soils-maps-scotland/download
+    type: application/shp
+    name: SHP
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: bul
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:400000
+  resolution: null
+identification:
+  language: bul
+  charset: utf8
+  title: Soil Geographic Regions of Bulgaria (1974)
+  abstract: 'Soil-geographical regioning of Bulgaria. The stratification is: zones,
+    subzones, soil provinces and soil regions.
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 1974
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Milena Kercheva
+    country: Bulgaria
+    email: mkercheva@abv.bg
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://212.72.204.94:8080/geoserver/wms?service=WMS&version=1.1.0&request=GetCapabilities
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

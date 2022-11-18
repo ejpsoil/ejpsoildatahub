@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: fre
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:250000
+  resolution: null
+identification:
+  language: fre
+  charset: utf8
+  title: "Carte des teneurs en Capacit\xE9 dEchange Cationique (CEC) (m\xE9thode Metson)"
+  abstract: 'Map of Cation Exchange Capacity by canton. The analyzes come from the
+    Earth Analysis Database (BDAT).
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 17-6-2019
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - cation exchange capacity
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://webapps.gissol.fr/geosol/
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Marion Bardy
+    country: France
+    email: infosol@inra.fr
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_bdat/wms?
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

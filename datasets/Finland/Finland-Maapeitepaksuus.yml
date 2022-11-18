@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: fin
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: fin
+  charset: utf8
+  title: Maapeitepaksuus
+  abstract: 'The superficial deposits thickness map represents the loose Quaternary
+    deposits thickness over the bedrock
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 10-12-2018
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - soildepth
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Lilja, Harri
+    country: Finland
+    email: kirjaamo@nls.fi
+    contactinstructions: email
+distribution:
+  geotiff:
+    url: https://hakku.gtk.fi/en/locations/search
+    type: application/geotiff
+    name: GEOTiff
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: slo
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:400000
+  resolution: null
+identification:
+  language: slo
+  charset: utf8
+  title: "P\xF4dna mapa Slovenska v mierke 1:400 000"
+  abstract: 'Soil map of Slovakia in scale 1: 400 000
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 1993
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: http://www.podnemapy.sk/poda400/viewer.htm
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: "Rastislav Skalsk\xFD"
+    country: Slovakia
+    email: rastislav.skalsky@nppc.sk
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://sscri.vupop.sk/arcgis/services/vupop_wms/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS&VERSION=1.3.0
+    type: ogc:wms
+    name: WMS
+  JSON:
+    url: https://data.gov.sk/dataset/podna-mapa-slovenska-1-400000
+    type: JSON
+    name: JSON
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

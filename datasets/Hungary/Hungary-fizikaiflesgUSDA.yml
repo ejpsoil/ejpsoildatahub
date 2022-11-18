@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: hun
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: null
+  resolution: 250m
+identification:
+  language: hun
+  charset: utf8
+  title: "fizikai f\xE9les\xE9g (USDA)"
+  abstract: 'Map of USDA soil texture class; 0-30 cm
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 2015
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - texture
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: "L\xE1szl\xF3 Jord\xE1n "
+    country: Hungary
+    email: ugyfelszolgalat@nebih.gov.hu
+    contactinstructions: email
+distribution:
+  geotiff:
+    url: http://airterkep.nebih.gov.hu/gis_portal/talajvedelem/pdf/aiir_raszterterkepek.rar
+    type: application/geotiff
+    name: GEOTiff
+  HTML:
+    url: http://airterkep.nebih.gov.hu/gis_portal/talajvedelem/kiadv.htm
+    type: HTML
+    name: HTML
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

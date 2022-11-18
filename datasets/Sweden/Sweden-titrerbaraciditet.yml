@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: swe
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: null
+  resolution: 5KM
+identification:
+  language: swe
+  charset: utf8
+  title: 'titrerbar aciditet '
+  abstract: 'Map of soil titrable acidity
+
+    '
+  edition: 1.8.0
+  dates:
+    last revision: 20-5-2019
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - the following soil degradation processes
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - acidification
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://www.slu.se/miljoanalys/statistik-och-miljodata/miljodata/webbtjanster-miljoanalys/markinfo/markinfo/kartor/?submenu=open
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Johan Stendahl
+    country: Sweden
+    email: johan.stendahl@slu.se
+    contactinstructions: email
+distribution:
+  jpg:
+    url: https://miljodata.slu.se/mvm/MarkInfo/Image/Kem2_B_TApH7_Tota_Kart_3196?md=true
+    type: image/jpg
+    name: JPG
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

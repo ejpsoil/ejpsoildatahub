@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: eng
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:250000
+  resolution: null
+identification:
+  language: eng
+  charset: utf8
+  title: National Soil Map of Scotland
+  abstract: 'National Soil Map of Scotland
+
+    '
+  edition: 1.8.0
+  dates:
+    creation: 1981
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=JHSoilPH
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: David Donnelly
+    country: UK
+    email: david.donnelly@hutton.ac.uk
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://druid.hutton.ac.uk/arcgis/services/Hutton_Map_Extents_WGS84/MapServer/WMSServer?
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: null
+  resolution: 4Km
+identification:
+  language: ger
+  charset: utf8
+  title: "SCHWERMETALL in Oberboden unter Ber\xFCcksichtigung der Karbonatbeeinflussung"
+  abstract: 'Heavy metal content in topsoil under consideration of the carbonate influence
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 2004
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - the following soil degradation processes
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - soil contamination
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: ''
+  rights: filled online order form
+  url: https://boris.umweltbundesamt.at/borisdaten/alias.xhtml?alias=Login
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: "Alexandra Freudenschu\xDF"
+    country: Austria
+    email: publikationen@umweltbundesamt.at
+    contactinstructions: email
+distribution:
+  xls:
+    url: https://www.umweltbundesamt.at/fileadmin/site/umweltthemen/boden/BORIS/10_BORIS_Co_imOberboden_nachKarbonateinfluss.pdf
+    type: application/xls
+    name: XLS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

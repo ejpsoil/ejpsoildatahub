@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: hun
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: null
+  resolution: 100m
+identification:
+  language: hun
+  charset: utf8
+  title: "Sz\xE9n - k\xE9szlet 2010"
+  abstract: 'Map of  organic carbon stock 2010; T/ha; 0-30 cm
+
+    '
+  edition: 1.8.0
+  dates:
+    creation: 2018
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - the following soil degradation processes
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - carbon stock
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: "L\xE1szl\xF3 P\xE1sztor"
+    country: Hungary
+    email: pasztor@rissac.hu
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://dosoremi.hu/int_szenkeszlet_2010_0_30.html
+    type: ogc:wms
+    name: WMS
+  JPG:
+    url: http://dosoremi.hu/tablazat.html
+    type: JPG
+    name: JPG
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

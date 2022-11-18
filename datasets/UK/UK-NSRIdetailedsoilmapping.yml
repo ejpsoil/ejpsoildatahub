@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: eng
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:25000
+  resolution: null
+identification:
+  language: eng
+  charset: utf8
+  title: NSRI detailed soil mapping
+  abstract: 'This map shows the extents of the detailed soil mapping available for
+    a variety of scales from the National Soil Resources Institute (NSRI)
+
+    '
+  edition: 1.8.0
+  dates:
+    publication: 2022
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=NSRIDetailedSoilMapping
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: ''
+    country: UK
+    email: nsridata@cranfield.ac.uk
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://www.landis.org.uk/arcgis/services/UKSoilObservatory/DetailedSoilMapping_Cranfield/MapServer/WmsServer?
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

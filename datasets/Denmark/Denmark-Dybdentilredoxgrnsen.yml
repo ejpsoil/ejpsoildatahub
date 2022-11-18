@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: dan
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:400000
+  resolution: 100m
+identification:
+  language: dan
+  charset: utf8
+  title: "Dybden til redoxgr\xE6nsen"
+  abstract: 'Redox depth. The map illustrates depth to the redox interface in meters
+    below ground. The interface marks the transition from oxidised to reduced conditions
+    in the subsurface
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 15-3-2019
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - soil moisture
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://data.geus.dk/geusmap/?mapname=denmark&lang=en#baslay=baseMapDa&optlay=&extent=3775.2127724433085,5979755.859244018,1111224.7872275566,6470244.140755982&layers=redox_dybde_100m_grid
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Vibeke Ernstsen
+    country: Denmark
+    email: ve@geus.dk ve@geus.dk
+    contactinstructions: email
+distribution:
+  shp:
+    url: https://frisbee.geus.dk/geuswebshop/index.xhtml?category=61
+    type: application/shp
+    name: SHP
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: fre
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: fre
+  charset: utf8
+  title: "Carte du nom de sol dominant en WRB issue de la Base de Donn\xE9es G\xE9\
+    ographique des Sols de France"
+  abstract: 'Geographic Database of Soils of France at 1 / 1,000,000 version 3.2.8.0,
+    10/09/1998
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 17-6-2019
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://agroenvgeo.data.inra.fr/sviewer/?x=358337&y=5901707&z=6&title=Carte%20du%20nom%20de%20sol%20dominant%20en%20WRB%20issue%20de%20la%20Base%20de%20Donn%C3%A9es%20G%C3%A9ographique%20des%20Sols%20de%20France&layers=inra_bdgsf:geometrie_bdgsf
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Le Bas, Christine
+    country: France
+    email: infosol@inra.fr
+    contactinstructions: email
+distribution:
+  wfs:
+    url: https://agroenvgeo.data.inra.fr/geoserver/wfs
+    type: ogc:wfs
+    name: WFS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

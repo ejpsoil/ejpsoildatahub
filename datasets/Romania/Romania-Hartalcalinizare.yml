@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: rum
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:200000
+  resolution: null
+identification:
+  language: rum
+  charset: utf8
+  title: "Hart\u0103 alcalinizare"
+  abstract: 'Map of the risk of soil alkalinization
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 2-2-2018
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - the following soil degradation processes
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - salinization
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: Andrei Dornik
+    country: Romania
+    email: office@icpa.ro
+    contactinstructions: email
+distribution:
+  jpg:
+    url: http://geodim.meteoromania.ro/sia/
+    type: image/jpg
+    name: JPG
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

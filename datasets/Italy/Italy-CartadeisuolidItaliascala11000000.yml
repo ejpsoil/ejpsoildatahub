@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+  language: ita
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2022-11-18
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: ita
+  charset: utf8
+  title: "Carta dei suoli d\u2019Italia, scala 1:1.000.000"
+  abstract: 'Soil map of Italy, scale 1:1.000.000
+
+    '
+  edition: 1.8.0
+  dates:
+    pubblication: 16-11-2015
+  keywords:
+    default:
+      keywords:
+      - null
+    country:
+      keywords: []
+      vocabulary:
+        name: Countries
+        url: null
+    soilproperty:
+      keywords:
+      - soil type
+      - basic soil properties
+      vocabulary:
+        name: Countries
+        url: null
+    soiltheme:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Countries
+        url: null
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: null
+      end: null
+  fees: None
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: ''
+    individualname: G. L'Abate
+    country: Italy
+    email: giovanni.labate@crea.gov.it
+    contactinstructions: email
+distribution:
+  shp:
+    url: http://wordpress.redirectingat.com/?id=725X1342&xcust=8982&xs=1&isjs=1&url=http://www.soilmaps.it/download/shp/SMI.shp.zip&xguid=&xuuid=8a4dbfc2303c4d79f51393d6ca7c8184&xsessid=&xcreo=0&xed=0&sref=https://soilmaps.wordpress.com/soil-la
+    type: application/shp
+    name: SHP
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null
