@@ -50,7 +50,7 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: ''
+    organization: "Bundesforschungszentrum f\xFCr Wald"
     individualname: Michael Wandl
     country: Austria
     email: eBod2@bfw.gv.at

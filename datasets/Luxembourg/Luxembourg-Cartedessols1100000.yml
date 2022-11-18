@@ -50,7 +50,9 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: ''
+    organization: "Minist\xE8re de l'Agriculture, de la Viticulture et de la Protection\
+      \ des consommateurs. Service de p\xE9dologie - Administration des services techniques\
+      \ de l\u2019agriculture"
     individualname: Simone Marx
     country: Luxembourg
     email: pedologie@asta.etat.lu

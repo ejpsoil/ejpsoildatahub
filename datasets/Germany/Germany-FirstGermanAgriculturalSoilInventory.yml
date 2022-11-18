@@ -56,7 +56,7 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: ''
+    organization: "Th\xFCnen Institut f\xFCr Agrarklimaschutz"
     individualname: Christopher Poeplau
     country: Germany
     email: ak@thuenen.de

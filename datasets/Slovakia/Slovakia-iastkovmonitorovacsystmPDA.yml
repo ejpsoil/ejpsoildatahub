@@ -50,7 +50,7 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: ''
+    organization: "N\xE1rodn\xE9 po\u013Enohospod\xE1rske a potravin\xE1rske centrum"
     individualname: "Rastislav Skalsk\xFD"
     country: Slovakia
     email: rastislav.skalsky@nppc.sk

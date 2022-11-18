@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Bulgaria-7996eb74-6739-11ed-b7f9-00155d0afd84
+  identifier: Bulgaria-AcidificationofsoilsinBulgaria
   language: bul
   language_alternate: eng
   charset: utf8
@@ -13,11 +13,8 @@ spatial:
 identification:
   language: bul
   charset: utf8
-  title: "\u041A\u0430\u0440\u0442\u0430 \u043D\u0430 \u043F\u043E\u0442\u0435\u043D\
-    \u0446\u0438\u0430\u043B\u043D\u0438\u044F \u0440\u0438\u0441\u043A \u043E\u0442\
-    \ \u0432\u043E\u0434\u043D\u0430 \u0435\u0440\u043E\u0437\u0438\u044F \u0437\u0430\
-    \ \u0411\u044A\u043B\u0433\u0430\u0440\u0438\u044F"
-  abstract: 'Map of the potential risk to water erosion for Bulgaria
+  title: Acidification of soils in Bulgaria
+  abstract: 'Soil Acidification in Bulgaria
 
     '
   dates:
@@ -35,7 +32,7 @@ identification:
     soil:
       keywords:
       - the following soil degradation processes
-      - soil erosion
+      - acidification
       vocabulary:
         name: Agrovoc
         url: http://aims.fao.org/aos/agrovoc
@@ -43,7 +40,7 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 1960; 2000
+    - begin: 2002; 2009-0101
   accessconstraints: no limitation
   rights: no conditions apply
   url: ''
@@ -51,14 +48,15 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: ''
+    organization: Institute of soil science agrotechnology and plant protection `Nikola
+      Poushkarov`
     individualname: Milena Kercheva
     country: Bulgaria
     email: mkercheva@abv.bg
     contactinstructions: email
 distribution:
   jpg:
-    url: http://eea.government.bg/bg/soer/2009/3quality/5soils_html_3aaf8692.jpg
+    url: http://eea.government.bg/bg/soer/2009/3quality/5soils_html_1d0dcc02.png
     type: image/jpg
     name: JPG
 dataquality:

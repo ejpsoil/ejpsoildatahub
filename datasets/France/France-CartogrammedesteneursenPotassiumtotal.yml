@@ -49,7 +49,7 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: ''
+    organization: INRA InfoSol
     individualname: Marion Bardy
     country: France
     email: infosol@inra.fr

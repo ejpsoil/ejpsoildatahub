@@ -1,41 +1,38 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Greece-7a716628-6739-11ed-b7f9-00155d0afd84
-  language: gre
+  identifier: Bulgaria-ExtentofsoilsalinisationinBulgaria20072009
+  language: bul
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2022-11-18
 spatial:
-  scale: 1:500000
+  scale: 1:400000
   resolution: null
 identification:
-  language: gre
+  language: bul
   charset: utf8
-  title: "\u0395\u03B4\u03B1\u03C6\u03BF\u03BB\u03BF\u03B3\u03B9\u03BA\u03CC\u03C2\
-    \ \u03A7\u03AC\u03C1\u03C4\u03B7\u03C2 \u03C4\u03B7\u03C2 \u0395\u03BB\u03BB\u03AC\
-    \u03B4\u03B1\u03C2"
-  abstract: 'Soil Map of Greece
+  title: "Extent of soil salinisation in Bulgaria 2007 \u2013 2009"
+  abstract: 'Extent of soil salinisation in Bulgaria
 
     '
   dates:
-    pubblication: 2015
+    pubblication: 2009
   keywords:
     default:
       keywords:
       - Soil
     country:
       keywords:
-      - Greece
+      - Bulgaria
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
     soil:
       keywords:
-      - soil type
-      - basic soil properties
-      - Soil Map
+      - the following soil degradation processes
+      - salinization
       vocabulary:
         name: Agrovoc
         url: http://aims.fao.org/aos/agrovoc
@@ -43,22 +40,23 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: ''
+    - begin: 2007;2009
   accessconstraints: no limitation
   rights: no conditions apply
-  url: https://iris.gov.gr/SoilServices/dynamicquery.html
+  url: ''
   status: onGoing
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: ''
-    individualname: Pavlatou-Ve Athina
-    country: Greece
-    email: ave@agro.auth.gr
+    organization: Institute of soil science agrotechnology and plant protection `Nikola
+      Poushkarov`
+    individualname: Metodi Teoharov
+    country: Bulgaria
+    email: mteoharov@abv.bg
     contactinstructions: email
 distribution:
   jpg:
-    url: http://appliedsoilab.web.auth.gr/images/Soil_Map_of_Greece.JPG
+    url: http://eea.government.bg/bg/soer/2009/3quality/5soils_html_m59f640e.jpg
     type: image/jpg
     name: JPG
 dataquality:

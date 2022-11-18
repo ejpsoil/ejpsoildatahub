@@ -53,7 +53,7 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: ''
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
     individualname: Andreas Richter
     country: Germany
     email: fis.bo@bgr.de

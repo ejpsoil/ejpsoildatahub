@@ -49,7 +49,7 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: ''
+    organization: "Th\xFCnen-Institut f\xFCr Wald\xF6kosysteme"
     individualname: ''
     country: Germany
     email: geoadmin@thuenen.de

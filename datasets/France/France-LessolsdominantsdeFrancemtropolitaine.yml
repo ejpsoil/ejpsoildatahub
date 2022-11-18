@@ -51,7 +51,7 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: ''
+    organization: INRA InfoSol
     individualname: Le Bas, Christine
     country: France
     email: infosol@inra.fr

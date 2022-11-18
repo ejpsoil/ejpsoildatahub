@@ -51,7 +51,7 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: ''
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
     individualname: SteggerUlrich
     country: Germany
     email: geodatenmanagement@bgr.de

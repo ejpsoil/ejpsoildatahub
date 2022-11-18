@@ -51,7 +51,8 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: ''
+    organization: "De Nationale Geologiske Unders\xF8gelser for Danmark og Gr\xF8\
+      nland (GEUS)"
     individualname: Vibeke Ernstsen
     country: Denmark
     email: ve@geus.dk ve@geus.dk

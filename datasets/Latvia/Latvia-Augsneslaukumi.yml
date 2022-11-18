@@ -49,7 +49,7 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: ''
+    organization: "Zemkop\u012Bbas ministrija"
     individualname: ''
     country: Latvia
     email: support@vraa.gov.lv

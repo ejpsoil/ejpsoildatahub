@@ -49,7 +49,7 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: ''
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
     individualname: Palo di Florian
     country: Germany
     email: Florian.Stange@bgr.de
