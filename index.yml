@@ -1,0 +1,13 @@
+mcf:
+  version: 1.0
+
+identification:
+  title: Soil data in Europe
+  abstract: A collection of Soil datasets in Europe, initally collected by JRC, and extended by the EJP Soil project
+
+robot: 
+  mdUrlPattern: https://dev-ejpsoil-catalog.containers.wurnet.nl/collections/metadata:main/items/{0}
+  msUrl: https://dev-ejpsoil-mapserver.containers.wurnet.nl/
+  webdavUrl: https://dev-ejpsoil-webdav.containers.wurnet.nl/
+  
+    
