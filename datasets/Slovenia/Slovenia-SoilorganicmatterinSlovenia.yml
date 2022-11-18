@@ -18,38 +18,31 @@ identification:
     and correlated). Unofficial data in digital form
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 2004
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Slovenia
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - organic carbon
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: 1989-2001
   accessconstraints: ''
   rights: registation needed
   url: http://alpinesoils.eu/webgis_app/index.html

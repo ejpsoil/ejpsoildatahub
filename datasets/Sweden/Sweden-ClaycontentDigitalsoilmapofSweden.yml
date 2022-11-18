@@ -17,38 +17,31 @@ identification:
   abstract: 'Predicted clay content in the topsoil. FAO/USDA soil texture classes
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 2017
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Sweden
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - texture
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: 1983-1987; 1993-2002
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://arcg.is/HjLuj

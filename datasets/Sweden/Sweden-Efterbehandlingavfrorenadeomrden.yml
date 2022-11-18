@@ -17,37 +17,30 @@ identification:
   abstract: 'Localization of remediation of contaminated sites
 
     '
-  edition: 1.8.0
   dates:
     last revision: 20-5-2019
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Sweden
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - the following soil degradation processes
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - soil contamination
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: ''
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://apps.sgu.se/kartvisare/kartvisare-fororenade-omraden.html

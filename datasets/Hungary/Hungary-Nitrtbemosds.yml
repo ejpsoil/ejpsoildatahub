@@ -17,37 +17,30 @@ identification:
   abstract: 'Nitrate leaching:
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 2012
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Hungary
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - the following soil degradation processes
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - Soil Map
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: ''
   accessconstraints: no limitation
   rights: no conditions apply
   url: ''

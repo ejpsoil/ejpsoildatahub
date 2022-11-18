@@ -17,38 +17,31 @@ identification:
   abstract: 'Topsoil Organic Carbon Content%
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 2013
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Luxembourg
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - organic carbon
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: 1998-2001; 2009-2014
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://map.geoportail.lu/theme/agriculture?layers=704-1637&zoom=8&lang=fr&version=3&X=669751&Y=6416190&opacities=1-1&bgLayer=orthogr_2013_global

@@ -19,38 +19,31 @@ identification:
     Resources.
 
     '
-  edition: 1.8.0
   dates:
     creation: 6-5-2015
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Malta
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - Soil Map
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: 2004-03-01;2015-05-06
   accessconstraints: ''
   rights: filled online order form
   url: https://msdi.data.gov.mt/geoportal.html

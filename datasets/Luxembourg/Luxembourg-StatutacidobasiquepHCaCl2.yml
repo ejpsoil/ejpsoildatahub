@@ -17,38 +17,31 @@ identification:
   abstract: 'Interpolation (Kriging) of the Acid-base status of soils (pHCaCl2)
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 2015
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Luxembourg
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - pH
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: 2009; 2014
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://map.geoportail.lu/theme/main?zoom=8&X=669751&Y=6416190&layers=703&pk_campaign=geoseo_data&lang=fr&version=3&opacities=1&bgLayer=basemap_2015_global&crosshair=false

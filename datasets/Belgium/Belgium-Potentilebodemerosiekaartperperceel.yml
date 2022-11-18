@@ -19,37 +19,30 @@ identification:
     or R.U.S.L.E
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 14-12-2017
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Belgium
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - the following soil degradation processes
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - soil erosion
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: 2012-2018
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://www.dov.vlaanderen.be/geoserver/wms/kml?layers=erosie:so_potbdmerosiepp_2018

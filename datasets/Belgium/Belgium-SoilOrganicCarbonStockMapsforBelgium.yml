@@ -17,38 +17,31 @@ identification:
   abstract: 'Soil Organic Carbon Stock Maps for Belgium: mean (1 km grid)
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 15-1-2018
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Belgium
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - carbon stock
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: 1949-2019
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://www.dov.vlaanderen.be/portaal/?module=public-bodemverkenner

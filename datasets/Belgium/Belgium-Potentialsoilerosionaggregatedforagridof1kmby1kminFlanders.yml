@@ -17,37 +17,30 @@ identification:
   abstract: 'The potential soil erosion aggregated for a grid of 1 km  (ton/ha)
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 1-1-2011
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Belgium
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - the following soil degradation processes
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - soil erosion
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: ''
   accessconstraints: no limitation
   rights: no conditions apply
   url: ''

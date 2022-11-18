@@ -19,37 +19,30 @@ identification:
     first sampling campaign.
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 28-5-2015
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - France
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - the following soil degradation processes
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - calcium carbonate
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: ''
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://agroenvgeo.data.inra.fr/sviewer/?x=358337&y=5901707&z=6&title=Cartogramme%20des%20teneurs%20en%20Calcaire%20total&layers=gissol_rmqs:teneur_calc_tot_rmqs

@@ -19,38 +19,31 @@ identification:
     in the subsurface
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 15-3-2019
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Denmark
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - soil moisture
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: ''
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://data.geus.dk/geusmap/?mapname=denmark&lang=en#baslay=baseMapDa&optlay=&extent=3775.2127724433085,5979755.859244018,1111224.7872275566,6470244.140755982&layers=redox_dybde_100m_grid

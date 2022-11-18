@@ -17,38 +17,31 @@ identification:
   abstract: 'Location of soil profiles mapping Belgian soil map
 
     '
-  edition: 1.8.0
   dates:
     last revision: 31-5-2011
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Belgium
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - Soil Map
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: 1947;1971;2010
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://www.dov.vlaanderen.be/portaal/?module=verkenner&pos=69799.9%2C185019.9&res=14.00000000004411&layers=n:omwrgbmrvl%3Bo:ref%2Cn:to:to_topnzw_2009_raster_10k_tr%3Bo:ref%3Bt:wms%3Bv:n%2Cn:grb_sel%3Bo:ref%2Cn:dov-pub-aardewerk:vw

@@ -17,38 +17,31 @@ identification:
   abstract: 'Peatland (filtered from 1:250,000 soils data for SRDP)
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 19-4-2018
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - UK
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - Soil Map
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: 1978-1988
   accessconstraints: no limitation
   rights: no conditions apply
   url: ''

@@ -18,38 +18,31 @@ identification:
     material, soil type,  coarse fraction or humus and carbonate content
 
     '
-  edition: 1.8.0
   dates:
     last revision: 28-6-2019
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Austria
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - Soil Map
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: 1917-2018
   accessconstraints: ''
   rights: no conditions apply
   url: https://bodenkarte.at/

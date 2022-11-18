@@ -15,38 +15,31 @@ identification:
   charset: utf8
   title: Mapy KPP
   abstract: "Soil maps from National Soil Survey \n"
-  edition: 1.8.0
   dates:
     creation: 1961
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Czech Republic
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - Soil Map
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: '1961'
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://mapy.vumop.cz/

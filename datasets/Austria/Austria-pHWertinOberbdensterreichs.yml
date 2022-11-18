@@ -17,38 +17,31 @@ identification:
   abstract: 'Topsoil pH value (CaCl2) (0-10/20 cm) of Austria
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 2004
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Austria
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - pH
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: ''
   accessconstraints: ''
   rights: filled online order form
   url: https://boris.umweltbundesamt.at/borisdaten/alias.xhtml?alias=Login

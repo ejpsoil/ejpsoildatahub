@@ -17,38 +17,31 @@ identification:
   abstract: 'Organic Matter Content of Top-Soils in Germany 1:1,000,000
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 2007
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Germany
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - organic carbon
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: 2006;2007
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://geoviewer.bgr.de/mapapps4/resources/apps/geoviewer/index.html?lang=en&serviceURL=https://services.bgr.de/rest/services/boden/humus1000ob/MapServer/&layers=-boden_boart1000ob_ags

@@ -17,38 +17,31 @@ identification:
   abstract: 'Map of soil acidity  (pH KCL 0 - 140 cm)
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 30-11-2011
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Germany
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - pH
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: 1996-2012
   accessconstraints: no limitation
   rights: no conditions apply
   url: http://gdi.thuenen.de/wo/bze/bze1/

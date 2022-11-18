@@ -15,37 +15,30 @@ identification:
   charset: utf8
   title: "Vodn\xE1 er\xF3zia p\xF4dy v p\xF4dno-klimatick\xFDch podmienkach slovenska"
   abstract: "Water soil erosion in soil-climate conditions of Slovakia \n"
-  edition: 1.8.0
   dates:
     pubblication: 2013
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Slovakia
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - the following soil degradation processes
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - soil erosion
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: 2007-2013
   accessconstraints: no limitation
   rights: no conditions apply
   url: http://www.podnemapy.sk/erozia/viewer.htm?activelayer=0

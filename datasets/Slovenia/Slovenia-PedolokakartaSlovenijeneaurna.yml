@@ -17,38 +17,31 @@ identification:
   abstract: 'Digital Soil map of Slovenia in 1:25.000
 
     '
-  edition: 1.8.0
   dates:
     pubblication: 23-12-1999
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Slovenia
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - Soil Map
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: 1980-1999
   accessconstraints: ''
   rights: registation needed
   url: http://alpinesoils.eu/webgis_app/index.html

@@ -15,38 +15,31 @@ identification:
   charset: utf8
   title: 'Available Water Capacity, Scotland '
   abstract: "Available Water Capacity (AWC) (2012 version) \n"
-  edition: 1.8.0
   dates:
     pubblication: 27-3-2019
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - UK
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - avaliable water capacity
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: '2012'
   accessconstraints: no limitation
   rights: no conditions apply
   url: ''

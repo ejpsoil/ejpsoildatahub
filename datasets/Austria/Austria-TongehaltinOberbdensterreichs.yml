@@ -15,38 +15,31 @@ identification:
   charset: utf8
   title: "Tongehalt in Oberb\xF6den \xD6sterreichs"
   abstract: "Topsoil clay content in Austria(0-10/20 cm) \n"
-  edition: 1.8.0
   dates:
     pubblication: 1-1-2004
   keywords:
     default:
       keywords:
-      - null
+      - Soil
     country:
-      keywords: []
+      keywords:
+      - Austria
       vocabulary:
-        name: Countries
-        url: null
-    soilproperty:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    soil:
       keywords:
       - soil type
       - basic soil properties
-      vocabulary:
-        name: Countries
-        url: null
-    soiltheme:
-      keywords:
       - texture
       vocabulary:
-        name: Countries
-        url: null
+        name: Agrovoc
+        url: http://aims.fao.org/aos/agrovoc
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: null
-      end: null
-  fees: None
+    - begin: ''
   accessconstraints: ''
   rights: filled online order form
   url: ''

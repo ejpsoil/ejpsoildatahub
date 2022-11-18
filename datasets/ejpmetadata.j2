@@ -19,35 +19,27 @@ identification:
     title: "{{ md['resource title'] }}"
     abstract: >
         {{ md['resource abstract'] }}
-    edition: 1.8.0
     dates:
         {{ md['temporal reference'] or 'publication' }}: {{ md['date of temporal reference'] or '2022' }}
     keywords:
         default:
             keywords:
-                - 
+                - Soil
         country:
-            keywords: [{{ md['country'] }}]
+            keywords: [{{ md['Country'] }}]
             vocabulary:
-                    name: Countries
-                    url: 
-        soilproperty:
-            keywords: [{{ md['data type'] }}]
+                    name: Country
+                    url: http://publications.europa.eu/resource/authority/country
+        soil:
+            keywords: [{{ md['data type'] }}, {{ md['theme'] }}]
             vocabulary:
-                name: Countries
-                url:
-        soiltheme:
-            keywords: [{{ md['theme'] }}]
-            vocabulary:
-                name: Countries
-                url:
+                name: Agrovoc
+                url: http://aims.fao.org/aos/agrovoc
     topiccategory:
         - geoscientificInformation
     extents:
         temporal:
-            - begin: 
-              end: 
-    fees: None
+            - begin: "{{ md['individual date'] or md['interval of dates'] }}"
     accessconstraints: "{{ md['limitations on public access'] }}"
     rights: "{{ md['conditions applying to access and use'] }}"
     url: "{{ md['link_to_viewer'] }}"
