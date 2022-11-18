@@ -1,25 +1,27 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Hungary-Atalajnedvessgllapota
-  language: hun
-  language_alternate: null
+  identifier: Greece-5517446c-6737-11ed-bd34-00155d0afd84
+  language: gre
+  language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2022-11-18
 spatial:
-  scale: 1:5M
+  scale: 1:500000
   resolution: null
 identification:
-  language: hun
+  language: gre
   charset: utf8
-  title: "A talaj nedvess\xE9g\xE1llapota"
-  abstract: 'Soil moisture in depths 0-15 cm, and 15-30 cm  at spring 2011
+  title: "\u0395\u03B4\u03B1\u03C6\u03BF\u03BB\u03BF\u03B3\u03B9\u03BA\u03CC\u03C2\
+    \ \u03A7\u03AC\u03C1\u03C4\u03B7\u03C2 \u03C4\u03B7\u03C2 \u0395\u03BB\u03BB\u03AC\
+    \u03B4\u03B1\u03C2"
+  abstract: 'Soil Map of Greece
 
     '
   edition: 1.8.0
   dates:
-    pubblication: 2012
+    pubblication: 2015
   keywords:
     default:
       keywords:
@@ -38,7 +40,7 @@ identification:
         url: null
     soiltheme:
       keywords:
-      - soil moisture
+      - Soil Map
       vocabulary:
         name: Countries
         url: null
@@ -51,21 +53,21 @@ identification:
   fees: None
   accessconstraints: no limitation
   rights: no conditions apply
-  url: ''
+  url: https://iris.gov.gr/SoilServices/dynamicquery.html
   status: onGoing
   maintenancefrequency: continual
 contact:
   pointOfContact:
     organization: ''
-    individualname: "L\xE1szl\xF3 P\xE1sztor"
-    country: Hungary
-    email: pasztor@rissac.hu
+    individualname: Pavlatou-Ve Athina
+    country: Greece
+    email: ave@agro.auth.gr
     contactinstructions: email
 distribution:
-  html:
-    url: http://okir-tdr.helion.hu/?talajallapot=2
-    type: text/html
-    name: HTML
+  jpg:
+    url: http://appliedsoilab.web.auth.gr/images/Soil_Map_of_Greece.JPG
+    type: image/jpg
+    name: JPG
 dataquality:
   scope:
     level: dataset

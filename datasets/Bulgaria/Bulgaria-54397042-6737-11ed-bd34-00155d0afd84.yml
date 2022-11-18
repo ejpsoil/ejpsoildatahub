@@ -1,25 +1,28 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Hungary-Atalajnedvessgllapota
-  language: hun
-  language_alternate: null
+  identifier: Bulgaria-54397042-6737-11ed-bd34-00155d0afd84
+  language: bul
+  language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2022-11-18
 spatial:
-  scale: 1:5M
+  scale: 1:400000
   resolution: null
 identification:
-  language: hun
+  language: bul
   charset: utf8
-  title: "A talaj nedvess\xE9g\xE1llapota"
-  abstract: 'Soil moisture in depths 0-15 cm, and 15-30 cm  at spring 2011
+  title: "\u041A\u0430\u0440\u0442\u0430 \u043D\u0430 \u043F\u043E\u0442\u0435\u043D\
+    \u0446\u0438\u0430\u043B\u043D\u0438\u044F \u0440\u0438\u0441\u043A \u043E\u0442\
+    \ \u0432\u043E\u0434\u043D\u0430 \u0435\u0440\u043E\u0437\u0438\u044F \u0437\u0430\
+    \ \u0411\u044A\u043B\u0433\u0430\u0440\u0438\u044F"
+  abstract: 'Map of the potential risk to water erosion for Bulgaria
 
     '
   edition: 1.8.0
   dates:
-    pubblication: 2012
+    pubblication: 2009
   keywords:
     default:
       keywords:
@@ -31,14 +34,13 @@ identification:
         url: null
     soilproperty:
       keywords:
-      - soil type
-      - basic soil properties
+      - the following soil degradation processes
       vocabulary:
         name: Countries
         url: null
     soiltheme:
       keywords:
-      - soil moisture
+      - soil erosion
       vocabulary:
         name: Countries
         url: null
@@ -57,15 +59,15 @@ identification:
 contact:
   pointOfContact:
     organization: ''
-    individualname: "L\xE1szl\xF3 P\xE1sztor"
-    country: Hungary
-    email: pasztor@rissac.hu
+    individualname: Milena Kercheva
+    country: Bulgaria
+    email: mkercheva@abv.bg
     contactinstructions: email
 distribution:
-  html:
-    url: http://okir-tdr.helion.hu/?talajallapot=2
-    type: text/html
-    name: HTML
+  jpg:
+    url: http://eea.government.bg/bg/soer/2009/3quality/5soils_html_3aaf8692.jpg
+    type: image/jpg
+    name: JPG
 dataquality:
   scope:
     level: dataset
