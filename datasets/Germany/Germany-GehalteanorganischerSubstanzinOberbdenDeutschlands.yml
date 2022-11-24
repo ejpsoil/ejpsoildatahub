@@ -47,6 +47,13 @@ identification:
   extents:
     temporal:
     - begin: 2006;2007
+    spatial:
+    - bbox:
+      - 5.472023
+      - 47.17469
+      - 15.494728
+      - 55.061726
+      crs: '4326'
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://geoviewer.bgr.de/mapapps4/resources/apps/geoviewer/index.html?lang=en&amp;serviceURL=https://services.bgr.de/rest/services/boden/humus1000ob/MapServer/&amp;layers=-boden_boart1000ob_ags

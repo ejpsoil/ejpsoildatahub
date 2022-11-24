@@ -48,6 +48,13 @@ identification:
   extents:
     temporal:
     - begin: ''
+    spatial:
+    - bbox:
+      - 5.432722
+      - 46.98339
+      - 15.655428
+      - 55.067148
+      crs: '4326'
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://geoviewer.bgr.de/mapapps4/resources/apps/geoviewer/index.html?lang=en&amp;serviceURL=https://services.bgr.de/wms/boden/gws1000/?&amp;layers=-boden_nfkwe1000_ags

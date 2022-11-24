@@ -47,6 +47,13 @@ identification:
   extents:
     temporal:
     - begin: 1996-2012
+    spatial:
+    - bbox:
+      - 5.7175836310449295
+      - 47.22920069905724
+      - 15.299643938456018
+      - 54.622973104608405
+      crs: '4326'
   accessconstraints: no limitation
   rights: no conditions apply
   url: http://gdi.thuenen.de/wo/bze/bze1/

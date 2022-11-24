@@ -48,6 +48,13 @@ identification:
   extents:
     temporal:
     - begin: ''
+    spatial:
+    - bbox:
+      - 5.463222
+      - 47.173077
+      - 15.484886
+      - 55.07415
+      crs: '4326'
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://geoviewer.bgr.de/mapapps4/resources/apps/geoviewer/index.html?lang=en&amp;serviceURL=https://services.bgr.de/wms/boden/buek5000/?&amp;layers=-boden_buek1000_container

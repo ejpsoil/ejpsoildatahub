@@ -46,6 +46,13 @@ identification:
   extents:
     temporal:
     - begin: ''
+    spatial:
+    - bbox:
+      - 2.5174247215832684
+      - 50.66919500010318
+      - 5.942676652264954
+      - 51.50683621451535
+      crs: '4326'
   accessconstraints: no limitation
   rights: no conditions apply
   url: ''
