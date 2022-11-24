@@ -12,6 +12,7 @@ metadata:
     #- pip install sqlalchemy
     #- pycsw-admin.py setup-db -c ./pycsw.cfg
     # covert yml to iso (only changed?)
+    - export pgdc_webdav_url=https://dev-ejpsoil-catalog.containers.wurnet.nl/collections/metadata:main/items
     - export pgdc_schema_path=/pyGeoDataCrawler/geodatacrawler/schemas
     - cd /pyGeoDataCrawler
     - poetry run crawl-metadata --dir=$CI_PROJECT_DIR/datasets --mode=export --dir-out=/tmp

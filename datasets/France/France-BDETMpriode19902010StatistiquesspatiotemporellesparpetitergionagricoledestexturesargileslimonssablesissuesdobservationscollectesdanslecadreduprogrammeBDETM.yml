@@ -6,7 +6,7 @@ metadata:
   language_alternate: null
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2022-11-18
+  datestamp: 2022-11-24
 spatial:
   scale: 1:250000
   resolution: null
@@ -26,21 +26,26 @@ identification:
   keywords:
     default:
       keywords:
-      - Soil
+      - MensMenu
     country:
       keywords:
       - France
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    soil:
+    theme:
       keywords:
       - soil type
       - basic soil properties
+      vocabulary:
+        name: Agrovoc - Soil sciences
+        url: http://aims.fao.org/aos/agrovoc/c_7188
+    prop:
+      keywords:
       - texture
       vocabulary:
-        name: Agrovoc
-        url: http://aims.fao.org/aos/agrovoc
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:
@@ -60,11 +65,11 @@ contact:
     contactinstructions: email
 distribution:
   wfs:
-    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_geosol/wfs?service=WFS&version=2.0.0&request=GetFeature&typeName=gissol_geosol:bdetm_pra_9010&outputFormat=shape-zip
+    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_geosol/wfs?service=WFS&amp;version=2.0.0&amp;request=GetFeature&amp;typeName=gissol_geosol:bdetm_pra_9010&amp;outputFormat=shape-zip
     type: ogc:wfs
     name: WFS
   SHP:
-    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_geosol/wfs?typeName=gissol_geosol:bdetm_pra_9010&outputFormat=shape-zip&request=GetFeature&service=WFS&version=2.0.0
+    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_geosol/wfs?typeName=gissol_geosol:bdetm_pra_9010&amp;outputFormat=shape-zip&amp;request=GetFeature&amp;service=WFS&amp;version=2.0.0
     type: SHP
     name: SHP
 dataquality:

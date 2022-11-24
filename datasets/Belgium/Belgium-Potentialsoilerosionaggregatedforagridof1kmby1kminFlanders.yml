@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2022-11-18
+  datestamp: 2022-11-24
 spatial:
   scale: null
   resolution: 1KM
@@ -22,20 +22,25 @@ identification:
   keywords:
     default:
       keywords:
-      - Soil
+      - MensMenu
     country:
       keywords:
       - Belgium
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    soil:
+    theme:
       keywords:
-      - the following soil degradation processes
+      - soil degradation processes
+      vocabulary:
+        name: Agrovoc - Soil sciences
+        url: http://aims.fao.org/aos/agrovoc/c_7188
+    prop:
+      keywords:
       - soil erosion
       vocabulary:
-        name: Agrovoc
-        url: http://aims.fao.org/aos/agrovoc
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:
@@ -55,11 +60,19 @@ contact:
     contactinstructions: email
 distribution:
   wms:
-    url: https://www.dov.vlaanderen.be/geoserver/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    url: https://www.dov.vlaanderen.be/geoserver/wms?SERVICE=WMS&amp;version=1.3.0&amp;request=GetMap
     type: ogc:wms
-    name: WMS
+    name: erosie:potential_soil_erosion
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: null
+extents:
+  spatial:
+  - bbox:
+    - 2.5174247215832684
+    - 50.66919500010318
+    - 5.942676652264954
+    - 51.50683621451535
+    crs: '4326'

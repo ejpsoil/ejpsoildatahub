@@ -6,7 +6,7 @@ metadata:
   language_alternate: null
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2022-11-18
+  datestamp: 2022-11-24
 spatial:
   scale: 1:250000
   resolution: null
@@ -20,21 +20,26 @@ identification:
   keywords:
     default:
       keywords:
-      - Soil
+      - MensMenu
     country:
       keywords:
       - UK
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    soil:
+    theme:
       keywords:
       - soil type
       - basic soil properties
+      vocabulary:
+        name: Agrovoc - Soil sciences
+        url: http://aims.fao.org/aos/agrovoc/c_7188
+    prop:
+      keywords:
       - Soil Map
       vocabulary:
-        name: Agrovoc
-        url: http://aims.fao.org/aos/agrovoc
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:
@@ -56,9 +61,17 @@ distribution:
   wms:
     url: http://www.landis.org.uk/arcgis/services/UKSoilObservatory/WorldReferenceBase_AFBI/MapServer/WmsServer?
     type: ogc:wms
-    name: WMS
+    name: '0'
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: null
+extents:
+  spatial:
+  - bbox:
+    - -8.174117
+    - 54.023107
+    - -5.432149
+    - 55.310628
+    crs: '4326'

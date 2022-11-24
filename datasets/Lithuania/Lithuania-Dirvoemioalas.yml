@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2022-11-18
+  datestamp: 2022-11-24
 spatial:
   scale: 1:50000
   resolution: null
@@ -22,21 +22,26 @@ identification:
   keywords:
     default:
       keywords:
-      - Soil
+      - MensMenu
     country:
       keywords:
       - Lithuania
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    soil:
+    theme:
       keywords:
       - soil type
       - basic soil properties
+      vocabulary:
+        name: Agrovoc - Soil sciences
+        url: http://aims.fao.org/aos/agrovoc/c_7188
+    prop:
+      keywords:
       - Soil Map
       vocabulary:
-        name: Agrovoc
-        url: http://aims.fao.org/aos/agrovoc
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:
@@ -57,7 +62,7 @@ contact:
     contactinstructions: email
 distribution:
   wms:
-    url: http://192.168.166.27:8080/geoserver/Atlasas_Tema-3/wms?service=WMS&version=1.1.0&request=GetMap&layers=Atlasas_Tema-3:28_3
+    url: http://192.168.166.27:8080/geoserver/Atlasas_Tema-3/wms?service=WMS&amp;version=1.1.0&amp;request=GetMap&amp;layers=Atlasas_Tema-3:28_3
     type: ogc:wms
     name: WMS
 dataquality:

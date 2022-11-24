@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2022-11-18
+  datestamp: 2022-11-24
 spatial:
   scale: 1:1 M
   resolution: null
@@ -22,21 +22,26 @@ identification:
   keywords:
     default:
       keywords:
-      - Soil
+      - MensMenu
     country:
       keywords:
       - Sweden
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    soil:
+    theme:
       keywords:
       - soil type
       - basic soil properties
+      vocabulary:
+        name: Agrovoc - Soil sciences
+        url: http://aims.fao.org/aos/agrovoc/c_7188
+    prop:
+      keywords:
       - Soil Map
       vocabulary:
-        name: Agrovoc
-        url: http://aims.fao.org/aos/agrovoc
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:

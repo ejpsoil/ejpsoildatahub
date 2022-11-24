@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2022-11-18
+  datestamp: 2022-11-24
 spatial:
   scale: null
   resolution: 8Km
@@ -22,21 +22,26 @@ identification:
   keywords:
     default:
       keywords:
-      - Soil
+      - MensMenu
     country:
       keywords:
       - Germany
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    soil:
+    theme:
       keywords:
       - soil type
       - basic soil properties
+      vocabulary:
+        name: Agrovoc - Soil sciences
+        url: http://aims.fao.org/aos/agrovoc/c_7188
+    prop:
+      keywords:
       - pH
       vocabulary:
-        name: Agrovoc
-        url: http://aims.fao.org/aos/agrovoc
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:
@@ -56,11 +61,11 @@ contact:
     contactinstructions: email
 distribution:
   wms:
-    url: https://gdi.thuenen.de/geoserver/bze1_wald/wms?service=WMS&version=1.3.0&request=GetCapabilities
+    url: https://gdi.thuenen.de/geoserver/bze1_wald/wms?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities
     type: ogc:wms
-    name: WMS
+    name: v_jrc_4km_bodenaciditaet
   SHP:
-    url: https://gdi.thuenen.de/geoserver/bze1_wald/ows?typeName=bze1_wald:bze1_jrc4km&service=WFS&version=1.0.0&request=GetFeature&outputFormat=SHAPE-ZIP&viewparams=thema:phkcl_t1
+    url: https://gdi.thuenen.de/geoserver/bze1_wald/ows?typeName=bze1_wald:bze1_jrc4km&amp;service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;outputFormat=SHAPE-ZIP&amp;viewparams=thema:phkcl_t1
     type: SHP
     name: SHP
 dataquality:
@@ -68,3 +73,11 @@ dataquality:
     level: dataset
   lineage:
     statement: null
+extents:
+  spatial:
+  - bbox:
+    - 5.7175836310449295
+    - 47.22920069905724
+    - 15.299643938456018
+    - 54.622973104608405
+    crs: '4326'

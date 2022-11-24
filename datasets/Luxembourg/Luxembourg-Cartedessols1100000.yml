@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2022-11-18
+  datestamp: 2022-11-24
 spatial:
   scale: 1:100000
   resolution: null
@@ -23,21 +23,26 @@ identification:
   keywords:
     default:
       keywords:
-      - Soil
+      - MensMenu
     country:
       keywords:
       - Luxembourg
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    soil:
+    theme:
       keywords:
       - soil type
       - basic soil properties
+      vocabulary:
+        name: Agrovoc - Soil sciences
+        url: http://aims.fao.org/aos/agrovoc/c_7188
+    prop:
+      keywords:
       - Soil Map
       vocabulary:
-        name: Agrovoc
-        url: http://aims.fao.org/aos/agrovoc
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:
@@ -45,7 +50,7 @@ identification:
     - begin: ''
   accessconstraints: no limitation
   rights: no conditions apply
-  url: https://map.geoportail.lu/theme/agriculture?layers=272-1637&zoom=8&lang=fr&version=3&X=669751&Y=6416190&opacities=1-1&bgLayer=orthogr_2013_global
+  url: https://map.geoportail.lu/theme/agriculture?layers=272-1637&amp;zoom=8&amp;lang=fr&amp;version=3&amp;X=669751&amp;Y=6416190&amp;opacities=1-1&amp;bgLayer=orthogr_2013_global
   status: onGoing
   maintenancefrequency: continual
 contact:
@@ -61,7 +66,7 @@ distribution:
   wms:
     url: http://ws.geoportail.lu/250k
     type: ogc:wms
-    name: WMS
+    name: '0'
   WMS:
     url: https://data.public.lu/fr/datasets/r/79ae39b4-9a86-4693-88d9-fdfc51a2f139
     type: WMS
@@ -71,3 +76,11 @@ dataquality:
     level: dataset
   lineage:
     statement: null
+extents:
+  spatial:
+  - bbox:
+    - 5.586528
+    - 49.321018
+    - 6.62763
+    - 50.266328
+    crs: '4326'

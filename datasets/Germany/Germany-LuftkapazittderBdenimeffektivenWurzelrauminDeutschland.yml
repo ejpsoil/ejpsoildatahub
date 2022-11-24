@@ -6,7 +6,7 @@ metadata:
   language_alternate: null
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2022-11-18
+  datestamp: 2022-11-24
 spatial:
   scale: 1:1 M
   resolution: null
@@ -23,21 +23,26 @@ identification:
   keywords:
     default:
       keywords:
-      - Soil
+      - MensMenu
     country:
       keywords:
       - Germany
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    soil:
+    theme:
       keywords:
       - soil type
       - basic soil properties
+      vocabulary:
+        name: Agrovoc - Soil sciences
+        url: http://aims.fao.org/aos/agrovoc/c_7188
+    prop:
+      keywords:
       - avaliable water capacity
       vocabulary:
-        name: Agrovoc
-        url: http://aims.fao.org/aos/agrovoc
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:
@@ -45,7 +50,7 @@ identification:
     - begin: ''
   accessconstraints: no limitation
   rights: no conditions apply
-  url: https://geoviewer.bgr.de/mapapps/resources/apps/geoviewer/index.html?lang=de&serviceURL=https://services.bgr.de/wms/boden/lkwe1000/%3F
+  url: https://geoviewer.bgr.de/mapapps/resources/apps/geoviewer/index.html?lang=de&amp;serviceURL=https://services.bgr.de/wms/boden/lkwe1000/%3F
   status: onGoing
   maintenancefrequency: continual
 contact:
@@ -59,7 +64,7 @@ distribution:
   wms:
     url: https://services.bgr.de/wms/boden/lkwe1000/?
     type: ogc:wms
-    name: WMS
+    name: '0'
   GEOTiff:
     url: https://download.bgr.de/bgr/boden/LKWE1000/geotiff/LKWe1000_250.zip
     type: GEOTIFF
@@ -69,3 +74,11 @@ dataquality:
     level: dataset
   lineage:
     statement: null
+extents:
+  spatial:
+  - bbox:
+    - 5.432722
+    - 46.981071
+    - 15.655428
+    - 55.067148
+    crs: '4326'

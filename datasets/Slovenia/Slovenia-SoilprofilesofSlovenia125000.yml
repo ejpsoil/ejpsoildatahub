@@ -6,7 +6,7 @@ metadata:
   language_alternate: null
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2022-11-18
+  datestamp: 2022-11-24
 spatial:
   scale: 1:25000
   resolution: null
@@ -21,21 +21,26 @@ identification:
   keywords:
     default:
       keywords:
-      - Soil
+      - MensMenu
     country:
       keywords:
       - Slovenia
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    soil:
+    theme:
       keywords:
       - soil type
       - basic soil properties
+      vocabulary:
+        name: Agrovoc - Soil sciences
+        url: http://aims.fao.org/aos/agrovoc/c_7188
+    prop:
+      keywords:
       - Soil Map
       vocabulary:
-        name: Agrovoc
-        url: http://aims.fao.org/aos/agrovoc
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:
@@ -43,7 +48,7 @@ identification:
     - begin: 1960-1999
   accessconstraints: ''
   rights: registation needed
-  url: http://rkg.gov.si/GERK/WebViewer/#map_x=461984&map_y=200000&map_sc=914285
+  url: http://rkg.gov.si/GERK/WebViewer/#map_x=461984&amp;map_y=200000&amp;map_sc=914285
   status: onGoing
   maintenancefrequency: continual
 contact:
@@ -53,7 +58,7 @@ contact:
     country: Slovenia
     email: rkg.mko@gov.si
     contactinstructions: email
-distribution: null
+distribution: {}
 dataquality:
   scope:
     level: dataset

@@ -24,17 +24,22 @@ identification:
     keywords:
         default:
             keywords:
-                - Soil
+                - MensMenu
         country:
             keywords: [{{ md['Country'] }}]
             vocabulary:
                     name: Country
                     url: http://publications.europa.eu/resource/authority/country
-        soil:
-            keywords: [{{ md['data type'] }}, {{ md['theme'] }}]
+        theme:
+            keywords: [{{ md['data type'] }}]
             vocabulary:
-                name: Agrovoc
-                url: http://aims.fao.org/aos/agrovoc
+                name: Agrovoc - Soil sciences
+                url: http://aims.fao.org/aos/agrovoc/c_7188
+        prop: 
+            keywords: [ {{ md['theme'] }} ]
+            vocabulary:
+                name: Agrovoc - Soil properties
+                url: http://aims.fao.org/aos/agrovoc/c_330883
     topiccategory:
         - geoscientificInformation
     extents:

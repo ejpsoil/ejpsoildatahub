@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2022-11-18
+  datestamp: 2022-11-24
 spatial:
   scale: null
   resolution: 5m
@@ -22,21 +22,26 @@ identification:
   keywords:
     default:
       keywords:
-      - Soil
+      - MensMenu
     country:
       keywords:
       - Luxembourg
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    soil:
+    theme:
       keywords:
       - soil type
       - basic soil properties
+      vocabulary:
+        name: Agrovoc - Soil sciences
+        url: http://aims.fao.org/aos/agrovoc/c_7188
+    prop:
+      keywords:
       - pH
       vocabulary:
-        name: Agrovoc
-        url: http://aims.fao.org/aos/agrovoc
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:
@@ -44,7 +49,7 @@ identification:
     - begin: 2009; 2014
   accessconstraints: no limitation
   rights: no conditions apply
-  url: https://map.geoportail.lu/theme/main?zoom=8&X=669751&Y=6416190&layers=703&pk_campaign=geoseo_data&lang=fr&version=3&opacities=1&bgLayer=basemap_2015_global&crosshair=false
+  url: https://map.geoportail.lu/theme/main?zoom=8&amp;X=669751&amp;Y=6416190&amp;layers=703&amp;pk_campaign=geoseo_data&amp;lang=fr&amp;version=3&amp;opacities=1&amp;bgLayer=basemap_2015_global&amp;crosshair=false
   status: onGoing
   maintenancefrequency: continual
 contact:
@@ -60,7 +65,7 @@ distribution:
   wms:
     url: http://ws.geoportail.lu/250k
     type: ogc:wms
-    name: WMS
+    name: '0'
   ARC GRID:
     url: https://data.public.lu/fr/datasets/r/b2d2527b-fc25-41ed-b5fc-98ca90434dc3
     type: ARC GRID
@@ -70,3 +75,11 @@ dataquality:
     level: dataset
   lineage:
     statement: null
+extents:
+  spatial:
+  - bbox:
+    - 5.586528
+    - 49.321018
+    - 6.62763
+    - 50.266328
+    crs: '4326'

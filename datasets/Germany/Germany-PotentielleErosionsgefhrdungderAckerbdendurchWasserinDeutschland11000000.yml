@@ -6,7 +6,7 @@ metadata:
   language_alternate: null
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2022-11-18
+  datestamp: 2022-11-24
 spatial:
   scale: 1:1 M
   resolution: null
@@ -25,20 +25,25 @@ identification:
   keywords:
     default:
       keywords:
-      - Soil
+      - MensMenu
     country:
       keywords:
       - Germany
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    soil:
+    theme:
       keywords:
-      - the following soil degradation processes
+      - soil degradation processes
+      vocabulary:
+        name: Agrovoc - Soil sciences
+        url: http://aims.fao.org/aos/agrovoc/c_7188
+    prop:
+      keywords:
       - soil erosion
       vocabulary:
-        name: Agrovoc
-        url: http://aims.fao.org/aos/agrovoc
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:
@@ -46,7 +51,7 @@ identification:
     - begin: ''
   accessconstraints: no limitation
   rights: no conditions apply
-  url: https://geoviewer.bgr.de/mapapps4/resources/apps/geoviewer/index.html?lang=en&serviceURL=https://services.bgr.de/wms/boden/pegwasser1000/?
+  url: https://geoviewer.bgr.de/mapapps4/resources/apps/geoviewer/index.html?lang=en&amp;serviceURL=https://services.bgr.de/wms/boden/pegwasser1000/?
   status: onGoing
   maintenancefrequency: continual
 contact:

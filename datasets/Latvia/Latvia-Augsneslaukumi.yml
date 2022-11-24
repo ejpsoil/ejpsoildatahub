@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2022-11-18
+  datestamp: 2022-11-24
 spatial:
   scale: 1:10000
   resolution: null
@@ -22,21 +22,26 @@ identification:
   keywords:
     default:
       keywords:
-      - Soil
+      - MensMenu
     country:
       keywords:
       - Latvia
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    soil:
+    theme:
       keywords:
       - soil type
       - basic soil properties
+      vocabulary:
+        name: Agrovoc - Soil sciences
+        url: http://aims.fao.org/aos/agrovoc/c_7188
+    prop:
+      keywords:
       - Soil Map
       vocabulary:
-        name: Agrovoc
-        url: http://aims.fao.org/aos/agrovoc
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:
@@ -56,11 +61,19 @@ contact:
     contactinstructions: email
 distribution:
   wms:
-    url: https://dpps.viss.gov.lv/DPPS.REQ/URN_IVIS_100001_ISS-ZM-Zemes_novertejums_WMS_geop-v1-0/guest/URN_IVIS_100273_LIC-DC3672A84F866340AD11ED9D1AFFEC6C?request=GetCapabilities&service=WMS
+    url: https://dpps.viss.gov.lv/DPPS.REQ/URN_IVIS_100001_ISS-ZM-Zemes_novertejums_WMS_geop-v1-0/guest/URN_IVIS_100273_LIC-DC3672A84F866340AD11ED9D1AFFEC6C?request=GetCapabilities&amp;service=WMS
     type: ogc:wms
-    name: WMS
+    name: '0'
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: null
+extents:
+  spatial:
+  - bbox:
+    - 20.837351
+    - 55.631524
+    - 28.444675
+    - 58.089573
+    crs: '4326'

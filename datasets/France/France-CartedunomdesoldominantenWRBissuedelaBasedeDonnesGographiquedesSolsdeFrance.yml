@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2022-11-18
+  datestamp: 2022-11-24
 spatial:
   scale: 1:1 M
   resolution: null
@@ -24,21 +24,26 @@ identification:
   keywords:
     default:
       keywords:
-      - Soil
+      - MensMenu
     country:
       keywords:
       - France
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    soil:
+    theme:
       keywords:
       - soil type
       - basic soil properties
+      vocabulary:
+        name: Agrovoc - Soil sciences
+        url: http://aims.fao.org/aos/agrovoc/c_7188
+    prop:
+      keywords:
       - Soil Map
       vocabulary:
-        name: Agrovoc
-        url: http://aims.fao.org/aos/agrovoc
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:
@@ -46,7 +51,7 @@ identification:
     - begin: 10-9-1998
   accessconstraints: no limitation
   rights: no conditions apply
-  url: https://agroenvgeo.data.inra.fr/sviewer/?x=358337&y=5901707&z=6&title=Carte%20du%20nom%20de%20sol%20dominant%20en%20WRB%20issue%20de%20la%20Base%20de%20Donn%C3%A9es%20G%C3%A9ographique%20des%20Sols%20de%20France&layers=inra_bdgsf:geometrie_bdgsf
+  url: https://agroenvgeo.data.inra.fr/sviewer/?x=358337&amp;y=5901707&amp;z=6&amp;title=Carte%20du%20nom%20de%20sol%20dominant%20en%20WRB%20issue%20de%20la%20Base%20de%20Donn%C3%A9es%20G%C3%A9ographique%20des%20Sols%20de%20France&amp;layers=inra_bdgsf:geometrie_bdgsf
   status: onGoing
   maintenancefrequency: continual
 contact:

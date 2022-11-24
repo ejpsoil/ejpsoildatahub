@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2022-11-18
+  datestamp: 2022-11-24
 spatial:
   scale: 1:1 M
   resolution: null
@@ -22,21 +22,26 @@ identification:
   keywords:
     default:
       keywords:
-      - Soil
+      - MensMenu
     country:
       keywords:
       - Italy
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    soil:
+    theme:
       keywords:
       - soil type
       - basic soil properties
+      vocabulary:
+        name: Agrovoc - Soil sciences
+        url: http://aims.fao.org/aos/agrovoc/c_7188
+    prop:
+      keywords:
       - Soil Map
       vocabulary:
-        name: Agrovoc
-        url: http://aims.fao.org/aos/agrovoc
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:
@@ -56,7 +61,7 @@ contact:
     contactinstructions: email
 distribution:
   shp:
-    url: http://wordpress.redirectingat.com/?id=725X1342&xcust=8982&xs=1&isjs=1&url=http://www.soilmaps.it/download/shp/SMI.shp.zip&xguid=&xuuid=8a4dbfc2303c4d79f51393d6ca7c8184&xsessid=&xcreo=0&xed=0&sref=https://soilmaps.wordpress.com/soil-la
+    url: http://wordpress.redirectingat.com/?id=725X1342&amp;xcust=8982&amp;xs=1&amp;isjs=1&amp;url=http://www.soilmaps.it/download/shp/SMI.shp.zip&amp;xguid=&amp;xuuid=8a4dbfc2303c4d79f51393d6ca7c8184&amp;xsessid=&amp;xcreo=0&amp;xed=0&amp;sref=https://soilmaps.wordpress.com/soil-la
     type: application/shp
     name: SHP
 dataquality:
