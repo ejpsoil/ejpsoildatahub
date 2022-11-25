@@ -54,7 +54,7 @@ identification:
       - 49.95245
       - 1.740401
       - 55.822854
-      crs: '4326'
+      crs: 4326
   accessconstraints: no limitation
   rights: no conditions apply
   url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=NSRIDetailedSoilMapping
@@ -84,4 +84,4 @@ extents:
     - 49.95245
     - 1.740401
     - 55.822854
-    crs: '4326'
+    crs: 4326

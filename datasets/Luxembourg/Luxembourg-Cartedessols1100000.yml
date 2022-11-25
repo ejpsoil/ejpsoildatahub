@@ -54,7 +54,7 @@ identification:
       - 49.321018
       - 6.62763
       - 50.266328
-      crs: '4326'
+      crs: 4326
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://map.geoportail.lu/theme/agriculture?layers=272-1637&amp;zoom=8&amp;lang=fr&amp;version=3&amp;X=669751&amp;Y=6416190&amp;opacities=1-1&amp;bgLayer=orthogr_2013_global
@@ -90,4 +90,4 @@ extents:
     - 49.321018
     - 6.62763
     - 50.266328
-    crs: '4326'
+    crs: 4326

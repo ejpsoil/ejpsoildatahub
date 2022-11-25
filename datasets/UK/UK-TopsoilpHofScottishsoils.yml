@@ -53,7 +53,7 @@ identification:
       - 54.633278
       - -0.733663
       - 60.855952
-      crs: '4326'
+      crs: 4326
   accessconstraints: no limitation
   rights: no conditions apply
   url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=JHSoilPH
@@ -83,4 +83,4 @@ extents:
     - 54.633278
     - -0.733663
     - 60.855952
-    crs: '4326'
+    crs: 4326

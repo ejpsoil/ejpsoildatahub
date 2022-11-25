@@ -54,7 +54,7 @@ identification:
       - 49.864
       - 1.768
       - 60.861
-      crs: '4326'
+      crs: 4326
   accessconstraints: no limitation
   rights: no conditions apply
   url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=CEHTNTotalNitrogenConcentration
@@ -84,4 +84,4 @@ extents:
     - 49.864
     - 1.768
     - 60.861
-    crs: '4326'
+    crs: 4326
