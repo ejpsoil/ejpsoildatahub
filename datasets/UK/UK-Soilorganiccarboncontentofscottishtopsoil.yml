@@ -48,6 +48,13 @@ identification:
   extents:
     temporal:
     - begin: '1988'
+    spatial:
+    - bbox:
+      - -8.761063
+      - 54.500198
+      - -0.491192
+      - 60.966505
+      crs: '4326'
   accessconstraints: no limitation
   rights: no conditions apply
   url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=JHTopsoilOrganicarbon

@@ -45,6 +45,13 @@ identification:
   extents:
     temporal:
     - begin: 2-1-2012
+    spatial:
+    - bbox:
+      - -8.174117
+      - 54.023107
+      - -5.432149
+      - 55.310628
+      crs: '4326'
   accessconstraints: no limitation
   rights: no conditions apply
   url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=AFBIWRB

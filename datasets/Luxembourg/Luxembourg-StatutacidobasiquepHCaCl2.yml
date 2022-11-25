@@ -47,6 +47,13 @@ identification:
   extents:
     temporal:
     - begin: 2009; 2014
+    spatial:
+    - bbox:
+      - 5.586528
+      - 49.321018
+      - 6.62763
+      - 50.266328
+      crs: '4326'
   accessconstraints: no limitation
   rights: no conditions apply
   url: https://map.geoportail.lu/theme/main?zoom=8&amp;X=669751&amp;Y=6416190&amp;layers=703&amp;pk_campaign=geoseo_data&amp;lang=fr&amp;version=3&amp;opacities=1&amp;bgLayer=basemap_2015_global&amp;crosshair=false

@@ -45,6 +45,13 @@ identification:
   extents:
     temporal:
     - begin: '2019'
+    spatial:
+    - bbox:
+      - -6.417682
+      - 49.864698
+      - 1.76313
+      - 55.810977
+      crs: '4326'
   accessconstraints: no limitation
   rights: no conditions apply
   url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=NSRIWorldReferenceBase

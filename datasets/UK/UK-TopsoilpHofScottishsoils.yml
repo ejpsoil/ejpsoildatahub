@@ -47,6 +47,13 @@ identification:
   extents:
     temporal:
     - begin: 2007-2011
+    spatial:
+    - bbox:
+      - -7.697429
+      - 54.633278
+      - -0.733663
+      - 60.855952
+      crs: '4326'
   accessconstraints: no limitation
   rights: no conditions apply
   url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=JHSoilPH
