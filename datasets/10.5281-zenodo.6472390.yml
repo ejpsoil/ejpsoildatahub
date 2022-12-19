@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.6472390
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 28-2-2022
+spatial:
+  datatype: grid
+  geomtype: grid
+  resolution: 25 km
+  crs: ETRS89-LAEA
+identification:
+  language: Other
+  charset: utf8
+  title: Long term climatic data for i-SoMPE
+  abstract: "This maps were created for the i-SoMPE project within EJP SOIL in 2021\
+    \ and 2022. They were used to calculate various climatic variables for the characterization\
+    \ of the Agro-Environmental Zones (AEZ) of Europe and to assess the potential\
+    \ area of application of soil managament practices. The input data was long term\
+    \ average (1991 - 2020) climatic data (min. temp., max. temp., mean. temp., ET0,\
+    \ Prec.) for every day of the year for every Agri4Cast grid cell. We calculated\
+    \ 11 climatic variables; meanTemp; Mean annual temperature meanPrec; Mean annual\
+    \ precipitation sum meanET0; Mean annual potential evapotranspiration sum GrowSeason;\
+    \ Average length of the growing season (number of days per year with average temperature\
+    \ above 5\xB0C) GrowSeason_class; Classification of the length of the growing\
+    \ season; < 200 days \u2013 short; 200 to 300 days \u2013 intermediate; >300 days\
+    \ \u2013 long (Metzger et al., 2012) TempSum ;Average annual temperature sum (sum\
+    \ of all average daily temperatures above 0\xB0C) TempSum_class; Classification\
+    \ of the temperature sum; < 2000 \xB0C = cold; 2000 to 3000 \xB0C = cool temperate;\
+    \ 3000 to 4000 \xB0C = temperate; 4000 to 5000 \xB0C = warm temperate; > 5000\
+    \ \xB0C = hot (Metzger et al., 2012) HeatDay; Average number of heat days (number\
+    \ of days per year with average maximal temperature above 30\xB0C) FrostDay; Average\
+    \ number of frost days (number of days per year with average minimal temperature\
+    \ below 0\xB0C) WaterBalance; Mean annual water balance (meanPrec \u2013 meanET0)\
+    \ DryDay; Average number of days per year with a negative water balance (Prec\
+    \ \u2013 ET0) Sources;Agri4Cast; https;//agri4cast.jrc.ec.europa.eu/DataPortal/Index.aspx,Metzger\
+    \ et al., 2012; https;//edepot.wur.nl/197197\n"
+  dates:
+    modification: 28-2-2022
+  keywords:
+    default:
+      keywords: -'EJP Soil' -
+    country:
+      keywords:
+      - European
+      vocabulary:
+        name: Spatial Scope
+        url: https://inspire.ec.europa.eu/metadata-codelist/SpatialScope
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - 46 European Countries (incl. EU28)
+    temporal:
+    - begin: '1991'
+    - end: '2020'
+  accessconstraints: No limitations to public access
+  rights: CC-BY Attribution
+  status: completed
+  maintenancefrequency: Not planned
+contact:
+  pointOfContact:
+    organization: ''
+    email: olivier.heller@agroscope.admin.ch
+    contactinstructions: email
+distribution:
+  image/tiff:
+    url: https://doi.org/10.5281/zenodo.6472390
+    type: application/image/tiff
+    name: image/tiff
+  citation:
+    description: 'Olivier Heller. (2022). Zonal and raster data for i-SoMPE WP1 R
+      Project (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6472390
+
+      '
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Agri4Cast Long term average data The scripts for data processing are
+      publicly available on gitlab: https://gitlab.com/heoi/i-SoMPE-WP1-Agri4Cast.git
+      The Agri4Cast data used was aquired from the JRC.
+
+      '
