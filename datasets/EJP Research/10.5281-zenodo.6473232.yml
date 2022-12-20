@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.6473232
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: February 28, 2022
+spatial:
+  datatype: grid
+  geomtype: grid
+  resolution: 1 km
+  crs: ETRS89-LAEA
+identification:
+  language: English
+  charset: utf8
+  title: Agroecological Zones of Europe used for i-SoMPE
+  abstract: 'This dataset was compiled in the i-SoMPE Project of EJP SOIL in 2021
+    and 2022. This dataset contains information to characterize the agroecological
+    zones (AEZ) of Europe on 4 spatial levels. The data was calculated by an R project
+    available on GitLab (https://gitlab.com/heoi/i-sompe-wp1) using various data on
+    land use, climate, soil characteristics and slope. More information on the data
+    can be found in the report of the i-SoMPE project. The dataset contains the following
+    files: - 1 ZIP-Folder with a shapefile of the AEZs used in i-SoMPE and described
+    in the dataset - 1 XLSX file with information on all 4 spatial levels - 4 CSV
+    files with information on 1 of 4 spatial levels - 1 XLSX file that contains information
+    on the attributes described in the dataset
+
+    '
+  dates:
+    modification: February 28, 2022
+  keywords:
+    default:
+      keywords: -'EJP Soil' - agroecological zones
+    country:
+      keywords:
+      - European
+      vocabulary:
+        name: Spatial Scope
+        url: https://inspire.ec.europa.eu/metadata-codelist/SpatialScope
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '1971'
+    - end: '2000'
+  accessconstraints: No limitations to public access
+  rights: CC-BY Attribution
+  status: completed
+  maintenancefrequency: Not planned
+contact:
+  pointOfContact:
+    organization: ''
+    email: Olivier Heller
+    contactinstructions: olivier.heller@agroscope.admin.ch
+distribution:
+  vnd.shp:
+    url: https://doi.org/10.5281/zenodo.6473232
+    type: application/vnd.shp
+    name: vnd.shp
+  citation:
+    description: 'Olivier Heller. (2022). Characterization of the Agroecological Zones
+      of Europe (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6473232
+
+      '
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'The description of the AEZ includes  statistics on climate ans well
+      as frequencies on land-use, organic soils, WRB soil types, soil texture, soil
+      gravel content, soil rooting depth, soil water regime and slope. The information
+      for this statistics were sourced from various sources listed in the documentation.
+      Metzger, Marc J. (2018). The Environmental Stratification of Europe, [dataset].
+      University of Edinburgh. https://doi.org/10.7488/ds/2356. The generation of
+      the data is described in the WP1 Report of the i-SoMPE Project (EJP SOIL) and
+      on gitlab: https://gitlab.com/heoi/i-sompe-wp1 An Intersection of Environmental
+      zones by Metzger and NUTS-0 Borders (except for Belgium) was produced to delineate
+      Agro-Ecological Zones (AEZ).
+
+      '

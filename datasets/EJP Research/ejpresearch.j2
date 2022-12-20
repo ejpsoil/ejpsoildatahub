@@ -19,7 +19,7 @@ identification:
     charset: utf8
     title: "{{ md['Title'] }}"
     abstract: >
-        {{ md['Abstract'] | replace(':',';') }}
+        {{ md['Abstract'] }}
     dates:
         modification: {{ md['Modification date'] }}
     keywords:
@@ -36,8 +36,6 @@ identification:
     topiccategory:
         - geoscientificInformation
     extents:
-        spatial:
-            - {{ md['Extent (geographic)'] }}
         temporal:
             - begin: "{{ md['Reference period - Start'] }}"
             - end: "{{ md['Reference period - End'] }}"
@@ -49,8 +47,8 @@ identification:
 contact:
     pointOfContact: 
         organization: "{{ md['name of organisation'] }}"
-        email: {{ md['Contact'] }}
-        contactinstructions: email
+        email: {{ md['Contact'].split(',') | first }}
+        contactinstructions: {{ md['Contact'].split(',') | last }}
 
 distribution:
     {{md['Format'] | lower or 'dl1'}}:
