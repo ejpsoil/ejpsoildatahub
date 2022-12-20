@@ -46,7 +46,11 @@ identification:
     modification: May 2, 2022
   keywords:
     default:
-      keywords: -'EJP Soil' - soil; soil management; agroecological zones
+      keywords: 
+        - EJP Soil  
+        - soil 
+        - soil management
+        - agroecological zones
     country:
       keywords:
       - European
@@ -54,7 +58,7 @@ identification:
         name: Spatial Scope
         url: https://inspire.ec.europa.eu/metadata-codelist/SpatialScope
   topiccategory:
-  - geoscientificInformation
+    - geoscientificInformation
   extents:
     temporal:
     - begin: '2021'
@@ -65,25 +69,26 @@ identification:
   maintenancefrequency: Irregular
 contact:
   pointOfContact:
-    organization: ''
-    email: Frederic Vanwindekens
-    contactinstructions: f.vanwindekens@cra.wallonie.be
+    organization: cra.wallonie.be
+    name: Frederic Vanwindekens
+    email: f.vanwindekens@cra.wallonie.be
 distribution:
   text/csv:
     url: https://doi.org/10.5281/zenodo.6510954
     type: application/text/csv
     name: text/csv
   citation:
-    description: 'Frederic Vanwindekens, Olivier Heller, Claudia Di Bene, & Pasquale
+    description: > 
+      Frederic Vanwindekens, Olivier Heller, Claudia Di Bene, & Pasquale
       Nino. (2022). Adoption rate of 58 innovative soil management practices (maps
-      of inventory A) (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6510954
-
-      '
+      of inventory A) (1.0) [Data set]. Zenodo. 
+    url: https://doi.org/10.5281/zenodo.6510954
 dataquality:
   scope:
     level: dataset
   lineage:
-    statement: 'It must be very clear that it is the perception of actual implementation
+    statement: >
+      It must be very clear that it is the perception of actual implementation
       by national experts (and not data from national statistics), as it was explained
       in the i-Sompe report Frederic Vanwindekens, Olivier Heller, Claudia Di Bene,
       & Pasquale Nino. (2022). Adoption rate of 58 innovative soil management practices
@@ -95,5 +100,3 @@ dataquality:
       Zones the same adoption rate of a SMP was assigned as for the neighbouring documented
       zones. This ex-post analysis was done automatically using a script that can
       be consulted in annex F.2.
-
-      '
