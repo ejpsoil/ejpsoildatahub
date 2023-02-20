@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sweden-20b0fdbec2d8704d00f202b4095d5b28
+  language: swe
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 20-5-2019
+spatial:
+  scale: null
+  resolution: 5KM
+identification:
+  language: swe
+  charset: utf8
+  title: Jorddjup
+  abstract: 'The map presents an overview of the thickness of surficial materials
+    over bedrock.
+
+    '
+  dates:
+    last revision: 20-5-2019
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Sweden
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soildepth
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://apps.sgu.se/kartvisare/kartvisare-jorddjup.html?
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: SGU Sveriges geologiska undersoknig
+    individualname: ''
+    country: Sweden
+    email: kundservice@sgu.se
+    contactinstructions: email
+distribution:
+  pdf:
+    url: https://apps.sgu.se/sgumapviewer/tmpout/sgupdf6968569735968394880.pdf
+    type: application/pdf
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

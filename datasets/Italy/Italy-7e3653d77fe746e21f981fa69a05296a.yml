@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Italy-7e3653d77fe746e21f981fa69a05296a
+  language: ita
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 1-6-2010
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: ita
+  charset: utf8
+  title: ISIS Feature dataset
+  abstract: 'Soil regions, Soil Systems and climatic rasters (Google Earth)
+
+    '
+  dates:
+    creation: 1-6-2010
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Italy
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: CREA AA
+    individualname: G. L'Abate
+    country: Italy
+    email: giovanni.labate@crea.gov.it
+    contactinstructions: email
+distribution:
+  kmz:
+    url: http://www.soilmaps.it/download/ISIS_1.0.021.kmz
+    type: application/kmz
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

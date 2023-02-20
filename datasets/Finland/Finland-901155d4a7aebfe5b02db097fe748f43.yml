@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Finland-901155d4a7aebfe5b02db097fe748f43
+  language: fin
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 28-9-2018
+spatial:
+  scale: 1:20000
+  resolution: null
+identification:
+  language: fin
+  charset: utf8
+  title: Maa-aines-tuote/Aggregate sand and gravel -product
+  abstract: 'The soil data contains information on the location and volume of sand
+    and gravel deposits and their ability to meet the needs of municipal engineering
+
+    '
+  dates:
+    last revision: 28-9-2018
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Finland
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - texture
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: null
+  rights: filled online order form
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Geologian tutkimuskeskus
+    individualname: ''
+    country: Finland
+    email: geodata@gtk.fi
+    contactinstructions: email
+distribution:
+  gdb:
+    url: http://hakku.gtk.fi
+    type: application/gdb
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

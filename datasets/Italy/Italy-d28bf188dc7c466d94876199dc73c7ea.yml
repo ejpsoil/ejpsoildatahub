@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Italy-d28bf188dc7c466d94876199dc73c7ea
+  language: ita
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 16-11-2015
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: ita
+  charset: utf8
+  title: "Carta dei suoli d\u2019Italia, scala 1:1.000.000"
+  abstract: 'Soil map of Italy, scale 1:1.000.000
+
+    '
+  dates:
+    pubblication: 16-11-2015
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Italy
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: a mix of individual dates and intervals of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: CREA AA
+    individualname: G. L'Abate
+    country: Italy
+    email: giovanni.labate@crea.gov.it
+    contactinstructions: email
+distribution:
+  shp:
+    url: http://wordpress.redirectingat.com/?id=725X1342&xcust=8982&xs=1&isjs=1&url=http://www.soilmaps.it/download/shp/SMI.shp.zip&xguid=&xuuid=8a4dbfc2303c4d79f51393d6ca7c8184&xsessid=&xcreo=0&xed=0&sref=https://soilmaps.wordpress.com/soil-la
+    type: application/shp
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Austria-2a536754d05183478dda118d8080199e
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2004
+spatial:
+  scale: null
+  resolution: 4Km
+identification:
+  language: ger
+  charset: utf8
+  title: "SCHWERMETALL in Oberboden unter Ber\xFCcksichtigung der Karbonatbeeinflussung"
+  abstract: 'Heavy metal content in topsoil under consideration of the carbonate influence
+
+    '
+  dates:
+    pubblication: 2004
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Austria
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil contamination
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: null
+  rights: filled online order form
+  url: https://boris.umweltbundesamt.at/borisdaten/alias.xhtml?alias=Login
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: umweltbundesamt enviroment agency Austria
+    individualname: "Alexandra Freudenschu\xDF"
+    country: Austria
+    email: publikationen@umweltbundesamt.at
+    contactinstructions: email
+distribution:
+  xls:
+    url: https://www.umweltbundesamt.at/fileadmin/site/umweltthemen/boden/BORIS/10_BORIS_Co_imOberboden_nachKarbonateinfluss.pdf
+    type: application/xls
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

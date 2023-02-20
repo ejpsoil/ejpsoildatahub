@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 393d8106-4400-51cd-9767-e8bbef2f73a6
+  language: fre
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 17-6-2019
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: fre
+  charset: utf8
+  title: "Carte de la R\xE9serve Utile en eau issue de la Base de Donn\xE9es G\xE9\
+    ographique des Sols de France"
+  abstract: 'Map of the dominant class of  available water by Cartographic Unit of
+    Soil
+
+    '
+  dates:
+    pubblication: 17-6-2019
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - France
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - avaliable water capacity
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: a mix of individual dates and intervals of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://agroenvgeo.data.inra.fr/sviewer/?x=358337&y=5901707&z=6&title=Carte%20de%20la%20R%C3%A9serve%20Utile%20en%20eau%20issue%20de%20la%20Base%20de%20Donn%C3%A9es%20G%C3%A9ographique%20des%20Sols%20de%20France&layers=inra_bdgsf:bdgsf_classe_ru
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: INRA - Institut National de la Recherche Agronomique
+    individualname: Le Bas, Christine
+    country: France
+    email: infosol@inra.fr
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://agroenvgeo.data.inra.fr/geoserver/inra_bdgsf/wms?
+    type: ogc:wms
+    name: bdgsf_classe_ru
+  dl2:
+    url: null
+    type: application/shp
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

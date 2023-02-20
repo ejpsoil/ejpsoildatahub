@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: UK-58147398ccf4cba1bca86a70f93bdb77
+  language: eng
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 26-3-2012
+spatial:
+  scale: null
+  resolution: 1KM
+identification:
+  language: eng
+  charset: utf8
+  title: CS -Topsoil Nutrients - Olsen-P
+  abstract: 'Olsen-Phosphorus (mg/kg) Model estimates of topsoil nutrients [Countryside
+    Survey]
+
+    '
+  dates:
+    pubblication: 26-3-2012
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - available phosphorus
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an individual date
+    - end: '2007'
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=CEHTNOlsenPhosphorus
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Centre for Ecology & Hydrology, Lancaster
+    individualname: Keith, A.M.
+    country: UK
+    email: enquiries@ceh.ac.uk
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://catalogue.ceh.ac.uk/maps/6372b558-ba64-4fbe-8766-019e01535b37?
+    type: ogc:wms
+    name: SO.SoilTheme.OlsenPhosphorus
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

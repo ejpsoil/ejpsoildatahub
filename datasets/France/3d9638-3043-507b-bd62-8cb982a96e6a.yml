@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 3d9638-3043-507b-bd62-8cb982a96e6a
+  language: fre
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 28-5-2015
+spatial:
+  scale: null
+  resolution: 1KM
+identification:
+  language: fre
+  charset: utf8
+  title: Carte des teneurs en Carbone par canton
+  abstract: 'Map of carbon contents by canton. The analyzes come from the Earth Analysis
+    Database (BDAT).
+
+    '
+  dates:
+    pubblication: 28-5-2015
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - France
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - organic carbon
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://agroenvgeo.data.inra.fr/sviewer/?x=358337&y=5901707&z=6&title=Carte%20des%20teneurs%20en%20Carbone%20par%20canton&layers=gissol_bdat:teneur_carbone_bdat
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: INRA InfoSol
+    individualname: Marion Bardy
+    country: France
+    email: infosol@orleans.inra.fr
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_bdat/wms?
+    type: ogc:wms
+    name: teneur_carbone_bdat
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

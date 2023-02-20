@@ -1,0 +1,38 @@
+mcf:
+  version: 1.0
+metadata:
+  language: eng
+  identifier: ejpmetadata
+  datestamp: 2023-02-20
+identification:
+  language: eng
+  title: ejpmetadata
+  abstract: ''
+  keywords:
+    default:
+      keywords:
+      - ''
+  fees: None
+  accessconstraints: otherRestrictions
+  rights: ''
+  topiccategory:
+  - geoscientificInformation
+  dates:
+    creation: Mon Feb 20 16:11:02 2023
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+contact:
+  pointOfContact:
+    organization: ''
+    email: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  local:
+    url: /mnt/c/Users/genuc003/Projects/ejpsoil/ejpsoildatahub/datasets/ejpmetadata.csv
+    type: WWW:LINK
+    name: ejpmetadata.csv
+content_info: {}

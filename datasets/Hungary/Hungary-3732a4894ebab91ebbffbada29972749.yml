@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hungary-3732a4894ebab91ebbffbada29972749
+  language: hun
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2012
+spatial:
+  scale: 1:5M
+  resolution: null
+identification:
+  language: hun
+  charset: utf8
+  title: "A talajt\xF6m\xF6r\xF6d\xE9s m\xE9rt\xE9ke \xE9s t\xEDpusa Magyarorsz\xE1\
+    gon"
+  abstract: 'Degree of soil compaction (in plowed depth 0-30 cm), and type of compaction
+    (surface, subsurface, or subsoil)
+
+    '
+  dates:
+    pubblication: 2012
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Hungary
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil compaction
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Institute for Soil Sciences,
+    individualname: "L\xE1szl\xF3 P\xE1sztor"
+    country: Hungary
+    email: pasztor@rissac.hu
+    contactinstructions: email
+distribution:
+  html:
+    url: http://okir-tdr.helion.hu/?talajallapot=2
+    type: text/html
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

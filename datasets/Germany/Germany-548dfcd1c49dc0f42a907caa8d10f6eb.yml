@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Germany-548dfcd1c49dc0f42a907caa8d10f6eb
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 27-9-2019
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: ger
+  charset: utf8
+  title: "Potentielle Verdichtungsempfindlichkeit der B\xF6den in Deutschland"
+  abstract: 'The map of Soil compaction susceptibility of soils in Germany gives an
+    overview of the exposure of arable land to soil compaction. It shows the area
+    of soils which are threatened by soil compaction at 35 cm depth
+
+    '
+  dates:
+    pubblication: 27-9-2019
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Germany
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil compaction
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://geoviewer.bgr.de/mapapps/resources/apps/geoviewer/index.html?lang=de&serviceURL=https://services.bgr.de/wms/boden/ld1000/%3F
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    individualname: Stegger Ulrich
+    country: Germany
+    email: geodatenmanagement@bgr.de
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://services.bgr.de/wms/boden/ld1000/?SERVICE=WMS&REQUEST=GetCapabilities
+    type: ogc:wms
+    name: WMS
+  dl2:
+    url: null
+    type: application/geotiff
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

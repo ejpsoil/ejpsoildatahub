@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: UK-9744a007ca84c8cebc0b10dac5dd9c70
+  language: eng
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 1-6-2010
+spatial:
+  scale: null
+  resolution: null
+identification:
+  language: eng
+  charset: utf8
+  title: Soil and Earthworm Survey
+  abstract: "The OPAL (Open Air Laboratories) Data Explorer allows you to visualise\
+    \ environmental data \n"
+  dates:
+    pubblication: 1-6-2010
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - decline soil biodiversity
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: null
+  rights: registration needed
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Imperial College London
+    individualname: ''
+    country: UK
+    email: opal@imperial.ac.uk )
+    contactinstructions: email
+distribution:
+  html:
+    url: https://www.opalexplorenature.org/dataexplorer/surveytype/soilsurvey
+    type: text/html
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

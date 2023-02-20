@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Finland-b8dddbf9407fc46dfe406f9aba37dbc4
+  language: fin
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2-7-2018
+spatial:
+  scale: 1:20000
+  resolution: null
+identification:
+  language: fin
+  charset: utf8
+  title: Tutkitut turvealueet
+  abstract: 'Investigated peatland areas,  relates to the carbon stuff
+
+    '
+  dates:
+    last revision: 2-7-2018
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Finland
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - organic carbon
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: null
+  rights: filled online order form
+  url: https://hakku.gtk.fi/fi/locations/search
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Geologian tutkimuskeskus
+    individualname: ''
+    country: Finland
+    email: geodata@gtk.fi
+    contactinstructions: email
+distribution:
+  gdb:
+    url: https://hakku.gtk.fi/en/shopping_cart/edit
+    type: application/gdb
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

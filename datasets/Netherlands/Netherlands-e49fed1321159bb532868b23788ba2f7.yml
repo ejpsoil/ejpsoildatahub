@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Netherlands-e49fed1321159bb532868b23788ba2f7
+  language: dut
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 29-4-2019
+spatial:
+  scale: 1:50000
+  resolution: null
+identification:
+  language: dut
+  charset: utf8
+  title: Bodemkundig booronderzoek BRO
+  abstract: 'Location of pedological borehole research (BRO)
+
+    '
+  dates:
+    last revision: 29-4-2019
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Netherlands
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://www.dinoloket.nl/en/subsurface-data
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Wageningen Environmental Research (Alterra)
+    individualname: Fokke Brouwer
+    country: Netherlands
+    email: info.alterra@wur.nl
+    contactinstructions: email
+distribution:
+  wfs:
+    url: http://geodata.nationaalgeoregister.nl/brobhr/wfs?&request=GetCapabilities
+    type: ogc:wfs
+    name: WFS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

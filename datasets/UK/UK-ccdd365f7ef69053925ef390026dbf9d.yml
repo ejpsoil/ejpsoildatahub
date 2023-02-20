@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: UK-ccdd365f7ef69053925ef390026dbf9d
+  language: eng
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 19-4-2018
+spatial:
+  scale: null
+  resolution: 10KM
+identification:
+  language: eng
+  charset: utf8
+  title: Peatland
+  abstract: 'Peatland (filtered from 1:250,000 soils data for SRDP)
+
+    '
+  dates:
+    pubblication: 19-4-2018
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Centre for Ecology & Hydrology, Lancaster
+    individualname: Keith, A.M.
+    country: UK
+    email: enquiries@ceh.ac.uk
+    contactinstructions: email
+distribution:
+  shp:
+    url: https://www.hutton.ac.uk/sites/default/files/files/soils/downloads/qmsoils_UCSS_peatland_deep_peat.zip
+    type: application/shp
+    name: SHP
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

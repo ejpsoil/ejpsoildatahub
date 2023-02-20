@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: fffdf08f-8ee8-4802-8354-5e6df694b0c7
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 19-6-2017
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: ger
+  charset: utf8
+  title: "Stoffe in B\xF6den in Deutschland"
+  abstract: 'Soil substances in Germany. In addition to substances that serve as nutrients
+    for the plants, there are also pollutants in the soil which in higher concentrations
+    can impair the growth of plants and animals. Some substances (e.g., nickel) are
+    essential in low concentrations but in higher concentrations they are toxi
+
+    '
+  dates:
+    creation: 19-6-2017
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Germany
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil contamination
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://geoviewer.bgr.de/mapapps/resources/apps/geoviewer/index.html?lang=de&serviceURL=https://services.bgr.de/wms/boden/bodenstoffe/%3F
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    individualname: Stegger Ulrich
+    country: Germany
+    email: geodatenmanagement@bgr.de
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://services.bgr.de/wms/boden/bodenstoffe/?SERVICE=WMS&REQUEST=GetCapabilities
+    type: ogc:wms
+    name: 4,6,13,20,27,34,41,48,55,62,69,76,83,90,97,104
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

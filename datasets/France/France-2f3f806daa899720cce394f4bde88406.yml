@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: France-2f3f806daa899720cce394f4bde88406
+  language: fre
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 12-5-1998
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: fre
+  charset: utf8
+  title: "La profondeur des sols en France m\xE9tropolitaine"
+  abstract: 'Soil depth in metropolitan France
+
+    '
+  dates:
+    pubblication: 12-5-1998
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - France
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soildepth
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://www.gissol.fr/donnees/cartes/la-profondeur-des-sols-en-france-metropolitaine-1493
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: INRA InfoSol
+    individualname: Bernard Morel
+    country: France
+    email: infosol@orleans.inra.fr
+    contactinstructions: email
+distribution:
+  pdf:
+    url: http://147.100.179.105/gissol/RESF_pdf/chap%202_p45_logo.pdf
+    type: application/pdf
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

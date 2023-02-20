@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sweden-eb702d973b3155a514578a0a08d5591e
+  language: swe
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 20-5-2019
+spatial:
+  scale: 1:9M
+  resolution: null
+identification:
+  language: swe
+  charset: utf8
+  title: "Efterbehandling av f\xF6rorenade omr\xE5den"
+  abstract: 'Localization of remediation of contaminated sites
+
+    '
+  dates:
+    last revision: 20-5-2019
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Sweden
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil contamination
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://apps.sgu.se/kartvisare/kartvisare-fororenade-omraden.html
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: SGU Sveriges geologiska undersoknig
+    individualname: ''
+    country: Sweden
+    email: kundservice@sgu.se
+    contactinstructions: email
+distribution:
+  pdf:
+    url: https://apps.sgu.se/sgumapviewer/tmpout/sgupdf7282564370035550908.pdf
+    type: application/pdf
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

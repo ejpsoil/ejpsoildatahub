@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Belgium-f52d8395a3bae58a55518604d5825dc6
+  language: dut
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 24-6-2015
+spatial:
+  scale: 1:250000
+  resolution: null
+identification:
+  language: dut
+  charset: utf8
+  title: WRB Reference Soil Groups 250k
+  abstract: 'WRB Reference Soil Groups 250k: The soil map of Belgium according to
+    the international World Reference Base (WRB) soil classification system is a translation
+    of the soil map
+
+    '
+  dates:
+    pubblication: 24-6-2015
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Vlaamse overheid, Departement Omgeving
+    individualname: Koning Albert
+    country: Belgium
+    email: vpo.omgeving@vlaanderen.be
+    contactinstructions: email
+distribution:
+  wfs:
+    url: https://www.dov.vlaanderen.be/geoserver/wfs?SERVICE=WFS&version=1.1.0&request=GetFeature
+    type: ogc:wfs
+    name: null
+  dl2:
+    url: null
+    type: application/sqlite
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

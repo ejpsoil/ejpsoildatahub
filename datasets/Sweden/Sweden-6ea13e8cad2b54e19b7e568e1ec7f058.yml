@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sweden-6ea13e8cad2b54e19b7e568e1ec7f058
+  language: swe
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 20-5-2019
+spatial:
+  scale: 1:100000
+  resolution: null
+identification:
+  language: swe
+  charset: utf8
+  title: " Str\xE4nders jordart och eroderbarhet"
+  abstract: 'Localisation of erosion of soil and beaches
+
+    '
+  dates:
+    last revision: 20-5-2019
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Sweden
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil erosion
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://apps.sgu.se/kartvisare/kartvisare-stranders-jordart-eroderbarhet.html?
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Swedish University of Agricultural Sciences (SLU)
+    individualname: Johan Stendahl,
+    country: Sweden
+    email: johan.stendahl@slu.se
+    contactinstructions: email
+distribution:
+  pdf:
+    url: https://apps.sgu.se/sgumapviewer/tmpout/sgupdf4655067861233082055.pdf
+    type: application/pdf
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hungary-ae0d5ae30a9c47858b4ea926cf1a1e8f
+  language: hun
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2008
+spatial:
+  scale: 1:100000
+  resolution: null
+identification:
+  language: hun
+  charset: utf8
+  title: "AGROTOPO: Genetikai talajt\xEDpus"
+  abstract: 'AGROTOPO database: Soil types according to the Hungarian classification
+    system
+
+    '
+  dates:
+    pubblication: 2008
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Hungary
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Institute for Soil Sciences,
+    individualname: "L\xE1szl\xF3 P\xE1sztor"
+    country: Hungary
+    email: pasztor@rissac.hu
+    contactinstructions: email
+distribution:
+  website:
+    url: https://maps.rissac.hu:3344/webappbuilder/apps/2/
+    type: application/website
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

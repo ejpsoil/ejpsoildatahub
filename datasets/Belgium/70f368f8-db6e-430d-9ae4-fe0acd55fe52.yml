@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 70f368f8-db6e-430d-9ae4-fe0acd55fe52
+  language: dut
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 1-1-2011
+spatial:
+  scale: null
+  resolution: 1KM
+identification:
+  language: dut
+  charset: utf8
+  title: Potential soil erosion aggregated for a grid of 1 km by 1 km in Flanders
+  abstract: 'The potential soil erosion aggregated for a grid of 1 km  (ton/ha)
+
+    '
+  dates:
+    pubblication: 1-1-2011
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil erosion
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an individual date
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "Bureau for Environment and Spatial Development \u2013 Flanders"
+    individualname: Koning Albert
+    country: Belgium
+    email: vpo.omgeving@vlaanderen.be
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    type: ogc:wms
+    name: potential_soil_erosion
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

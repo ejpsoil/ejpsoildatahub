@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Luxembourg-e9b3d00a091a938b38b2c6ba5a0e58e9
+  language: fre
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 1-10-1999
+spatial:
+  scale: 1:25000
+  resolution: null
+identification:
+  language: fre
+  charset: utf8
+  title: Carte des sols 1:25000
+  abstract: 'Soil Map 1:25000 Detailed soil map on topographic background. The published
+    collection comprises 7 sheets (1964 - 1999).
+
+    '
+  dates:
+    pubblication: 1-10-1999
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Luxembourg
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://map.geoportail.lu/theme/agriculture?layers=702-1637&zoom=8&lang=fr&version=3&X=669751&Y=6416190&opacities=1-1&bgLayer=orthogr_2013_global
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "Minist\xE8re de l'Agriculture, de la Viticulture et de la Protection\
+      \ des consommateurs. Service de p\xE9dologie - Administration des services techniques\
+      \ de l\u2019agriculture"
+    individualname: Simone Marx
+    country: Luxembourg
+    email: pedologie@asta.etat.lu
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://ws.geoportail.lu/250k
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

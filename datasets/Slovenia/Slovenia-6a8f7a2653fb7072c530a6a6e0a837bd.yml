@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Slovenia-6a8f7a2653fb7072c530a6a6e0a837bd
+  language: slv
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 1999
+spatial:
+  scale: 1:25000
+  resolution: null
+identification:
+  language: slv
+  charset: utf8
+  title: Soil depth for Slovenia
+  abstract: 'Data about soils, sorted into 5 classes form very shallow (less than
+    15cm) to deep soils (more than 100cm). Unofficial data in digital form
+
+    '
+  dates:
+    pubblication: 1999
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soildepth
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: null
+  rights: registation needed
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Agricultural institute of Slovenia
+    individualname: ' Borut Vrscaj'
+    country: Slovenia
+    email: borut.vrscaj@kis.si
+    contactinstructions: email
+distribution:
+  website:
+    url: https://etla.kis.si/KIS-WebGIS/
+    type: application/website
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null
