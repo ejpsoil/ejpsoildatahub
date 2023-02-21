@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: e4e5c71a88d8a55dd96859b7d429cc78
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://www.podnemapy.sk/poda400/viewer.htm
+spatial:
+  resolution: 1:400 000
+  datatype: DERIVED Soil Profiles linked to the polygons
+identification:
+  language: null
+  charset: utf8
+  title: Soil Map of Slovakiain 1:400k scale
+  abstract: 'generalised class-area maps based on finer scale national mapping products
+    depth intervals not assumed
+
+    '
+  dates:
+    creation: '1993'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovakia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '1993'
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: NPPC
+    country: Slovakia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'generalised class-area maps based on finer scale national mapping
+      products. Mapping: conventional mapping. Depth intervals: otherRestrictions.
+      Uncertainty quantification: NO'
+distribution: {}

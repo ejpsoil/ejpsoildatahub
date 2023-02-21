@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.15454/VN9F6H
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://doi.org/10.15454/VN9F6H
+  dates:
+    creation: '2018-03-09T11:16:40.000Z'
+    publication: '2018'
+spatial:
+  resolution: 1000*1000
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: Spatial predictions of total and exchangeable trace elements content in France
+  abstract: This dataset provides statistical predictions of total content of 8 trace
+    elements in topsoil. The prediction are based on the data collected within the
+    French soil monitoring network. Robust geostatistical techniques are applied to
+    produce these predictions on a regular (about 2km) grid.
+  dates:
+    creation: '2014'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - France
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '2014'
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: INRAE
+    country: France
+  creator:
+    individualname: Saby, P.A. Nicolas
+    organization: (INRA - Institut National de la Recherche Agronomique)
+    url: https://orcid.org/0000-0001-8964-1194
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'bulk samples. Mapping: geostatitsics. Depth intervals: Other  depth
+      intervals (specify in comments). Uncertainty quantification: YES'
+distribution:
+  url: null

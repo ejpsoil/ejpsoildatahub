@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: e109c276fe1e01dc1f4d05f05f80cb41
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: 15
+  datatype: null
+identification:
+  language: null
+  charset: utf8
+  title: IRNASA
+  abstract: 'Whole profile by fixed depths intervals Whole profile by fixed depths
+    intervals,0.1 - 0.2 - 0.3 - 0.4 - 0.5 - 0.6 - 0.7 - 0.8 - 0.9 - 1.0 m
+
+    '
+  dates:
+    creation: ''
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Spain
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+  accessconstraints: Restricted
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: CSIC
+    country: Spain
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Whole profile by fixed depths intervals. Mapping: regular. Depth intervals:
+      otherRestrictions. Uncertainty quantification: NO'
+distribution: {}

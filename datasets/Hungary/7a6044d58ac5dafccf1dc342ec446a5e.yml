@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 7a6044d58ac5dafccf1dc342ec446a5e
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://dosoremi.hu
+spatial:
+  resolution: 100 m
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: Digital, Optimized, Soil Related Maps and Information in Hungary (DOSoReMI.hu)
+  abstract: "not relevant (data are not collected but inferred, spatially exhaustive\
+    \ maps) \n"
+  dates:
+    creation: not relevant (data are not collected but inferred, spatially exhaustive
+      maps)
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Hungary
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: not relevant (data are not collected but inferred, spatially exhaustive
+        maps)
+  accessconstraints: otherRestrictions
+  rights: interactive map in web browser, WMS service, not downloadable data
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Institute for Soil Sciences and Agricultural Chemistry, Centre for
+      Agricultural Research (ATK TAKI)
+    country: Hungary
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'not relevant (data are not collected but inferred, spatially exhaustive
+      maps). Mapping: regression kriging (Multiple Linear Regression Analyis & Ordinary
+      Kriging)/ composite regression kriging. Depth intervals: Standard GSM depth
+      intervals; layers according to GlobalSoilMap . Uncertainty quantification: YES'
+distribution: {}

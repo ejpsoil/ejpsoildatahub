@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.15454/SVDTOU
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://doi.org/10.15454/SVDTOU
+  dates:
+    creation: '2019-04-16T16:30:06.000Z'
+    publication: '2019'
+spatial:
+  resolution: 1/250,000
+  datatype: ADMIN_POLYGONS, e.g. municipalities, polygons with administrative boundaries,
+    other than agricultural blocks/farms
+identification:
+  language: null
+  charset: utf8
+  title: "Statistiques spatio-temporelles sur les propri\xE9t\xE9s agronomiques des\
+    \ sols agricoles en France issues de la Base de Donn\xE9es d'Analyses de Terre\
+    \ (BDAT)"
+  abstract: 'In France, farmers commission about 250,000 soil-testing analyses per
+    year to assist them managing soil fertility. The number and diversity of origin
+    of the samples make these analyses an interesting and original information source
+    regarding cultivated topsoil variability. Moreover, these analyses relate to several
+    parameters strongly influenced by human activity (macronutrient contents, pH...),
+    for which existing cartographic information is not very relevant. Compiling the
+    results of these analyses into a database makes it possible to re-use these data
+    within both a national and temporal framework. A database compilation relating
+    to data collected over the period 1990-2014 has been recently achieved. So far,
+    commercial soil-testing laboratories approved by the Ministry of Agriculture have
+    provided analytical results from more than 3,600,000 samples. After the initial
+    quality control stage, analytical results from more than 1,900,000 samples were
+    available in the database. The anonymity of the landholders seeking soil analyses
+    is perfectly preserved, as the only identifying information stored is the location
+    of the nearest administrative city to the sample site. We present in this dataset
+    a set of statistical parameters of the spatial distributions for several agronomic
+    soil properties. These statistical parameters are calculated for 4 different nested
+    spatial entities (administrative areas: e.g. regions, departments, counties and
+    agricultural areas) and for 5 time periods (1990-1994, 1995-1999, 2000-2004, 2005-2009,
+    2010-2014). Two kinds of agronomic soil properties are available: the first one
+    correspond to the quantitative variables like the organic carbon content, and
+    the second one corresponds to the qualitative variables like the texture class.
+    For each spatial unit and temporal period, we calculated the following statistics
+    sets: the first set is calculated for the quantitative variables and corresponds
+    to the number of samples, the mean, the standard deviation and, the 2-,4-,10-quantiles;
+    the second set is calculated for the qualitative variables and corresponds to
+    the number of samples, the value of the dominant class, the number of samples
+    of the dominant class, the second dominant class, the number of samples of the
+    second dominant class.'
+  dates:
+    creation: '2014'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - France
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '2014'
+  accessconstraints: Restricted
+  rights: ''
+  maintenancefrequency: regular monitoring 5-10 years
+contact:
+  pointOfContact:
+    organization: INRAE
+    country: France
+  creator:
+    individualname: Saby, Nicolas P.A.
+    organization: (INRA - Institut National de la Recherche Agronomique)
+    url: https://orcid.org/0000-0001-8964-1194
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'bulk sample only. Mapping: spatial statistics, geostatistics. Depth
+      intervals: otherRestrictions. Uncertainty quantification: YES'
+distribution:
+  url: null

@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: e1716a36fa27ad6d169572a10b1a507f
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://www.dataeuropa.eu/eudp/sk/dataset/jrc-esdac-92
+spatial:
+  resolution: 349 points
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: LV LUCAS Topsoil 2009 data
+  abstract: 'Topsoil sampling Sampling depth intervals,0-20 cm
+
+    '
+  dates:
+    creation: '2009'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Latvia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '2009'
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: DG-Joint Research Centre, Euroean Union, EC
+    country: Latvia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Topsoil sampling. Mapping: . Depth intervals: Other  depth intervals
+      (specify in comments). Uncertainty quantification: NO'
+distribution: {}

@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: f7f24d2e59a61cd5e92b05e8a6641fea
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.ngu.no/en/topic/datasets
+spatial:
+  resolution: 50 000
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Superficial deposits 1:50 000 / 1:250.000
+  abstract: ''
+  dates:
+    creation: 2000-2020
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Norway
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2000-2020
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: Geological Survey of Norway
+    country: Norway
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution: {}

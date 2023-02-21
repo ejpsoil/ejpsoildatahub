@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 34770183abc43aac7e2163b0a8190bf7
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: 01:05,0
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: LPIS-parcels in Slovenia
+  abstract: "Agricultural land use data, collected annually, for estimation of subsidies\
+    \ rights. Land use elements do not reflect cadaster parcels. In digital form and\
+    \ parcel-specific. \n"
+  dates:
+    creation: 2005 -
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2005 -
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Ministry of Agriculture, Forestry and Food, Slovenia
+    country: Slovenia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Agricultural land use data, collected annually, for estimation of
+      subsidies rights. Land use elements do not reflect cadaster parcels. In digital
+      form and parcel-specific.. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution: {}

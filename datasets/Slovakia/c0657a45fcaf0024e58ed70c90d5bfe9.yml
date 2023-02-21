@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: c0657a45fcaf0024e58ed70c90d5bfe9
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: 3,513888889
+  datatype: PHYSICAL_Block_LPI,POLYGON WITH Land Parcel Identification (LPI) is  available
+    for physical/topographical block
+identification:
+  language: null
+  charset: utf8
+  title: National Land Parcel Identification System
+  abstract: "aerial images/satellite images/ground survey \n"
+  dates:
+    creation: 2004-2020
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovakia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2004-2020
+  accessconstraints: Restricted
+  rights: ''
+  maintenancefrequency: regular monitoring, yearly
+contact:
+  pointOfContact:
+    organization: Ministry of Agriculture and Rural Development
+    country: Slovakia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: "aerial images/satellite images/ground survey. Mapping: photo\u2011\
+      interpretation. Depth intervals: otherRestrictions. Uncertainty quantification:\
+      \ NO"
+distribution: {}

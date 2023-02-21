@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 196202474826fa4cab212a25aecb5d23
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: 1:100,000, 20m
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Basic geological map of Slovenia
+  abstract: "Basic lithologic-stratigraphic properties of underlying rock/parent material,\
+    \ in digital form, with underground rock exploration (parcel-specific,no). \n"
+  dates:
+    creation: 1969 - 1977
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1969 - 1977
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Geological Survey of Slovenia
+    country: Slovenia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Basic lithologic-stratigraphic properties of underlying rock/parent
+      material, in digital form, with underground rock exploration (parcel-specific,no)..
+      Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution: {}

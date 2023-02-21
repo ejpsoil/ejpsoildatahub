@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.26114/sir.iung.2017.51.04
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://doi.org/10.26114/sir.iung.2017.51.04
+  dates:
+    creation: '2020-05-04T12:28:41.000Z'
+    publication: '2017'
+spatial:
+  resolution: 216
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: "Sta\u0142y monitoring gleb u\u017Cytk\xF3w rolnych Polski"
+  abstract: "topsoil layer \n"
+  dates:
+    creation: 1995-2015
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Poland
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1995-2015
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: regular monitoring 5-10 years
+contact:
+  pointOfContact:
+    organization: "IUNG-GIO\u015A"
+    country: Poland
+  creator:
+    individualname: Grzegorz Siebielec
+    organization: ''
+    url: ''
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'topsoil layer. Mapping: . Depth intervals: 0-20 cm. Uncertainty quantification: '
+distribution:
+  url: null

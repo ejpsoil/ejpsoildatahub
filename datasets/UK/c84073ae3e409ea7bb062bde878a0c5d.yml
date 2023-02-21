@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: c84073ae3e409ea7bb062bde878a0c5d
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.gov.uk/government/publications/uk-soil-and-herbage-pollutant-survey
+spatial:
+  resolution: 200 points over UK
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: UK Soil and Herbage Pollutant Survey
+  abstract: "5cm x 3 cores from topsoil \n"
+  dates:
+    creation: '2007'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '2007'
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: Environment Agency -UK Government
+    country: UK
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '5cm x 3 cores from topsoil. Mapping: Conventional mapping - 200 points.
+      Depth intervals: defined as  topsoil/subsoil  only, without any other description.
+      Uncertainty quantification: NO'
+distribution: {}

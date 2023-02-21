@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 6cac13756e1680bb2495ff7bdf67104b
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: 3,513888889
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Forest compartments in Slovenia
+  abstract: "Data are available for each separate forest compartment as query (HTML\
+    \ form), used for forest management planning. Data is in digital form (parcel-specific,no).\
+    \ \n"
+  dates:
+    creation: 1970-1990 - 2017
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1970-1990 - 2017
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Slovenia Forest Service
+    country: Slovenia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Data are available for each separate forest compartment as query (HTML
+      form), used for forest management planning. Data is in digital form (parcel-specific,no)..
+      Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution: {}

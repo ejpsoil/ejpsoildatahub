@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 055f485ffcc95a4c943da4ab10a0f8df
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.hutton.ac.uk/learning/natural-resource-datasets/soilshutton/soils-maps-scotland/download#soilmapdata
+spatial:
+  resolution: 1:250000
+  datatype: NATURAL_POLYGONs,polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: National soil map of Scotland
+  abstract: 'mixed sampling type - generalised soil map, partly derived from a 1:50,000
+    map of the soils of Scotland. The soil classification used was updated in 2013
+    This dataset does not contain any soil parameter information. It can be associated
+    with parameter information on the basis of soil type.
+
+    '
+  dates:
+    creation: 1947-1981
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1947-1981
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: James Hutton Institute
+    country: UK
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'mixed sampling type - generalised soil map, partly derived from a
+      1:50,000 map of the soils of Scotland. The soil classification used was updated
+      in 2013. Mapping: Conventional mapping,https://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/B7E65842-C041-4950-BF0C-3AF06C2DBAE7.
+      Depth intervals: otherRestrictions. Uncertainty quantification: NO'
+distribution: {}

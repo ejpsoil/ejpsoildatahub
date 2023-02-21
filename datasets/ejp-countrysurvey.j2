@@ -6,8 +6,9 @@ metadata:
     language: eng
     charset: utf8
     hierarchylevel: dataset
-    datestamp: {% now 'local' %}
-    dataseturi: {{ md['ExternalID'] }} 
+    {% if md['ExternalID'] %}
+    dataseturi: {{ md['ExternalID'].split(';') | first }} 
+    {% endif %}
 spatial:
     resolution:  {{md['Spatial resolution']}} 
     datatype: {{md['spatial entity']}}

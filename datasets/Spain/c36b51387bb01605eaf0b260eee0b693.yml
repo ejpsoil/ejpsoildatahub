@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: c36b51387bb01605eaf0b260eee0b693
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://doi.org/10.1016/j.eja.2016.12.013
+spatial:
+  resolution: null
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: INIA-Experimental Farm La Canaleja (Madrid, Spain)- Climate regulation indicators
+  abstract: 'topsoil only Topsoil 0.30 m. Data were collected during a specific period
+    within the LTE
+
+    '
+  dates:
+    creation: 1995-2020
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Spain
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1995-2020
+  accessconstraints: Restricted
+  rights: ''
+  maintenancefrequency: regular monitoring, yearly
+contact:
+  pointOfContact:
+    organization: INIA
+    country: Spain
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'topsoil only. Mapping: Random. Depth intervals: defined as  topsoil/subsoil  only,
+      without any other desription. Uncertainty quantification: No'
+distribution: {}

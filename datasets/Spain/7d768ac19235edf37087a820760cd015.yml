@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 7d768ac19235edf37087a820760cd015
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.ica.csic.es
+spatial:
+  resolution: 48
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: ICA La Poveda
+  abstract: 'topsoil only Topsoil 0.15 m
+
+    '
+  dates:
+    creation: 2012-2020
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Spain
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2012-2020
+  accessconstraints: Restricted
+  rights: ''
+  maintenancefrequency: regular monitoring, yearly
+contact:
+  pointOfContact:
+    organization: CSIC
+    country: Spain
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'topsoil only. Mapping: Purposive. Depth intervals: defined as  topsoil/subsoil  only,
+      without any other desription. Uncertainty quantification: NO'
+distribution: {}

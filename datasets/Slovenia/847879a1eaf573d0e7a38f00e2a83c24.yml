@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 847879a1eaf573d0e7a38f00e2a83c24
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: "Zupan M, Rupreht J, Ti\u010D I, et al (2006) Izdelava digitalne karte\
+    \ talnega \u0161tevila. MKGP, Ljubljana [in Slovenian only]"
+spatial:
+  resolution: 01:25,0
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Soil quality index for Slovenia
+  abstract: "Index of soil productivity evaluation, listed from 7-100 (7-88 for grassland).\
+    \ A higher number indicates the higher productive potential of the soil regardless\
+    \ of its present usage. The index is in digital form (map 1:25000) (parcel-specific,no).https://etla.kis.si/KIS-WebGIS/#config=eTLA_JAVNI.xml\
+    \ \n"
+  dates:
+    creation: '2006'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '2006'
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Ministry of Agriculture, Forestry and Food, Slovenia
+    country: Slovenia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Index of soil productivity evaluation, listed from 7-100 (7-88 for
+      grassland). A higher number indicates the higher productive potential of the
+      soil regardless of its present usage. The index is in digital form (map 1:25000)
+      (parcel-specific,no).https://etla.kis.si/KIS-WebGIS/#config=eTLA_JAVNI.xml.
+      Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution: {}

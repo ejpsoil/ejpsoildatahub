@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 73f5a9a371df9f7fb45591a774402a87
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: 15000
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: Referance soil profiles for SAM25
+  abstract: "profile/different sampling depth \n"
+  dates:
+    creation: 1960-1980
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Poland
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1960-1980
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: IUNG
+    country: Poland
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'profile/different sampling depth. Mapping: . Depth intervals: . Uncertainty
+      quantification: '
+distribution: {}
