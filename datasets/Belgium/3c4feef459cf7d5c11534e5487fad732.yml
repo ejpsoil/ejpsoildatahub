@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 3c4feef459cf7d5c11534e5487fad732
+  language: dut
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 20-6-2017
+spatial:
+  scale: 1:20000
+  resolution: null
+identification:
+  language: dut
+  charset: utf8
+  title: 'Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
+  abstract: 'Digital soil map of the Flemish Region: soil types. In accordance with
+    the classification system used: morphogenetic for inland Flanders (substrate,
+    texture class, drainage class, profile development group, phase and variant)
+
+    '
+  dates:
+    last revision: 20-6-2017
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Vlaamse overheid, Departement Omgeving
+    individualname: Koning Albert
+    country: Belgium
+    email: vpo.omgeving@vlaanderen.be
+    contactinstructions: email
+distribution:
+  wfs:
+    url: https://www.dov.vlaanderen.be/geoserver/wfs?
+    type: ogc:wfs
+    name: null
+  dl2:
+    url: null
+    type: ogc:wms
+    name: bodemtypes
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

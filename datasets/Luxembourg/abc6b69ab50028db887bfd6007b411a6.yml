@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: abc6b69ab50028db887bfd6007b411a6
+  language: fre
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2015
+spatial:
+  scale: null
+  resolution: 5m
+identification:
+  language: fre
+  charset: utf8
+  title: Statut acido-basique (pHCaCl2)
+  abstract: 'Interpolation (Kriging) of the Acid-base status of soils (pHCaCl2)
+
+    '
+  dates:
+    pubblication: 2015
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Luxembourg
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - pH
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://map.geoportail.lu/theme/main?zoom=8&X=669751&Y=6416190&layers=703&pk_campaign=geoseo_data&lang=fr&version=3&opacities=1&bgLayer=basemap_2015_global&crosshair=false
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "Minist\xE8re de l'Agriculture, de la Viticulture et de la Protection\
+      \ des consommateurs. Service de p\xE9dologie - Administration des services techniques\
+      \ de l\u2019agriculture"
+    individualname: Simone Marx
+    country: Luxembourg
+    email: pedologie@asta.etat.lu
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://ws.geoportail.lu/250k
+    type: ogc:wms
+    name: WMS
+  dl2:
+    url: null
+    type: application/arc grid
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

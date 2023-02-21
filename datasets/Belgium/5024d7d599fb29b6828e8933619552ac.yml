@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 5024d7d599fb29b6828e8933619552ac
+  language: dut
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 15-1-2018
+spatial:
+  scale: null
+  resolution: 1KM
+identification:
+  language: dut
+  charset: utf8
+  title: Soil Organic Carbon Stock Maps for Belgium
+  abstract: 'Soil Organic Carbon Stock Maps for Belgium: mean (1 km grid)
+
+    '
+  dates:
+    pubblication: 15-1-2018
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - carbon stock
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://www.dov.vlaanderen.be/portaal/?module=public-bodemverkenner
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Vlaams Planbureau voor Omgeving (VPO), Departement Omgeving, Vlaamse
+      overheid
+    individualname: Graaf De Ferraris
+    country: Belgium
+    email: vpo.omgeving@vlaanderen.be
+    contactinstructions: email
+distribution:
+  wcs:
+    url: https://www.dov.vlaanderen.be/geoserver/wcs?
+    type: ogc:wcs
+    name: carbon_sd_40
+  dl2:
+    url: null
+    type: ogc:wms
+    name: carbon_sd_40
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

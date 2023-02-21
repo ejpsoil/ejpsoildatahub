@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 94c06f745d975b194a218a021d5a861b
+  language: slv
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2004
+spatial:
+  scale: 1:25000
+  resolution: null
+identification:
+  language: slv
+  charset: utf8
+  title: Soil organic matter in Slovenia
+  abstract: 'Evaluation of soil organic matter from the available data sources (extrapolated
+    and correlated). Unofficial data in digital form
+
+    '
+  dates:
+    pubblication: 2004
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - organic carbon
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: null
+  rights: registation needed
+  url: http://alpinesoils.eu/webgis_app/index.html
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Centre for Soil and Environmental Science, Biotechnical Faculty,
+      University of Ljubljana
+    individualname: www.bf.uni-lj.si
+    country: Slovenia
+    email: gp.mkgp@gov.si
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://etla.kis.si/KIS-WebGIS/
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

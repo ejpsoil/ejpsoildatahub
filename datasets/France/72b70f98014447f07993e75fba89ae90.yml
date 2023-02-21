@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 72b70f98014447f07993e75fba89ae90
+  language: fre
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 27-6-2019
+spatial:
+  scale: 1:250000
+  resolution: null
+identification:
+  language: fre
+  charset: utf8
+  title: "BDETM (p\xE9riode 1990 - 2010) : Statistiques spatio-temporelles par petite\
+    \ r\xE9gion agricole des textures (argiles, limons, sables) issues d\u2019observations\
+    \ collect\xE9es dans le cadre du programme BDETM"
+  abstract: 'Spatio-temporal statistics by small agricultural region of textures (clays,
+    silts, sands) resulting from observations collected under the BDETM program  (period
+    1990 - 2010)
+
+    '
+  dates:
+    pubblication: 27-6-2019
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - France
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - texture
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: INRA - Institut National de la Recherche Agronomique
+    individualname: Le Bas, Christine
+    country: France
+    email: infosol@inra.fr
+    contactinstructions: email
+distribution:
+  wfs:
+    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_geosol/wfs?service=WFS&version=2.0.0&request=GetFeature&typeName=gissol_geosol:bdetm_pra_9010&outputFormat=shape-zip
+    type: ogc:wfs
+    name: null
+  dl2:
+    url: null
+    type: application/shp
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

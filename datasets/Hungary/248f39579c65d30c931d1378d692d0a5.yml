@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 248f39579c65d30c931d1378d692d0a5
+  language: hun
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2012
+spatial:
+  scale: 1:5M
+  resolution: null
+identification:
+  language: hun
+  charset: utf8
+  title: "N\xF6v\xE9nyv\xE9d\u0151szer szennyez\xE9s"
+  abstract: 'Pesticide contamination in soil
+
+    '
+  dates:
+    pubblication: 2012
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Hungary
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil contamination
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Institute for Soil Sciences,
+    individualname: "L\xE1szl\xF3 P\xE1sztor"
+    country: Hungary
+    email: pasztor@rissac.hu
+    contactinstructions: email
+distribution:
+  html:
+    url: http://okir-tdr.helion.hu/?talajallapot=5
+    type: text/html
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

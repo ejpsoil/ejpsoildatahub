@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 0f8a5c658c6ba916b9e1047dd461555f
+  language: lit
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 6-6-2013
+spatial:
+  scale: 1:50000
+  resolution: null
+identification:
+  language: lit
+  charset: utf8
+  title: "Dirvo\u017Eemio bonitavimas"
+  abstract: 'Map of The National Atlas of Lithuania - Bonitet of the soil
+
+    '
+  dates:
+    pubblication: 6-6-2013
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Lithuania
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil contamination
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://www.geoportal.lt/map/?lang=en
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "Nacionalin\u0117 \u017Eem\u0117s tarnyba prie \u017Dem\u0117s \u016B\
+      kio ministerijos"
+    individualname: J. Jasinskas
+    country: Lithuania
+    email: e.indilaite@gis-centras.lt
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://192.168.166.27:8080/geoserver/Atlasas_Tema-2/wms?service=WMS&version=1.1.0&request=GetMap&layers=Atlasas_Tema-2:23_3
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

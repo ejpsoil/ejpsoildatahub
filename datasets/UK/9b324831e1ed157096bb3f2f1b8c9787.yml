@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 9b324831e1ed157096bb3f2f1b8c9787
+  language: eng
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2023
+spatial:
+  scale: 1:25000
+  resolution: null
+identification:
+  language: eng
+  charset: utf8
+  title: NSRI detailed soil mapping
+  abstract: 'This map shows the extents of the detailed soil mapping available for
+    a variety of scales from the National Soil Resources Institute (NSRI)
+
+    '
+  dates:
+    publication: 2023
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=NSRIDetailedSoilMapping
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Cranfield National Soil Resources Institute (NSRI), Cranfield University
+    individualname: ''
+    country: UK
+    email: nsridata@cranfield.ac.uk
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://www.landis.org.uk/arcgis/services/UKSoilObservatory/DetailedSoilMapping_Cranfield/MapServer/WmsServer?
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null
