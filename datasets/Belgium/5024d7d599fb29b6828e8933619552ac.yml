@@ -60,8 +60,8 @@ distribution:
     url: https://www.dov.vlaanderen.be/geoserver/wcs?
     type: ogc:wcs
     name: carbon_sd_40
-  dl2:
-    url: null
+  wms:
+    url: https://www.dov.vlaanderen.be/geoserver/wms/kml?layers=organische_koolstof:carbon_sd_40
     type: ogc:wms
     name: carbon_sd_40
 dataquality:

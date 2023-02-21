@@ -58,8 +58,8 @@ distribution:
     url: https://services.bgr.de/wms/boden/buek1000/?
     type: ogc:wms
     name: WMS
-  dl2:
-    url: null
+  SHP:
+    url: https://download.bgr.de/bgr/Boden/BOART1000/shp/boart1000_ob_v20.zip
     type: application/shp
     name: null
 dataquality:

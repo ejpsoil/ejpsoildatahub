@@ -61,8 +61,8 @@ distribution:
     url: https://hakku.gtk.fi/en/shopping_cart/edit
     type: application/gdb
     name: null
-  dl2:
-    url: null
+  JPG:
+    url: https://hakku.gtk.fi/en/locations/search?location_id=68
     type: image/jpg
     name: null
 dataquality:

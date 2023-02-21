@@ -61,8 +61,8 @@ distribution:
     url: https://www.dov.vlaanderen.be/geoserver/wfs?SERVICE=WFS&version=1.1.0&request=GetFeature
     type: ogc:wfs
     name: null
-  dl2:
-    url: null
+  SQLITE:
+    url: https://www.milieuinfo.be/dms/d/a/workspace/SpacesStore/522846b2-ec51-470f-91d6-16fd36265caa/wrb_250k.zip
     type: application/sqlite
     name: null
 dataquality:

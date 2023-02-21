@@ -60,8 +60,8 @@ distribution:
     url: https://services.bgr.de/wms/boden/buek5000/?
     type: ogc:wms
     name: 0
-  dl2:
-    url: null
+  SHP:
+    url: https://download.bgr.de/bgr/Boden/BGL5000/shp/bgl5000_v20.zip
     type: application/shp
     name: null
 dataquality:

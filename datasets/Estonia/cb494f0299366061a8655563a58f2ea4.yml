@@ -60,8 +60,8 @@ distribution:
     url: http://kaart.maaamet.ee/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities
     type: ogc:wms
     name: of10000
-  dl2:
-    url: null
+  SHP:
+    url: https://geoportaal.maaamet.ee/docs/muld/Mullakaart_SHP.zip?t=20170301161200
     type: application/shp
     name: null
 dataquality:

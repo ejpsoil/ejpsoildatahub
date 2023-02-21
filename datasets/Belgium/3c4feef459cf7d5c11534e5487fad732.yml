@@ -61,8 +61,8 @@ distribution:
     url: https://www.dov.vlaanderen.be/geoserver/wfs?
     type: ogc:wfs
     name: null
-  dl2:
-    url: null
+  wms:
+    url: https://www.dov.vlaanderen.be/geoserver/bodemkaart/wms?layers=bodemtypes
     type: ogc:wms
     name: bodemtypes
 dataquality:

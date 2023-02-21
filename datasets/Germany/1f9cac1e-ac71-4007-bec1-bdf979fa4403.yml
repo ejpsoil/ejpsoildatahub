@@ -61,8 +61,8 @@ distribution:
     url: https://services.bgr.de/wms/boden/fk10dm1000/?
     type: ogc:wms
     name: 0
-  dl2:
-    url: null
+  GEOTiff:
+    url: https://download.bgr.de/bgr/Boden/FK10DM1000/geotiff/FK10dm1000_250.zip
     type: application/geotiff
     name: null
 dataquality:

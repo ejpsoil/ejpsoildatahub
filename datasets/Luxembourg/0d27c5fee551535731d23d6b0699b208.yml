@@ -61,8 +61,8 @@ distribution:
     url: http://ws.geoportail.lu/250k
     type: ogc:wms
     name: WMS
-  dl2:
-    url: null
+  GEOTiff:
+    url: https://data.public.lu/fr/datasets/r/70a465d6-b907-4087-807a-147ccbf31de2
     type: application/geotiff
     name: null
 dataquality:

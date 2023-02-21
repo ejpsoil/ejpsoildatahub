@@ -59,8 +59,8 @@ distribution:
     url: https://gis-slu.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=e55d28b98d2241e0a6c91ae42073b52f
     type: application/website
     name: null
-  dl2:
-    url: null
+  Featureserver:
+    url: https://services2.arcgis.com/wnIUO7dgPAOa6dco/arcgis/rest/services/Medelfel_textur_160105/FeatureServer
     type: application/featureserver
     name: null
 dataquality:

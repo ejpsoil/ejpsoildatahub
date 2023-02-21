@@ -61,8 +61,8 @@ distribution:
     url: https://agroenvgeo.data.inra.fr/geoserver/inra_bdgsf/wms?
     type: ogc:wms
     name: bdgsf_classe_ru
-  dl2:
-    url: null
+  SHP:
+    url: https://agroenvgeo.data.inra.fr/geoserver/inra_bdgsf/wfs?typeName=inra_bdgsf:bdgsf_classe_ru&outputFormat=shape-zip&request=GetFeature&service=WFS&version=2.0.0
     type: application/shp
     name: null
 dataquality:

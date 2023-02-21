@@ -59,8 +59,8 @@ distribution:
     url: https://services.bgr.de/wms/boden/humus1000ob/?
     type: ogc:wms
     name: 0
-  dl2:
-    url: null
+  SHP:
+    url: https://download.bgr.de/bgr/Boden/HUMUS1000OB/shp/humus1000_ob_v20.zip
     type: application/shp
     name: null
 dataquality:

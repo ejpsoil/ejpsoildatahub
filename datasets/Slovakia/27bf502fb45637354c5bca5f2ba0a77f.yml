@@ -59,8 +59,8 @@ distribution:
     url: https://rpi.gov.sk/client/map/summary/?rid=https://data.gov.sk/set/rpi/gmd/42337402/B0159E9499E53CBAE0530110000AB12C
     type: ogc:wfs
     name: WFS
-  dl2:
-    url: null
+  GML:
+    url: https://data.gov.sk/dataset/bonitovane-podnoekologicke-jednotky-bpej
     type: application/gml
     name: null
 dataquality:

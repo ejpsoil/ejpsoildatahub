@@ -71,8 +71,8 @@ distribution:
       Topsoil.Samarium, Topsoil.Tin, Topsoil.Strontium, Topsoil.Tantalum, Topsoil.Thorium,
       Topsoil.Titanium, Topsoil.Thallium, Topsoil.Thallium, Topsoil.Vanadium, Topsoil.Tungsten,
       Topsoil.Yttrium, Topsoil.Ytterbium, Topsoil.Zinc, Topsoil.Zirconium
-  dl2:
-    url: null
+  TXT:
+    url: https://www.bgs.ac.uk/downloads/start.cfm?id=2898
     type: application/txt
     name: null
 dataquality:

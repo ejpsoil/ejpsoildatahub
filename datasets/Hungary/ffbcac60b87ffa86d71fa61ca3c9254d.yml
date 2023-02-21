@@ -58,8 +58,8 @@ distribution:
     url: https://maps.rissac.hu:6443/arcgis/services/dosoremi_web_mercator2/MapServer/WMSServer
     type: ogc:wms
     name: null
-  dl2:
-    url: null
+  JPG:
+    url: http://dosoremi.hu/tablazat.html
     type: image/jpg
     name: null
 dataquality:

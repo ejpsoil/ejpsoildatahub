@@ -59,8 +59,8 @@ distribution:
     url: https://www.dov.vlaanderen.be/geoserver/wms?SERVICE=WMS&version=1.3.0&request=GetMap
     type: ogc:wfs
     name: null
-  dl2:
-    url: null
+  wms:
+    url: https://www.dov.vlaanderen.be/geoserver/dov-pub-aardewerk/wms?layers=vw_profiel
     type: ogc:wms
     name: vw_profiel
 dataquality:

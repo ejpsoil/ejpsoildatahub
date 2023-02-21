@@ -59,8 +59,8 @@ distribution:
     url: http://airterkep.nebih.gov.hu/gis_portal/talajvedelem/pdf/aiir_raszterterkepek.rar
     type: application/geotiff
     name: null
-  dl2:
-    url: null
+  HTML:
+    url: http://airterkep.nebih.gov.hu/gis_portal/talajvedelem/kiadv.htm
     type: text/html
     name: null
 dataquality:

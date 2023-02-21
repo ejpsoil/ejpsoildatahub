@@ -67,13 +67,13 @@ distribution:
         name: {{ md['Layer'] or md['Format']}}
     {% endif %}
     {% if md['Resource locator2'] %}
-    {{ md['second resource format'] or 'dl2'}}: 
-        url: {{ md['second resource locator']}}
+    {{ md['Format2'] or 'dl2'}}: 
+        url: {{ md['Resource locator2']}}
         type: {% if md['Format2'].upper() in ['WMS','WFS','WCS'] 
                 %}ogc:{% elif md['Format2'].upper() in ['HTML'] 
                 %}text/{% elif md['Format2'].upper() in ['PNG','TIF','JPG'] 
                 %}image/{% else %}application/{% endif %}{{ md['Format2'] | lower }}
-        name: {{ md['Layer2'] or md['second resource format2'] }}
+        name: {{ md['Layer2'] or md['Format2'] }}
     {% endif %}
 dataquality:
     scope:

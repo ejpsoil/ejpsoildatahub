@@ -62,10 +62,10 @@ distribution:
     url: http://ws.geoportail.lu/250k
     type: ogc:wms
     name: WMS
-  dl2:
-    url: null
+  WMS:
+    url: https://data.public.lu/fr/datasets/r/79ae39b4-9a86-4693-88d9-fdfc51a2f139
     type: ogc:wms
-    name: null
+    name: WMS
 dataquality:
   scope:
     level: dataset

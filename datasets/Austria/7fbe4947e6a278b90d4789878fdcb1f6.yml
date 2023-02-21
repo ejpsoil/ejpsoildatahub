@@ -57,8 +57,8 @@ distribution:
     url: https://www.umweltbundesamt.at/umweltsituation/boden/boris/boris_datenzugang/
     type: application/xls
     name: XLS
-  dl2:
-    url: null
+  PDF:
+    url: https://www.umweltbundesamt.at/fileadmin/site/umweltthemen/boden/BORIS/Tongehalt_Referenzwerteband.pdf
     type: application/pdf
     name: null
 dataquality:

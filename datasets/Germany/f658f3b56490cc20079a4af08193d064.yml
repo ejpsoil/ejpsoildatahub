@@ -61,8 +61,8 @@ distribution:
     url: https://www.bgr.bund.de/DE/Themen/Boden/Projekte/Informationsgrundlagen-laufend/BUEK200/BUEK200.html
     type: text/html
     name: null
-  dl2:
-    url: null
+  SHP:
+    url: https://download.bgr.de/bgr/Boden/BUEK2000/shp/buek2000_v20.zip
     type: application/shp
     name: null
 dataquality:

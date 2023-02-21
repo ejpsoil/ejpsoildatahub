@@ -61,8 +61,8 @@ distribution:
     url: https://services.bgr.de/wms/boden/pegwasser1000/?
     type: ogc:wms
     name: 1,3,5,7
-  dl2:
-    url: null
+  TIFF:
+    url: https://download.bgr.de/bgr/Boden/PEGWASSER1000/tiff300/pegwasser1000_250_v10.zip
     type: application/tiff
     name: null
 dataquality:

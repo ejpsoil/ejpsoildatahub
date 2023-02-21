@@ -63,8 +63,8 @@ distribution:
     url: https://agroenvgeo.data.inra.fr/geoserver/gissol_geosol/wfs?service=WFS&version=2.0.0&request=GetFeature&typeName=gissol_geosol:bdetm_pra_9010&outputFormat=shape-zip
     type: ogc:wfs
     name: null
-  dl2:
-    url: null
+  SHP:
+    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_geosol/wfs?typeName=gissol_geosol:bdetm_pra_9010&outputFormat=shape-zip&request=GetFeature&service=WFS&version=2.0.0
     type: application/shp
     name: null
 dataquality:

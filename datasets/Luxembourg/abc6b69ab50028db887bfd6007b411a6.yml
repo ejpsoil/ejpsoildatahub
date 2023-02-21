@@ -61,8 +61,8 @@ distribution:
     url: http://ws.geoportail.lu/250k
     type: ogc:wms
     name: WMS
-  dl2:
-    url: null
+  ARC GRID:
+    url: https://data.public.lu/fr/datasets/r/b2d2527b-fc25-41ed-b5fc-98ca90434dc3
     type: application/arc grid
     name: null
 dataquality:

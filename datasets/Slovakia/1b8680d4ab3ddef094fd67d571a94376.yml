@@ -59,8 +59,8 @@ distribution:
     url: http://sscri.vupop.sk/arcgis/services/vupop_wms/MapServer/WMSServer?REQUEST=GetCapabilities&SERVICE=WMS&VERSION=1.3.0
     type: ogc:wms
     name: WMS
-  dl2:
-    url: null
+  JSON:
+    url: https://data.gov.sk/dataset/podna-mapa-slovenska-1-400000
     type: application/json
     name: null
 dataquality:

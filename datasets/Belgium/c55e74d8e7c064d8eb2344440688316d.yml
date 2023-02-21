@@ -61,8 +61,8 @@ distribution:
       .
     type: ogc:wfs
     name: null
-  dl2:
-    url: null
+  wms:
+    url: https://www.dov.vlaanderen.be/geoserver/bodemkaart_afgeleid/wms
     type: ogc:wms
     name: wrb_40000
 dataquality:
