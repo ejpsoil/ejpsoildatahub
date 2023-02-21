@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 9eb4933189be0b69a0ba11b169d1c3f5
+  language: dan
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 15-3-2019
+spatial:
+  scale: 1:400000
+  resolution: 100m
+identification:
+  language: dan
+  charset: utf8
+  title: "Dybden til redoxgr\xE6nsen"
+  abstract: 'Redox depth. The map illustrates depth to the redox interface in meters
+    below ground. The interface marks the transition from oxidised to reduced conditions
+    in the subsurface
+
+    '
+  dates:
+    pubblication: 15-3-2019
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Denmark
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil moisture
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://data.geus.dk/geusmap/?mapname=denmark&lang=en#baslay=baseMapDa&optlay=&extent=3775.2127724433085,5979755.859244018,1111224.7872275566,6470244.140755982&layers=redox_dybde_100m_grid
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "De Nationale Geologiske Unders\xF8gelser for Danmark og Gr\xF8\
+      nland (GEUS)"
+    individualname: Vibeke Ernstsen
+    country: Denmark
+    email: ve@geus.dk ve@geus.dk
+    contactinstructions: email
+distribution:
+  shp:
+    url: https://frisbee.geus.dk/geuswebshop/index.xhtml?category=61
+    type: application/shp
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: df26e95c2305874cb7809bba6ca28e34
+  language: eng
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2-1-2012
+spatial:
+  scale: 1:250000
+  resolution: null
+identification:
+  language: eng
+  charset: utf8
+  title: Soil World Reference Base, Scotland
+  abstract: 'Soil World Reference Base, Scotland WMS
+
+    '
+  dates:
+    pubblication: 2-1-2012
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: The James Hutton Institute
+    individualname: David Donnelly
+    country: UK
+    email: david.donnelly@hutton.ac.uk
+    contactinstructions: email
+distribution:
+  wms:
+    url: http://druid.hutton.ac.uk/arcgis/services/Hutton_NSIS_and_Soils/MapServer/WMSServer?request=GetCapabilities&service=WMS
+    type: ogc:wms
+    name: WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

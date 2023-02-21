@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: f658f3b56490cc20079a4af08193d064
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 1-3-2018
+spatial:
+  scale: 1:200000
+  resolution: null
+identification:
+  language: ger
+  charset: utf8
+  title: "Boden\xFCbersichtskarte"
+  abstract: 'General Soil Map. Each legend unit contains soil systematic information
+    as well as information about the soil parent material of each dominant and associated
+    soil
+
+    '
+  dates:
+    pubblication: 1-3-2018
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Germany
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://geoviewer.bgr.de/mapapps4/resources/apps/geoviewer/index.html?lang=en&serviceURL=https://services.bgr.de/wms/boden/buek200/?
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    individualname: Stegger Ulrich
+    country: Germany
+    email: geodatenmanagement@bgr.de
+    contactinstructions: email
+distribution:
+  html:
+    url: https://www.bgr.bund.de/DE/Themen/Boden/Projekte/Informationsgrundlagen-laufend/BUEK200/BUEK200.html
+    type: text/html
+    name: null
+  SHP:
+    url: https://download.bgr.de/bgr/Boden/BUEK2000/shp/buek2000_v20.zip
+    type: application/shp
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

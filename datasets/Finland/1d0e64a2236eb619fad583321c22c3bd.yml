@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 1d0e64a2236eb619fad583321c22c3bd
+  language: fin
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 6-3-2019
+spatial:
+  scale: 1:250000
+  resolution: null
+identification:
+  language: fin
+  charset: utf8
+  title: Happamat sulfaattimaat 1:250 000
+  abstract: 'Acid sulfate soils 1:250 000. map product shows  interpretation of ASS
+    occurrence in Finland classified in to four classes according to probability of
+    occurrence; High, Moderate, Small and Very Small
+
+    '
+  dates:
+    pubblication: 6-3-2019
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Finland
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an individual date
+    - end: ''
+  accessconstraints: null
+  rights: filled online order form
+  url: https://gtkdata.gtk.fi/hasu/index.html
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Geologian tutkimuskeskus
+    individualname: ''
+    country: Finland
+    email: geodata@gtk.fi
+    contactinstructions: email
+distribution:
+  gdb:
+    url: https://hakku.gtk.fi/en/shopping_cart/edit
+    type: application/gdb
+    name: null
+  JPG:
+    url: https://hakku.gtk.fi/en/locations/search?location_id=68
+    type: image/jpg
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

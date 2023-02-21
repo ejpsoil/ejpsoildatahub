@@ -1,0 +1,193 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 252f99ab75233d797fe24a11a9240ec9
+  hierarchylevel: dataset
+  datestamp: 31-5-2011
+  language: dut
+  language_alternate: null
+  charset: utf8
+identification:
+  title: Bodemprofielen kartering Belgische bodemkaart
+  abstract: 'Location of soil profiles mapping Belgian soil map
+
+    '
+  dates:
+    revision: '2011-05-31'
+    last revision: 31-5-2011
+  keywords:
+    keywords-0:
+      type: null
+      keywords:
+      - Bodem
+    keywords-1:
+      type: null
+      keywords:
+      - ondergrond
+    keywords-2:
+      type: null
+      keywords:
+      - DOV
+      - Vlaanderen
+      - Ondergrond
+      - Databank Ondergrond Vlaanderen
+      - Departement Omgeving
+      - BODEMOPPERVLAK
+      - BODEMPROFIELEN
+      - BODEMPROFIELGEGEVENS
+      - BODEMPROFIELSTUDIE
+      - BODEMSERIE
+      - DIEPTEN
+      - DRAINAGE
+      - FYSICO-CHEMISCHE EIGENSCHAPPEN
+      - GRANULOMETRISCHE GEGEVENS
+      - GRONDONDERZOEK
+      - HISTORISCH BODEMGEBRUIK EN VEGETATIE
+      - HORIZONTINFORMATIE
+      - KOOLSTOFGEHALTE
+      - MINERALOGISCHE SAMENSTELLING
+      - OPPERVLAKTEMONSTERS
+      - PROFIELLOCATIES
+      - RELIEF BESCHRIJVING
+      - ROESTVERSCHIJNSELEN
+      - SORPTIECAPACITEIT
+      - STENEN
+      - VERZADIGINGSGRAAD
+      - VOCHTGEHALTE
+      - WATERHUISHOUDING
+      - ZUURTEGRAAD
+    keywords-3:
+      type: theme
+      keywords:
+      - Regionaal
+    keywords-4:
+      type: theme
+      keywords:
+      - Herbruikbaar
+      - Kosteloos
+      - Vlaamse Open data
+      - Toegevoegd GDI-Vl
+      - Metadata GDI-Vl-conform
+      - Metadata INSPIRE-conform
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox:
+      - 2.543531044321833
+      - 50.676687515161845
+      - 5.91899870080275
+      - 51.48612297887473
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  status: onGoing
+  language: dut
+  charset: utf8
+  rights: no conditions apply
+  url: https://www.dov.vlaanderen.be/portaal/?module=verkenner&pos=69799.9%2C185019.9&res=14.00000000004411&layers=n:omwrgbmrvl%3Bo:ref%2Cn:to:to_topnzw_2009_raster_10k_tr%3Bo:ref%3Bt:wms%3Bv:n%2Cn:grb_sel%3Bo:ref%2Cn:dov-pub-aardewerk:vw
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: 'Databank Ondergrond Vlaanderen (DOV)  '
+    individualname: Koning Albert
+    positionname: null
+    phone: null
+    fax: null
+    address: Koning Albert II-laan 20 bus 8
+    city: Brussel
+    administrativearea: null
+    postalcode: '1000'
+    country: Belgium
+    email: vpo.omgeving@vlaanderen.be
+    url: https://www.omgevingvlaanderen.be
+    contactinstructions: email
+  distributor:
+    organization: Databank Ondergrond Vlaanderen (DOV)
+    individualname: null
+    positionname: null
+    phone: +32 9 240 75 93
+    fax: null
+    address: Technologiepark-Zwijnaarde 68
+    city: Gent
+    administrativearea: null
+    postalcode: '9052'
+    country: "Belgi\xEB"
+    email: dov@vlaanderen.be
+    url: https://www.dov.vlaanderen.be
+distribution:
+  link-0:
+    url: https://www.dov.vlaanderen.be/geoserver/wms?
+    type: OGC:WMS
+    name: dov-pub-aardewerk:vw_profiel
+    description: WMS-endpoint Bodemprofielen kartering Belgische bodemkaart
+    function: null
+  link-1:
+    url: https://www.dov.vlaanderen.be/geoserver/wms?SERVICE=WMS&version=1.3.0&request=GetCapabilities
+    type: OGC:WMS-1.3.0-http-get-capabilities
+    name: dov-pub-aardewerk:vw_profiel
+    description: WMS-capabilities Bodemprofielen kartering Belgische bodemkaart
+    function: null
+  link-2:
+    url: https://www.dov.vlaanderen.be/geoserver/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    type: OGC:WMS-1.3.0-http-get-map
+    name: dov-pub-aardewerk:vw_profiel
+    description: WMS-map Bodemprofielen kartering Belgische bodemkaart
+    function: null
+  link-3:
+    url: https://www.dov.vlaanderen.be/geoserver/wfs?
+    type: OGC:WFS
+    name: dov-pub-aardewerk:vw_profiel
+    description: WFS-endpoint Bodemprofielen kartering Belgische bodemkaart
+    function: download
+  link-4:
+    url: https://www.dov.vlaanderen.be/geoserver/wfs?SERVICE=WFS&version=2.0.0&request=GetCapabilities
+    type: OGC:WFS-2.0.0-http-get-capabilities
+    name: dov-pub-aardewerk:vw_profiel
+    description: WFS-capabilities Bodemprofielen kartering Belgische bodemkaart
+    function: download
+  link-5:
+    url: https://www.dov.vlaanderen.be/geoserver/wfs?SERVICE=WFS&version=2.0.0&request=GetFeature
+    type: OGC:WFS-2.0.0-http-get-feature
+    name: dov-pub-aardewerk:vw_profiel
+    description: WFS-feature Bodemprofielen kartering Belgische bodemkaart
+    function: download
+  link-6:
+    url: https://www.dov.vlaanderen.be/geoserver/wms/kml?layers=dov-pub-aardewerk:vw_profiel
+    type: GLG:KML-2.0-http-get-map
+    name: dov-pub-aardewerk:vw_profiel
+    description: KML Bodemprofielen kartering Belgische bodemkaart
+    function: null
+  wfs:
+    url: https://www.dov.vlaanderen.be/geoserver/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    type: ogc:wfs
+    name: null
+  wms:
+    url: https://www.dov.vlaanderen.be/geoserver/dov-pub-aardewerk/wms?layers=vw_profiel
+    type: ogc:wms
+    name: vw_profiel
+spatial:
+  scale: 1:250000
+  resolution: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

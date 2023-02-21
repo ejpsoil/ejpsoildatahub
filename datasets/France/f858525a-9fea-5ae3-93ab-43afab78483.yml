@@ -1,0 +1,114 @@
+metadata:
+  identifier: f858525a-9fea-5ae3-93ab-43afab78483
+  language: fre
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 5-7-2019
+identification:
+  title: "La carte nationale des stocks de carbone des sols int\xE9gr\xE9e dans la\
+    \ carte mondiale de la FAO"
+  abstract: 'Estimation of organic carbon stocks from 0 to 30 cm deep in metropolitan
+    France excluding Corsica
+
+    '
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - France
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - carbon stock
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  extents:
+    spatial:
+    - bbox:
+      - -5.511692611487404
+      - 41.93671114011365
+      - 10.698970388705865
+      - 51.08954598329545
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  rights: no conditions apply
+  fees: ''
+  language: fre
+  charset: utf8
+  dates:
+    pubblication: 5-7-2019
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
+  url: https://www.gissol.fr/donnees/cartes/la-carte-nationale-des-stocks-de-carbone-des-sols-integree-dans-la-carte-mondiale-de-la-fao-4335
+  status: onGoing
+  maintenancefrequency: continual
+distribution:
+  wms:
+    name: carte_carbone_fao
+    description: "La carte de la France m\xE9tropolitaine (hors Corse) des stocks\
+      \ de carbone dans les sols a \xE9t\xE9 pr\xE9par\xE9e par l\u2019INRA dans le\
+      \ cadre d\u2019un exercice mondial pilot\xE9 par le Partenariat Mondial sur\
+      \ les Sols h\xE9berg\xE9 par l\u2019Organisation des Nations-Unies pour l\u2019\
+      alimentation et l\u2019agriculture, la FAO. La carte ainsi produite, en suivant\
+      \ les sp\xE9cifications d\xE9cid\xE9es par cette instance, a \xE9t\xE9 int\xE9\
+      gr\xE9e \xE0 la carte mondiale des stocks de carbone. Elle exploite une pr\xE9\
+      c\xE9dente production r\xE9alis\xE9e dans le cadre du programme Global Soil\
+      \ Map (Mulder et al. 2016) et r\xE9sulte d\u2019un travail de cartographie num\xE9\
+      rique par mod\xE9lisation r\xE9alis\xE9 \xE0 partir des donn\xE9es ponctuelles\
+      \ issues des deux programmes nationaux IGCS et RMQS du GIS Sol.\n\nLa carte\
+      \ transmise \xE0 la FAO estime sur une grille de 1km de r\xE9solution les stocks\
+      \ de carbone sur 30 cm. Elle fournit des indications pr\xE9cieuses quant \xE0\
+      \ la distribution spatiale et la variabilit\xE9 des stocks de carbone dans les\
+      \ sols fran\xE7ais, avec toutefois des zones o\xF9 les estimations pr\xE9sentent\
+      \ de forts niveaux d\u2019incertitude, notamment en r\xE9gion montagneuse. Conform\xE9\
+      ment aux sp\xE9cifications du programme Global Soil Map (Arrouays et al., 2014),\
+      \ ces incertitudes sont symbolis\xE9es par des cartes du stock de carbone prenant\
+      \ en compte la borne inf\xE9rieure et sup\xE9rieure de l'intervalle de confiance.\
+      \ Ces cartes comprenant les intervalles de confiance, ainsi que la carte des\
+      \ stocks de carbone int\xE9gr\xE9e \xE0 la FAO sont disponibles en visualisation\
+      \ et en t\xE9l\xE9chargement ci-dessous. IMPORTANT : en cas d\u2019utilisation\
+      \ de ce jeu de donn\xE9es, il est fortement recommand\xE9 de prendre en compte\
+      \ les incertitudes fournies (cartes d\u2019intervalles de confiance).\n\nCe\
+      \ travail confirme les pr\xE9c\xE9dentes publications nationales puisque les\
+      \ stocks les plus faibles sont observ\xE9s en Languedoc-Roussillon (r\xE9gion\
+      \ fortement viticole et caract\xE9ris\xE9e par un climat chaud et des sols peu\
+      \ \xE9pais) et dans quelques zones de culture tr\xE8s intensive (Beauce Chartraine,\
+      \ Nord). Les stocks de carbone faibles \xE0 moyens (40-50 t/ha) sont caract\xE9\
+      ristiques des sols des grandes plaines de culture intensive de France ainsi\
+      \ que des sols limoneux comme par exemple le grand Bassin parisien, une partie\
+      \ du Bassin aquitain, le Toulousain et le sillon rhodanien. Les stocks de carbone\
+      \ moyennement \xE9lev\xE9s (50-70 t/ha) sont caract\xE9ristiques des grandes\
+      \ r\xE9gions foresti\xE8res ou fourrag\xE8res de France (Bretagne, Est, Massif\
+      \ central, Normandie) et les stocks de carbone les plus \xE9lev\xE9s correspondent\
+      \ \xE0 des situations climatiques (sols situ\xE9s en altitude), min\xE9ralogiques\
+      \ (sols volcaniques du Massif central) ou hydriques extr\xEAmes (marais de l\u2019\
+      Ouest, delta du Rh\xF4ne)."
+    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_gsm/wms?
+    type: ogc:wms
+mcf:
+  version: 1.0
+spatial:
+  scale: null
+  resolution: 1KM
+contact:
+  pointOfContact:
+    organization: INRA InfoSol
+    individualname: Le Bas, Christine
+    country: France
+    email: infosol@orleans.inra.fr
+    contactinstructions: email
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

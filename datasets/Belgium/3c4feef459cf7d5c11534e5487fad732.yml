@@ -1,0 +1,212 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 3c4feef459cf7d5c11534e5487fad732
+  hierarchylevel: dataset
+  datestamp: 20-6-2017
+  language: dut
+  language_alternate: eng
+  charset: utf8
+identification:
+  title: 'Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
+  abstract: 'Digital soil map of the Flemish Region: soil types. In accordance with
+    the classification system used: morphogenetic for inland Flanders (substrate,
+    texture class, drainage class, profile development group, phase and variant)
+
+    '
+  dates:
+    revision: '2017-06-20'
+    publication: '2016-06-20'
+    last revision: 20-6-2017
+  keywords:
+    keywords-0:
+      type: null
+      keywords:
+      - Bodem
+    keywords-1:
+      type: null
+      keywords:
+      - ondergrond
+      - bodemkaart
+      - bodemtextuur
+      - bodemprofiel
+    keywords-2:
+      type: null
+      keywords:
+      - DOV
+      - Vlaanderen
+      - Ondergrond
+      - Databank Ondergrond Vlaanderen
+      - Departement Omgeving
+      - VARIANTE VAN HET MOEDERMATERIAAL
+      - VARIANTE VAN DE PROFIELONTWIKKELING
+      - LANDBOUWSTREEK
+      - GEOMORFOLOGISCHE
+      - MORFOGENETISCH
+      - KUSTSTREEK
+      - BODEMTYPE
+    keywords-3:
+      type: theme
+      keywords:
+      - Regionaal
+    keywords-4:
+      type: theme
+      keywords:
+      - Herbruikbaar
+      - Kosteloos
+      - Vlaamse Open data
+      - Toegevoegd GDI-Vl
+      - Metadata GDI-Vl-conform
+      - Metadata INSPIRE-conform
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox:
+      - 2.529596548433145
+      - 50.674183817012334
+      - 5.936427854719213
+      - 51.505734479999425
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  status: onGoing
+  language: dut
+  charset: utf8
+  rights: no conditions apply
+  url: ''
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Vlaamse overheid, Departement Omgeving
+    individualname: Koning Albert
+    positionname: null
+    phone: null
+    fax: null
+    address: Koning Albert II-laan 20 bus 8
+    city: Brussel
+    administrativearea: null
+    postalcode: '1000'
+    country: Belgium
+    email: vpo.omgeving@vlaanderen.be
+    url: https://www.omgevingvlaanderen.be
+    contactinstructions: email
+  distributor:
+    organization: Databank Ondergrond Vlaanderen (DOV)
+    individualname: null
+    positionname: null
+    phone: +32 9 240 75 93
+    fax: null
+    address: Technologiepark-Zwijnaarde 68
+    city: Gent
+    administrativearea: null
+    postalcode: '9052'
+    country: "Belgi\xEB"
+    email: dov@vlaanderen.be
+    url: https://www.dov.vlaanderen.be
+distribution:
+  link-0:
+    url: https://www.dov.vlaanderen.be/geoserver/wms?
+    type: OGC:WMS
+    name: bodemkaart:bodemtypes
+    description: 'WMS-endpoint Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
+    function: null
+  link-1:
+    url: https://www.dov.vlaanderen.be/geoserver/wms?SERVICE=WMS&version=1.3.0&request=GetCapabilities
+    type: OGC:WMS-1.3.0-http-get-capabilities
+    name: bodemkaart:bodemtypes
+    description: 'WMS-capabilities Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
+    function: null
+  link-2:
+    url: https://www.dov.vlaanderen.be/geoserver/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    type: OGC:WMS-1.3.0-http-get-map
+    name: bodemkaart:bodemtypes
+    description: 'WMS-map Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
+    function: null
+  link-3:
+    url: https://www.dov.vlaanderen.be/geoserver/wfs?
+    type: OGC:WFS
+    name: bodemkaart:bodemtypes
+    description: 'WFS-endpoint Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
+    function: download
+  link-4:
+    url: https://www.dov.vlaanderen.be/geoserver/wfs?SERVICE=WFS&version=2.0.0&request=GetCapabilities
+    type: OGC:WFS-2.0.0-http-get-capabilities
+    name: bodemkaart:bodemtypes
+    description: 'WFS-capabilities Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
+    function: download
+  link-5:
+    url: https://www.dov.vlaanderen.be/geoserver/wfs?SERVICE=WFS&version=2.0.0&request=GetFeature
+    type: OGC:WFS-2.0.0-http-get-feature
+    name: bodemkaart:bodemtypes
+    description: 'WFS-feature Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
+    function: download
+  link-6:
+    url: https://www.dov.vlaanderen.be/geoserver/wms/kml?layers=bodemkaart:bodemtypes
+    type: GLG:KML-2.0-http-get-map
+    name: bodemkaart:bodemtypes
+    description: 'KML Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
+    function: null
+  link-7:
+    url: https://www.dov.vlaanderen.be/geoserver/gwc/service/wmts?
+    type: OGC:WMTS
+    name: bodemkaart:bodemtypes
+    description: 'WMTS-endpoint Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
+    function: null
+  link-8:
+    url: https://www.dov.vlaanderen.be/geoserver/gwc/service/wmts?REQUEST=GetCapabilities
+    type: OGC:WMTS-1.0.0-http-get-capabilities
+    name: bodemkaart:bodemtypes
+    description: 'WMTS-capabilities Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
+    function: null
+  link-9:
+    url: https://www.dov.vlaanderen.be/geoserver/gwc/service/wmts?REQUEST=GetTile
+    type: OGC:WMTS-1.0.0-http-get-tile
+    name: bodemkaart:bodemtypes
+    description: 'WMTS-tile Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
+    function: null
+  link-10:
+    url: https://www.milieuinfo.be/dms/d/a/workspace/SpacesStore/d2562600-6855-4c62-a96f-89c9f93a6b05/20170710_bodemkaart_2_0_download.zip
+    type: WWW:DOWNLOAD-1.0-http--download
+    name: Download Bodemkaart
+    description: Link naar download Bodemkaart
+    function: null
+  link-11:
+    url: https://www.dov.vlaanderen.be/portaal/?module=verkenner&pos=117979.5%2C170196.7&res=1.4000000000044093&layers=n%3Aomwrgbmrvl%3Bo%3Aref%2Cn%3Agrb_sel%3Bo%3Aref%2Cn%3Ato\%3Ato_topnzw_2009_raster_10k_tr%3Bo%3Aref%3Bt%3Awms%3Bv%3An%2Cn%3Abodemkaart\%3Abodemtypes%3Bo%3Adov%3Bt%3Awms%2Cn%3Abodemkaart\%3Asubstraten%3Bo%3Adov%3Bt%3Awms%2Cn%3Abodemkaart\%3Afasen%3Bo%3Adov%3Bt%3Awms%2Cn%3Abodemkaart\%3Avar_moedermateriaal%3Bo%3Adov%3Bt%3Awms%2Cn%3Abodemkaart\%3Avar_profielontwikkeling%3Bo%3Adov%3Bt%3Awms&do=doorprik
+    type: WWW:LINK-1.0-http--related
+    name: DOV bodemkaart
+    description: Link naar de bodemkaart in de DOV verkenner applicatie
+    function: null
+  wfs:
+    url: https://www.dov.vlaanderen.be/geoserver/wfs?
+    type: ogc:wfs
+    name: null
+  wms:
+    url: https://www.dov.vlaanderen.be/geoserver/bodemkaart/wms?layers=bodemtypes
+    type: ogc:wms
+    name: bodemtypes
+spatial:
+  scale: 1:20000
+  resolution: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

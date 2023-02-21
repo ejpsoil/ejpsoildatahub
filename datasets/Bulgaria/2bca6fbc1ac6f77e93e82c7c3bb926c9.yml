@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 2bca6fbc1ac6f77e93e82c7c3bb926c9
+  language: bul
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2009
+spatial:
+  scale: 1:400000
+  resolution: null
+identification:
+  language: bul
+  charset: utf8
+  title: Acidification of soils in Bulgaria
+  abstract: 'Soil Acidification in Bulgaria
+
+    '
+  dates:
+    pubblication: 2009
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Bulgaria
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - acidification
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Institute of soil science agrotechnology and plant protection `Nikola
+      Poushkarov`
+    individualname: Milena Kercheva
+    country: Bulgaria
+    email: mkercheva@abv.bg
+    contactinstructions: email
+distribution:
+  jpg:
+    url: http://eea.government.bg/bg/soer/2009/3quality/5soils_html_1d0dcc02.png
+    type: image/jpg
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

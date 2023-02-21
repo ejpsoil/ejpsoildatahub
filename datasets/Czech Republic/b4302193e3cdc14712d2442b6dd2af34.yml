@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: b4302193e3cdc14712d2442b6dd2af34
+  language: cze
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 1961
+spatial:
+  scale: 1:10000
+  resolution: null
+identification:
+  language: cze
+  charset: utf8
+  title: Mapy KPP
+  abstract: "Soil maps from National Soil Survey \n"
+  dates:
+    creation: 1961
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Czech Republic
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an individual date
+    - end: '1961'
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://mapy.vumop.cz/
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "V\xFDzkumn\xFD \xFAstav meliorac\xED a ochrany p\u016Fdy, v.v.i."
+    individualname: "Daniel \u017D\xED\u017Eala"
+    country: Czech Republic
+    email: data@vumop.cz
+    contactinstructions: email
+distribution:
+  html:
+    url: http://geoportal.vumop.cz
+    type: text/html
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

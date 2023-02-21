@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: d4022b137135f8c72a30c3b74b9965cb
+  language: cze
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2014
+spatial:
+  scale: 3,513888889
+  resolution: null
+identification:
+  language: cze
+  charset: utf8
+  title: "Potenci\xE1ln\xED zranitelnost p\u016Fd utu\u017Een\xEDm"
+  abstract: 'Map of potential soil compaction
+
+    '
+  dates:
+    last revision: 2014
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Czech Republic
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil compaction
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "V\xFDzkumn\xFD \xFAstav meliorac\xED a ochrany p\u016Fdy, v.v.i."
+    individualname: "Daniel \u017D\xED\u017Eala"
+    country: Czech Republic
+    email: data@vumop.cz
+    contactinstructions: email
+distribution:
+  html:
+    url: http://geoportal.vumop.cz
+    type: text/html
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

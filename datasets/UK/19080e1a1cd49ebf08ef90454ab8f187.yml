@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 19080e1a1cd49ebf08ef90454ab8f187
+  language: eng
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 8-10-2018
+spatial:
+  scale: 1:25000
+  resolution: null
+identification:
+  language: eng
+  charset: utf8
+  title: Map of soil erosion
+  abstract: 'Scotlands Soil Data. Map of soil erosion risk (partial cover)
+
+    '
+  dates:
+    last revision: 8-10-2018
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil erosion
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: The James Hutton Institute
+    individualname: Allan Lilly
+    country: UK
+    email: allan.lilly@hutton.ac.uk
+    contactinstructions: email
+distribution:
+  shp:
+    url: http://www.hutton.ac.uk/learning/natural-resource-datasets/soilshutton/soils-maps-scotland/download
+    type: application/shp
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

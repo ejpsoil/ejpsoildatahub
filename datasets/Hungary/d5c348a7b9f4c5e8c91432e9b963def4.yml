@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: d5c348a7b9f4c5e8c91432e9b963def4
+  language: hun
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2015
+spatial:
+  scale: null
+  resolution: 250m
+identification:
+  language: hun
+  charset: utf8
+  title: portartalom
+  abstract: 'Map of silt content; 0-30 cm
+
+    '
+  dates:
+    pubblication: 2015
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Hungary
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - texture
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "Nebih - Nemzeti \xC9lelmiszerl\xE1nc-biztons\xE1gi Hivatal"
+    individualname: "L\xE1szl\xF3 Jord\xE1n "
+    country: Hungary
+    email: ugyfelszolgalat@nebih.gov.hu
+    contactinstructions: email
+distribution:
+  geotiff:
+    url: http://airterkep.nebih.gov.hu/gis_portal/talajvedelem/pdf/aiir_raszterterkepek.rar
+    type: application/geotiff
+    name: null
+  HTML:
+    url: http://airterkep.nebih.gov.hu/gis_portal/talajvedelem/kiadv.htm
+    type: text/html
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 9238fb9fb8d5dd97b8f29743ab3e3c0a
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2005
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: ger
+  charset: utf8
+  title: General Soil Map (Austria)
+  abstract: "The General Soil Map is part of the Hydrological Atlas Austria (HA\xD6\
+    )\n"
+  dates:
+    last revision: 2005
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Austria
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '1997'
+    - end: '2005'
+  accessconstraints: null
+  rights: filled online order form
+  url: http://alpinesoils.eu/webgis_app/index.html
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Institute of Water Management, Hydrology and Hydraulic Engineering
+    individualname: ''
+    country: Austria
+    email: office@kunstundkulturverlag.at
+    contactinstructions: email
+distribution:
+  shp:
+    url: https://iwhw.boku.ac.at/hao/
+    type: application/shp
+    name: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

@@ -1,0 +1,82 @@
+metadata:
+  identifier: 16c5f1b2078612724def65115c292e24
+  language: fre
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 1-1-1969
+identification:
+  title: Carte des sols 1:100'000
+  abstract: 'Soil Map 1:100000. Vector database of the soil associations map of the
+    Grand Duchy of Luxembourg
+
+    '
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Luxembourg
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  extents:
+    spatial:
+    - bbox:
+      - 5.586528
+      - 49.321018
+      - 6.62763
+      - 50.266328
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  rights: no conditions apply
+  fees: ''
+  language: fre
+  charset: utf8
+  dates:
+    pubblication: 1-1-1969
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
+  url: https://map.geoportail.lu/theme/agriculture?layers=272-1637&zoom=8&lang=fr&version=3&X=669751&Y=6416190&opacities=1-1&bgLayer=orthogr_2013_global
+  status: onGoing
+  maintenancefrequency: continual
+distribution:
+  wms:
+    name: WMS
+    description: null
+    url: http://ws.geoportail.lu/250k
+    type: ogc:wms
+  WMS:
+    url: https://data.public.lu/fr/datasets/r/79ae39b4-9a86-4693-88d9-fdfc51a2f139
+    type: ogc:wms
+    name: WMS
+mcf:
+  version: 1.0
+spatial:
+  scale: 1:100000
+  resolution: null
+contact:
+  pointOfContact:
+    organization: "Minist\xE8re de l'Agriculture, de la Viticulture et de la Protection\
+      \ des consommateurs. Service de p\xE9dologie - Administration des services techniques\
+      \ de l\u2019agriculture"
+    individualname: Simone Marx
+    country: Luxembourg
+    email: pedologie@asta.etat.lu
+    contactinstructions: email
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null
