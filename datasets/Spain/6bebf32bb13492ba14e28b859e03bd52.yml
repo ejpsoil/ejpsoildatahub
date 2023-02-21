@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 6bebf32bb13492ba14e28b859e03bd52
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://WWW.cebas.csic.es
+spatial:
+  resolution: 35
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: CEBAS Tres Caminos
+  abstract: "topsoil only \n"
+  dates:
+    creation: 2008-2020
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Spain
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2008-2020
+  accessconstraints: Restricted
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: CSIC
+    country: Spain
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'topsoil only. Mapping: purposive. Depth intervals: defined as  topsoil/subsoil  only,
+      without any other desription. Uncertainty quantification: '
+distribution: {}

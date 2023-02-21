@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 9b284aca8ea46a4b11e248cca81a6506
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: "Legrain X., Demarcin P., Colinet G., Bock L.\_,cartographie des sols\
+    \ en Belgique\_,aper\xE7u historique et pr\xE9sentation des travaux actuels de\
+    \ valorisation et de r\xE9vision de la Carte Num\xE9rique des Sols de Wallonie.\
+    \ Biotechnol. Agron. Soc. Environ., 2011, 15(S2) pp. 647-656"
+spatial:
+  resolution: 1:20.000 (scale)
+  datatype: DERIVED Soil Profiles linked to the polygons
+identification:
+  language: null
+  charset: utf8
+  title: Digital Map of Walloon Soils
+  abstract: "Whole profile by soil horizons  \n"
+  dates:
+    creation: 1947-1991
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1947-1991
+  accessconstraints: Restricted
+  rights: ' Downloadable on demand (owner) ; online visualization (http://geoportail.wallonie.be/catalogue/c5bedf2b-1cac-4231-9d9a-854e0ef2c9ce.html) '
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: Public Service of Wallonia (SPW)
+    country: Belgium
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Whole profile by soil horizons . Mapping: Conventional mapping. Depth
+      intervals: Genetic-based horizons (A, Ap, B, C etc). Uncertainty quantification:
+      NO'
+distribution: {}

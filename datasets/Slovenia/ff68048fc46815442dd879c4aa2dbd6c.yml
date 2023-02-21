@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ff68048fc46815442dd879c4aa2dbd6c
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjK3bOLz_PuAhXB0qQKHTlFCNMQFjAEegQIAxAD&url=https%3A%2F%2Fwww.gov.si%2Fassets%2Fministrstva%2FMOP%2FPublikacije%2F4a9bb5ad59%2Fzavarovana_obmocja.pdf&usg=AOvVaw2SZZZN8vkyyIhkLd4TLdNO
+spatial:
+  resolution: 1:50 000 - 1:5000
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Protected areas of Slovenia
+  abstract: "Protected areas on a national and local level with the Natura 2000 protected\
+    \ areas in digital form (parcel-specific,no). http://www.arso.gov.si/narava/zavarovana%20obmo%c4%8dja/SeznamParkov.htm,https://etla.kis.si/KIS-WebGIS/#config=eTLA_JAVNI.xml,\
+    \  \n"
+  dates:
+    creation: 2011 - 2011
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2011 - 2011
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Slovenian Environment Agency
+    country: Slovenia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Protected areas on a national and local level with the Natura 2000
+      protected areas in digital form (parcel-specific,no). http://www.arso.gov.si/narava/zavarovana%20obmo%c4%8dja/SeznamParkov.htm,https://etla.kis.si/KIS-WebGIS/#config=eTLA_JAVNI.xml,
+      . Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution: {}

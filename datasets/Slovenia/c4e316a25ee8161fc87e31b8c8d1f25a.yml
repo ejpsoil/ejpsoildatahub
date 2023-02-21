@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: c4e316a25ee8161fc87e31b8c8d1f25a
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: 01:25,0
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Soil pH for Slovenia
+  abstract: "Evaluation of soil pH, based on the available data (extrapolated and\
+    \ correlated). The data is unofficial and in digital form (parcel-specific,no).\
+    \ \n"
+  dates:
+    creation: 1999 - 2014
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1999 - 2014
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Agricultural institute of Slovenia
+    country: Slovenia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Evaluation of soil pH, based on the available data (extrapolated and
+      correlated). The data is unofficial and in digital form (parcel-specific,no)..
+      Mapping: . Depth intervals: Genetic-based horizons (A, Ap, B, C etc). Uncertainty
+      quantification: '
+distribution: {}

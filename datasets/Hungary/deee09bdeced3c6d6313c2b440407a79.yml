@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: deee09bdeced3c6d6313c2b440407a79
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://gn.gak.hu/
+spatial:
+  resolution: null
+  datatype: FARMER_Block LPI,POLYGON WITH Land Parcel Identification (LPI) is  available
+    for farmer's block
+identification:
+  language: null
+  charset: utf8
+  title: "Farmer Diary Program on the Web (Webes Gazd\xE1lkod\xE1si Napl\xF3 Program)"
+  abstract: "yearly from questionnaires, farmer's estimatings Annual data of fertilizer\
+    \ and manure application, soil property changes, land cover data\u2026 for National\
+    \ Agri-Environmental Management Programme\n"
+  dates:
+    creation: '2020'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Hungary
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '2020'
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: regular monitoring, yearly
+contact:
+  pointOfContact:
+    organization: NEBIH (National Food Chain Safety Office)
+    country: Hungary
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'yearly from questionnaires, farmer''s estimatings. Mapping: . Depth
+      intervals: otherRestrictions. Uncertainty quantification: '
+distribution: {}

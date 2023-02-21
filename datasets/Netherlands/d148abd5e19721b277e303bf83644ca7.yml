@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: d148abd5e19721b277e303bf83644ca7
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://basisregistratieondergrond.nl/inhoud-bro/registratieobjecten/bodem-grondonderzoek/booronderzoek-bhr/bodemkundige-bhr/
+spatial:
+  resolution: null
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: Basisregistratie Ondergrond - Borehole research - profile descriptions
+  abstract: "borehole description \n"
+  dates:
+    creation: 1985-present
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Netherlands
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1985-present
+  accessconstraints: No restrictions
+  rights: www.broloket.nl or www.pdok.nl
+  maintenancefrequency: data is collected when soil map needs to be updated (different
+    for different parts of the country)
+contact:
+  pointOfContact:
+    organization: Ministry of the Interior and Kingdom Relations
+    country: Netherlands
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'borehole description. Mapping: . Depth intervals: Genetic-based horizons
+      (A, Ap, B, C etc). Uncertainty quantification: '
+distribution: {}

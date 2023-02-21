@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 89c8f0b3e99c13b321bb41d7e7af2a5b
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://research.wur.nl/en/publications/geochemische-bodematlas-van-nederland
+spatial:
+  resolution: null
+  datatype: null
+identification:
+  language: null
+  charset: utf8
+  title: Geochemische atlas van Nederland
+  abstract: ''
+  dates:
+    creation: ''
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Netherlands
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: ''
+    country: Netherlands
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution: {}

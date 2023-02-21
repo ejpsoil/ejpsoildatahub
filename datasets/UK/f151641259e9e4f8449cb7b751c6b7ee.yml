@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: f151641259e9e4f8449cb7b751c6b7ee
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://map.bgs.ac.uk/arcgis/services/UKSO/UKSO_BGS/MapServer/WMSServer?
+spatial:
+  resolution: 1kn grid
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: Bare Soil Water Erosion Potential
+  abstract: 'point samples - up to 4 points/km2 Map covers England, Wales and Scotland.   Fixed
+    depth sampling - 5-20cm.          A 1:50,000 vector map is available under licence
+
+    '
+  dates:
+    creation: 1968-2013
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1968-2013
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: British Geological Survey
+    country: UK
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'point samples - up to 4 points/km2. Mapping: Geostatistically interpolated
+      map. Depth intervals: Other  depth intervals (specify in comments). Uncertainty
+      quantification: '
+distribution: {}

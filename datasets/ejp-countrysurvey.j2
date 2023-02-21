@@ -1,0 +1,55 @@
+mcf:
+    version: 1.0
+
+metadata:
+    identifier: {{ md['identifier'] }} 
+    language: eng
+    charset: utf8
+    hierarchylevel: dataset
+    {% if md['ExternalID'] %}
+    dataseturi: {{ md['ExternalID'].split(';') | first }} 
+    {% endif %}
+spatial:
+    resolution:  {{md['Spatial resolution']}} 
+    datatype: {{md['spatial entity']}}
+
+identification:
+    language: 
+    charset: utf8
+    title: "{{ md['resource title'] }}"
+    abstract: >
+        {{ md['data collection methodology'] }} {{ md['YOUR OTHER COMMENTS'] }}
+    dates:
+        creation: "{{ md['Reference year'] }}"
+    keywords:
+        default:
+            keywords:
+                - EJP Country survey
+        country:
+            keywords: [{{ md['Country'] }}]
+            vocabulary:
+                    name: Country
+                    url: http://publications.europa.eu/resource/authority/country
+    topiccategory:
+        - geoscientificInformation
+    extents:
+        temporal:
+            - begin: "{{ md['Reference year'] }}"
+    accessconstraints: "{{ md['Sharing policy'] }}"
+    rights: "{{ md['otherConstraints'] }}"
+    maintenancefrequency: {{ md['frequency of data collection']}}
+
+contact:
+    pointOfContact: 
+        organization: "{{ md['Database owner'] }}"
+        country: {{ md['Country'] }}
+
+dataquality:
+    scope:
+        level: dataset
+    lineage:
+        statement: "{{ md['data collection methodology'] }}. Mapping: {{ md['method of mapping'] }}. Depth intervals: {{ md['depth intervals'] }}. Uncertainty quantification: {{ md['with uncertainty quantification'] }}"
+
+
+
+

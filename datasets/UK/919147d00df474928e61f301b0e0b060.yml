@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 919147d00df474928e61f301b0e0b060
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.ceh.ac.uk/crops2015
+spatial:
+  resolution: Minimum classification area is 2ha
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: "CEH Land Cover plus\_Crops"
+  abstract: "Mixed sampling type The crops from 2016 onwards are winter wheat (including\
+    \ oats), spring wheat, winter barley, spring barley, oilseed rape, field beans,\
+    \ potatoes, sugar beet, maize, and improved grass. Other cereals, root crops,\
+    \ early potatoes, and vegetables are grouped in a class called \u2018other\u2019\
+    .\n"
+  dates:
+    creation: 2015-2019
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2015-2019
+  accessconstraints: Restricted
+  rights: ''
+  maintenancefrequency: regular monitoring, yearly
+contact:
+  pointOfContact:
+    organization: UK Centre for Ecology & Hydrology
+    country: UK
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Mixed sampling type. Mapping: Land parcels are categorised within
+      the Land Cover Map spatial framework using satellite data - Copernicus Sentinel-1
+      C-band SAR (Synthetic Aperture Radar) and, from 2016 onwards, Sentinel-2 optical
+      data. . Depth intervals: . Uncertainty quantification: '
+distribution: {}

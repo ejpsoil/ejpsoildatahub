@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: b523c93f1f4cf7cf294c0c47f501582a
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://kpp.vumop.cz
+spatial:
+  resolution: 70.0
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: "Komplexn\xED pr\u016Fzkum p\u016Fd (Systematic Soil Survey)"
+  abstract: 'profile sampling points  and polygon maps available, inluding map of
+    texture classes and parent material (all in 1:10.000)
+
+    '
+  dates:
+    creation: 1961-1971
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Czech republic
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1961-1971
+  accessconstraints: Restricted
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: Ministry of Agriculture Czech Republic
+    country: Czech republic
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'profile sampling. Mapping: conventional mapping. Depth intervals:
+      Genetic-based horizons (A, Ap, B, C etc). Uncertainty quantification: NO'
+distribution: {}

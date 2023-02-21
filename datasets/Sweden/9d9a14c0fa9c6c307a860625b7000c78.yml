@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 9d9a14c0fa9c6c307a860625b7000c78
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://gpt.vic-metria.nu/data/land/NMD/NMD2018_ProductDescription_ENG.pdf
+spatial:
+  resolution: 10 km
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: National Land Cover Database (NMD)
+  abstract: 'We have limited information on this data set. If interesting we could
+    look for more detailed information.
+
+    '
+  dates:
+    creation: 2017-2019
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Sweden
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2017-2019
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: regular  monitoring 2-5 years
+contact:
+  pointOfContact:
+    organization: SEPA (Swedish Environmental Protection Agency)
+    country: Sweden
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution: {}

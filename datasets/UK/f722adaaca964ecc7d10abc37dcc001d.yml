@@ -1,0 +1,105 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 6a41cbab-6d8a-4af6-a622-bc0f6dcd8372
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.data.gov.uk/api/2/rest/harvestobject/ee455457-06e1-4f18-baf1-cc73c5385447/xml
+  datestamp: '2020-03-19'
+spatial:
+  resolution: 1km grid
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: Indicative Flood Risk Areas (shapefiles)
+  abstract: "Set of shapefiles defining Indicative Flood Risk Areas for local risk.\
+    \  Indicative Flood Risk Areas are provided by the Environment Agency for use\
+    \ by Lead Local Flood Authorities in England in their review during 2017 of Preliminary\
+    \ Flood Risk Assessments and Flood Risk Areas under the Flood Risk Regulations.\n\
+    \nThe Indicative Flood Risk Areas are primarily based on an aggregated 1km square\
+    \ grid Updated Flood Map for Surface Water (1 in 100 and 1000 annual probability\
+    \ rainfall), informally referred to as the \u201Cblue square map\u201D. These\
+    \ are 1km grids across England and consist of the following data layers:\n\n\u2022\
+    \tSurface Water Flood Risk Exposure Grid \u2013 1km square grid that shows places\
+    \ above the flood risk threshold defined, using the 1 in 100 and 1000 annual probability\
+    \ (deep) Flood Map for Surface Water.\n\u2022\tFlood risk thresholds used to generate\
+    \ the \u201Cblue Squares\u201D:\n-\tNumber of people > 200\n-\tNumber of critical\
+    \ services, including electricity and water > 1\n-\tNumber of non-residential\
+    \ properties > 20 \n\u2022\tCluster Maps \u2013 are aggregations of 3km by 3km\
+    \ squares that each contain at least 5 touching \"blue squares\" (i.e. 1km grid\
+    \ squares where one of the thresholds above is exceeded)\n\u2022\tCommunities\
+    \ at Risk by Lead Local Flooding Authority\n\u2022\tPeople Sensitivity Map by\
+    \ Lead Local Flood Authority. Attribution statement: \xA9 Environment Agency copyright\
+    \ and/or database right 2016. All rights reserved.\nContains public sector information\
+    \ licensed under the Open Government Licence"
+  dates:
+    creation: '2017-01-20'
+    revision: '2017-01-20'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    keywords-0:
+      type: theme
+      keywords:
+      - Indicative Flood Risk Area
+      - OpenData
+    keywords-1:
+      type: theme
+      keywords:
+      - flood
+  topiccategory:
+  - environment
+  extents:
+    temporal:
+    - begin: '2016-01-01'
+      end: '2016-12-31'
+    spatial:
+    - bbox:
+      - -6.236
+      - 49.943
+      - 2.072
+      - 55.816
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: regular monitoring, yearly
+  status: null
+contact:
+  pointOfContact:
+    organization: Environment Agency
+    country: UK
+    individualname: null
+    positionname: null
+    phone: null
+    fax: null
+    address: null
+    city: null
+    administrativearea: null
+    postalcode: null
+    email: metadata@environment-agency.gov.uk
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution:
+  link-0:
+    url: https://environment.data.gov.uk/DefraDataDownload/?mapService=EA/IndicativeFloodRiskAreas&Mode=spatial
+    type: DSP:ESRI
+    name: Indicative_Flood_Risk_Shapefiles_Download
+    description: Indicative Flood Risk Shapefiles Download on the Data Services Platform
+    function: null
+  link-1:
+    url: https://support.environment.data.gov.uk/hc/en-gb
+    type: 'http:'
+    name: DSP_CUSTOMER_FORUM
+    description: DEFRA Data Services Platform Customer Forum
+    function: null

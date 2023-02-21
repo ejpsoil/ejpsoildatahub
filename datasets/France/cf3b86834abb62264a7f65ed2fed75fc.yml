@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: cf3b86834abb62264a7f65ed2fed75fc
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://bdat.gissol.fr
+spatial:
+  resolution: very heterogeneous from 1 soil test/10 ha to 1/100 ha in average
+  datatype: NATURAL_POLYGONs,polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Soil test database
+  abstract: 'bluk samples only, soil test sampling strategy eg farmer''s decision
+    top soil
+
+    '
+  dates:
+    creation: '2013'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - France
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '2013'
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: "Groupement d'Int\xE9r\xEAt Scientifique SOL and INRAE"
+    country: France
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'bluk samples only, soil test sampling strategy eg farmer''s decision.
+      Mapping: spatial statistics. Depth intervals: Other  depth intervals (specify
+      in comments). Uncertainty quantification: NO'
+distribution: {}

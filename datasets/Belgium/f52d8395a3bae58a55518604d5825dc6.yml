@@ -2,71 +2,47 @@ mcf:
   version: 1.0
 metadata:
   identifier: f52d8395a3bae58a55518604d5825dc6
-  language: dut
-  language_alternate: eng
+  language: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 24-6-2015
+  dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/64e8a11d-5602-4ad5-b370-e4d396fe218f
 spatial:
-  scale: 1:250000
-  resolution: null
+  resolution: 1:250.000
+  datatype: NATURAL_POLYGONs,polygons with natural boundaries
 identification:
-  language: dut
+  language: null
   charset: utf8
   title: WRB Reference Soil Groups 250k
-  abstract: 'WRB Reference Soil Groups 250k: The soil map of Belgium according to
-    the international World Reference Base (WRB) soil classification system is a translation
-    of the soil map
-
-    '
+  abstract: "borehole/profile \n"
   dates:
-    pubblication: 24-6-2015
+    creation: 1947-1978
   keywords:
     default:
       keywords:
-      - soil type
-      - basic soil properties
+      - EJP Country survey
     country:
       keywords:
       - Belgium
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
-    props:
-      keywords:
-      - Soil Map
-      vocabulary:
-        name: Agrovoc - Soil properties
-        url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: ''
-    - end: ''
-  accessconstraints: no limitation
-  rights: no conditions apply
-  url: ''
-  status: onGoing
-  maintenancefrequency: continual
+    - begin: 1947-1978
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
 contact:
   pointOfContact:
-    organization: Vlaamse overheid, Departement Omgeving
-    individualname: Koning Albert
+    organization: Vlaamse overheid, Departement Omgeving, Vlaams Planbureau voor Omgeving
+      (VPO)
     country: Belgium
-    email: vpo.omgeving@vlaanderen.be
-    contactinstructions: email
-distribution:
-  wfs:
-    url: https://www.dov.vlaanderen.be/geoserver/wfs?SERVICE=WFS&version=1.1.0&request=GetFeature
-    type: ogc:wfs
-    name: null
-  SQLITE:
-    url: https://www.milieuinfo.be/dms/d/a/workspace/SpacesStore/522846b2-ec51-470f-91d6-16fd36265caa/wrb_250k.zip
-    type: application/sqlite
-    name: null
 dataquality:
   scope:
     level: dataset
   lineage:
-    statement: null
+    statement: 'borehole/profile. Mapping: . Depth intervals: . Uncertainty quantification:
+      NO'
+distribution: {}

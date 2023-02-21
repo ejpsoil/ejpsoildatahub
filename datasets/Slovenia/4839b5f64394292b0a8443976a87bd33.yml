@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 4839b5f64394292b0a8443976a87bd33
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: "Zorn M, Komac B (2007) Probability modelling of landslide hazard. Acta\
+    \ Geogaphica Slovenica 47:139\u2013169"
+spatial:
+  resolution: 05:10,0
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Landslide probability map of Slovenia
+  abstract: "6 levels of landslide probability, calculated from lithological and geographical\
+    \ data and land use types, in digital form (parcel-specific,no). \n"
+  dates:
+    creation: 2005 - 2005
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2005 - 2005
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Geological Survey of Slovenia
+    country: Slovenia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '6 levels of landslide probability, calculated from lithological and
+      geographical data and land use types, in digital form (parcel-specific,no)..
+      Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution: {}

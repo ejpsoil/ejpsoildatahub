@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: cc3169b728163fa97c504e2dbb985f69
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.mepar.hu/
+spatial:
+  resolution: sccale,1:5000, 435000 physical blokk
+  datatype: PHYSICAL_Block_LPI,POLYGON WITH Land Parcel Identification (LPI) is  available
+    for physical/topographical block
+identification:
+  language: null
+  charset: utf8
+  title: Hungarian Identification System of Agricultural Parcels
+  abstract: 'ortphoto and satellite map, only used to create financial rural support
+    decision for farmers spatial background of parcel-based management data
+
+    '
+  dates:
+    creation: '2020'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Hungary
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '2020'
+  accessconstraints: otherRestrictions
+  rights: free,interactive map, not downloadable data; raw data,with permission
+  maintenancefrequency: regular monitoring, yearly
+contact:
+  pointOfContact:
+    organization: "National Center of Land Cases (Nemzeti F\xF6ld\xFCgyi K\xF6zpont)"
+    country: Hungary
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'ortphoto and satellite map, only used to create financial rural support
+      decision for farmers. Mapping: spatial statistics; supportable and non-supportable
+      fields of the country. Depth intervals: otherRestrictions. Uncertainty quantification: '
+distribution: {}

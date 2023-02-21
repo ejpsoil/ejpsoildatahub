@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 7c67b8eecc5e85d1a68df31ae611b2ec
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: null
+  datatype: null
+identification:
+  language: null
+  charset: utf8
+  title: The long-term field trials in the Institute of Horticulture
+  abstract: 'Samples from topsoil 0-20; 0-30; 30-60 cm
+
+    '
+  dates:
+    creation: 1945-2020
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Latvia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1945-2020
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: regular monitoring, yearly
+contact:
+  pointOfContact:
+    organization: 'Latvia University of Life Sciences and Technologies '
+    country: Latvia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Samples from topsoil. Mapping: . Depth intervals: Other  depth intervals
+      (specify in comments). Uncertainty quantification: NO'
+distribution: {}

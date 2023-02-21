@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: f044ac80173a70d82577e92e9aa2de7d
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: null
+  datatype: FARMER_Block LPI,POLYGON WITH Land Parcel Identification (LPI) is  available
+    for farmer's block
+identification:
+  language: null
+  charset: utf8
+  title: Skiftesdata
+  abstract: ''
+  dates:
+    creation: ''
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Sweden
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+  accessconstraints: Restricted
+  rights: This is what Swedish farmers report to EU
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: SBA (Swedish Board of Agriculture)
+    country: Sweden
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution: {}
