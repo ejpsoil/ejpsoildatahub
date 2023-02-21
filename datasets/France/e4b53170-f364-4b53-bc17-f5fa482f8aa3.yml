@@ -1,5 +1,3 @@
-mcf:
-  version: 1.0
 metadata:
   identifier: e4b53170-f364-4b53-bc17-f5fa482f8aa3
   language: fre
@@ -7,19 +5,12 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2-6-2015
-spatial:
-  scale: null
-  resolution: 1KM
 identification:
-  language: fre
-  charset: utf8
   title: "Contamination en \xE9l\xE9ments traces m\xE9talliques (ETM)"
   abstract: 'Eight  trace elements (Cd, Cr, Cu, Hg, Ni, Pb, Se, Zn) in agricultural
     soils in France, results of data collection at national level, 2007
 
     '
-  dates:
-    pubblication: 2-6-2015
   keywords:
     default:
       keywords:
@@ -36,17 +27,42 @@ identification:
       vocabulary:
         name: Agrovoc - Soil properties
         url: http://aims.fao.org/aos/agrovoc/c_330883
-  topiccategory:
-  - geoscientificInformation
   extents:
+    spatial:
+    - bbox:
+      - -5.609708349704554
+      - 41.21661522493401
+      - 10.787380456002715
+      - 51.13508563985381
+      crs: '4326'
     temporal:
     - begin: an interval of dates
     - end: ''
-  accessconstraints: no limitation
   rights: no conditions apply
+  fees: ''
+  language: fre
+  charset: utf8
+  dates:
+    pubblication: 2-6-2015
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
   url: https://www.gissol.fr/thematiques/etm-50
   status: onGoing
   maintenancefrequency: continual
+distribution:
+  wms:
+    name: teneur_cd_tot_bdetm
+    description: "Carte des teneurs en Cadmium total par petite r\xE9gion agricole.\
+      \ Les analyses proviennent de la Base de Donn\xE9es des Elements Traces M\xE9\
+      talliques (BDETM)"
+    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_bdetm/wms?
+    type: ogc:wms
+mcf:
+  version: 1.0
+spatial:
+  scale: null
+  resolution: 1KM
 contact:
   pointOfContact:
     organization: INRA InfoSol
@@ -54,11 +70,6 @@ contact:
     country: France
     email: infosol@orleans.inra.fr
     contactinstructions: email
-distribution:
-  wms:
-    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_bdetm/wms?
-    type: ogc:wms
-    name: teneur_cd_tot_bdetm
 dataquality:
   scope:
     level: dataset

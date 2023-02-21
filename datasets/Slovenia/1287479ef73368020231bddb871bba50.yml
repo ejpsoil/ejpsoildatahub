@@ -53,7 +53,7 @@ contact:
     country: Slovenia
     email: rkg.mko@gov.si
     contactinstructions: email
-distribution: null
+distribution: {}
 dataquality:
   scope:
     level: dataset

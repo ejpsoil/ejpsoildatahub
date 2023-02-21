@@ -1,5 +1,3 @@
-mcf:
-  version: 1.0
 metadata:
   identifier: 0d27c5fee551535731d23d6b0699b208
   language: fre
@@ -7,18 +5,11 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2013
-spatial:
-  scale: null
-  resolution: 5m
 identification:
-  language: fre
-  charset: utf8
   title: Carbone organique dans l'horizon de surface
   abstract: 'Topsoil Organic Carbon Content%
 
     '
-  dates:
-    pubblication: 2013
   keywords:
     default:
       keywords:
@@ -36,17 +27,44 @@ identification:
       vocabulary:
         name: Agrovoc - Soil properties
         url: http://aims.fao.org/aos/agrovoc/c_330883
-  topiccategory:
-  - geoscientificInformation
   extents:
+    spatial:
+    - bbox:
+      - 5.586528
+      - 49.321018
+      - 6.62763
+      - 50.266328
+      crs: '4326'
     temporal:
     - begin: an interval of dates
     - end: ''
-  accessconstraints: no limitation
   rights: no conditions apply
+  fees: ''
+  language: fre
+  charset: utf8
+  dates:
+    pubblication: 2013
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
   url: https://map.geoportail.lu/theme/agriculture?layers=704-1637&zoom=8&lang=fr&version=3&X=669751&Y=6416190&opacities=1-1&bgLayer=orthogr_2013_global
   status: onGoing
   maintenancefrequency: continual
+distribution:
+  wms:
+    name: WMS
+    description: null
+    url: http://ws.geoportail.lu/250k
+    type: ogc:wms
+  GEOTiff:
+    url: https://data.public.lu/fr/datasets/r/70a465d6-b907-4087-807a-147ccbf31de2
+    type: application/geotiff
+    name: null
+mcf:
+  version: 1.0
+spatial:
+  scale: null
+  resolution: 5m
 contact:
   pointOfContact:
     organization: "Minist\xE8re de l'Agriculture, de la Viticulture et de la Protection\
@@ -56,15 +74,6 @@ contact:
     country: Luxembourg
     email: pedologie@asta.etat.lu
     contactinstructions: email
-distribution:
-  wms:
-    url: http://ws.geoportail.lu/250k
-    type: ogc:wms
-    name: WMS
-  GEOTiff:
-    url: https://data.public.lu/fr/datasets/r/70a465d6-b907-4087-807a-147ccbf31de2
-    type: application/geotiff
-    name: null
 dataquality:
   scope:
     level: dataset

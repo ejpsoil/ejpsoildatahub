@@ -2,17 +2,12 @@ mcf:
   version: 1.0
 metadata:
   identifier: fffdf08f-8ee8-4802-8354-5e6df694b0c7
+  hierarchylevel: dataset
+  datestamp: 19-6-2017
   language: ger
   language_alternate: null
   charset: utf8
-  hierarchylevel: dataset
-  datestamp: 19-6-2017
-spatial:
-  scale: 1:1 M
-  resolution: null
 identification:
-  language: ger
-  charset: utf8
   title: "Stoffe in B\xF6den in Deutschland"
   abstract: 'Soil substances in Germany. In addition to substances that serve as nutrients
     for the plants, there are also pollutants in the soil which in higher concentrations
@@ -22,7 +17,50 @@ identification:
     '
   dates:
     creation: 19-6-2017
+    publication: '2022-01-03'
+    revision: '2022-03-22'
   keywords:
+    keywords-0:
+      type: theme
+      keywords:
+      - Soil
+      - Boden
+    keywords-1:
+      type: theme
+      keywords:
+      - Belastung
+      - Entstehungsart
+      - Schadstoff
+      - Gesteinszusammensetzung
+      - Bodeneigenschaften
+    keywords-2:
+      type: theme
+      keywords:
+      - Deutschland
+      - Hintergrundwerte
+      - Anorganische Spurenstoffe
+      - Boden
+      - Schwermetall
+      - Antimon
+      - Arsen
+      - Beryllium
+      - Blei
+      - Cadmium
+      - Chrom
+      - Kobalt
+      - Kupfer
+      - "Molybd\xE4n"
+      - Nickel
+      - Quecksilber
+      - Selen
+      - Thallium
+      - Uran
+      - Vanadium
+      - Zink
+    keywords-3:
+      type: place
+      keywords:
+      - Bundesrepublik Deutschland
     default:
       keywords:
       - soil degradation processes
@@ -41,26 +79,63 @@ identification:
   topiccategory:
   - geoscientificInformation
   extents:
+    spatial:
+    - bbox:
+      - 5.472023
+      - 47.17469
+      - 15.494728
+      - 55.061726
     temporal:
     - begin: ''
     - end: ''
   accessconstraints: no limitation
+  status: onGoing
+  language: ger
+  charset: utf8
   rights: no conditions apply
   url: https://geoviewer.bgr.de/mapapps/resources/apps/geoviewer/index.html?lang=de&serviceURL=https://services.bgr.de/wms/boden/bodenstoffe/%3F
-  status: onGoing
   maintenancefrequency: continual
 contact:
   pointOfContact:
     organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
     individualname: Stegger Ulrich
+    positionname: null
+    phone: null
+    fax: null
+    address: null
+    city: null
+    administrativearea: null
+    postalcode: null
     country: Germany
     email: geodatenmanagement@bgr.de
+    url: https://www.bgr.bund.de
     contactinstructions: email
 distribution:
+  link-0:
+    url: https://download.bgr.de/bgr/boden/HGW1000/GeoPackage/hgw1000_v20.zip
+    type: null
+    name: HGW1000 (GeoPackage)
+    description: HGW1000 im Format GeoPackage
+    function: download
+  link-1:
+    url: https://www.labo-deutschland.de/documents/LABO_Fassung_HGW_Bericht_02_2017.pdf
+    type: null
+    name: null
+    description: "Bericht der LABO-Bund/L\xE4nder-Arbeitsgemeinschaft Bodenschutz"
+    function: information
+  link-2:
+    url: https://services.bgr.de/boden/hgw1000
+    type: null
+    name: null
+    description: Karte im BGR-Geoviewer
+    function: information
   wms:
     url: https://services.bgr.de/wms/boden/bodenstoffe/?SERVICE=WMS&REQUEST=GetCapabilities
     type: ogc:wms
     name: 4,6,13,20,27,34,41,48,55,62,69,76,83,90,97,104
+spatial:
+  scale: 1:1 M
+  resolution: null
 dataquality:
   scope:
     level: dataset

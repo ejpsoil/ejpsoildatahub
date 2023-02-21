@@ -2,24 +2,36 @@ mcf:
   version: 1.0
 metadata:
   identifier: 044d6d9926105ccb5208165190ac8b95
+  hierarchylevel: dataset
+  datestamp: 2012
   language: eng
   language_alternate: null
   charset: utf8
-  hierarchylevel: dataset
-  datestamp: 2012
-spatial:
-  scale: 1:50000
-  resolution: null
 identification:
-  language: eng
-  charset: utf8
   title: Soil Layer depth 50k
   abstract: 'Simplified soil layer depth (thickness)
 
     '
   dates:
+    creation: '2008-08-22'
+    revision: '2010-01-04'
     pubblication: 2012
   keywords:
+    keywords-0:
+      type: null
+      keywords:
+      - Geology
+    keywords-1:
+      type: null
+      keywords:
+      - Soils
+      - Soil classification
+      - Geology
+      - Soil properties
+    keywords-2:
+      type: null
+      keywords:
+      - NERC_DDC
     default:
       keywords:
       - soil type
@@ -39,26 +51,62 @@ identification:
   topiccategory:
   - geoscientificInformation
   extents:
+    spatial:
+    - bbox:
+      - -6.8647
+      - 49.7974
+      - 3.1504
+      - 60.8098
     temporal:
     - begin: an individual date
     - end: '2012'
   accessconstraints: no limitation
+  status: onGoing
+  language: eng
+  charset: utf8
   rights: no conditions apply
   url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=SPMThickness
-  status: onGoing
   maintenancefrequency: continual
 contact:
   pointOfContact:
     organization: British Geological Survey
     individualname: David Donnelly
+    positionname: null
+    phone: +44 115 936 3100
+    fax: null
+    address: Environmental Science Centre,Keyworth
+    city: NOTTINGHAM
+    administrativearea: NOTTINGHAMSHIRE
+    postalcode: NG12 5GG
     country: UK
     email: enquiries@bgs.ac.uk
     contactinstructions: email
+  distributor:
+    organization: British Geological Survey
+    individualname: Enquiries
+    positionname: null
+    phone: 0115 936 3143
+    fax: 0115 936 3276
+    address: Environmental Science Centre, Nicker Hill, Keyworth
+    city: NOTTINGHAM
+    administrativearea: NOTTINGHAMSHIRE
+    postalcode: NG12 5GG
+    country: United Kingdom
+    email: enquiries@bgs.ac.uk
 distribution:
+  link-0:
+    url: http://www.bgs.ac.uk/
+    type: HTTP
+    name: BGS Homepage
+    description: The BGS Homepage is an entry point to the BGS data services.
+    function: information
   wms:
     url: https://map.bgs.ac.uk/arcgis/services/UKSO/UKSO_BGS/MapServer/WMSServer?
     type: ogc:wms
     name: Parent.Material.Soil.layer.thickness, Parent.Material.Soil.layer.thickness.1km
+spatial:
+  scale: 1:50000
+  resolution: null
 dataquality:
   scope:
     level: dataset

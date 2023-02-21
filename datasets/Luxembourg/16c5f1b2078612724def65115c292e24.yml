@@ -1,5 +1,3 @@
-mcf:
-  version: 1.0
 metadata:
   identifier: 16c5f1b2078612724def65115c292e24
   language: fre
@@ -7,19 +5,12 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 1-1-1969
-spatial:
-  scale: 1:100000
-  resolution: null
 identification:
-  language: fre
-  charset: utf8
   title: Carte des sols 1:100'000
   abstract: 'Soil Map 1:100000. Vector database of the soil associations map of the
     Grand Duchy of Luxembourg
 
     '
-  dates:
-    pubblication: 1-1-1969
   keywords:
     default:
       keywords:
@@ -37,17 +28,44 @@ identification:
       vocabulary:
         name: Agrovoc - Soil properties
         url: http://aims.fao.org/aos/agrovoc/c_330883
-  topiccategory:
-  - geoscientificInformation
   extents:
+    spatial:
+    - bbox:
+      - 5.586528
+      - 49.321018
+      - 6.62763
+      - 50.266328
+      crs: '4326'
     temporal:
     - begin: ''
     - end: ''
-  accessconstraints: no limitation
   rights: no conditions apply
+  fees: ''
+  language: fre
+  charset: utf8
+  dates:
+    pubblication: 1-1-1969
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
   url: https://map.geoportail.lu/theme/agriculture?layers=272-1637&zoom=8&lang=fr&version=3&X=669751&Y=6416190&opacities=1-1&bgLayer=orthogr_2013_global
   status: onGoing
   maintenancefrequency: continual
+distribution:
+  wms:
+    name: WMS
+    description: null
+    url: http://ws.geoportail.lu/250k
+    type: ogc:wms
+  WMS:
+    url: https://data.public.lu/fr/datasets/r/79ae39b4-9a86-4693-88d9-fdfc51a2f139
+    type: ogc:wms
+    name: WMS
+mcf:
+  version: 1.0
+spatial:
+  scale: 1:100000
+  resolution: null
 contact:
   pointOfContact:
     organization: "Minist\xE8re de l'Agriculture, de la Viticulture et de la Protection\
@@ -57,15 +75,6 @@ contact:
     country: Luxembourg
     email: pedologie@asta.etat.lu
     contactinstructions: email
-distribution:
-  wms:
-    url: http://ws.geoportail.lu/250k
-    type: ogc:wms
-    name: WMS
-  WMS:
-    url: https://data.public.lu/fr/datasets/r/79ae39b4-9a86-4693-88d9-fdfc51a2f139
-    type: ogc:wms
-    name: WMS
 dataquality:
   scope:
     level: dataset

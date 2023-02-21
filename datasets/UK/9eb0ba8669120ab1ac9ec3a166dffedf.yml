@@ -1,5 +1,3 @@
-mcf:
-  version: 1.0
 metadata:
   identifier: 9eb0ba8669120ab1ac9ec3a166dffedf
   language: eng
@@ -7,17 +5,10 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 26-6-2014
-spatial:
-  scale: null
-  resolution: 1KM
 identification:
-  language: eng
-  charset: utf8
   title: CS - Topsoil - Soil Moisture
   abstract: "Countryside Survey (CS) topsoil gravimetric moisture (%) data is representative\
     \ of 0\u201315cm soil depth\n"
-  dates:
-    pubblication: 26-6-2014
   keywords:
     default:
       keywords:
@@ -35,17 +26,40 @@ identification:
       vocabulary:
         name: Agrovoc - Soil properties
         url: http://aims.fao.org/aos/agrovoc/c_330883
-  topiccategory:
-  - geoscientificInformation
   extents:
+    spatial:
+    - bbox:
+      - -7.6746
+      - 49.9544
+      - 1.7581
+      - 60.8493
+      crs: '4326'
     temporal:
     - begin: an interval of dates
     - end: ''
-  accessconstraints: no limitation
   rights: no conditions apply
+  fees: ''
+  language: eng
+  charset: utf8
+  dates:
+    pubblication: 26-6-2014
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
   url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=CEHTSSoilMoisture
   status: onGoing
   maintenancefrequency: continual
+distribution:
+  wms:
+    name: SO.SoilTheme.Moisture
+    description: null
+    url: https://catalogue.ceh.ac.uk/maps/6372b558-ba64-4fbe-8766-019e01535b37?
+    type: ogc:wms
+mcf:
+  version: 1.0
+spatial:
+  scale: null
+  resolution: 1KM
 contact:
   pointOfContact:
     organization: Centre for Ecology & Hydrology, Lancaster
@@ -53,11 +67,6 @@ contact:
     country: UK
     email: enquiries@ceh.ac.uk
     contactinstructions: email
-distribution:
-  wms:
-    url: https://catalogue.ceh.ac.uk/maps/6372b558-ba64-4fbe-8766-019e01535b37?
-    type: ogc:wms
-    name: SO.SoilTheme.Moisture
 dataquality:
   scope:
     level: dataset

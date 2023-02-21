@@ -1,5 +1,3 @@
-mcf:
-  version: 1.0
 metadata:
   identifier: df3d5a95dae4ef2ca11cf2eb8a3ec6c0
   language: eng
@@ -7,12 +5,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2012
-spatial:
-  scale: null
-  resolution: 1KM
 identification:
-  language: eng
-  charset: utf8
   title: Advanced soil geochemical atlas of England and Wales
   abstract: 'The Advanced Soil Geochemical Atlas of England and Wales was a joint
     project between the British Geological Survey and Rothamsted Research. The maps
@@ -21,8 +14,6 @@ identification:
     collected for the National Soil Inventory (NSI)
 
     '
-  dates:
-    pubblication: 2012
   keywords:
     default:
       keywords:
@@ -39,28 +30,31 @@ identification:
       vocabulary:
         name: Agrovoc - Soil properties
         url: http://aims.fao.org/aos/agrovoc/c_330883
-  topiccategory:
-  - geoscientificInformation
   extents:
+    spatial:
+    - bbox:
+      - -6.206007
+      - 49.98205
+      - 2.004595
+      - 55.797293
+      crs: '4326'
     temporal:
     - begin: an interval of dates
     - end: ''
-  accessconstraints: no limitation
   rights: no conditions apply
+  fees: ''
+  language: eng
+  charset: utf8
+  dates:
+    pubblication: 2012
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
   url: https://www.bgs.ac.uk/GBASE/advSoilAtlasEW.html
   status: onGoing
   maintenancefrequency: continual
-contact:
-  pointOfContact:
-    organization: British Geological Survey
-    individualname: ''
-    country: UK
-    email: enquiries@bgs.ac.uk
-    contactinstructions: email
 distribution:
   wms:
-    url: https://map.bgs.ac.uk/arcgis/services/UKSO/UKSO_BGS_NSI/MapServer/WmsServer?
-    type: ogc:wms
     name: Topsoil.Aluminium, Topsoil.Arsenic, Topsoil.Barium, Topsoil.Bismuth, Topsoil.Bromine,
       Topsoil.Bromine, Topsoil.Bromine, Topsoil.Bromine, Topsoil.Bromine, Topsoil.Cobalt,
       Topsoil.Chromium, Topsoil.Chromium, Topsoil.Chromium, Topsoil.Iron, Topsoil.Gallium,
@@ -71,10 +65,30 @@ distribution:
       Topsoil.Samarium, Topsoil.Tin, Topsoil.Strontium, Topsoil.Tantalum, Topsoil.Thorium,
       Topsoil.Titanium, Topsoil.Thallium, Topsoil.Thallium, Topsoil.Vanadium, Topsoil.Tungsten,
       Topsoil.Yttrium, Topsoil.Ytterbium, Topsoil.Zinc, Topsoil.Zirconium
+    description: The concentrations of aluminium were determined using wavelength
+      dispersive X-ray fluorescence spectrometry with a lower limit of detection of
+      0.05 % and typical coefficients of variation of around 3% for repeated analyses
+      of certified reference materials. The coefficient of variation (CV) expresses
+      the error associated with subsampling and analysis; CV values of less than around
+      10 % suggest that analyses are reasonably accurate.
+    url: https://map.bgs.ac.uk/arcgis/services/UKSO/UKSO_BGS_NSI/MapServer/WmsServer?
+    type: ogc:wms
   TXT:
     url: https://www.bgs.ac.uk/downloads/start.cfm?id=2898
     type: application/txt
     name: null
+mcf:
+  version: 1.0
+spatial:
+  scale: null
+  resolution: 1KM
+contact:
+  pointOfContact:
+    organization: British Geological Survey
+    individualname: ''
+    country: UK
+    email: enquiries@bgs.ac.uk
+    contactinstructions: email
 dataquality:
   scope:
     level: dataset

@@ -1,5 +1,3 @@
-mcf:
-  version: 1.0
 metadata:
   identifier: 515fdc3d54602098dc3e321eddeaf0f9
   language: eng
@@ -7,16 +5,9 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2-1-2012
-spatial:
-  scale: 1:250000
-  resolution: null
 identification:
-  language: eng
-  charset: utf8
   title: Soil Map for Northern Ireland (WRB classification)
   abstract: "Soil map for Northern Ireland \u2014 WRB 2006 tier 1 version\n"
-  dates:
-    pubblication: 2-1-2012
   keywords:
     default:
       keywords:
@@ -34,17 +25,40 @@ identification:
       vocabulary:
         name: Agrovoc - Soil properties
         url: http://aims.fao.org/aos/agrovoc/c_330883
-  topiccategory:
-  - geoscientificInformation
   extents:
+    spatial:
+    - bbox:
+      - -8.174117
+      - 54.023107
+      - -5.432149
+      - 55.310628
+      crs: '4326'
     temporal:
     - begin: an individual date
     - end: 2-1-2012
-  accessconstraints: no limitation
   rights: no conditions apply
+  fees: ''
+  language: eng
+  charset: utf8
+  dates:
+    pubblication: 2-1-2012
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
   url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=AFBIWRB
   status: onGoing
   maintenancefrequency: continual
+distribution:
+  wms:
+    name: WMS
+    description: null
+    url: http://www.landis.org.uk/arcgis/services/UKSoilObservatory/WorldReferenceBase_AFBI/MapServer/WmsServer?
+    type: ogc:wms
+mcf:
+  version: 1.0
+spatial:
+  scale: 1:250000
+  resolution: null
 contact:
   pointOfContact:
     organization: Agri-Food and Biosciences Institute
@@ -52,11 +66,6 @@ contact:
     country: UK
     email: info@afbi.gov.uk
     contactinstructions: email
-distribution:
-  wms:
-    url: http://www.landis.org.uk/arcgis/services/UKSoilObservatory/WorldReferenceBase_AFBI/MapServer/WmsServer?
-    type: ogc:wms
-    name: WMS
 dataquality:
   scope:
     level: dataset

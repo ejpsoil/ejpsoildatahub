@@ -2,24 +2,24 @@ mcf:
   version: 1.0
 metadata:
   identifier: 57873d25-73c4-46eb-a4da-3fdfc0a80153
+  hierarchylevel: dataset
+  datestamp: 30-11-2010
   language: cze
   language_alternate: null
   charset: utf8
-  hierarchylevel: dataset
-  datestamp: 30-11-2010
-spatial:
-  scale: 1:10000
-  resolution: null
 identification:
-  language: cze
-  charset: utf8
   title: "Evidovan\xE1 kontaminovan\xE1 m\xEDsta (11/2010)"
   abstract: 'Reference points and names of contaminated sites already registered
 
     '
   dates:
+    revision: '2016-07-13'
     creation: 30-11-2010
   keywords:
+    keywords-0:
+      type: null
+      keywords:
+      - "V\xFDrobn\xED a pr\u016Fmyslov\xE1 za\u0159\xEDzen\xED"
     default:
       keywords:
       - soil degradation processes
@@ -38,27 +38,58 @@ identification:
   topiccategory:
   - geoscientificInformation
   extents:
+    spatial:
+    - bbox:
+      - 11.99
+      - 48.253
+      - 18.91
+      - 51.247
     temporal:
     - begin: an interval of dates
     - end: ''
   accessconstraints: no limitation
+  status: onGoing
+  language: cze
+  charset: utf8
   rights: no conditions apply
   url: ''
-  status: onGoing
   maintenancefrequency: continual
 contact:
   pointOfContact:
     organization: "CENIA, \u010Desk\xE1 informa\u010Dn\xED agentura \u017Eivotn\xED\
       ho prost\u0159ed\xED"
     individualname: ''
+    positionname: null
+    phone: null
+    fax: null
+    address: null
+    city: Praha 10
+    administrativearea: null
+    postalcode: 101 00
     country: Czech Republic
     email: geoportal@cenia.cz
+    url: https://www.cenia.cz
     contactinstructions: email
 distribution:
+  link-0:
+    url: https://geoportal.gov.cz/arcgis/services/projekty/NIKM/MapServer/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: http://kontaminace.cenia.cz
+    type: null
+    name: null
+    description: null
+    function: information
   wms:
     url: http://geoportal.gov.cz/arcgis/services/projekty/NIKM/MapServer/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities
     type: ogc:wms
     name: 0,1,4
+spatial:
+  scale: 1:10000
+  resolution: null
 dataquality:
   scope:
     level: dataset

@@ -2,24 +2,58 @@ mcf:
   version: 1.0
 metadata:
   identifier: 37aaa10d-50bd-431e-b924-209c2e88b9d7
+  hierarchylevel: dataset
+  datestamp: 16-1-2018
   language: dut
   language_alternate: eng
   charset: utf8
-  hierarchylevel: dataset
-  datestamp: 16-1-2018
-spatial:
-  scale: null
-  resolution: 1KM
 identification:
-  language: dut
-  charset: utf8
   title: Soil Organic Carbon Stock Maps for Belgium
   abstract: 'Soil Organic Carbon Stock Maps for Belgium: mean (1 km grid)
 
     '
   dates:
+    creation: '2017-12-06'
+    publication: '2018-01-15'
     pubblication: 16-1-2018
   keywords:
+    keywords-0:
+      type: null
+      keywords:
+      - Bodem
+    keywords-1:
+      type: null
+      keywords:
+      - ondergrond
+      - landbouw
+      - koolstof
+      - totaal aan organische koolstof
+      - grasland
+      - akker
+      - bos
+      - bos
+    keywords-2:
+      type: null
+      keywords:
+      - DOV
+      - Vlaanderen
+      - Ondergrond
+      - Databank Ondergrond Vlaanderen
+      - Departement Omgeving
+    keywords-3:
+      type: theme
+      keywords:
+      - Regionaal
+    keywords-4:
+      type: theme
+      keywords:
+      - Herbruikbaar
+      - Kosteloos
+      - Vlaamse Open data
+      - Toegevoegd GDI-Vl
+      - Metadata GDI-Vl-conform
+      - Metadata INSPIRE-conform
+      - Lijst M&R INSPIRE
     default:
       keywords:
       - soil type
@@ -39,27 +73,112 @@ identification:
   topiccategory:
   - geoscientificInformation
   extents:
+    spatial:
+    - bbox:
+      - 49.48526
+      - 2.53862
+      - 51.50544
+      - 6.40387
     temporal:
     - begin: an interval of dates
     - end: ''
   accessconstraints: no limitation
+  status: onGoing
+  language: dut
+  charset: utf8
   rights: no conditions apply
   url: https://www.dov.vlaanderen.be/portaal/?module=public-bodemverkenner
-  status: onGoing
   maintenancefrequency: continual
 contact:
   pointOfContact:
     organization: Vlaams Planbureau voor Omgeving (VPO), Departement Omgeving, Vlaamse
       overheid
     individualname: Graaf De Ferraris
+    positionname: null
+    phone: null
+    fax: null
+    address: Koning Albert II-laan 20 bus 8
+    city: Brussel
+    administrativearea: null
+    postalcode: '1000'
     country: Belgium
     email: vpo.omgeving@vlaanderen.be
+    url: https://www.omgevingvlaanderen.be
     contactinstructions: email
+  distributor:
+    organization: Databank Ondergrond Vlaanderen (DOV)
+    individualname: null
+    positionname: null
+    phone: +32 9 240 75 93
+    fax: null
+    address: Technologiepark-Zwijnaarde 68
+    city: Gent
+    administrativearea: null
+    postalcode: '9052'
+    country: "Belgi\xEB"
+    email: dov@vlaanderen.be
+    url: https://www.dov.vlaanderen.be
 distribution:
+  link-0:
+    url: https://www.dov.vlaanderen.be/geoserver/wms?
+    type: OGC:WMS
+    name: organische_koolstof:carbon_1000
+    description: 'WMS-endpoint Soil Organic Carbon Stock Maps for Belgium: mean (1
+      km grid)'
+    function: null
+  link-1:
+    url: https://www.dov.vlaanderen.be/geoserver/wms?SERVICE=WMS&version=1.3.0&request=GetCapabilities
+    type: OGC:WMS-1.3.0-http-get-capabilities
+    name: organische_koolstof:carbon_1000
+    description: 'WMS-capabilities Soil Organic Carbon Stock Maps for Belgium: mean
+      (1 km grid)'
+    function: null
+  link-2:
+    url: https://www.dov.vlaanderen.be/geoserver/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    type: OGC:WMS-1.3.0-http-get-map
+    name: organische_koolstof:carbon_1000
+    description: 'WMS-map Soil Organic Carbon Stock Maps for Belgium: mean (1 km grid)'
+    function: null
+  link-3:
+    url: https://www.dov.vlaanderen.be/geoserver/wcs?
+    type: OGC:WCS
+    name: carbon_1000
+    description: 'WCS-endpoint Soil Organic Carbon Stock Maps for Belgium: mean (1
+      km grid)'
+    function: download
+  link-4:
+    url: https://www.dov.vlaanderen.be/geoserver/wcs?SERVICE=WCS&version=1.1.1&request=GetCapabilities
+    type: OGC:WCS-1.1.1-http-get-capabilities
+    name: carbon_1000
+    description: 'WCS-capabilities Soil Organic Carbon Stock Maps for Belgium: mean
+      (1 km grid)'
+    function: download
+  link-5:
+    url: https://www.dov.vlaanderen.be/geoserver/wcs?SERVICE=WCS&version=1.1.1&request=GetCoverage
+    type: OGC:WCS-1.1.1-http-get-coverage
+    name: carbon_1000
+    description: 'WCS-coverage Soil Organic Carbon Stock Maps for Belgium: mean (1
+      km grid)'
+    function: download
+  link-6:
+    url: https://www.dov.vlaanderen.be/geoserver/wms/kml?layers=organische_koolstof:carbon_1000
+    type: GLG:KML-2.0-http-get-map
+    name: organische_koolstof:carbon_1000
+    description: 'KML Soil Organic Carbon Stock Maps for Belgium: mean (1 km grid)'
+    function: null
+  link-7:
+    url: https://www.dov.vlaanderen.be/bodemverkenner
+    type: WWW:LINK-1.0-http--related
+    name: DOV bodemverkenner applicatie
+    description: Link naar DOV bodemverkenner applicatie
+    function: null
   wms:
     url: https://www.dov.vlaanderen.be/geoserver/organische_koolstof/wms?layers=carbon_1000
     type: ogc:wms
     name: carbon_1000
+spatial:
+  scale: null
+  resolution: 1KM
 dataquality:
   scope:
     level: dataset

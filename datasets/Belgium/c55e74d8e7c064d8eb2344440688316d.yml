@@ -2,25 +2,53 @@ mcf:
   version: 1.0
 metadata:
   identifier: c55e74d8e7c064d8eb2344440688316d
+  hierarchylevel: dataset
+  datestamp: 26-4-2015
   language: dut
   language_alternate: eng
   charset: utf8
-  hierarchylevel: dataset
-  datestamp: 26-4-2015
-spatial:
-  scale: 1:40000
-  resolution: null
 identification:
-  language: dut
-  charset: utf8
   title: WRB Soil Units 40k
   abstract: 'WRB Soil Units 40k: Soil map of the Flemish Region according to the international
     soil classification system World Reference Base on a scale of 1: 40,000
 
     '
   dates:
+    creation: '2014-10-31'
+    publication: '2015-04-26'
     pubblication: 26-4-2015
   keywords:
+    keywords-0:
+      type: null
+      keywords:
+      - Bodem
+    keywords-1:
+      type: null
+      keywords:
+      - ondergrond
+    keywords-2:
+      type: null
+      keywords:
+      - DOV
+      - Vlaanderen
+      - Ondergrond
+      - Databank Ondergrond Vlaanderen
+      - Departement Omgeving
+      - Reference Soil Group
+      - Principal Qualifiers
+    keywords-3:
+      type: theme
+      keywords:
+      - Regionaal
+    keywords-4:
+      type: theme
+      keywords:
+      - Herbruikbaar
+      - Kosteloos
+      - Vlaamse Open data
+      - Toegevoegd GDI-Vl
+      - Metadata GDI-Vl-conform
+      - Metadata INSPIRE-conform
     default:
       keywords:
       - soil type
@@ -40,22 +68,119 @@ identification:
   topiccategory:
   - geoscientificInformation
   extents:
+    spatial:
+    - bbox:
+      - 2.529594914149673
+      - 50.674183814813425
+      - 5.9364292535523155
+      - 51.50577576745394
     temporal:
     - begin: an interval of dates
     - end: ''
   accessconstraints: no limitation
+  status: onGoing
+  language: dut
+  charset: utf8
   rights: no conditions apply
   url: ''
-  status: onGoing
   maintenancefrequency: continual
 contact:
   pointOfContact:
     organization: Vlaamse overheid, Departement Omgeving
     individualname: Koning Albert
+    positionname: null
+    phone: null
+    fax: null
+    address: Koning Albert II-laan 20 bus 8
+    city: Brussel
+    administrativearea: null
+    postalcode: '1000'
     country: Belgium
     email: vpo.omgeving@vlaanderen.be
+    url: https://www.omgevingvlaanderen.be
     contactinstructions: email
+  distributor:
+    organization: Databank Ondergrond Vlaanderen (DOV)
+    individualname: null
+    positionname: null
+    phone: +32 9 240 75 93
+    fax: null
+    address: Technologiepark-Zwijnaarde 68
+    city: Gent
+    administrativearea: null
+    postalcode: '9052'
+    country: "Belgi\xEB"
+    email: dov@vlaanderen.be
+    url: https://www.dov.vlaanderen.be
 distribution:
+  link-0:
+    url: https://www.dov.vlaanderen.be/geoserver/wms?
+    type: OGC:WMS
+    name: bodemkaart_afgeleid:wrb_40000
+    description: 'WMS-endpoint WRB Soil Units 40k: Bodemkaart van het Vlaamse Gewest
+      volgens het internationale bodemclassificatiesysteem World Reference Base op
+      schaal 1:40.000'
+    function: null
+  link-1:
+    url: https://www.dov.vlaanderen.be/geoserver/wms?SERVICE=WMS&version=1.3.0&request=GetCapabilities
+    type: OGC:WMS-1.3.0-http-get-capabilities
+    name: bodemkaart_afgeleid:wrb_40000
+    description: 'WMS-capabilities WRB Soil Units 40k: Bodemkaart van het Vlaamse
+      Gewest volgens het internationale bodemclassificatiesysteem World Reference
+      Base op schaal 1:40.000'
+    function: null
+  link-2:
+    url: https://www.dov.vlaanderen.be/geoserver/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    type: OGC:WMS-1.3.0-http-get-map
+    name: bodemkaart_afgeleid:wrb_40000
+    description: 'WMS-map WRB Soil Units 40k: Bodemkaart van het Vlaamse Gewest volgens
+      het internationale bodemclassificatiesysteem World Reference Base op schaal
+      1:40.000'
+    function: null
+  link-3:
+    url: https://www.dov.vlaanderen.be/geoserver/wfs?
+    type: OGC:WFS
+    name: bodemkaart_afgeleid:wrb_40000
+    description: 'WFS-endpoint WRB Soil Units 40k: Bodemkaart van het Vlaamse Gewest
+      volgens het internationale bodemclassificatiesysteem World Reference Base op
+      schaal 1:40.000'
+    function: download
+  link-4:
+    url: https://www.dov.vlaanderen.be/geoserver/wfs?SERVICE=WFS&version=2.0.0&request=GetCapabilities
+    type: OGC:WFS-2.0.0-http-get-capabilities
+    name: bodemkaart_afgeleid:wrb_40000
+    description: 'WFS-capabilities WRB Soil Units 40k: Bodemkaart van het Vlaamse
+      Gewest volgens het internationale bodemclassificatiesysteem World Reference
+      Base op schaal 1:40.000'
+    function: download
+  link-5:
+    url: https://www.dov.vlaanderen.be/geoserver/wfs?SERVICE=WFS&version=2.0.0&request=GetFeature
+    type: OGC:WFS-2.0.0-http-get-feature
+    name: bodemkaart_afgeleid:wrb_40000
+    description: 'WFS-feature WRB Soil Units 40k: Bodemkaart van het Vlaamse Gewest
+      volgens het internationale bodemclassificatiesysteem World Reference Base op
+      schaal 1:40.000'
+    function: download
+  link-6:
+    url: https://www.dov.vlaanderen.be/geoserver/wms/kml?layers=bodemkaart_afgeleid:wrb_40000
+    type: GLG:KML-2.0-http-get-map
+    name: bodemkaart_afgeleid:wrb_40000
+    description: 'KML WRB Soil Units 40k: Bodemkaart van het Vlaamse Gewest volgens
+      het internationale bodemclassificatiesysteem World Reference Base op schaal
+      1:40.000'
+    function: null
+  link-7:
+    url: https://www.milieuinfo.be/dms/d/a/workspace/SpacesStore/8c951464-8ee2-4609-9cc3-170620f6a306/wrb_40k.zip
+    type: WWW:DOWNLOAD-1.0-http--download
+    name: Download WRB Soil Units 40k
+    description: Link naar download WRB Soil Units 40k
+    function: null
+  link-8:
+    url: https://www.dov.vlaanderen.be/bodemverkenner
+    type: WWW:LINK-1.0-http--related
+    name: DOV bodemverkenner
+    description: Link naar DOV bodemverkenner applicatie
+    function: null
   wfs:
     url: https://www.dov.vlaanderen.be/geoserver/wfs?SERVICE=WFS&version=1.1.0&request=GetFeature
       .
@@ -65,6 +190,9 @@ distribution:
     url: https://www.dov.vlaanderen.be/geoserver/bodemkaart_afgeleid/wms
     type: ogc:wms
     name: wrb_40000
+spatial:
+  scale: 1:40000
+  resolution: null
 dataquality:
   scope:
     level: dataset
