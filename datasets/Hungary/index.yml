@@ -1,0 +1,8 @@
+mcf:
+  version: 1.0
+
+identification:
+  extents:
+    spatial:
+      - bbox: [16.2022982113, 45.7594811061, 22.710531447, 48.6238540716]
+        crs: 4326
