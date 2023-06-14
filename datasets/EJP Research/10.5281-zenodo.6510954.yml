@@ -48,6 +48,8 @@ identification:
     default:
       keywords: 
         - EJP Soil  
+        - EJPSOIL
+        - iSOMPE
         - soil 
         - soil management
         - agroecological zones
