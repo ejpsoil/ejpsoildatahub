@@ -15,6 +15,7 @@ metadata:
     # covert yml to iso (only changed?)
     - export pgdc_webdav_url=https://catalogue.ejpsoil.eu/collections/metadata:main/items
     - export pgdc_schema_path=/pyGeoDataCrawler/geodatacrawler/schemas
+    - export pgdc_canonical_url=https://github.com/ejpsoil/ejpsoildatahub/tree/main/datasets/
     - cd /pyGeoDataCrawler
     - poetry run crawl-metadata --dir=$CI_PROJECT_DIR/datasets --mode=export --dir-out=/tmp
     # upload iso to pycsw (remove first, only changed?)
