@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  dataseturi: http://doi.org/10.5281/zenodo.8147623
+  identifier: doi.org-10.5281-zenodo.8147623
+  datestamp: 2023-09-28
+  hierarchylevel: dataset
+distribution:
+  contentUrl:
+    url: http://doi.org/10.5281/zenodo.8147623
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8147622
+    type: WWW:LINK
+    title: IsVersionOf
+identification:
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+  title: EJPSOIL CarboSeq agrometeorological datasets
+  abstract: '<strong>Abstract</strong> The <strong>gridded dataset</strong> includes
+    the monthly time series of the <strong>precipitation, temperature </strong>and
+    <strong>reference evapotranspiration </strong>variables derived from AgERA5 daily
+    and AgERA_ET0 monthly data, with a spatial resolution of 10 kilometers, covering
+    the area interested by the project, for the period <strong>1979-2022</strong>.
+    Data is provided as .tif files with their corresponding .rts files (SpatRasterTS
+    object in R). <strong>Attached content</strong> The following ZIP archives containing
+    the spatial raster time series are provided: ag5_2m_temperature_rts_monthly_19792022_EPSG3035.zip
+    ag5_precipitation_flux_rts_monthly_19792022_EPSG3035.zip ag5_et0_rts_monthly_19792022_EPSG3035.zip
+    In addition a document with a short description of data processing is provided.'
+  dates:
+    issued: '2023-07-15'
+    publication: '2023'
+  rights: ''
+  keywords:
+    default:
+      keywords:
+        subject: https://www.eea.europa.eu/data-and-maps/indicators/water-retention-3/allen-et-al-1998
+        subjectScheme: url
+content_info: {}
+contact:
+  Barbara-Parisse:
+    individualname: Barbara, Parisse
+    role: ''
+    organization: Council for Agricultural Research and Economics (CREA)
+    url: https://orcid.org/0000-0001-5551-7523
+  Roberta-Alilla:
+    individualname: Roberta, Alilla
+    role: ''
+    organization: Council for Agricultural Research and Economics (CREA)
+    url: https://orcid.org/0000-0001-7204-9020
+  De-Natale-Flora-:
+    individualname: 'De Natale Flora, '
+    role: ''
+    organization: Council for Agricultural Research and Economics (CREA)
+    url: https://orcid.org/0000-0002-1132-9894
+spatial:
+  type: ''
