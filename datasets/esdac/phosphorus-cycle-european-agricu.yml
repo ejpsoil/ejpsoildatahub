@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: phosphorus-cycle-european-agricultural-soils
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2024
+identification:
+  title: Phosphorus cycle in European agricultural soils
+  abstract: 'Process-based biogeochemical models are valuable instruments to monitor
+    the P cycle and predict the effect of agricultural management policies. We upscale
+    the calibrated DayCent model at European level using data-derived soil properties,
+    advanced input data sets, and representative management practices. Available datasets
+    include Current P Budget and Soil Pools, Projected P Budget and Soil Pools for
+    the EU and UK as well the datasets corresponding to the figures of the related
+    manuscript.
+
+    '
+  dates: 2024
+  keywords:
+    default:
+      keywords:
+      - Soil Functions Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/100107
+    type: metadata
+    name: Phosphorus cycle in European agricultural soils
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Daycent_PBalance.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

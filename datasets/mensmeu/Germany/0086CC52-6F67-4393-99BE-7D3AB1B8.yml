@@ -1,0 +1,96 @@
+metadata:
+  identifier: 0086CC52-6F67-4393-99BE-7D3AB1B84160
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2006
+identification:
+  title: "Boden\xFCbersichtskarte der Bundesrepublik Deutschland 1:5.000.000"
+  abstract: 'Soil Map of the Federal Republic of Germany 1:5,000,000. Focused on information
+    about the parent material, and generalization
+
+    '
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Germany
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  extents:
+    spatial:
+    - bbox:
+      - 5.463222
+      - 47.173077
+      - 15.484886
+      - 55.07415
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  rights: no conditions apply
+  fees: ''
+  language: ger
+  charset: utf8
+  dates:
+    pubblication: 2006
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
+  url: https://geoviewer.bgr.de/mapapps4/resources/apps/geoviewer/index.html?lang=en&serviceURL=https://services.bgr.de/wms/boden/buek5000/?&layers=-boden_buek1000_container
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  distributor:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    url: https://www.bgr.bund.de/buek5000
+    individualname: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    email: geodatenmanagement@bgr.de
+    address: Stilleweg 2
+    city: Hannover
+    administrativearea: DE-NI
+    postalcode: '30655'
+    country: DE
+    positionname: Technischer Ansprechpartner
+  pointOfContact:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    individualname: Stegger Ulrich
+    country: Germany
+    email: geodatenmanagement@bgr.de
+    contactinstructions: email
+distribution:
+  wms:
+    name: '0'
+    description: "Die hier vorliegende Boden\xFCbersichtskarte im Ma\xDFstab 1:5.000.000\
+      \ (B\xDCK5000) wurde durch eine weitere inhaltliche und r\xE4umliche Zusammenfassung\
+      \ aus den Legendeneinheiten der B\xDCK1000N abgeleitet. Diese Zusammenfassung\
+      \ orientierte sich an den Angaben zu den Bodenausgangsgesteinen und f\xFChrte\
+      \ zu 20 bodenkundlichen (23) Legendeneinheiten mit Kartenpolygonen von mindestens\
+      \ 64 Quadratkilometern Gr\xF6\xDFe."
+    url: https://services.bgr.de/wms/boden/buek5000/?
+    type: ogc:wms
+  SHP:
+    url: https://download.bgr.de/bgr/Boden/BGL5000/shp/bgl5000_v20.zip
+    type: application/shp
+    name: SHP
+mcf:
+  version: 1.0
+spatial:
+  scale: 1:5 M
+  resolution: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

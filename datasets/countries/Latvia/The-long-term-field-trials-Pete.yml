@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: "The-long-term-field-trials-\u201CP\u0113terlauki\u201D-"
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: null
+  datatype: null
+identification:
+  language: null
+  charset: utf8
+  title: "The long-term field trials \u201CP\u0113terlauki\u201D "
+  abstract: "mostly topsoil, for specific research from topsoil and subsoil Sampling\
+    \ depth interval,0 - 25. \n"
+  dates:
+    creation: 1993 -2020
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Latvia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1993 -2020
+  accessconstraints: otherRestrictions
+  rights: 'Data not avilable as data set. Various research is done on the site. Mostly
+    used for student research. '
+  maintenancefrequency: otherRestrictions
+contact:
+  pointOfContact:
+    organization: 'Latvia University of Life Sciences and Technologies '
+    country: Latvia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'mostly topsoil, for specific research from topsoil and subsoil. Mapping:
+      . Depth intervals: otherRestrictions. Uncertainty quantification: NO'

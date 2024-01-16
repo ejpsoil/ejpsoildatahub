@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: european-soil-database-v20-vector-and-attribute-data
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2006
+identification:
+  title: European Soil Database v2.0 (vector and attribute data)
+  abstract: 'This database (2004) is the only harmonized soil database for Europe,
+    extending also to Eurasia. It contains a soil geographical database SGDBE (polygons)
+    to which a number of essential soil attributes are attached, and an associate
+    database PTRDB, with attributes which values have been derived through pedotransfer
+    rules. Also part of the database is the Soil Profile Analytical Database, that
+    contains measured and estimated soil profiles for Europe.
+
+    '
+  dates: 2006
+  keywords:
+    default:
+      keywords:
+      - European Soil Database and soil properties
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission DG JRC
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34643
+    type: metadata
+    name: European Soil Database v2.0 (vector and attribute data)
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Data_Esdbv2.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: biodiversity-factor-soil-erosion
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2018
+identification:
+  title: Biodiversity factor in soil erosion
+  abstract: 'A biological factor to be included in soil erosion modelling. The available
+    data for Earthwork diversity (richness and abundance) introduced a new "earthworm
+    factor" to be incorporated in soil erosion modelling.
+
+    '
+  dates: 2018
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/55037
+    type: metadata
+    name: Biodiversity factor in soil erosion
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Biodiversity_factor_erosion.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

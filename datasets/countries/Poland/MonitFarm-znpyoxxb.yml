@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: MonitFarm
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://pw.iung.pl/index.php?option=com_content&view=article&id=182Itemid%3D99&Itemid=99
+spatial:
+  resolution: 600
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: MonitFarm
+  abstract: "topsoil layer and subsoil \n"
+  dates:
+    creation: 2017-2018
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Poland
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2017-2018
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: regular monitoring, yearly
+contact:
+  pointOfContact:
+    organization: IUNG-MRiRW
+    country: Poland
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'topsoil layer and subsoil. Mapping: . Depth intervals: 0-20 cm. Uncertainty
+      quantification: '
+distribution: {}

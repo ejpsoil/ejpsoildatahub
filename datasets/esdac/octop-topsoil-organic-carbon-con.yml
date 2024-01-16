@@ -1,0 +1,41 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: octop-topsoil-organic-carbon-content-europe
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2004
+identification:
+  title: 'OCTOP: Topsoil Organic Carbon Content for Europe'
+  abstract: 'A 2004 GIS map of Soil Organic Carbon (SOC) content (%) in the surface
+    horizon of soils in Europe, associated to a JRC internal report.
+
+    '
+  dates: 2004
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/87
+    type: metadata
+    name: 'OCTOP: Topsoil Organic Carbon Content for Europe'
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/octop_small.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

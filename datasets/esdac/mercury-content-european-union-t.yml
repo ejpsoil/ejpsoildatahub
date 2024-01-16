@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: mercury-content-european-union-topsoil
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2021
+identification:
+  title: Mercury content in the European Union topsoil
+  abstract: 'Topsoil Hg concentrations (?g kg?1) across 26 EU countries estimated
+    by deep neural network  regression kriging. We also provide Mercury stocks and
+    mercury fluxes to main riverbasins and sea outlets. The assessment is based on
+    21591 LUCAS samples (0-20cm) from 26 European Union countries.
+
+    '
+  dates: 2021
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/70203
+    type: metadata
+    name: Mercury content in the European Union topsoil
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Fig.2_small.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

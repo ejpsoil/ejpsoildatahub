@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: "If\xD6L---long-term-research-site"
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://boku.ac.at/nas/ifoel/arbeitsgruppen/ag-bodenfruchtbarkeit-und-anbausysteme/abgeschlossene-projekte
+spatial:
+  resolution: pixel size 1m; 100 points;
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: "If\xD6L - long term research site"
+  abstract: "top soil and sub soil; most parameters measured only till 30 cm depth;\
+    \ mineral nitrogen measured till 90 cm depth; continuous soil water measured in\
+    \ 10, 20, 30 and 50 cm; 0-30cm, 30-60cm, 60-90cm; sampling strategies applied;\
+    \ regular, random, purposive; \n"
+  dates:
+    creation: since 2003
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Austria
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: since 2003
+  accessconstraints: none of the above (specify in comments)
+  rights: 'readyly evaluated data can be obtaned from reports and publications; '
+  maintenancefrequency: regular  monitoring 2-5 years
+contact:
+  pointOfContact:
+    organization: "If\xD6L - Division of Organic Farming"
+    country: Austria
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'top soil and sub soil; most parameters measured only till 30 cm depth;
+      mineral nitrogen measured till 90 cm depth; continuous soil water measured in
+      10, 20, 30 and 50 cm;. Mapping: . Depth intervals: Other  depth intervals (specify
+      in comments). Uncertainty quantification: '

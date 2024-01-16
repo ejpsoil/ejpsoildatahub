@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: climate-change-regional-indicators-change-and-extremes-europe
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2013
+identification:
+  title: Climate Change Regional Indicators of Change and Extremes for Europe
+  abstract: 'Indicators of climate change and extremes from regional models coming
+    from 3 sources: PRUDENCE project of the Danish Meteorological Institute, consortial
+    simulation of the Climate Limited-area Modelling
+
+    '
+  dates: 2013
+  keywords:
+    default:
+      keywords:
+      - Soil Projects Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34412
+    type: metadata
+    name: Climate Change Regional Indicators of Change and Extremes for Europe
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/rcc_world_3.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: progress-management-contaminated-sites-europe-0
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2014
+identification:
+  title: Progress in the management of contaminated sites in Europe
+  abstract: 'These are the underlying data for the report "Progress in management
+    of contaminated sites (CSI 015)", based on the 2011 EIONET NRC Soil data collection
+    concerning contaminated sites, and stored in an MS Excel file. Some data/information
+    that arrived at JRC after the data collection deadline (for Czech Republic, Greece,
+    Italy, Latvia) are bundled in an additional file.
+
+    '
+  dates: 2014
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: ''
+    type: metadata
+    name: Progress in the management of contaminated sites in Europe
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/contaminated_sites.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

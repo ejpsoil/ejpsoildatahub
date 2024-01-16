@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: soil-profile-analytical-database-2
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2009
+identification:
+  title: Soil Profile Analytical Database 2
+  abstract: 'Soil Profile Analytical Database for Europe (2009) (separate from the
+    European Soil Database SPADE-1) aiming to provide sufficient soil property data
+    to support higher tier modeling of pesticide fate at the European level. Joint
+    venture between JRC, ECPA and the ESBN.
+
+    '
+  dates: 2009
+  keywords:
+    default:
+      keywords:
+      - Soil Point Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/33999
+    type: metadata
+    name: Soil Profile Analytical Database 2
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/spade2.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

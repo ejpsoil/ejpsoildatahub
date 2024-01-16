@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: WRB-Soil-units-40k
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/dut/metadata/83c46eae-a202-454c-b063-a858be3e4335
+spatial:
+  resolution: 100.0
+  datatype: NATURAL_POLYGONs,polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: WRB Soil units 40k
+  abstract: "borehole/profile \n"
+  dates:
+    creation: 1947-1978
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1947-1978
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: Vlaamse overheid, Departement Omgeving, Vlaams Planbureau voor Omgeving
+      (VPO)
+    country: Belgium
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'borehole/profile. Mapping: . Depth intervals: . Uncertainty quantification:
+      NO'

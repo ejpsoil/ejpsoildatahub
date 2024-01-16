@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Organischer-Kholenstoffvorrat-in-Oberboden-(ASCOC)
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 1992
+spatial:
+  scale: null
+  resolution: 1KM
+identification:
+  language: ger
+  charset: utf8
+  title: Organischer Kholenstoffvorrat in Oberboden (ASCOC)
+  abstract: 'Organic carbon stock in topsoil (ASCOC). Humus / carbon storage and changes
+    in organic carbon content (Corg)
+
+    '
+  dates:
+    creation: 1992
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Austria
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - carbon stock
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: null
+  rights: filled online order form
+  url: https://boris.umweltbundesamt.at/borisdaten/alias.xhtml?alias=Login
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: umweltbundesamt enviroment agency Austria
+    individualname: ''
+    country: Austria
+    email: boden@umweltbundesamt.at
+    contactinstructions: email
+distribution:
+  xls:
+    url: https://www.umweltbundesamt.at/umweltsituation/boden/boris/boris_datenzugang/
+    type: application/xls
+    name: XLS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

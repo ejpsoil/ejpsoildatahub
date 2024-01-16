@@ -1,0 +1,41 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: soil-biodiversity-conservation-literature-and-legally-binding-instruments
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2022
+identification:
+  title: Soil Biodiversity Conservation literature and legally binding instruments
+  abstract: 'We present the review of 54 articles in the literature and Member States
+    policy documents which address Soil Biodiversity Conservation
+
+    '
+  dates: 2022
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: ''
+    type: metadata
+    name: Soil Biodiversity Conservation literature and legally binding instruments
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Soil%20Bio.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Several
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: null
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: Several
+  abstract: 'Data inserted manually from paper published text of several origins
+
+    '
+  dates:
+    creation: 1953-2010
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Italy
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1953-2010
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: Public
+    country: Italy
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution: {}

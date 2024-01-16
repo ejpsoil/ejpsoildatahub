@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: european-soil-database-v2-raster-library-1kmx1km
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2006
+identification:
+  title: European Soil Database v2 Raster Library 1kmx1km
+  abstract: 'This database (2006) is a set of raster data sets that have been derived
+    from the European soil Database v2, for most attributes. The values for the attributes
+    are categorized (non-continuous). These rasters are an interpretation of the data
+    that are contained in the ESDB v2.0
+
+    '
+  dates: 2006
+  keywords:
+    default:
+      keywords:
+      - European Soil Database and soil properties
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission DG JRC
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/78
+    type: metadata
+    name: European Soil Database v2 Raster Library 1kmx1km
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Data_Raster1km.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

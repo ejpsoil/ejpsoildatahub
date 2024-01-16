@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: heavy-metals-topsoils
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2008
+identification:
+  title: Heavy Metals in topsoils
+  abstract: 'GIS Maps (2008) produced by mapping the concentrations of eight critical
+    heavy metals (arsenic, cadmium, chromium, copper, mercury, nickel, lead and zinc)
+    using the 1588 georeferenced topsoil samples from the FOREGS Geochemical database.
+    The concentrations were interpolated using block regression-kriging over the 26
+    European countries that contributed to the database.
+
+    '
+  dates: 2008
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: ''
+    type: metadata
+    name: Heavy Metals in topsoils
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/heavymetal.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

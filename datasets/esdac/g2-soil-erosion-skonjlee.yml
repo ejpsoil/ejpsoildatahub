@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: g2-soil-erosion
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2011
+identification:
+  title: G2 soil erosion model data
+  abstract: 'G2 generic model for soil erosion applied to 5 application areas (Crete
+    island,Cyprus, Ishmi-Erzeni watershed, Korce, Strymonas/Struma); available layers:
+    Soil erosion (Total & Monthly) plus Rainfall erosivity (Total & Monthly), vegetation
+    retention (Total & Monthly), soil erodibility, topographic influence and slope
+    intercept.
+
+    '
+  dates: 2011
+  keywords:
+    default:
+      keywords:
+      - Soil Projects Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: JRC and Aristotle University of Thessaloniki
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34410
+    type: metadata
+    name: G2 soil erosion model data
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/G2-Crete2.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Soil-Pollution-Monitoring
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://soil.bf.uni-lj.si/rots/index.php?page=gis/slo
+spatial:
+  resolution: null
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: Soil Pollution Monitoring
+  abstract: "212 points of measurement for monitoring purposes. The data is a digital\
+    \ form with data on organic and inorganic pollution concentrations and samples\
+    \ from different depths (parcel-specific,no). \n"
+  dates:
+    creation: '1999 - '
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '1999 - '
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Ministry of Agriculture, Forestry and Food, Slovenia
+    country: Slovenia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '212 points of measurement for monitoring purposes. The data is a digital
+      form with data on organic and inorganic pollution concentrations and samples
+      from different depths (parcel-specific,no).. Mapping: . Depth intervals: . Uncertainty
+      quantification: '

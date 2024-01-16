@@ -1,0 +1,41 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: carbon-mitigation-potential-and-radiative-agricultural-land-management
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2020
+identification:
+  title: Carbon mitigation potential and radiative agricultural land management
+  abstract: 'Maximising climate mitigation potential by carbon and radiative agricultural
+    land management with cover crops
+
+    '
+  dates: 2020
+  keywords:
+    default:
+      keywords:
+      - Soil Functions Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/66964
+    type: metadata
+    name: Carbon mitigation potential and radiative agricultural land management
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/erlaba137f2_hr_0.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

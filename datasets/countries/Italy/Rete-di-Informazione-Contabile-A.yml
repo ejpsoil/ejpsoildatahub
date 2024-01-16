@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Rete-di-Informazione-Contabile-Agricola-(Farms-Agronomical-Mangement-database)
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://gaia.crea.gov.it/#Rica
+spatial:
+  resolution: null
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Rete di Informazione Contabile Agricola (Farms Agronomical Mangement database)
+  abstract: ''
+  dates:
+    creation: ''
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Italy
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: CREA
+    country: Italy
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '

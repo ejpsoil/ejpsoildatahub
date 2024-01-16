@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Indicative-Flood-Risk-Areas-for-England
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.data.gov.uk/api/2/rest/harvestobject/ee455457-06e1-4f18-baf1-cc73c5385447/xml
+spatial:
+  resolution: 1km grid
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: Indicative Flood Risk Areas for England
+  abstract: ''
+  dates:
+    creation: '2020'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '2020'
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: regular monitoring, yearly
+contact:
+  pointOfContact:
+    organization: Environment Agency - UK Government
+    country: UK
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '

@@ -1,0 +1,127 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 57873d25-73c4-46eb-a4da-3fdfc0a80153
+  language: cze
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: '2022-07-27'
+spatial:
+  scale: 1:10000
+  resolution: null
+identification:
+  language: cze
+  charset: utf8
+  title: "Satelitn\xED mapa \u010CR"
+  abstract: "Data z dru\u017Eice Landsat slou\u017E\xED jako podklad pro vytvo\u0159\
+    en\xED metodiky vyu\u017Eit\xED dru\u017Eicov\xFDch dat k detekci, evidenci a\
+    \ zji\u0161\u0165ov\xE1n\xED n\u011Bkter\xFDch informac\xED o kontaminovan\xFD\
+    ch lokalit\xE1ch. K z\xEDsk\xE1n\xED p\u0159edstavy o tom, jak\xE9 v\xFDsledky\
+    \ a mo\u017Enosti lze o\u010Dek\xE1vat od vyu\u017Eit\xED dru\u017Eicov\xFDch\
+    \ sn\xEDmk\u016F, byla vytvo\u0159ena barevn\xE1 fotomapa ze sn\xEDmk\u016F Landsat,\
+    \ kter\xE1 pokr\xFDv\xE1 cel\xE9 \xFAzem\xED \u010CR. Na t\xE9to fotomap\u011B\
+    \ jsou studov\xE1ny projevy jednotliv\xFDch objekt\u016F na zemsk\xE9m povrchu\
+    \ v r\u016Fzn\xFDch \u010D\xE1stech elektromagnetick\xE9ho spektra. Fotomapa byla\
+    \ sestavena z dev\xEDti sn\xEDmk\u016F z p\u0159\xEDstroje ETM+, kter\xE9 byly\
+    \ spojeny do jednoho celku a spole\u010Dn\u011B pokr\xFDvaj\xED cel\xE9 \xFAzem\xED\
+    \ \u010CR v sedmi hlavn\xEDch spektr\xE1ln\xEDch p\xE1smech p\u0159\xEDstroje\
+    \ ETM+. Jednotliv\xE9 sn\xEDmky byly po\u0159\xEDzeny v letech 1999-2002. Barevn\xE1\
+    \ kompozice Landsat ETM+ 635 tvo\u0159\xED obraz cel\xE9ho \xFAzem\xED \u010C\
+    R v tzv. neprav\xFDch barv\xE1ch, kdy je standardn\xED barevn\xFD obraz (tvo\u0159\
+    en\xFD \u010Dervenou, zelenou a modrou barevnou slo\u017Ekou) nahrazen trojic\xED\
+    \ obraz\u016F z term\xE1ln\xEDho, \u010Derven\xE9ho viditeln\xE9ho a st\u0159\
+    edn\xEDho infra\u010Derven\xE9ho spektr\xE1ln\xEDho p\xE1sma. V\xFDsledn\xE9 barvy\
+    \ neodpov\xEDdaj\xED b\u011B\u017En\xE9mu lidsk\xE9mu vn\xEDm\xE1n\xED, ale d\xED\
+    ky tomu se zobraz\xED mnoho jev\u016F, kter\xE9 nejsou b\u011B\u017En\u011B pozorovateln\xE9\
+    . Spektr\xE1ln\xED p\xE1sma t\xE9to kompozice byla \xFA\u010Delov\u011B zvolena\
+    \ tak, aby bylo mo\u017Eno detekovat co nejv\xEDce z\xE1jmov\xFDch objekt\u016F\
+    \ z pohledu projektu NIKM. V tomto barevn\xE9m pod\xE1n\xED n\u011Bkter\xE9 z\xE1\
+    jmov\xE9 objekty jsou zobrazeny \u010Derven\u011B nebo oran\u017Eov\u011B (typicky\
+    \ nap\u0159. deponie pop\xEDlk\u016F na Ostravsku, uheln\xE9 skl\xE1dky v bl\xED\
+    zkosti tepeln\xFDch elektr\xE1ren, haldy hlu\u0161iny pobl\xED\u017E uranov\xFD\
+    ch dol\u016F na P\u0159\xEDbramsku), jedn\xE1 se typicky o objekty vyza\u0159\
+    uj\xEDc\xED v\xEDce tepla ne\u017E okoln\xED plochy. Stavebn\xED a t\u011B\u017E\
+    ebn\xED z\xE1sahy do horninov\xE9ho prost\u0159ed\xED bez tepeln\xE9 emise jsou\
+    \ zase zobrazeny jasn\u011B modrozelenou barvou. Barevn\xE1 kompozice Landsat\
+    \ ETM+ 321 (RGB) byla vytvo\u0159ena proto, aby bylo mo\u017Eno porovnat infra\u010D\
+    erven\xE9 zobrazen\xED zemsk\xE9ho povrchu s b\u011B\u017En\xFDm lidsk\xFDm vn\xED\
+    m\xE1n\xEDm. Je tvo\u0159ena obrazy zemsk\xE9ho povrchu v \u010Derven\xE9m, zelen\xE9\
+    m a modr\xE9m viditeln\xE9m sv\u011Btle."
+  dates:
+    creation: 30-11-2010
+    revision: '2016-07-14'
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Czech Republic
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil contamination
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+    keywords-0:
+      type: null
+      keywords:
+      - "Krajinn\xFD pokryv"
+  topiccategory:
+  - environment
+  extents:
+    temporal:
+    - begin: '1999-01-01'
+      end: '2002-12-31'
+    spatial:
+    - bbox:
+      - 11.99
+      - 48.253
+      - 18.91
+      - 51.247
+  accessconstraints: otherRestrictions
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "\u010Cesk\xE1 informa\u010Dn\xED agentura \u017Eivotn\xEDho prost\u0159\
+      ed\xED"
+    individualname: null
+    country: "\u010Cesk\xE1 republika"
+    email: geoportal@cenia.cz
+    contactinstructions: email
+    positionname: null
+    phone: null
+    fax: null
+    address: null
+    city: Praha 10
+    administrativearea: null
+    postalcode: 101 00
+    url: https://www.cenia.cz
+distribution:
+  wms:
+    url: http://geoportal.gov.cz/arcgis/services/projekty/NIKM/MapServer/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities
+    type: ogc:wms
+    name: 0,1,4
+  link-0:
+    url: https://geoportal.gov.cz/arcgis/services/projekty/NIKM/MapServer/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities
+    type: null
+    name: null
+    description: null
+    function: information
+  '1':
+    name: '1'
+    description: cz_visible_jtsk
+    url: http://geoportal.gov.cz/arcgis/services/projekty/NIKM/MapServer/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities
+    type: OGC:WMS
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

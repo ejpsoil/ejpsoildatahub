@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: bacterial-fungal-biomass-fatty-acid-methyl-esters
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2023
+identification:
+  title: Bacterial and fungal biomass (fatty acid methyl esters)
+  abstract: 'Land-use- and climate-mediated variations in soil bacterial and fungal
+    biomass across Europe and their driving factors. These are data accompanying a
+    study that was carried out by a number of researchers from various organizations,
+    including staff from the European Commission Joint Research Centre
+
+    '
+  dates: 2023
+  keywords:
+    default:
+      keywords:
+      - Soil Functions Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/91981
+    type: metadata
+    name: Bacterial and fungal biomass (fatty acid methyl esters)
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Bacteria%20Biomass.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

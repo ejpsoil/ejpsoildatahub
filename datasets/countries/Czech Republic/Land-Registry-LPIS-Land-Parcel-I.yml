@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Land-Registry-LPIS-(Land-Parcel-Identification-System)---AZZP
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://eagri.cz/public/web/mze/farmar/LPIS/
+spatial:
+  resolution: null
+  datatype: FARMER_Block LPI,POLYGON WITH Land Parcel Identification (LPI) is  available
+    for farmer's block
+identification:
+  language: null
+  charset: utf8
+  title: Land Registry LPIS (Land Parcel Identification System) - AZZP
+  abstract: "topsoil and subsoil \n"
+  dates:
+    creation: ''
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Czech republic
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+  accessconstraints: otherRestrictions
+  rights: Partially freely available, detail informations are availabe only for land
+    block owners
+  maintenancefrequency: regular monitoring 5-10 years
+contact:
+  pointOfContact:
+    organization: Ministry of Agriculture Czech Republic
+    country: Czech republic
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'topsoil and subsoil. Mapping: conventional mapping. Depth intervals:
+      defined as  topsoil/subsoil  only, without any other desription. Uncertainty
+      quantification: NO'

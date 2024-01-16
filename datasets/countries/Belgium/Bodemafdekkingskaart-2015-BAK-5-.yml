@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bodemafdekkingskaart-2015-(BAK),-5-m-resolutie-(Soil-sealing-rate)
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://www.geopunt.be/catalogus/datasetfolder/9d3df29f-ac3b-497d-9ed7-097e37232151
+spatial:
+  resolution: 5 m grid
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: Bodemafdekkingskaart 2015 (BAK), 5 m resolutie (Soil sealing rate)
+  abstract: ''
+  dates:
+    creation: '2015'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '2015'
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: regular  monitoring 2-5 years
+contact:
+  pointOfContact:
+    organization: Vlaamse overheid, Agentschap Informatie Vlaanderen
+    country: Belgium
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: NO'

@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: soil-erosion-water-rusle2015
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2015
+identification:
+  title: Soil erosion by water (RUSLE2015)
+  abstract: 'Dataset (GIS map) (2015) that shows the Soil Loss by Water Erosion in
+    Europe and is the result of applying a modified version of the Revised Universal
+    Soil Loss Equation (RUSLE) model, RUSLE 2015; resolution 100m. EU28. Two data
+    points are available: 2010 and 2016
+
+    '
+  dates: 2015
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34942
+    type: metadata
+    name: Soil erosion by water (RUSLE2015)
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/RUSLE2015_news%20-%20500.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

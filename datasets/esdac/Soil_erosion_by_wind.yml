@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Soil_erosion_by_wind
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2013
+identification:
+  title: Soil erosion by wind
+  abstract: 'This dataset consists of various elements related to soil erosion by
+    wind: 1) Soil loss by wind erosion in European agricultural soils (2016); 1km
+    resolution, 2) Land susceptibility to wind erosion (2014), 500m resolution, 3)
+    Wind erosion susceptibility of European soils (2014); 500m resolutiomn, and 4)
+    Agriculture Field Parameters data (containing averaged Field Size, Field Orientation,
+    Field Length, Average Number of Images, Percentage of Large Fields and Length
+    to Width Ratios) for the EU 27 Member states and Switzerland, aggregated to NUTS
+    region.
+
+    '
+  dates: 2013
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34379
+    type: metadata
+    name: Soil erosion by wind
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/GIS-RWEQ.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

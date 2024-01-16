@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: BORIS---Soil-Information-System
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://www.borisdaten.at
+spatial:
+  resolution: 4000x4000 pixel size
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: BORIS - Soil Information System
+  abstract: 'top soil/sub soil/whole profile..all is done, depending on the campaign
+    and needed methods;  Beside the soil surveys in Austria in some areas permanent
+    observation plots are measured every 10 or 15 years (soil inventory); depth intervals,
+    fixed soil depth according to national standards also soil profiles according
+    to site conditions
+
+    '
+  dates:
+    creation: since mid 80`s ongoing
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Austria
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: since mid 80`s ongoing
+  accessconstraints: Data available only under special permission
+  rights: 'Analytical data are only provided under permission of data owners, Site
+    and soil profile parameters are freely available; can be obtained e.g. for non-commercial
+    research projects for free; '
+  maintenancefrequency: none of the above (specify in comments)
+contact:
+  pointOfContact:
+    organization: Umweltbundesamt GmbH/Environment Agency Austria
+    country: Austria
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'top soil/sub soil/whole profile..all is done, depending on the campaign
+      and needed methods; . Mapping: . Depth intervals: none of the above (specify
+      in comments). Uncertainty quantification: '

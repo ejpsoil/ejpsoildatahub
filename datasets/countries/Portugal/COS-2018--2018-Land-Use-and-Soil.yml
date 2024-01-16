@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: "COS-2018,--2018-Land-Use-and-Soil-Occupation-Map-for-Portugal-(Carta-de-Uso-e-Ocupa\xE7\
+    \xE3o-do-Solo-para-2018)"
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://snig.dgterritorio.gov.pt
+spatial:
+  resolution: "Minimum cartographic unit (1 ha) with distancebetween lines \u2265\
+    \ 20 m; Positional accuracy  \u2265 5.5m  Thematic accuracy \u2265 85 %"
+  datatype: otherRestrictions
+identification:
+  language: null
+  charset: utf8
+  title: "COS 2018,  2018 Land Use and Soil Occupation Map for Portugal (Carta de\
+    \ Uso e Ocupa\xE7\xE3o do Solo para 2018)"
+  abstract: "COS was made in 1995 and has been updated several times. COS is a mapping\
+    \ of polygons, representing units of occupation/use of the homogeneous soil. Land\
+    \ occupation/use unit means any area of terrain greater than or equal to the defined\
+    \ minimum cartographic unit (1 ha) with distance between lines \u2265 to 20 m\
+    \ and the % of a given class of land occupation/use is \u2265 75% of the total\
+    \ area (Caetano et al., 2010). \n"
+  dates:
+    creation: Reporting to 2018 (finished in Nov 2019)
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Portugal
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: Reporting to 2018 (finished in Nov 2019)
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: otherRestrictions
+contact:
+  pointOfContact:
+    organization: "Dire\xE7\xE3o-Geral do Territ\xF3rio (DGT) (https://www.dgterritorio.gov.pt/Carta-de-Uso-e-Ocupacao-do-Solo-para-2018)"
+    country: Portugal
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '

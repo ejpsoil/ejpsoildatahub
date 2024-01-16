@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Espana-Mapa-de-suelos-
+  language: spa
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2001
+spatial:
+  scale: 1:1 M
+  resolution: null
+identification:
+  language: spa
+  charset: utf8
+  title: 'Espana Mapa de suelos '
+  abstract: 'Soil map of Spain
+
+    '
+  dates:
+    creation: 2001
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Spain
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: null
+  rights: registation needed
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "El Centro de Descargas (CdD) es un sitio web del Centro Nacional\
+      \ de Informaci\xF3n Geogr\xE1fica (CNIG)"
+    individualname: ''
+    country: Spain
+    email: null
+    contactinstructions: email
+distribution:
+  pdf:
+    url: http://centrodedescargas.cnig.es/CentroDescargas/busquedaRedirigida.do?ruta=PUBLICACION_CNIG_DATOS_VARIOS/aneTematico/Espana_Mapa-de-suelos_2001_mapa_15220_spa.pdf
+    type: application/pdf
+    name: PDF
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

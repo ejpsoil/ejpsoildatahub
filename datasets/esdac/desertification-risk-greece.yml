@@ -1,0 +1,41 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: desertification-risk-greece
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2018
+identification:
+  title: Desertification risk in Greece
+  abstract: 'Qualitative assessment on desertification risk in Greece based on Environmentally
+    Sensitive Areas (ESAs) data of MEDALUS methodology
+
+    '
+  dates: 2018
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - Country: GR
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre and Agricultural University of Athens
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: ''
+    type: metadata
+    name: Desertification risk in Greece
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/ESA3rdPeriod.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

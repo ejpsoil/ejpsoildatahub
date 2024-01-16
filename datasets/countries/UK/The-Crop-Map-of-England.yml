@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: The-Crop-Map-of-England
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://data.catchmentbasedapproach.org/datasets/crop-map-of-england-2018
+spatial:
+  resolution: None of above
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: The Crop Map of England
+  abstract: "Remote classification \n"
+  dates:
+    creation: '2018'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '2018'
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: "Catchment Based Approach\_(CaBA)\_"
+    country: UK
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Remote classification. Mapping: Remote classification. Depth intervals:
+      . Uncertainty quantification: '

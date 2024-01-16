@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bodenaciditaet
+  language: ger
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 30-11-2011
+spatial:
+  scale: null
+  resolution: 8Km
+identification:
+  language: ger
+  charset: utf8
+  title: Bodenaciditaet
+  abstract: 'Map of soil acidity  (pH  0 - 140 cm)
+
+    '
+  dates:
+    pubblication: 30-11-2011
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Germany
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - pH
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: http://gdi.thuenen.de/wo/bze/bze1/
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "Th\xFCnen-Institut f\xFCr Wald\xF6kosysteme"
+    individualname: ''
+    country: Germany
+    email: geoadmin@thuenen.de
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://gdi.thuenen.de/geoserver/bze1_wald/wms?service=WMS&version=1.3.0&request=GetCapabilities
+    type: ogc:wms
+    name: v_jrc_4km_bodenaciditaet
+  KML:
+    url: https://gdi.thuenen.de/geoserver/bze1_wald/wfs?service=WFS&version=1.0.0&request=GetFeature&outputFormat=KML&typeName=v_jrc_4km_bodenaciditaet
+    type: application/kml
+    name: KML
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

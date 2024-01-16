@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: "Sen\xE9s-experimental-farm"
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: null
+  datatype: null
+identification:
+  language: null
+  charset: utf8
+  title: "Sen\xE9s experimental farm"
+  abstract: 'topsoil only Topsoil= 0,5 m (at 0,05 - 0,1 - 0,25 - 0,5 m)
+
+    '
+  dates:
+    creation: '2010'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Spain
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '2010'
+  accessconstraints: Restricted
+  rights: ''
+  maintenancefrequency: regular monitoring, yearly
+contact:
+  pointOfContact:
+    organization: CSIC
+    country: Spain
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'topsoil only. Mapping: purposive. Depth intervals: defined as  topsoil/subsoil  only,
+      without any other desription. Uncertainty quantification: NO'

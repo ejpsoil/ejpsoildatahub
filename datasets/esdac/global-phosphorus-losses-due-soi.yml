@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: global-phosphorus-losses-due-soil-erosion
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2020
+identification:
+  title: Global phosphorus losses due to soil erosion
+  abstract: 'Global average phosphorus (P) losses due to soil erosion in kg ha?1 yr?1.
+    Thus we combine the most recent spatially distributed global soil erosion estimates
+    with global P content of cropland soils (data also available for P content)
+
+    '
+  dates: 2020
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/67102
+    type: metadata
+    name: Global phosphorus losses due to soil erosion
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/P_Global_Figure_2.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

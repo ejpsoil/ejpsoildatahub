@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: groundwater-resources-maps-europe-0
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2005
+identification:
+  title: Groundwater Resources maps of Europe
+  abstract: 'GIS Maps related to Groundwater resources in Europe, covering 3 themes:
+    Inventory of aquifers; Hydrogeology of aquifers; Groundwater abstraction; for
+    9 European countries (Belgium, Federal Republic of Germany, Denmark, France, Ireland,
+    Italy, Luxembourg, Netherlands and United Kingdom)
+
+    '
+  dates: 2005
+  keywords:
+    default:
+      keywords:
+      - Soil Projects Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission - DG JRC
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34405
+    type: metadata
+    name: Groundwater Resources maps of Europe
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Projects_PNG%5B1%5D.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

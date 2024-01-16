@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: soil-organic-matter-som-fractions
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2019
+identification:
+  title: 'Soil Organic Matter (SOM) fractions '
+  abstract: 'This dataset contains the original measured Soil Organic Matter (SOM)
+    fractions of a subset of the LUCAS 2009 topsoil dataset. This dataset includes
+    352 samples for all land uses and 186 samples only for grassland and fores used
+    to derived maps on Particulate Organic Matter (POM) and Mineral-Associated Organic
+    Matter (MAOM)
+
+    '
+  dates: 2019
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/60594
+    type: metadata
+    name: 'Soil Organic Matter (SOM) fractions '
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Fig.%20POM.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

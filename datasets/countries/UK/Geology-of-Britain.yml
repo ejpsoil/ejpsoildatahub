@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Geology-of-Britain
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://mapapps.bgs.ac.uk/geologyofbritain/home.html?&_ga=2.233755742.1734434781.1602596859-854914404.1598689897
+spatial:
+  resolution: 1:625,000 and 1:50,000
+  datatype: NATURAL_POLYGONs,polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Geology of Britain
+  abstract: 'Data includes Bedrock and superficial geology
+
+    '
+  dates:
+    creation: 1968-2013
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1968-2013
+  accessconstraints: otherRestrictions
+  rights: Data available freely as a map service at link indicated.
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: British Geological Survey
+    country: UK
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '

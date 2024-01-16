@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Soil-cover-of-Slovenia
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: 1:50 000
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Soil cover of Slovenia
+  abstract: "Soil cover map for years 1996, 2000, 2006 and 2012, with evaluation of\
+    \ changes. In digital form (parcel-specific,no). \n"
+  dates:
+    creation: 1996 - 2016
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1996 - 2016
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Ministry of the Environment and Spatial Planning - Slovenian Environment
+      Agency
+    country: Slovenia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Soil cover map for years 1996, 2000, 2006 and 2012, with evaluation
+      of changes. In digital form (parcel-specific,no).. Mapping: . Depth intervals:
+      . Uncertainty quantification: '

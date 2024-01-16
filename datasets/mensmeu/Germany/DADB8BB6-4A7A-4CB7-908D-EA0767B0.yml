@@ -1,0 +1,100 @@
+metadata:
+  identifier: DADB8BB6-4A7A-4CB7-908D-EA0767B068D7
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 19-6-2017
+identification:
+  title: "Eigenschaften der B\xF6den in Deutschland"
+  abstract: "The soil type describes the size of the mineral particles. The content\
+    \ of organic matter in the upper soil determines how much water or how much nutrients\
+    \ can be stored in the soil. \n"
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Germany
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - texture
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  extents:
+    spatial:
+    - bbox:
+      - 5.472023
+      - 47.17469
+      - 15.494728
+      - 55.061726
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  rights: no conditions apply
+  fees: ''
+  language: ger
+  charset: utf8
+  dates:
+    pubblication: 19-6-2017
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
+  url: https://geoviewer.bgr.de/mapapps/resources/apps/geoviewer/index.html?lang=de&serviceURL=https://services.bgr.de/wms/boden/bodeneigenschaften/%3F
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  distributor:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    url: https://www.bgr.bund.de/humus1000ob
+    individualname: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    email: geodatenmanagement@bgr.de
+    address: Stilleweg 2
+    city: Hannover
+    administrativearea: DE-NI
+    postalcode: '30655'
+    country: DE
+    positionname: Technischer Ansprechpartner
+  pointOfContact:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    individualname: Stegger Ulrich
+    country: Germany
+    email: geodatenmanagement@bgr.de
+    contactinstructions: email
+distribution:
+  wms:
+    name: 0,1,2
+    description: "Die Karte Bodenarten der Oberb\xF6den Deutschlands vermittelt einen\
+      \ visuellen Eindruck \xFCber die Verbreitung typischer, d.h. fl\xE4chenhaft\
+      \ dominierender (i.S. von h\xE4ufigsten) Bodenarten in Oberb\xF6den Deutschlands.\
+      \ Mit der Karte werden Ergebnisse von Untersuchungen visualisiert, die in dem\
+      \ BGR-Bericht Bodenarten der B\xF6den Deutschlands; BGR Archiv, Nr. 0127305,\
+      \ dokumentiert sind. Dabei erfolgte eine Ableitung der Bodenart aus den Analysedaten\
+      \ zu Kornfraktionen der Feinb\xF6den f\xFCr 16.132 Standorte in Deutschland\
+      \ und eine Zuweisung der dominierenden Bordenartengruppe zu den Legendeneinheiten\
+      \ der nutzungsdifferenzierten Boden\xFCbersichtskarte 1:1.000.000 (B\xDCK1000N\
+      \ V2.3). Aus Gr\xFCnden der dem Ma\xDFstab (1:1.000.000) angepassten \xDCbersichtlichkeit\
+      \ beschr\xE4nkt sich die Darstellung auf die Ebene der Bodenarten-Gruppe gem.\
+      \ Bodenkundlicher Kartieranleitung (KA5). Die Version 2.0 basiert auf den topographischen\
+      \ Grundlagen der Digitalen Topographischen Karte 1:1.000.000 (DTK1000-V) des\
+      \ Bundesamtes f\xFCr Kartographie und Geod\xE4sie, welche von der BGR in Teilen\
+      \ modifiziert wurde."
+    url: https://services.bgr.de/wms/boden/bodeneigenschaften/?
+    type: ogc:wms
+mcf:
+  version: 1.0
+spatial:
+  scale: 1:1 M
+  resolution: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

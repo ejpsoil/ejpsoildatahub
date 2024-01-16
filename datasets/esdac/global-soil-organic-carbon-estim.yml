@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: global-soil-organic-carbon-estimates
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2012
+identification:
+  title: Global Soil Organic Carbon Estimates
+  abstract: 'Global estimates of soil organic carbon stocks have been produced in
+    the past to support the calculation of potential emissions of CO2 from the soil
+    under scenarios of change land use/cover and climatic conditions.
+
+    '
+  dates: 2012
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34377
+    type: metadata
+    name: Global Soil Organic Carbon Estimates
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Global_SOC_Stock_s.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

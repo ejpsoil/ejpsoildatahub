@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: global-spatial-layers-estimating-soil-ghg-emissions-indirect-land-use-changesiluc-due
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2011
+identification:
+  title: Global Spatial Layers for Estimating Soil GHG Emissions from Indirect Land
+    Use Changes(ILUC) due to the Production of Biofuels
+  abstract: 'The data made available on these pages are referred to in the Guide for
+    Calculation of Carbon Stock Changes in Soil and Above and Below Ground Vegetation
+    due to Land Use Conversion, which was prepared in support to Commission Decision
+
+    '
+  dates: 2011
+  keywords:
+    default:
+      keywords:
+      - Soil Projects Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: JRC
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34406
+    type: metadata
+    name: Global Spatial Layers for Estimating Soil GHG Emissions from Indirect Land
+      Use Changes(ILUC) due to the Production of Biofuels
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/GH_emission.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

@@ -1,0 +1,41 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: soil-ghg-fluxes-using-lucas-soil-daycent
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2018
+identification:
+  title: Soil GHG fluxes using LUCAS soil-DayCent (for EU)
+  abstract: 'Soil fluxes (CO2 and N2O ) under mitigation scenarios using the LUCAS
+    soil-DayCent model integration framework
+
+    '
+  dates: 2018
+  keywords:
+    default:
+      keywords:
+      - Soil Functions Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/51616
+    type: metadata
+    name: Soil GHG fluxes using LUCAS soil-DayCent (for EU)
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/FIG2_PR_s.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

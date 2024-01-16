@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: copper-distribution-topsoils
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2018
+identification:
+  title: Copper distribution in topsoils in the European Union
+  abstract: 'Copper distribution in European Union topsoils based on LUCAS points.
+    The data are at 500m resolution and have been the result of advanced interpolation
+    modelling.
+
+    '
+  dates: 2018
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/52607
+    type: metadata
+    name: Copper distribution in topsoils in the European Union
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Copper_Medium.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

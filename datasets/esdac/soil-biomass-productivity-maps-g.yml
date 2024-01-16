@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: soil-biomass-productivity-maps-grasslands-and-pasture-coplands-and-forest-areas-european
+  language: eng
+  charset: utf8
+  hierarchylevel: /resource-type/datasets
+  datestamp: 2016
+identification:
+  title: Soil Biomass Productivity maps of grasslands and pasture  of croplands and
+    of forest areas in the European Union (EU27)
+  abstract: 'This dataset consists of 3 GIS maps that indicate the soil biomass productivity
+    of grasslands and pasture, of croplands and of forest areas in the European Union
+    (EU27)
+
+    '
+  dates: 2016
+  keywords:
+    default:
+      keywords:
+      - Datasets
+      - /resource-type/soil-functions-data
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/46129
+    type: metadata
+    name: Soil Biomass Productivity maps of grasslands and pasture  of croplands and
+      of forest areas in the European Union (EU27)
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/forest-prod-in.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

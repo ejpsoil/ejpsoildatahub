@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: european-soil-database-derived-data
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2013
+identification:
+  title: European Soil Database Derived data
+  abstract: 'A number of layers for soil properties have been created based on data
+    from the European Soil Database in combination with data from the Harmonized World
+    Soil Database (HWSD) and Soil-Terrain Database (SOTER).
+
+    '
+  dates: 2013
+  keywords:
+    default:
+      keywords:
+      - European Soil Database and soil properties
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission Joint Research Centre
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34635
+    type: metadata
+    name: European Soil Database Derived data
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/derived_data.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

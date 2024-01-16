@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: gully-erosion-based-lucas
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2022
+identification:
+  title: Gully Erosion based on LUCAS
+  abstract: 'The LUCAS topsoil survey 2018 included a module for visual assessment
+    of gully erosion. Gully erosion channels were detected in 1% of the visited LUCAS
+    topsoil sites. Find the 211 points declared as gully erosion.
+
+    '
+  dates: 2022
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: ''
+    type: metadata
+    name: Gully Erosion based on LUCAS
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Gully.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

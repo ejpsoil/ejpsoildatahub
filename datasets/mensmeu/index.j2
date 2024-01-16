@@ -1,0 +1,87 @@
+
+mcf:
+    version: 1.0
+
+metadata:
+    identifier: "{{ md['Identification'] or md['Title'].replace(":","").replace(" ","-").replace("/","-").replace("\\","-")}}"
+    language: {{ md['Language'] }} 
+    language_alternate: {{md['Language2']}} 
+    charset: utf8
+    hierarchylevel: dataset
+    datestamp: {{ md['date of temporal reference'] or '2023' }}
+
+spatial:
+    scale:  {{md['spatial resolution scale']}} 
+    resolution:  {{md['spatial resolution distance']}} 
+
+identification:
+    language: {{ md['Language'] }}
+    charset: utf8
+    title: "{{ md['Title'] }}"
+    abstract: >
+        {{ md['Abstract'] }}
+    dates:
+        {{ md['temporal reference'] or 'publication' }}: {{ md['date of temporal reference'] or '2023' }}
+    keywords:
+        default:
+            keywords: [{{ md['Keywords'] }}]
+                
+        country:
+            keywords: [{{ md['Country'] }}]
+            vocabulary:
+                    name: Country
+                    url: http://publications.europa.eu/resource/authority/country
+        props: 
+            keywords: [ {{ md['Soil properties'] }} ]
+            vocabulary:
+                name: Agrovoc - Soil properties
+                url: http://aims.fao.org/aos/agrovoc/c_330883
+    topiccategory:
+        - geoscientificInformation
+    extents:
+        temporal:
+            - begin: "{{ md['temporal extent-start'] }}"
+            - end:   "{{ md['temporal extent-end'] }}"
+    accessconstraints: {{ md['Access constraints'] }}
+    rights: {{ md['Usage constraints'] }}
+    url: "{{ md['link_to_viewer'] }}"
+    status: onGoing
+    maintenancefrequency: continual
+
+contact:
+    pointOfContact: 
+        organization: "{{ md['name of organisation'] }}"
+        individualname: "{{ md['contact person'] }}"
+        country: {{ md['Country'] }}
+        email: {{ md['email address'] }}
+        contactinstructions: email
+
+distribution:
+    {% if md['Resource locator'] %}
+    {{md['Format'] | lower or 'dl1'}}:
+        url: {{ md['Resource locator'] }}
+        type: {% if md['Format'].upper() in ['WMS','WFS','WCS'] 
+                %}ogc:{% elif md['Format'].upper() in ['HTML'] 
+                %}text/{% elif md['Format'].upper() in ['PNG','TIF','JPG'] 
+                %}image/{% else %}application/{% endif %}{{ md['Format'] | lower }}
+        name: {{ md['Layer'] or md['Format']}}
+    {% endif %}
+    {% if md['Resource locator2'] %}
+    {{ md['Format2'] or 'dl2'}}: 
+        url: {{ md['Resource locator2']}}
+        type: {% if md['Format2'].upper() in ['WMS','WFS','WCS'] 
+                %}ogc:{% elif md['Format2'].upper() in ['HTML'] 
+                %}text/{% elif md['Format2'].upper() in ['PNG','TIF','JPG'] 
+                %}image/{% else %}application/{% endif %}{{ md['Format2'] | lower }}
+        name: {{ md['Layer2'] or md['Format2'] }}
+    {% endif %}
+dataquality:
+    scope:
+        level: dataset
+    lineage:
+        statement: 
+           {{ md['Source'] }} {{ md['Lineage'] }}
+
+
+
+

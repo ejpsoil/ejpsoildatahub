@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: German-Agricultural-Soil-Inventory
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://doi.org/10.1002/jpln.202000113
+spatial:
+  resolution: 8km x 8km grid
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: German Agricultural Soil Inventory
+  abstract: 'At each site, soil profiles were dug to 100 cm depth. Soil morphology
+    was characterised based on soil horizons following AD-HOC-AG Boden (2005), while
+    composite soil samples for laboratory analysis were taken at fixed depth increments
+    (0-10, 10-30, 30-50, 50-70 and 70-100 cm). If a horizon boundary was at least
+    5 cm above or below a sampling boundary, an additional soil sample was taken.
+    This allowed laboratory and field data to be merged. Farmers were asked on land
+    use and management using a questionnaire. This was the first soil German Agricultural
+    Soil Inventory. A second one is planned. After that?
+
+    '
+  dates:
+    creation: 2012-2018
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Germany
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2012-2018
+  accessconstraints: otherRestrictions
+  rights: Soil data is freely avaiable. Associated management data only with special
+    permission
+  maintenancefrequency: otherRestrictions
+contact:
+  pointOfContact:
+    organization: "Th\xFCnen Institute"
+    country: Germany
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'At each site, soil profiles were dug to 100 cm depth. Soil morphology
+      was characterised based on soil horizons following AD-HOC-AG Boden (2005), while
+      composite soil samples for laboratory analysis were taken at fixed depth increments
+      (0-10, 10-30, 30-50, 50-70 and 70-100 cm). If a horizon boundary was at least
+      5 cm above or below a sampling boundary, an additional soil sample was taken.
+      This allowed laboratory and field data to be merged. Farmers were asked on land
+      use and management using a questionnaire.. Mapping: . Depth intervals: Genetic-based
+      horizons (A, Ap, B, C etc) + fixed depth increments,0-10 cm, 10-30cm, 30-50
+      cm, 50-70 cm, 70-100 cm. Uncertainty quantification: YES'

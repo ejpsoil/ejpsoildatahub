@@ -1,0 +1,104 @@
+metadata:
+  identifier: 02F23B5B-5FB8-48BA-ADDA-7ECA7481C4DE
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2007
+identification:
+  title: "Gehalte an organischer Substanz in Oberb\xF6den Deutschlands"
+  abstract: 'Organic Matter Content of Top-Soils in Germany 1:1,000,000
+
+    '
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Germany
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - organic carbon
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  extents:
+    spatial:
+    - bbox:
+      - 5.472023
+      - 47.17469
+      - 15.494728
+      - 55.061726
+      crs: '4326'
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  rights: no conditions apply
+  fees: ''
+  language: ger
+  charset: utf8
+  dates:
+    pubblication: 2007
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
+  url: https://geoviewer.bgr.de/mapapps4/resources/apps/geoviewer/index.html?lang=en&serviceURL=https://services.bgr.de/rest/services/boden/humus1000ob/MapServer/&layers=-boden_boart1000ob_ags
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  distributor:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    url: https://www.bgr.bund.de/humus1000ob
+    individualname: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    email: geodatenmanagement@bgr.de
+    address: Stilleweg 2
+    city: Hannover
+    administrativearea: DE-NI
+    postalcode: '30655'
+    country: DE
+    positionname: Technischer Ansprechpartner
+  pointOfContact:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    individualname: Palo di Florian
+    country: Germany
+    email: Florian.Stange@bgr.de
+    contactinstructions: email
+distribution:
+  wms:
+    name: '0'
+    description: "Die Karte der Gehalte an organischer Substanz in Oberb\xF6den Deutschlands\
+      \ 1:1.000.000 visualisiert die Ergebnisse der deutschlandweiten Zusammenstellung\
+      \ von typischen Gehalten an organischer Substanz der Oberb\xF6den differenziert\
+      \ nach 15 Bodenausgangsgesteinsgruppen, der Landnutzung und vier Klimaregionen.\
+      \ Die Auswertung basiert auf mehr als 9000 Bodenprofilen, zu denen qualit\xE4\
+      tsgesicherte Daten zur organischen Substanz aus einem zwanzigj\xE4hrigen Zeitraum\
+      \ vorlagen. Das methodische Vorgehen ist in dem Bericht 'Gehalte an organischer\
+      \ Substanz in Oberb\xF6den Deutschlands', BGR Archiv, Nr. 0127036 dokumentiert.\
+      \ Die in der Karte dargestellten Klassen entsprechen der Klasseneinteilung in\
+      \ der Bodenkundlichen Kartieranleitung (KA5), wobei die Klassen h2\u2013h5 der\
+      \ KA5 jeweils in der Klassenmitte geteilt wurden. Damit gibt die Karte insbesondere\
+      \ in den Klassen geringer Gehalte ein differenzierteres Bild wider. Die Version\
+      \ 2.0 basiert auf den topographischen Grundlagen der Digitalen Topographischen\
+      \ Karte 1:1.000.000 (DTK1000-V) des Bundesamtes f\xFCr Kartographie und Geod\xE4\
+      sie, welche von der BGR in Teilen modifiziert wurde."
+    url: https://services.bgr.de/wms/boden/humus1000ob/?
+    type: ogc:wms
+  SHP:
+    url: https://download.bgr.de/bgr/Boden/HUMUS1000OB/shp/humus1000_ob_v20.zip
+    type: application/shp
+    name: SHP
+mcf:
+  version: 1.0
+spatial:
+  scale: 1:1 M
+  resolution: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

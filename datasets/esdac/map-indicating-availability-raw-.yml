@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: map-indicating-availability-raw-material-soils-european-union-organic-soil-material-b-soil
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2016
+identification:
+  title: Maps indicating the availability of Raw Material from soils in the European
+    Union
+  abstract: 'This dataset (maps)(2016) indicates the availability of Raw Material
+    (organic soil material and soil material for constructions) from soils in the
+    European Union.
+
+    '
+  dates: 2016
+  keywords:
+    default:
+      keywords:
+      - Soil Functions Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/45948
+    type: metadata
+    name: Maps indicating the availability of Raw Material from soils in the European
+      Union
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/raw-mat-som.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

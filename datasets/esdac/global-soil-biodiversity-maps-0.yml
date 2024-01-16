@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: global-soil-biodiversity-maps-0
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2016
+identification:
+  title: Global Soil Biodiversity Atlas Maps
+  abstract: 'Dataset (2016) containing 2 GIS maps from the Global Soil Biodiversity
+    Atlas: 1) the Soil Biodiversity map showing a simple index describing the potential
+    level of diversity living in soils (with the use of two other datasets: distribution
+    of microbial soil carbon used as a proxy for soil microbial diversity, and the
+    distribution of the main groups of soil macrofauna used as a proxy for soil fauna
+    diversity. 2) the Soil Biodiversity threats showing the potential rather than
+    the actual level of threat to soil organisms. For the development of this map,
+    a number of diverse threats and corresponding proxies were chosen.
+
+    '
+  dates: 2016
+  keywords:
+    default:
+      keywords:
+      - Soil Functions Data
+      - /resource-type/soil-threats-data
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/43848
+    type: metadata
+    name: Global Soil Biodiversity Atlas Maps
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/gsb.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: erosion-potential-method-epm
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2024
+identification:
+  title: 'Erosion potential method (EPM) '
+  abstract: 'Global gross soil erosion rates according to the Erosion Potential Model
+    (EPM) and its modified version (mEPM) and the estimated Z factor (Classification
+    of soil erosion classes) according to the Copernicus Land Cover data source classification.
+
+    '
+  dates: 2024
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/100075
+    type: metadata
+    name: 'Erosion potential method (EPM) '
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/EPM.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

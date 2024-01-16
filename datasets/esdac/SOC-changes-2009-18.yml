@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: SOC-changes-2009-18
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2023
+identification:
+  title: Changes in Soil Organic Carbon in Croplands and Grasslands between 2009 and
+    2018
+  abstract: 'This dataset (map) illustrates the variations in soil organic carbon
+    (measured in g C kg y-1) within the 0-20 cm depth range for croplands and grasslands
+    across the EU and UK between 2009 and 2018.
+
+    '
+  dates: 2023
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/96967
+    type: metadata
+    name: Changes in Soil Organic Carbon in Croplands and Grasslands between 2009
+      and 2018
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/DSoc.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

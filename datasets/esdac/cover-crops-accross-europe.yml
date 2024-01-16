@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: cover-crops-accross-europe
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2023
+identification:
+  title: Cover Crops across Europe
+  abstract: 'Disaggregated map of cover crops occurrence for Europe and the United
+    Kingdom. Using a disaggregation model, we combined satellite data (Sentinel-1)
+    with aggregated survey data to generate a high-resolution map (100m) of cover
+    crops for Europe and the United Kingdom for the reference year of 2016.
+
+    '
+  dates: 2023
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/90155
+    type: metadata
+    name: Cover Crops across Europe
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/cover_crops.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

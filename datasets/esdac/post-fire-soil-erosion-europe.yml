@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: post-fire-soil-erosion-europe
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2023
+identification:
+  title: Post-fire soil erosion in Europe
+  abstract: 'This dataset contains the soil erosion estimations resulting of a study
+    that mapped post-fire soil erosion in EU and UK following the 2017s wildfires
+    during 5 post-fire years. Five maps (GeoTIFF) and their corresponding dataframe
+    (Rdata) are provided at 25m resolution, from year 1 (2017) to year 5 (2021).
+
+    '
+  dates: 2023
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/88670
+    type: metadata
+    name: Post-fire soil erosion in Europe
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/1-s2.0-S0013935122022630-gr4.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

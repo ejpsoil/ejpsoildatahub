@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: biochar-meta-analysis-database
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2012
+identification:
+  title: Biochar Meta-analysis Database
+  abstract: 'Data (2011) associated to the publication "A quantitative review of the
+    effects of biochar application to soils on crop productivity using meta-analysis.
+    Agriculture, Ecosystems and Environment. Volume 144, Issue 1, November 2011, Pages
+    175-187"
+
+    '
+  dates: 2012
+  keywords:
+    default:
+      keywords:
+      - Soil Projects Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: ''
+    type: metadata
+    name: Biochar Meta-analysis Database
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Biochar_Picture.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

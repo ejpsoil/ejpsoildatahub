@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: cadmium-topsoils-european-union
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2023
+identification:
+  title: 'Cadmium in topsoils of the European Union '
+  abstract: 'Cadmium content (mg kg-1) in the European Union topsoils applying an
+    ensemble of machine learning models. The map of Cd distribution at a resolution
+    of 100 m.
+
+    '
+  dates: 2023
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/99099
+    type: metadata
+    name: 'Cadmium in topsoils of the European Union '
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Cadmium%20data.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

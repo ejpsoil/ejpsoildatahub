@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Water-protection-areas-of-Slovenia
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://kazalci.arso.gov.si/en/content/water-protection-areas-0?tid=16
+spatial:
+  resolution: null
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Water protection areas of Slovenia
+  abstract: "Data about public-water supply sources, with local or national regulations\
+    \ for limitations of land for different uses and drinking water protected areas,\
+    \ in digital form (parcel-specific,no). http://portal.geopedia.si/sloj/metapodatki/11970\
+    \ \n"
+  dates:
+    creation: 2011 - 2011
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2011 - 2011
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Slovenian Environment Agency
+    country: Slovenia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Data about public-water supply sources, with local or national regulations
+      for limitations of land for different uses and drinking water protected areas,
+      in digital form (parcel-specific,no). http://portal.geopedia.si/sloj/metapodatki/11970.
+      Mapping: . Depth intervals: . Uncertainty quantification: '

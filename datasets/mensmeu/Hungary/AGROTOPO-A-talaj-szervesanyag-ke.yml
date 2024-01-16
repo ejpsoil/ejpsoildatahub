@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: "AGROTOPO-A-talaj-szervesanyag-k\xE9szlete"
+  language: hun
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2003
+spatial:
+  scale: 1:100000
+  resolution: null
+identification:
+  language: hun
+  charset: utf8
+  title: "AGROTOPO: A talaj szervesanyag k\xE9szlete"
+  abstract: 'AGROTOPO database: Soil organic matter resource (t/ha)
+
+    '
+  dates:
+    pubblication: 2003
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Hungary
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Institute for Soil Sciences,
+    individualname: "L\xE1szl\xF3 P\xE1sztor"
+    country: Hungary
+    email: pasztor@rissac.hu
+    contactinstructions: email
+distribution:
+  website:
+    url: https://maps.rissac.hu:3344/webappbuilder/apps/2/
+    type: application/website
+    name: website
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

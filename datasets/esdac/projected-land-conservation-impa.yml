@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: projected-land-conservation-impacts-global-soil-erosion-and-pollination-sufficiency
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2023
+identification:
+  title: Projected Land Conservation Impacts on Global Soil Erosion and Pollination
+    Sufficiency
+  abstract: 'We combine the open-source land-system model MAgPIE (Model of Agricultural
+    Production and its Impact on the Environment) with the Spatial Economic Allocation
+    Landscape Simulator (SEALS) and the Global Soil Erosion Modelling (GloSEM) platform
+    to assess how different land conservation measures focused on climate and biodiversity
+    protection could drive changes in soil loss by water erosion, pollination and
+    landscape heterogeneity.
+
+    '
+  dates: 2023
+  keywords:
+    default:
+      keywords:
+      - Soil Functions Data
+      - /resource-type/soil-threats-data
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/92596
+    type: metadata
+    name: Projected Land Conservation Impacts on Global Soil Erosion and Pollination
+      Sufficiency
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Fig_SpatPollSuff_2015_all.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

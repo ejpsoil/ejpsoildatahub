@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: chemical-properties-european-scale-based-lucas-topsoil-data
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2019
+identification:
+  title: Maps of Soil Chemical properties at European scale based on LUCAS 2009/2012
+    topsoil data
+  abstract: 'This group of datasets contains 8 chemical properties: pH, pH (CaCl),
+    Cation Exchange Capacity (CEC), Calcium carbonates (CaCO3), C:N ratio, Nitrogen
+    (N), Phosphorus (P) and Potassium (K) using soil point data from the LUCAS 2009/2012
+    soil surveys (around 22,000 points) for EU-26 (not included Cyprus and Croatia).
+    The chemical properties maps for the European Union were produced using Gaussian
+    process regression (GPR) models. Resolution=500m. Format=TIFF; projection information=ETRS89
+    / LAEA Europe
+
+    '
+  dates: 2019
+  keywords:
+    default:
+      keywords:
+      - European Soil Database and soil properties
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/59842
+    type: metadata
+    name: Maps of Soil Chemical properties at European scale based on LUCAS 2009/2012
+      topsoil data
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/pH_in_H2O_s.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

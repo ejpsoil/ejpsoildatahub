@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: isoil-project-interactions-between-soil-related-sciences
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2011
+identification:
+  title: iSOIL project (Interactions between soil related sciences)
+  abstract: 'Data from the FP7 iSOIL research projectdealing with new technologies
+    for assessing soil properties along depth accurately and with high resolution
+    by combining existing sensors as well as exploring emerging technologies (mainly
+    geophysical); data available for the test sites of iSoil, located in Germany,
+    Austria, Czech Republic and Bulgaria.
+
+    '
+  dates: 2011
+  keywords:
+    default:
+      keywords:
+      - Soil Projects Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: JRC and iSOIL partners
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34411
+    type: metadata
+    name: iSOIL project (Interactions between soil related sciences)
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/isoil.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

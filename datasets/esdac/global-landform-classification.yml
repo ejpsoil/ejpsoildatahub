@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: global-landform-classification
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2015
+identification:
+  title: Global Landform classification
+  abstract: 'This dataset (GIS maps) represent global lanform classification calculated
+    by the JRC, according to 1) Meybeck et al., presenting relief classes, which are
+    calculated based on the relief roughness, and 2) Iwahashi and Pike, presenting
+    relief classes which are classified using an unsupervised nested-means algorithms
+    and a three part geometric signature.
+
+    '
+  dates: 2015
+  keywords:
+    default:
+      keywords:
+      - Soil Projects Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission - DG JRC
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34417
+    type: metadata
+    name: Global Landform classification
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/application_terrain.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

@@ -1,0 +1,84 @@
+metadata:
+  identifier: Soil-Map-for-Northern-Ireland-(WRB-classification)
+  language: eng
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2-1-2012
+identification:
+  title: Soil Map for Northern Ireland (WRB classification)
+  abstract: "Soil map for Northern Ireland \u2014 WRB 2006 tier 1 version\n"
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  extents:
+    spatial:
+    - bbox:
+      - -8.174117
+      - 54.023107
+      - -5.432149
+      - 55.310628
+      crs: '4326'
+    temporal:
+    - begin: an individual date
+    - end: 2-1-2012
+  rights: no conditions apply
+  fees: ''
+  language: eng
+  charset: utf8
+  dates:
+    pubblication: 2-1-2012
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
+  url: http://mapapps2.bgs.ac.uk/ukso/home.html?layer=AFBIWRB
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  distributor:
+    organization: ''
+    url: http://www.landis.org.uk:80/arcgis/services/UKSoilObservatory/WorldReferenceBase_AFBI/MapServer/WmsServer?
+    individualname: ''
+    email: null
+    address: ''
+    city: ''
+    administrativearea: ''
+    postalcode: ''
+    country: ''
+    positionname: ''
+  pointOfContact:
+    organization: Agri-Food and Biosciences Institute
+    individualname: ''
+    country: UK
+    email: info@afbi.gov.uk
+    contactinstructions: email
+distribution:
+  wms:
+    name: WMS
+    description: null
+    url: http://www.landis.org.uk/arcgis/services/UKSoilObservatory/WorldReferenceBase_AFBI/MapServer/WmsServer?
+    type: ogc:wms
+mcf:
+  version: 1.0
+spatial:
+  scale: 1:250000
+  resolution: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

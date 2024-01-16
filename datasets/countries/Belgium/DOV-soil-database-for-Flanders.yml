@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: DOV-soil-database-for-Flanders
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/3f507fd9-24c0-40ab-9328-29f0dff571fe
+spatial:
+  resolution: null
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: DOV soil database for Flanders
+  abstract: 'borehole/profile geneitic horizons and depth intervals
+
+    '
+  dates:
+    creation: 1947-2020
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1947-2020
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: otherRestrictions
+contact:
+  pointOfContact:
+    organization: Vlaamse overheid, Departement Omgeving, Vlaams Planbureau voor Omgeving
+      (VPO)
+    country: Belgium
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'borehole/profile. Mapping: no mapping (points). Depth intervals: otherRestrictions.
+      Uncertainty quantification: NO'

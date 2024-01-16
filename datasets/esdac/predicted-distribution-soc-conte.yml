@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: predicted-distribution-soc-content-europe-based-lucas-biosoil-and-czo-context-eu-funded-1
+  language: eng
+  charset: utf8
+  hierarchylevel: /resource-type/datasets
+  datestamp: 2016
+identification:
+  title: Predicted distribution of SOC content in Europe (based on LUCAS  BioSoil
+    and CZO) in the context of the EU-funded SoilTrEC project
+  abstract: 'These maps of predicted distribution of SOC content in Europe (2016)
+    are based on aggregated 23,835 soil samples collected from the LUCAS Project (samples
+    from agricultural soil), BioSoil Project (samples from forest soil), and Soil
+    Transformations in European Catchments (SoilTrEC) Project (samples from local
+    soil data coming from five different critical zone observatories (CZOs) in Europe).
+
+    '
+  dates: 2016
+  keywords:
+    default:
+      keywords:
+      - Datasets
+      - /resource-type/soil-projects-data
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: Soil Projects Data
+    type: metadata
+    name: Predicted distribution of SOC content in Europe (based on LUCAS  BioSoil
+      and CZO) in the context of the EU-funded SoilTrEC project
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/ece-map.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

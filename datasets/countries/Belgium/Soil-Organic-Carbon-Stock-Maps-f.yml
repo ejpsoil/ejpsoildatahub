@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Soil-Organic-Carbon-Stock-Maps-for-Belgium-(40m-grid)
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/bf8c35ad-ab45-4084-b1e1-3042c66204aa
+spatial:
+  resolution: 40m grid
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: Soil Organic Carbon Stock Maps for Belgium (40m grid)
+  abstract: 'borehole/profile depth intervals of the GSOC map (0-30cm)
+
+    '
+  dates:
+    creation: ''
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Vlaamse overheid, Departement Omgeving, Vlaams Planbureau voor Omgeving
+      (VPO)
+    country: Belgium
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'borehole/profile. Mapping: geostatistics. Depth intervals: Other  depth
+      intervals (specify in comments). Uncertainty quantification: YES'

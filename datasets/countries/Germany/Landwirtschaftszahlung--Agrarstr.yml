@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: "Landwirtschaftsz\xE4hlung--Agrarstrukturerhebung"
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.destatis.de/EN/Themes/Economic-Sectors-Enterprises/Agriculture-Forestry-Fisheries/_node.html
+spatial:
+  resolution: null
+  datatype: ADMIN_POLYGONS, e.g. municipalities, polygons with administrative boundaries,
+    other than agricultural blocks/farms
+identification:
+  language: null
+  charset: utf8
+  title: "Landwirtschaftsz\xE4hlung/ Agrarstrukturerhebung"
+  abstract: "Farmer questionnaire \n"
+  dates:
+    creation: 1930 until today
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Germany
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1930 until today
+  accessconstraints: No restrictions
+  rights: "\u2026 at  NUTS3 level"
+  maintenancefrequency: regular monitoring 5-10 years
+contact:
+  pointOfContact:
+    organization: Statistisches Bundesamt (Destatis)
+    country: Germany
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Farmer questionnaire. Mapping: . Depth intervals: . Uncertainty quantification: '

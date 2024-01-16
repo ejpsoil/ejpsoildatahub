@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: lucas-2009-topsoil-data
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2013
+identification:
+  title: LUCAS 2009 TOPSOIL data
+  abstract: 'Data from the 2009 LUCAS campaign soil component containing soil properties
+    data (clay, silt and sand content, coarse fragments, pH, organic carbon content,
+    CaCO3, nitrogen, phosphorous, potassium, cation exchane capacity) and multispectral
+    absorbance data.
+
+    '
+  dates: 2013
+  keywords:
+    default:
+      keywords:
+      - Soil Point Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/86
+    type: metadata
+    name: LUCAS 2009 TOPSOIL data
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Capture.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

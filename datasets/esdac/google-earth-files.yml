@@ -1,0 +1,41 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: google-earth-files
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2008
+identification:
+  title: Google Earth Files
+  abstract: 'Google Earth Files (with ".kmz" extension) that correspond to 73 attribute
+    maps derived from the European Soil Database v2 (ESDB v2) for EU27 countries.
+
+    '
+  dates: 2008
+  keywords:
+    default:
+      keywords:
+      - European Soil Database and soil properties
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: ''
+    type: metadata
+    name: Google Earth Files
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/gglearth.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

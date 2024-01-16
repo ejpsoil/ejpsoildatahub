@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: post-fire-soil-erosion-map-portugal
+  language: eng
+  charset: utf8
+  hierarchylevel: last
+  datestamp: 2022
+identification:
+  title: Post-fire soil erosion map for Portugal
+  abstract: 'This dataset contains the results of a study that mapped post-fire soil
+    erosion in Portugal and identified the areas with higher post-fire erosion risk
+    for past and future climate extremes. Two maps are provided: one at 100m resolution
+    and another at 25m resolution. The maps express predicted soil losses (Mg ha-1
+    y-1).
+
+    '
+  dates: 2022
+  keywords:
+    default:
+      keywords:
+      - Datasets
+      - Country: PT
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: ''
+    type: metadata
+    name: Post-fire soil erosion map for Portugal
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/port.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

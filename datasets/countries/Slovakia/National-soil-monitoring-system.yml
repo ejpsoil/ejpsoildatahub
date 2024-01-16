@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: National-soil-monitoring-system
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://www.podnemapy.sk/portal/prave_menu/cms_p/cms_p.aspx
+spatial:
+  resolution: totaly 318 monitoring sites
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: National soil monitoring system
+  abstract: 'borehole/profile, chemical properties-disturbed samples, physical properties
+    - undisturbed samples frequency of data collection - repetition 5 years, selected
+    sites every year, depth intervals - (0-10, 20-30, 35-45 cm)
+
+    '
+  dates:
+    creation: 1993-2018
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovakia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1993-2018
+  accessconstraints: Restricted
+  rights: ''
+  maintenancefrequency: regular  monitoring 2-5 years
+contact:
+  pointOfContact:
+    organization: NPPC
+    country: Slovakia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'borehole/profile, chemical properties-disturbed samples, physical
+      properties - undisturbed samples. Mapping: conventional mapping. Depth intervals:
+      Other  depth intervals (specify in comments). Uncertainty quantification: NO'

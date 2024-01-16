@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Nitrate-Vulnerable-Zone-designations-2017-to-2020
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://map.environment.gov.scot/Soil_maps/?layer=9#
+spatial:
+  resolution: 01:50,0
+  datatype: NATURAL_POLYGONs,polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Nitrate Vulnerable Zone designations 2017 to 2020
+  abstract: "Not relevant \n"
+  dates:
+    creation: 2017-20
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2017-20
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: Scottish Government
+    country: UK
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Not relevant. Mapping: . Depth intervals: . Uncertainty quantification: '

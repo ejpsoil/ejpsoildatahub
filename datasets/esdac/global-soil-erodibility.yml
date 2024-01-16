@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: global-soil-erodibility
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2023
+identification:
+  title: Global Soil Erodibility
+  abstract: 'This dataset encompasses global soil erodibility (K) factor maps, with
+    the K factor being estimated through the Wischmeier and Smith (1978) method. In
+    addition, measured values of saturated hydraulic conductivity (Ksat) have been
+    incorporated into the original method to formulate the Ksat-based soil erodibility
+    (Kksat factor) map. A third k-factor dataset which was included in the GloSEM
+    (Borrelli et al., 2017) is also included.
+
+    '
+  dates: 2023
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/98832
+    type: metadata
+    name: Global Soil Erodibility
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Global-K-factor_0.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

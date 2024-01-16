@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: topsoil-physical-properties-europe-based-lucas-topsoil-data
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2015
+identification:
+  title: Topsoil physical properties for Europe (based on LUCAS topsoil data)
+  abstract: 'This dataset (GIS maps)(2016) contains 7 soil property maps that have
+    been derived using soil point data from the LUCAS 2009 soil survey (around 20,000
+    points) for EU-25, using hybrid approaches like regression kriging. Properties:
+    clay, silt and sand content; coarse fragments; bulk density; USDA soil textural
+    class; available water capacity. Resolution 500m.
+
+    '
+  dates: 2015
+  keywords:
+    default:
+      keywords:
+      - European Soil Database and soil properties
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34921
+    type: metadata
+    name: Topsoil physical properties for Europe (based on LUCAS topsoil data)
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/clay_s_1.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

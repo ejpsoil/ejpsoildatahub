@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Countryside-survey-of-topsoil-in-Great-Britain
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://catalogue.ceh.ac.uk/eidc/documents?facet=topic%7C0%2FSoil%2F
+spatial:
+  resolution: None of above
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: Countryside survey of topsoil in Great Britain
+  abstract: 'Soil pit excavation Maps of CEH Topsoil parameters can be found at http://mapapps2.bgs.ac.uk/ukso/home.html.                                                                                  A
+    large number of datasets at national  and local scales are available here, https://catalogue.ceh.ac.uk/eidc/documents?facet=topic%7C0%2FSoil%2F
+
+    '
+  dates:
+    creation: 1978, 1998 & 2007
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1978, 1998 & 2007
+  accessconstraints: Restricted
+  rights: ''
+  maintenancefrequency: regular monitoring 5-10 years
+contact:
+  pointOfContact:
+    organization: UK Centre for Ecology & Hydrology
+    country: UK
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Soil pit excavation. Mapping: . Depth intervals: defined as  topsoil/subsoil  only,
+      without any other description. Uncertainty quantification: NO'

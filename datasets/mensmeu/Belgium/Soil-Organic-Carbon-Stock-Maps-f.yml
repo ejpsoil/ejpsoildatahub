@@ -1,0 +1,220 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Soil-Organic-Carbon-Stock-Maps-for-Belgium
+  hierarchylevel: dataset
+  datestamp: 15-1-2018
+  language: dut
+  language_alternate: eng
+  charset: utf8
+identification:
+  title: Soil Organic Carbon Stock Maps for Belgium
+  abstract: 'Soil Organic Carbon Stock Maps for Belgium: mean (1 km grid)
+
+    '
+  dates:
+    creation: '2017-12-06'
+    publication: '2018-01-15'
+    pubblication: 15-1-2018
+  keywords:
+    keywords-0:
+      type: null
+      keywords:
+      - Bodem
+    keywords-1:
+      type: null
+      keywords:
+      - ondergrond
+      - landbouw
+      - koolstof
+      - totaal aan organische koolstof
+      - grasland
+      - akker
+      - bos
+    keywords-2:
+      type: null
+      keywords:
+      - DOV
+      - Vlaanderen
+      - Ondergrond
+      - Databank Ondergrond Vlaanderen
+      - Departement Omgeving
+    keywords-3:
+      type: theme
+      keywords:
+      - Regionaal
+    keywords-4:
+      type: theme
+      keywords:
+      - Herbruikbaar
+      - Kosteloos
+      - Vlaamse Open data
+      - Toegevoegd GDI-Vl
+      - Metadata GDI-Vl-conform
+      - Metadata INSPIRE-conform
+      - Lijst M&R INSPIRE
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - carbon stock
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox:
+      - 2.4846222535102074
+      - 48.49291304727594
+      - 6.497545304122984
+      - 52.50583609788872
+      crs: '4326'
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  status: onGoing
+  rights: no conditions apply
+  fees: ''
+  language: dut
+  charset: utf8
+  url: https://www.dov.vlaanderen.be/portaal/?module=public-bodemverkenner
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Vlaams Planbureau voor Omgeving (VPO), Departement Omgeving, Vlaamse
+      overheid
+    individualname: Graaf De Ferraris
+    positionname: null
+    phone: null
+    fax: null
+    address: Koning Albert II-laan 20 bus 8
+    city: Brussel
+    administrativearea: null
+    postalcode: '1000'
+    country: Belgium
+    email: vpo.omgeving@vlaanderen.be
+    url: https://www.omgevingvlaanderen.be
+    contactinstructions: email
+  distributor:
+    organization: Vlaamse Overheid - Databank Ondergrond Vlaanderen (DOV)
+    individualname: Vlaamse Overheid - Databank Ondergrond Vlaanderen (DOV)
+    positionname: "DOV-co\xF6rdinator"
+    phone: +32 9 240 75 93
+    fax: null
+    address: Technologiepark 68
+    city: Zwijnaarde
+    administrativearea: Oost-Vlaanderen
+    postalcode: '9052'
+    country: Belgium
+    email: dov@vlaanderen.be
+    url: https://www.dov.vlaanderen.be/geoserver
+distribution:
+  link-0:
+    url: https://www.dov.vlaanderen.be/geoserver/organische_koolstof/wms?SERVICE=WMS&version=1.3.0&request=GetCapabilities
+    type: OGC:WMS-1.3.0-http-get-capabilities
+    name: carbon_sd_40
+    description: 'WMS-capabilities Soil Organic Carbon Stock Maps for Belgium: standard
+      deviation (40 m grid)'
+    function: null
+  link-1:
+    url: https://www.dov.vlaanderen.be/geoserver/organische_koolstof/wms/kml?layers=carbon_sd_40
+    type: GLG:KML-2.0-http-get-map
+    name: carbon_sd_40
+    description: 'KML Soil Organic Carbon Stock Maps for Belgium: standard deviation
+      (40 m grid)'
+    function: null
+  link-2:
+    url: https://www.dov.vlaanderen.be/geoserver/organische_koolstof/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    type: OGC:WMS-1.3.0-http-get-map
+    name: carbon_sd_40
+    description: 'WMS-map Soil Organic Carbon Stock Maps for Belgium: standard deviation
+      (40 m grid)'
+    function: null
+  link-3:
+    url: https://www.dov.vlaanderen.be/geoserver/organische_koolstof/wms?
+    type: OGC:WMS
+    name: carbon_sd_40
+    description: 'WMS-endpoint Soil Organic Carbon Stock Maps for Belgium: standard
+      deviation (40 m grid)'
+    function: null
+  link-4:
+    url: https://www.dov.vlaanderen.be/geoserver/organische_koolstof/wcs?SERVICE=WCS&version=1.1.1&request=GetCapabilities
+    type: OGC:WCS-1.1.1-http-get-capabilities
+    name: organische_koolstof:carbon_sd_40
+    description: 'WCS-capabilities Soil Organic Carbon Stock Maps for Belgium: standard
+      deviation (40 m grid)'
+    function: download
+  link-5:
+    url: https://www.dov.vlaanderen.be/geoserver/organische_koolstof/wcs?SERVICE=WCS&version=1.1.1&request=GetCoverage
+    type: OGC:WCS-1.1.1-http-get-coverage
+    name: carbon_sd_40
+    description: 'WCS-coverage Soil Organic Carbon Stock Maps for Belgium: standard
+      deviation (40 m grid)'
+    function: download
+  link-6:
+    url: https://www.dov.vlaanderen.be/geoserver/organische_koolstof/wcs?
+    type: OGC:WCS
+    name: carbon_sd_40
+    description: 'WCS-endpoint Soil Organic Carbon Stock Maps for Belgium: standard
+      deviation (40 m grid)'
+    function: download
+  link-7:
+    url: https://www.dov.vlaanderen.be/bodemverkenner
+    type: WWW:LINK-1.0-http--related
+    name: DOV bodemverkenner applicatie
+    description: Link naar DOV bodemverkenner applicatie
+    function: null
+  wms:
+    name: carbon_sd_40
+    description: "The Belgian soil organic carbon (SOC) stock map for topsoils (0-30\
+      \ cm) at the resolution of 40m x 40m was composed of 2 regional SOC stock maps.\
+      \ For the regional maps a different approach was used for agricultural land\
+      \ as compared to forest. The maps are based on digital soil mapping approaches\
+      \ using empirical models calibrated to predict the SOC stock and using covariates\
+      \ that are available at a sufficient resolution at the regional scale. All maps\
+      \ are strongly dependent on the Belgian Soil Map (texture and drainage parameters).\
+      \ The regional maps were compiled at a fine resolution (10m x 10m grid cells\
+      \ for Flanders and 40m x 40m grid cells for Wallonia). Next they were joined\
+      \ (40m x 40m grid cells). The regional maps for Flanders were scaled up tot\
+      \ the 40m x 40m grid of Wallonia.  \r\nGiven the different origin of the individual\
+      \ maps, the uncertainty varies between maps. For instance, a map of the 90%\
+      \ confidence interval of the SOC stocks was produced for agricultural soils\
+      \ in Wallonia based on a Monte Carlo Approach taking into account both the measurement\
+      \ and the model uncertainties. For Flemish forest soils, spatial and analytical\
+      \ uncertainties were taken into account using bootstrapping techniques. For\
+      \ Flemish agricultural soils, the uncertainty reported is the model uncertainty\
+      \ on point estimates for each data point, in which the estimated model parameters\
+      \ are simulated 1000 times as being independent normal distributed variables\
+      \ using their model estimation and standard error as distribution parameters.\
+      \ No additional uncertainty is taken into account for the conversion functions\
+      \ that use the stochastic variables \"bulk density\". The metadata are available\
+      \ and allow assessing the uncertainties of the stock estimates in the different\
+      \ component maps.\r\nThe SOC stock map (resolution of 40m x 40m) is the first\
+      \ comprehensive map for Belgium integrating grasslands, croplands and forests.\
+      \ Based on this map another SOC stock map at a resolution of 1km x 1km in the\
+      \ coordinate reference system WGS84 was created."
+    url: https://www.dov.vlaanderen.be/geoserver/wms/kml?layers=organische_koolstof:carbon_sd_40
+    type: ogc:wms
+  wcs:
+    url: https://www.dov.vlaanderen.be/geoserver/wcs?
+    type: ogc:wcs
+    name: carbon_sd_40
+spatial:
+  scale: null
+  resolution: 1KM
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

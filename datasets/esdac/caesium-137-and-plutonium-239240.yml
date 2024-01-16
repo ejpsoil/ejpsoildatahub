@@ -1,0 +1,41 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: caesium-137-and-plutonium-239240-european-topsoils
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2020
+identification:
+  title: Caesium-137 and Plutonium-239+240 in European topsoils
+  abstract: 'Plutonium and Cesium inventories in European topsoils. Includes also
+    the Chernobyl-derived 137Cs and Global-derived 137Cs
+
+    '
+  dates: 2020
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/66136
+    type: metadata
+    name: Caesium-137 and Plutonium-239+240 in European topsoils
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/CS_Baseline_2009.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

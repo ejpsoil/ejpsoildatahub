@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bodemassociatiekaart-(1500.000)
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.geopunt.be/catalogus/datasetfolder/c4f51b28-51bf-4189-8e98-72b94ae8da13
+spatial:
+  resolution: 1:500.000
+  datatype: NATURAL_POLYGONs,polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Bodemassociatiekaart (1:500.000)
+  abstract: ''
+  dates:
+    creation: '1972'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '1972'
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: Vlaamse overheid, Vlaamse Landmaatschappij
+    country: Belgium
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: NO'

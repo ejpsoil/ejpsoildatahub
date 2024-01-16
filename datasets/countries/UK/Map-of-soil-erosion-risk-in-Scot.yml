@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Map-of-soil-erosion-risk-in-Scotland-(partial-cover)
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.spatialdata.gov.scot/geonetwork/srv/metadata/1a9302f1-b65e-40ae-8718-a4820cf70d1d
+spatial:
+  resolution: null
+  datatype: NATURAL_POLYGONs,polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Map of soil erosion risk in Scotland (partial cover)
+  abstract: 'mixed sampling type - incorporates all previous detailed soil mapping
+    augmented by a reconnaissance survey at 2-3/kme Data relates to soil surface (topsoil)
+
+    '
+  dates:
+    creation: 1947-1981
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1947-1981
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: James Hutton Institute
+    country: UK
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'mixed sampling type - incorporates all previous detailed soil mapping
+      augmented by a reconnaissance survey at 2-3/kme. Mapping: Conventional mapping,https://doi.org/10.1007/978-94-007-5642-7_6.
+      Depth intervals: otherRestrictions. Uncertainty quantification: '

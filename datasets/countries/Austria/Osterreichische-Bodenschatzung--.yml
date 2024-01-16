@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: "\xD6sterreichische-Bodensch\xE4tzung---Austrian-Soil-Condition-Survey"
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.bmf.gv.at/themen/steuern/immobilien-grundstuecke/grundbesitzabgaben-einheitsbewertung/land-und-forstwirtschaftliches-vermoegen-bodenschaetzung.html
+spatial:
+  resolution: 1:1000-5000; 15000 points; whole country; 10m; soil sampling every 40-60m
+    raster; 400-600 [points/km2];
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: "\xD6sterreichische Bodensch\xE4tzung - Austrian Soil Condition Survey"
+  abstract: "top soil and subsoil; there are soil reference sites/soil profiles; \n"
+  dates:
+    creation: since 1958
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Austria
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: since 1958
+  accessconstraints: Data available only under special permission
+  rights: Data can be obtained for free during delivery process at the relevant authorities;
+    beyond those times, compensation has to be payed;
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: "Bundesminiterium f\xFCr Finanzen/Ministry of Finance"
+    country: Austria
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'top soil and subsoil; there are soil reference sites/soil profiles;.
+      Mapping: . Depth intervals: Genetic-based horizons (A, Ap, B, C etc). Uncertainty
+      quantification: '

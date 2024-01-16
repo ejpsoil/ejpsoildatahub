@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: National-Arable-Soil-&-Crop-Inventory
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.slu.se/institutioner/mark-miljo/miljoanalys/akermarksinventeringen/undersokningar/mark-grodoinventeringen/
+spatial:
+  resolution: 5 300 points in total, 0.002 points/ha
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: National Arable Soil & Crop Inventory
+  abstract: 'mainly based on profile sampling (0 - 0.2 m and 0.4 - 0.6 m) topsoil
+    (0 - 0.2 m) and subsoil (0.4 - 0.6 m); coordinates are confidential
+
+    '
+  dates:
+    creation: 1988 - 2017
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Sweden
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1988 - 2017
+  accessconstraints: Restricted
+  rights: Statistics and mesurements without coordinates are freely available.
+  maintenancefrequency: regular monitoring 5-10 years
+contact:
+  pointOfContact:
+    organization: SEPA (Swedish Environmental Protection Agency)
+    country: Sweden
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'mainly based on profile sampling (0 - 0.2 m and 0.4 - 0.6 m). Mapping:
+      . Depth intervals: otherRestrictions. Uncertainty quantification: NO'

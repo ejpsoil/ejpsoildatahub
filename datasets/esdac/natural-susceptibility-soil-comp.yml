@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: natural-susceptibility-soil-compaction-europe
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2009
+identification:
+  title: Natural susceptibility to soil compaction in Europe
+  abstract: 'Map (2008) showing the natural susceptibility of agricultural soils to
+    compaction if they were to be exposed to compaction, based on the creation of
+    logical connections between relevant parameters (using pedotransfer rules), taking
+    as input parameters attributes of the European soil database (soil type, texture,
+    etc.). For EU-27.
+
+    '
+  dates: 2009
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - /DocumentsPublications
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/6866
+    type: metadata
+    name: Natural susceptibility to soil compaction in Europe
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Compaction_small.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

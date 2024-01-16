@@ -1,0 +1,50 @@
+
+mcf:
+    version: 1.0
+
+metadata:
+    identifier: "{{ md['id'] }}"
+    language: eng
+    charset: utf8
+    hierarchylevel: {{ md['type'] }}
+    datestamp: {{ md['year'] }}
+
+identification:
+    title: "{{ md['title'] }}"
+    abstract: >
+        {{ md['abstract'] }}
+    dates:
+        {{ md['year'] }}
+    keywords:
+        default:
+            keywords: 
+              - {{ md['kw1'] }}
+              - {{ md['kw2'] }}
+    topiccategory:
+        - geoscientificInformation
+    status: completed
+
+contact:
+    pointOfContact: 
+        organization: {{ md['publisher'] or 'Joint Research Centre of the European Commission' }}
+        country: Italy
+        email: ec-esdac@ec.europe.eu
+
+distribution:
+    md:
+        url: "{{ md['uri'] }}"
+        type: "metadata"
+        name: "{{ md['title'] }}"
+    thumbnail:
+        url: "{{ md['img'] }}"
+        type: image/{{ md['img'].split(".").pop() }}
+        rel: preview
+        name: Preview
+dataquality:
+    scope:
+        level: dataset
+
+
+
+
+

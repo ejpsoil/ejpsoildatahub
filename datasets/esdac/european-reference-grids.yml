@@ -1,0 +1,38 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: european-reference-grids
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2003
+identification:
+  title: European Reference Grids
+  abstract: ''
+  dates: 2003
+  keywords:
+    default:
+      keywords:
+      - Soil Projects Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: ''
+    type: metadata
+    name: European Reference Grids
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/grid_estonia_etrs_laea_10k.gif
+    type: image/gif
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

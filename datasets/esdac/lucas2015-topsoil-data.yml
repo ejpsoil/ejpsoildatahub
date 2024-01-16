@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: lucas2015-topsoil-data
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2020
+identification:
+  title: LUCAS 2015 TOPSOIL data
+  abstract: 'Data from the 2015 LUCAS campaign soil component containing soil properties
+    data (clay, silt and sand content, coarse fragments, pH (CaCl2 and H2O), organic
+    carbon content, CaCO3, nitrogen, phosphorous, potassium, EC (Electrical conductivity)
+    and multispectral reflectance data for 21,859 samples. These primary data are
+    supplemented by reference ancillary data describing a range of environmental conditions
+    for the LUCAS Soil locations.
+
+    '
+  dates: 2020
+  keywords:
+    default:
+      keywords:
+      - Soil Point Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/67674
+    type: metadata
+    name: LUCAS 2015 TOPSOIL data
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/LUCAS2015-picture.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

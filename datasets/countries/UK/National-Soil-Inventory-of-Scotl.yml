@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: National-Soil-Inventory-of-Scotland-(2007-09)-
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.hutton.ac.uk/learning/natural-resource-datasets/soilshutton/soils-maps-scotland/download
+spatial:
+  resolution: 10 km grid
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: 'National Soil Inventory of Scotland (2007-09) '
+  abstract: 'mixed sampling type - incorporates all previous detailed soil mapping
+    augmented by a reconnaissance survey at 2-3/kme Monitoring approx 25 years
+
+    '
+  dates:
+    creation: 2007-09
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2007-09
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: otherRestrictions
+contact:
+  pointOfContact:
+    organization: James Hutton Institute
+    country: UK
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'mixed sampling type - incorporates all previous detailed soil mapping
+      augmented by a reconnaissance survey at 2-3/kme. Mapping: 183. Depth intervals:
+      Genetic-based horizons (A, Ap, B, C etc). Uncertainty quantification: NO'

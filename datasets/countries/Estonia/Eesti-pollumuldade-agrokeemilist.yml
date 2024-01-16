@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: "Eesti-p\xF5llumuldade-agrokeemiliste-n\xE4itajate-digitaalne-andmekogu-(Digital-database-of-agrochemical-parameters-of-Estoanian-agricultural-soils)"
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: one point per 5 ha
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: "Eesti p\xF5llumuldade agrokeemiliste n\xE4itajate digitaalne andmekogu (Digital\
+    \ database of agrochemical parameters of Estoanian agricultural soils)"
+  abstract: 'bulk samples only depth intervals,soil samples taken from topsoil at
+    (cultivation depth) 0-20 cm
+
+    '
+  dates:
+    creation: 2002-2020
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Estonia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2002-2020
+  accessconstraints: otherRestrictions
+  rights: only aggregate data is available
+  maintenancefrequency: regular monitoring 5-10 years
+contact:
+  pointOfContact:
+    organization: 'Agricultural Research Centre '
+    country: Estonia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'bulk samples only. Mapping: combined. Depth intervals: Other  depth
+      intervals (specify in comments). Uncertainty quantification: NO'

@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: "Typomr\xE5den-p\xE5-jordbruksmark"
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.slu.se/institutioner/mark-miljo/forskning/hydroteknik/observationsfalt-typomraden/
+spatial:
+  resolution: 50 -60 points per catchment.
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: "Typomr\xE5den p\xE5 jordbruksmark"
+  abstract: 'bulksamples from 4 to 10 boreholes of each samplingpoint, sampling depths
+    0-20 cm, 20-60 cm and 60-90 cm Integrated monitoring where bi-weekly water samples
+    are collected and evaluated as a reflection of agricultural management. Main focus
+    is nitrogen and phosphorous losses. Soil samples where taken as a one time survey
+    to determine the soil type in the catchment.
+
+    '
+  dates:
+    creation: 1995-2011
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Sweden
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1995-2011
+  accessconstraints: Restricted
+  rights: Statistics and mesurements without coordinates are freely available.
+  maintenancefrequency: otherRestrictions
+contact:
+  pointOfContact:
+    organization: SEPA (Swedish Environmental Protection Agency)
+    country: Sweden
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'bulksamples from 4 to 10 boreholes of each samplingpoint, sampling
+      depths 0-20 cm, 20-60 cm and 60-90 cm. Mapping: . Depth intervals: . Uncertainty
+      quantification: '

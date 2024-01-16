@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Danish-Sinks-Wetland-Data-Base
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://dx.doi.org/10.1097/ss.0000000000000066
+spatial:
+  resolution: 9751 points in total
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: Danish Sinks Wetland Data Base
+  abstract: 'Soil properties measured on soil cores extracted from predefined depth
+    intervals with a 5-cm hand auger. Data includes an evaluation of the quality of
+    each core. Covers historic areas with organic soils. Sampling intervals,0 - 30
+    cm, 34 - 64 cm, 68 - 98 cm, 102 - 132 cm.
+
+    '
+  dates:
+    creation: '2010'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Denmark
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '2010'
+  accessconstraints: Restricted
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: Aarhus University
+    country: Denmark
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Soil properties measured on soil cores extracted from predefined depth
+      intervals with a 5-cm hand auger. Data includes an evaluation of the quality
+      of each core.. Mapping: Decision tree classification. Depth intervals: Other  depth
+      intervals (specify in comments). Uncertainty quantification: NO'

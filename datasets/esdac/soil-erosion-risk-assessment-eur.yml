@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: soil-erosion-risk-assessment-europe-data-mesales-model-dataset
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2006
+identification:
+  title: Soil Erosion Risk Assessment in Europe data (MESALES model) - Dataset
+  abstract: 'These Soil Erosion Risk Assessment in Europe data (2000) have been elaborated
+    by INRA for JRC using the MESAES model and can be seen as an intermediate step
+    towards a "state-of-the-art erosion modelling at the European scale", prior to
+    the initiation of the PESERA project.
+
+    '
+  dates: 2006
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34007
+    type: metadata
+    name: Soil Erosion Risk Assessment in Europe data (MESALES model) - Dataset
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/data_serae.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

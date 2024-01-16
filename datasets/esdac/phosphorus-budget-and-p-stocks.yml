@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: phosphorus-budget-and-p-stocks
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2022
+identification:
+  title: Phosphorus budget and P stocks
+  abstract: 'Phosphorus (P) budget in the European agricultural soils. We provide
+    shape files with main inputs (fertilizers, manure, chemical weathering, atmospheric
+    deposition) and the losses by water erosion. In addition, we model the Total P
+    and the relevant P stocks (available/Olsen, Total). We also make available 21,681
+    LUCAS point data with measured Total P.
+
+    '
+  dates: 2022
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/85401
+    type: metadata
+    name: Phosphorus budget and P stocks
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Fig.9%20Phosphorus_Budget.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

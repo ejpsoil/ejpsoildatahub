@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Soil-map-of-Flanders-(120.000)
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/a1547a01-b9fc-40fa-a2eb-009a39c02c7b
+spatial:
+  resolution: 80.0
+  datatype: NATURAL_POLYGONs,polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Soil map of Flanders (1:20.000)
+  abstract: "borehole/profile \n"
+  dates:
+    creation: 1947-1978
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1947-1978
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: Vlaamse overheid, Departement Omgeving, Vlaams Planbureau voor Omgeving
+      (VPO)
+    country: Belgium
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'borehole/profile. Mapping: conventional mapping. Depth intervals:
+      . Uncertainty quantification: NO'

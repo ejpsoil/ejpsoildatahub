@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: "Contaminaci\xF3n-difusa"
+  language: spa
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 1999
+spatial:
+  scale: 1:5 M
+  resolution: null
+identification:
+  language: spa
+  charset: utf8
+  title: "Contaminaci\xF3n difusa"
+  abstract: 'Map of nonpoint source pollution
+
+    '
+  dates:
+    pubblication: 1999
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Spain
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil contamination
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: null
+  rights: registation needed
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Evenor-Tech, SL, Solutions for soil use and protection (National
+      Research Council, CSIC Spin-off)
+    individualname: ''
+    country: Spain
+    email: info@evenor-tech.com
+    contactinstructions: email
+distribution:
+  jpg:
+    url: http://evenor-tech.com/banco/fao/gateway/spain/e_inlty.htm
+    type: image/jpg
+    name: JPG
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

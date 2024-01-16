@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: european-landslide-susceptibility-map-elsus-v2
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2018
+identification:
+  title: European Landslide Susceptibility Map version 2 (ELSUS v2)
+  abstract: 'The spatial dataset (GIS map) shows landslide susceptibility levels at
+    European scale, derived from heuristic-statistical modelling of main landslide
+    conditioning factors using also landslide location data. It covers all EU member
+    states except Malta, in addition to Albania, Andorra, Bosnia and Herzegovina,
+    Croatia, FYR Macedonia, Iceland, Kosovo, Liechtenstein, Montenegro, Norway, San
+    Marino, Serbia, and Switzerland. This dataset is available together with ancillary
+    spatial datasets
+
+    '
+  dates: 2018
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34380
+    type: metadata
+    name: European Landslide Susceptibility Map version 2 (ELSUS v2)
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/ELSUS_v2_preview_small.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

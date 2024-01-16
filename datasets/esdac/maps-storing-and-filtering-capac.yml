@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: maps-storing-and-filtering-capacity-soils-europe
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2016
+identification:
+  title: 'Maps of the Storing and Filtering Capacity of Soils in Europe '
+  abstract: 'This dataset (2016) contains 10 maps that relate to the soil''s storing
+    and filtering capacity in Europe (the EU only): cation storing capacity (STOR_CAPCA),
+    cation filtering capacity (FILT_CAPCA), anion storing capacity (STOR_CAPAN), anion
+    filtering capacity (FILT_CAPAN), solids and pathogenic microorganisms storing
+    capacity (STOR_CAPSO), solids and pathogenic microorganisms filtering capacity
+    (FILT_CAPSO), non-polar organic chemicals storing capacity (STOR_CAPNP), non-polar
+    organic chemicals filtering capacity (FILT_CAPNP), nonaqueous Phase Liquids (NAPL)
+    storing capacity (STOR_NAPL), nonaqueous Phase Liquids (NAPL), filtering capacity
+    (FILT_NAPL). As input, variables from the European Soil Database have been used.
+
+    '
+  dates: 2016
+  keywords:
+    default:
+      keywords:
+      - Soil Functions Data
+      - /DocumentsPublications
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/44420
+    type: metadata
+    name: 'Maps of the Storing and Filtering Capacity of Soils in Europe '
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/storing%20and%20filtering.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

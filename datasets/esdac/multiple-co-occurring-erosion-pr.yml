@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: multiple-co-occurring-erosion-processes-global-cropland
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2023
+identification:
+  title: Multiple co-occurring erosion processes on global cropland
+  abstract: 'Novel assessment of the spatial distribution of individual and combined
+    (additive) threat to soil due to five erosion processes across the world''s areas
+    suitable for farming. Susceptibility classes were predicted for water erosion,
+    wind erosion, Soil Loss by Crop Harvesting (SLCH), Tillage erosion and gully erosion.
+
+    '
+  dates: 2023
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/96871
+    type: metadata
+    name: Multiple co-occurring erosion processes on global cropland
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/MultipleGlobalProcess.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

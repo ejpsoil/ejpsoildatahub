@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: National-Soil-Map-of-England-and-Wales
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://www.landis.org.uk/data/natmap.cfm
+spatial:
+  resolution: 1:250000
+  datatype: NATURAL_POLYGONs,polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: National Soil Map of England and Wales
+  abstract: 'mixed sampling type - incorporates all previous detailed soil mapping
+    augmented by a reconnaissance survey at 2-3/kme This dataset does not contain
+    any soil parameter information. It can be associated with parameter information
+    on the basis of soil type
+
+    '
+  dates:
+    creation: 1980 - 1995
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1980 - 1995
+  accessconstraints: Restricted
+  rights: Data licence and potential cost
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: LandIS, University of Cranfield
+    country: UK
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'mixed sampling type - incorporates all previous detailed soil mapping
+      augmented by a reconnaissance survey at 2-3/kme. Mapping: Conventional mapping,https://doi.org/10.1007/978-94-007-5642-7_6.
+      Depth intervals: otherRestrictions. Uncertainty quantification: NO'

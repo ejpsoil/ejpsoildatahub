@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: global-rainfall-erosivity
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2017
+identification:
+  title: Global Rainfall Erosivity
+  abstract: 'Rainfall erosivity dataset (2017) is one of the input layers when calculating
+    the Revised Universal Soil Loss Equation (RUSLE) model, which is the most frequently
+    used model for soil erosion risk estimation; for the whole World; R-factor map
+    at resolutions of 30 arc-sec ((~1 km at the Equator).
+
+    '
+  dates: 2017
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/48491
+    type: metadata
+    name: Global Rainfall Erosivity
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Fig2.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

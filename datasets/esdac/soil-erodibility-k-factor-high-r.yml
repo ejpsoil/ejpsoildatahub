@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: soil-erodibility-k-factor-high-resolution-dataset-europe
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2011
+identification:
+  title: Soil Erodibility (K- Factor) High Resolution dataset for Europe
+  abstract: 'Map at 500m resolution (2014) providing a complete picture of the soil
+    erodibility in the European Union member states. It is derived on the basis of
+    the LUCAS 2009 soil survey exercise and the European Soil Database.
+
+    '
+  dates: 2011
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34376
+    type: metadata
+    name: Soil Erodibility (K- Factor) High Resolution dataset for Europe
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//KFactor-28.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

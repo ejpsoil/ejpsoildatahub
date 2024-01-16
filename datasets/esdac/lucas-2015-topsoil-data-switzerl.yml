@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: lucas-2015-topsoil-data-switzerland
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2019
+identification:
+  title: LUCAS 2015 Topsoil data of Switzerland
+  abstract: 'The dataset contains the data of physical and chemical properties analysed
+    in samples taken in Switzerland within the context of LUCAS 2015 survey. These
+    data have been used in the study Comparison of sampling with a spade and gouge
+    auger for topsoil monitoring at the continental scale, published in the European
+    Journal of Soil Science (https://onlinelibrary.wiley.com/doi/abs/10.1111/ejss.12862).
+    The dataset format is an Excel file.
+
+    '
+  dates: 2019
+  keywords:
+    default:
+      keywords:
+      - Soil Point Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/58896
+    type: metadata
+    name: LUCAS 2015 Topsoil data of Switzerland
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/topsoil-ch.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

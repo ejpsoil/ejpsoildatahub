@@ -1,0 +1,109 @@
+metadata:
+  identifier: 876F61A9-36C0-4CDD-9FC1-C243685BC1E8
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 30-6-2015
+identification:
+  title: "Potentielle Erosionsgef\xE4hrdung der Ackerb\xF6den durch Wasser in Deutschland\
+    \ 1:1.000.000"
+  abstract: 'The Potential Soil Erosion Risk map gives an overview of the exposure
+    of arable soils to soil loss due to surface runoff and splash erosion in Germany.
+    It is based on pedological, relief and climatic factors
+
+    '
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Germany
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil erosion
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  extents:
+    spatial:
+    - bbox:
+      - 5.44371
+      - 46.98135
+      - 15.642101
+      - 55.06406
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  rights: no conditions apply
+  fees: ''
+  language: ger
+  charset: utf8
+  dates:
+    pubblication: 30-6-2015
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
+  url: https://geoviewer.bgr.de/mapapps4/resources/apps/geoviewer/index.html?lang=en&serviceURL=https://services.bgr.de/wms/boden/pegwasser1000/?
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  distributor:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    url: https://www.bgr.bund.de/produktcenter-bestellhinweis-ILH
+    individualname: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    email: geodatenmanagement@bgr.de
+    address: Stilleweg 2
+    city: Hannover
+    administrativearea: DE-NI
+    postalcode: '30655'
+    country: DE
+    positionname: Technischer Ansprechpartner
+  pointOfContact:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    individualname: Stegger Ulrich
+    country: Germany
+    email: geodatenmanagement@bgr.de
+    contactinstructions: email
+distribution:
+  wms:
+    name: 1,3,5,7
+    description: "Die Karte der potentiellen Erosionsgef\xE4hrdung von Ackerb\xF6\
+      den durch Wasser gibt einen \xDCberblick \xFCber das m\xF6gliche Risiko von\
+      \ Bodenabtrag (in t/(ha*a)) durch Wasser in Deutschland auf Basis von bodenkundlichen,\
+      \ morphographischen und klimatischen Faktoren. Bodenerosion durch Wasser zerst\xF6\
+      rt langfristig den Boden und damit die nat\xFCrliche Lebensgrundlage f\xFCr\
+      \ k\xFCnftige Generationen. Die Karte wurde mit Hilfe des Langfristmodells ABAG\
+      \ (Allgemeinen Bodenabtragsgleichung) erstellt. Sie ist die Anpassung des Modells\
+      \ Universal Soil Equation (USLE) an deutsche Verh\xE4ltnisse. Die Methode ist\
+      \ in der DIN 19708:2005-02 und in der Methodendokumentation der Ad-hoc-AG Boden\
+      \ ver\xF6ffentlicht. F\xFCr die Anwendung auf Bodenkarten wurde das Verfahren\
+      \ von der Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR) ver\xE4\
+      ndert. In die Karte flie\xDFen bodenkundliche Kennwerte (K-Faktor) aus der nutzungsdifferenzierten\
+      \ Boden\xFCbersichtskarte von Deutschland 1:1.000.000 (B\xDCK1000N), morphologische\
+      \ Kennwerte (S-Faktor) aus dem DGM50 des Bundesamtes f\xFCr Kartographie und\
+      \ Geod\xE4sie (BKG) und klimatischen Kennwerte (R-Faktor) aus den Niederschlagsdaten\
+      \ des Deutschen Wetterdienstes (DWD) f\xFCr den Zeitraum 1961\u20131990 ein.\
+      \ Die Ackerstandorte werden aus dem Landnutzungsdatensatz CORINE Land Cover\
+      \ von 2006 gewonnen."
+    url: https://services.bgr.de/wms/boden/pegwasser1000/?
+    type: ogc:wms
+  TIFF:
+    url: https://download.bgr.de/bgr/Boden/PEGWASSER1000/tiff300/pegwasser1000_250_v10.zip
+    type: application/tiff
+    name: TIFF
+mcf:
+  version: 1.0
+spatial:
+  scale: 1:1 M
+  resolution: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

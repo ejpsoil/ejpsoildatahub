@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: AGES---farm-data-&-long-term-research-sites
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: 3-20 points, depending on the size of the site;
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: AGES - farm data & long term research sites
+  abstract: "research sites, till 0.9 m (for Nmin); famers, top soil (arable land);\
+    \ top and sub-soil (vine yards) at AGES research sites, data is collected after\
+    \ a certain time span (e.g. investigating fertilization measures); farm data,\
+    \ farmers may send soil samples only once or more often for analysis to AGES;\
+    \ \n"
+  dates:
+    creation: since 1988
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Austria
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: since 1988
+  accessconstraints: none of the above (specify in comments)
+  rights: 'readyly evaluated data can be obtaned from reports and publications; '
+  maintenancefrequency: none of the above (specify in comments)
+contact:
+  pointOfContact:
+    organization: AGES-Austrian Agency for Health and FoodSafety
+    country: Austria
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'research sites, till 0.9 m (for Nmin); famers, top soil (arable land);
+      top and sub-soil (vine yards). Mapping: . Depth intervals: . Uncertainty quantification: '

@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Invekos---Agricultural-Data
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.bmlrt.gv.at/land/direktzahlungen/Invekos.html
+spatial:
+  resolution: pixel size 20m to 20cm;
+  datatype: null
+identification:
+  language: null
+  charset: utf8
+  title: Invekos - Agricultural Data
+  abstract: 'no sampling is done; the Invekos-Data can be combined e.g. with DataSource
+    3;
+
+    '
+  dates:
+    creation: ongoing (Data of most farms is collected every year)
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Austria
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ongoing (Data of most farms is collected every year)
+  accessconstraints: Data available only under special permission
+  rights: 'data are only provided under permission of data owners; can be obtained
+    e.g. for non-commercial research projects for free; '
+  maintenancefrequency: none of the above (specify in comments)
+contact:
+  pointOfContact:
+    organization: BMLRT - Federal Ministry of Agriculture, Regions and Tourism
+    country: Austria
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '

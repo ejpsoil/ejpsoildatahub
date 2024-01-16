@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: programme-assessment-of-ecological-status-of-farmland-in-Poland
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: 44000
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: programme assessment of ecological status of farmland in Poland
+  abstract: "topsoil layer \n"
+  dates:
+    creation: 1992-1996
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Poland
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1992-1996
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: IUNG
+    country: Poland
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'topsoil layer. Mapping: . Depth intervals: 0-20 cm. Uncertainty quantification: '

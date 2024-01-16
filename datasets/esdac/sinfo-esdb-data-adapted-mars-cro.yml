@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: sinfo-esdb-data-adapted-mars-crop-yield-forecasting-system
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2007
+identification:
+  title: 'SINFO: ESDB Data adapted for the MARS Crop Yield Forecasting System'
+  abstract: 'A database (2007) that is the result of adapting the European Soil Database
+    for the provision of new and specific soil information for the CGMS (Crop Growth
+    Monitoring System) for use in the MARS Crop Yield Forecast Sing System.
+
+    '
+  dates: 2007
+  keywords:
+    default:
+      keywords:
+      - European Soil Database and soil properties
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission - DG JRC
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/33970
+    type: metadata
+    name: 'SINFO: ESDB Data adapted for the MARS Crop Yield Forecasting System'
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/data_sinfo.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

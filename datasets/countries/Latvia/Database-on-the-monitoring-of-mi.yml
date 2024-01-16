@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Database-on-the-monitoring-of-mineral-nitrogen-in-soils-of-the-SISMAP
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://www.vaad.gov.lv/sakums/informacija-sabiedribai/par-augsnu-agrokimisko-izpeti-un-minerala-slapekla-monitoringu.aspx
+spatial:
+  resolution: 48 points
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: Database on the monitoring of mineral nitrogen in soils of the SISMAP
+  abstract: 'Topsoil and subsoil sampling Sampling depth intervals,0 - 30; 30-60;
+    60-90 cm
+
+    '
+  dates:
+    creation: 2005 - 2020
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Latvia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2005 - 2020
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: regular monitoring, yearly
+contact:
+  pointOfContact:
+    organization: State plant protection service
+    country: Latvia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Topsoil and subsoil sampling. Mapping: . Depth intervals: Other  depth
+      intervals (specify in comments). Uncertainty quantification: NO'

@@ -1,0 +1,103 @@
+metadata:
+  identifier: edcd248c-2781-4108-a437-2a700908887e
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 12-8-2010
+identification:
+  title: "Effektive Durchwurzelungstiefe der B\xF6den in Deutschland"
+  abstract: 'Effective rooting depth of soils in Germany (dm). The effective rooting
+    depth is the size of the soil reservoir that the plant can reach to get water
+    in years of drought
+
+    '
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Germany
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soildepth
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  extents:
+    spatial:
+    - bbox:
+      - 5.432722
+      - 46.98339
+      - 15.655428
+      - 55.067148
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  rights: no conditions apply
+  fees: ''
+  language: ger
+  charset: utf8
+  dates:
+    pubblication: 12-8-2010
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
+  url: https://geoviewer.bgr.de/mapapps4/resources/apps/geoviewer/index.html?lang=en&serviceURL=https://services.bgr.de/wms/boden/we1000/?&layers=-boden_nfkwe1000_ags
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  distributor:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    url: https://www.bgr.bund.de/DE/Themen/Boden/Projekte/Ressourcenbewertung_und_management_abgeschlossen/Bodenkundliche_Themenkarten_fuer_HAD/Bodenkundliche_Themenkarten_neu.html
+    individualname: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    email: geodatenmanagement@bgr.de
+    address: Stilleweg 2
+    city: Hannover
+    administrativearea: DE-NI
+    postalcode: '30655'
+    country: DE
+    positionname: Technischer Ansprechpartner
+  pointOfContact:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    individualname: Stegger Ulrich
+    country: Germany
+    email: geodatenmanagement@bgr.de
+    contactinstructions: email
+distribution:
+  wms:
+    name: '0'
+    description: "Die Karte der effektiven Durchwurzelungstiefe der B\xF6den in Deutschland\
+      \ gibt einen \xDCberblick \xFCber den durchwurzelbaren Raum unterhalb der Gel\xE4\
+      ndeoberfl\xE4che. Die effektive Durchwurzelungstiefe (We) ist die potentielle\
+      \ Aussch\xF6pftiefe des pflanzenverf\xFCgbaren Bodenwassers (in dm), das durch\
+      \ Pflanzenwurzeln in Trockenjahren dem Boden maximal entzogen werden kann. Die\
+      \ Karte der effektiven Durchwurzelungstiefe basiert auf der Auswertung der nutzungsdifferenzierten\
+      \ Boden\xFCbersichtskarte 1:1.000.000 (BUEK1000N) und zeigt die metrisch skalierte\
+      \ Gr\xF6\xDFe in klassifizierter Form. Die Methode ist in der Bodenkundlichen\
+      \ Kartieranleitung (KA4) und in der Methodendokumentation Bodenkunde der Ad-hoc-AG\
+      \ Boden ver\xF6ffentlicht. Als Landnutzungsdatensatz und zur nutzungsabh\xE4\
+      ngigen Differenzierung der Profildaten werden die Daten CORINE Land Cover Projektes\
+      \ (2006) genutzt."
+    url: https://services.bgr.de/wms/boden/we1000/?
+    type: ogc:wms
+  GEOTiff:
+    url: https://download.bgr.de/bgr/boden/WE1000/geotiff/We1000_250.zip
+    type: application/geotiff
+    name: GEOTiff
+mcf:
+  version: 1.0
+spatial:
+  scale: 1:1 M
+  resolution: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

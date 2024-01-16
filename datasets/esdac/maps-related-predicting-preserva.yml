@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: maps-related-predicting-preservation-cultural-artefacts-and-buried-materials-soils-eu-0
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2016
+identification:
+  title: Maps of preservation capacity of cultural artefacts and buried materials
+    in soils in the EU
+  abstract: 'Maps (2016) that indicate the preservation capacity of cultural artefacts
+    and buried materials in soils in the EU, for bones, teeth and shells (bones),
+    organic materials (organics), metals (Cu, bronze and Fe) (metals), stratigraphic
+    evidence (strati).
+
+    '
+  dates: 2016
+  keywords:
+    default:
+      keywords:
+      - Soil Functions Data
+      - /DocumentsPublications
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Soil Data Centre
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/44466
+    type: metadata
+    name: Maps of preservation capacity of cultural artefacts and buried materials
+      in soils in the EU
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/organics.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

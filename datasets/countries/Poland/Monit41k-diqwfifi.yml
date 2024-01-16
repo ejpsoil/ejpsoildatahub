@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Monit41k
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://pw.iung.pl/index.php?option=com_content&view=article&id=182Itemid%3D99&Itemid=99
+spatial:
+  resolution: 41536
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: Monit41k
+  abstract: "topsoil layer \n"
+  dates:
+    creation: 2014-2015
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Poland
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2014-2015
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: IUNG-MRiRW
+    country: Poland
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'topsoil layer. Mapping: . Depth intervals: 0-20 cm. Uncertainty quantification: '
+distribution: {}

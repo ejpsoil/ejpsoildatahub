@@ -1,0 +1,41 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: carbon-budget-eu-agricultural-soils
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2018
+identification:
+  title: Carbon budget in the EU agricultural soils
+  abstract: 'Cumulative C budget over the period 2016-20100 in the EU agricultural
+    soils under the accelerated and current soil erosion scenarios.
+
+    '
+  dates: 2018
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/55069
+    type: metadata
+    name: Carbon budget in the EU agricultural soils
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/F3.large_.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

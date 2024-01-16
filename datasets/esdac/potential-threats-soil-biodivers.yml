@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: potential-threats-soil-biodiversity-europe
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2016
+identification:
+  title: Potential threats to soil biodiversity in Europe
+  abstract: 'Dataset that contains 3 GIS maps showing Potential threats to soil biodiversity
+    in Europe (for soil microorganisms, for fauna,forbiological functions), along
+    with 13 input layers (habitat fragmentation, climate change, soil erosion, etc.);
+    resolution 500m.
+
+    '
+  dates: 2016
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/42033
+    type: metadata
+    name: Potential threats to soil biodiversity in Europe
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Biodiversity_Threats_0.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

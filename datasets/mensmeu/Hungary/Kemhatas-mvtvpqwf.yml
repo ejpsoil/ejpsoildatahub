@@ -1,0 +1,91 @@
+metadata:
+  identifier: "K\xE9mhat\xE1s"
+  language: hun
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2019
+identification:
+  title: "K\xE9mhat\xE1s"
+  abstract: 'Soil pH in depths 0-5 cm, 5-15 cm, 15-30 cm, 30-60cm, 60-100 cm, 100-200
+    cm, 0-30 cm
+
+    '
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Hungary
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - pH
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  extents:
+    spatial:
+    - bbox:
+      - 16.015936
+      - 45.676268
+      - 22.941947
+      - 48.610464
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  rights: no conditions apply
+  fees: ''
+  language: hun
+  charset: utf8
+  dates:
+    creation: 2019
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  distributor:
+    organization: ''
+    url: https://maps.rissac.hu:6443/arcgis/services/dosoremi_web_mercator2/MapServer/WmsServer?
+    individualname: ''
+    email: null
+    address: ''
+    city: ''
+    administrativearea: ''
+    postalcode: ''
+    country: ''
+    positionname: ''
+  pointOfContact:
+    organization: Institute for Soil Sciences,
+    individualname: "L\xE1szl\xF3 P\xE1sztor"
+    country: Hungary
+    email: pasztor@rissac.hu
+    contactinstructions: email
+distribution:
+  wms:
+    name: 1,3,5
+    description: null
+    url: https://maps.rissac.hu:6443/arcgis/services/dosoremi_web_mercator2/MapServer/WMSServer
+    type: ogc:wms
+  JPG:
+    url: http://dosoremi.hu/tablazat.html
+    type: image/jpg
+    name: JPG
+mcf:
+  version: 1.0
+spatial:
+  scale: null
+  resolution: 100m
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

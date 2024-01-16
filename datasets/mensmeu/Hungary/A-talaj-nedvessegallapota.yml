@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: "A-talaj-nedvess\xE9g\xE1llapota"
+  language: hun
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2012
+spatial:
+  scale: 1:5M
+  resolution: null
+identification:
+  language: hun
+  charset: utf8
+  title: "A talaj nedvess\xE9g\xE1llapota"
+  abstract: 'Soil moisture in depths 0-15 cm, and 15-30 cm  at spring 2011
+
+    '
+  dates:
+    pubblication: 2012
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Hungary
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil moisture
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Institute for Soil Sciences,
+    individualname: "L\xE1szl\xF3 P\xE1sztor"
+    country: Hungary
+    email: pasztor@rissac.hu
+    contactinstructions: email
+distribution:
+  html:
+    url: http://okir-tdr.helion.hu/?talajallapot=2
+    type: text/html
+    name: HTML
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

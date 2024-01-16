@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: soil-microbial-biomass-and-respiration
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2021
+identification:
+  title: Soil microbial biomass and respiration
+  abstract: 'Maps of potential soil microbial basal respiration (bas), microbial biomass
+    (Cmic), and respiratory quotient (qO2) predicted across Europe. Monthly maps for
+    bas and Cmic are also available
+
+    '
+  dates: 2021
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/75644
+    type: metadata
+    name: Soil microbial biomass and respiration
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Respiration.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Irish-Soil-Information-System
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://gis.teagasc.ie/soils/
+spatial:
+  resolution: 1:250000
+  datatype: DERIVED Soil Profiles linked to the polygons
+identification:
+  language: null
+  charset: utf8
+  title: Irish Soil Information System
+  abstract: "mainly based on profile sampling \n"
+  dates:
+    creation: 2009-2014
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Ireland
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2009-2014
+  accessconstraints: otherRestrictions
+  rights: No restrictions with the exception of the original point data to retain
+    annonymity requirements under the terms of data collection
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: Teagasc/EPA
+    country: Ireland
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'mainly based on profile sampling. Mapping: Conventional mapping,http://gis.teagasc.ie/soils/.
+      Depth intervals: Genetic-based horizons (A, Ap, B, C etc). Uncertainty quantification:
+      YES'

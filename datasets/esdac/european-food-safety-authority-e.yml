@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: european-food-safety-authority-efsa-data-persam-software-tool
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2011
+identification:
+  title: European Food Safety Authority (EFSA) Data and PERSAM software tool
+  abstract: 'Data and software made public as the result of a collaboration between
+    JRC and EFSA. It contains soil, weather and crop data collected by JRC and organised
+    by EFSA for its purpose. The site also hosts the software tool PERSAM for Predicting
+    Environmental Concentrations in soil in support of the: "EFSA Guidance Document
+    for predicting environmental concentrations of active substances of plant protection
+    products and transformation products of these active substances in soil" which
+    EFSA was asked by the European Commission to prepare. The data/maps are provided
+    as rasters (ASCII grid). The soil data are: Topsoil Organic Matter content, Topsoil
+    pH water, Topsoil Bulk Density, Topsoil Texture Class, Topsoil Water Content at
+    Field Capacity.
+
+    '
+  dates: 2011
+  keywords:
+    default:
+      keywords:
+      - Soil Projects Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: EFSA and JRC
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34409
+    type: metadata
+    name: European Food Safety Authority (EFSA) Data and PERSAM software tool
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/efsa-vito-persam.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

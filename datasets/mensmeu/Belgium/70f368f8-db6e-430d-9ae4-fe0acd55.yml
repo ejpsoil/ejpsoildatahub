@@ -1,0 +1,192 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 70f368f8-db6e-430d-9ae4-fe0acd55fe52
+  hierarchylevel: dataset
+  datestamp: 1-1-2011
+  language: dut
+  language_alternate: eng
+  charset: utf8
+identification:
+  title: Potential soil erosion aggregated for a grid of 1 km by 1 km in Flanders
+  abstract: 'The potential soil erosion aggregated for a grid of 1 km  (ton/ha)
+
+    '
+  dates:
+    creation: '2010-12-01'
+    publication: '2011-01-01'
+    revision: '2021-01-07'
+    pubblication: 1-1-2011
+  keywords:
+    keywords-0:
+      type: null
+      keywords:
+      - Gebieden met natuurrisico's
+    keywords-1:
+      type: null
+      keywords:
+      - ondergrond
+      - bodemerosie
+      - erosie
+    keywords-2:
+      type: null
+      keywords:
+      - DOV
+      - Vlaanderen
+      - Ondergrond
+      - Databank Ondergrond Vlaanderen
+    keywords-3:
+      type: theme
+      keywords:
+      - Regionaal
+    keywords-4:
+      type: theme
+      keywords:
+      - Herbruikbaar
+      - Kosteloos
+      - Vlaamse Open data
+      - Toegevoegd GDI-Vl
+      - Metadata GDI-Vl-conform
+      - Metadata INSPIRE-conform
+      - Lijst M&R INSPIRE
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - Belgium
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil erosion
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox:
+      - 2.5174247215832684
+      - 50.66919500010318
+      - 5.942676652264954
+      - 51.50683621451535
+      crs: '4326'
+    temporal:
+    - begin: an individual date
+    - end: ''
+  accessconstraints: no limitation
+  status: onGoing
+  rights: no conditions apply
+  fees: ''
+  language: dut
+  charset: utf8
+  url: ''
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: "Bureau for Environment and Spatial Development \u2013 Flanders"
+    individualname: Koning Albert
+    positionname: null
+    phone: null
+    fax: null
+    address: Koning Albert II-laan 20 bus 8
+    city: Brussel
+    administrativearea: null
+    postalcode: '1000'
+    country: Belgium
+    email: vpo.omgeving@vlaanderen.be
+    url: https://www.omgevingvlaanderen.be
+    contactinstructions: email
+  distributor:
+    organization: Vlaamse Overheid - Databank Ondergrond Vlaanderen (DOV)
+    individualname: Vlaamse Overheid - Databank Ondergrond Vlaanderen (DOV)
+    positionname: "DOV-co\xF6rdinator"
+    phone: +32 9 240 75 93
+    fax: null
+    address: Technologiepark 68
+    city: Zwijnaarde
+    administrativearea: Oost-Vlaanderen
+    postalcode: '9052'
+    country: Belgium
+    email: dov@vlaanderen.be
+    url: https://www.dov.vlaanderen.be/geoserver
+distribution:
+  link-0:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wfs?
+    type: OGC:WFS
+    name: potential_soil_erosion
+    description: WFS-endpoint Potential soil erosion aggregated for a grid of 1 km
+      by 1 km in Flanders
+    function: download
+  link-1:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wfs?SERVICE=WFS&version=2.0.0&request=GetCapabilities
+    type: OGC:WFS-2.0.0-http-get-capabilities
+    name: erosie:potential_soil_erosion
+    description: WFS-capabilities Potential soil erosion aggregated for a grid of
+      1 km by 1 km in Flanders
+    function: download
+  link-2:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wms?SERVICE=WMS&version=1.3.0&request=GetCapabilities
+    type: OGC:WMS-1.3.0-http-get-capabilities
+    name: potential_soil_erosion
+    description: WMS-capabilities Potential soil erosion aggregated for a grid of
+      1 km by 1 km in Flanders
+    function: null
+  link-3:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wms/kml?layers=potential_soil_erosion
+    type: GLG:KML-2.0-http-get-map
+    name: potential_soil_erosion
+    description: KML Potential soil erosion aggregated for a grid of 1 km by 1 km
+      in Flanders
+    function: null
+  link-4:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    type: OGC:WMS-1.3.0-http-get-map
+    name: potential_soil_erosion
+    description: WMS-map Potential soil erosion aggregated for a grid of 1 km by 1
+      km in Flanders
+    function: null
+  link-5:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wms?
+    type: OGC:WMS
+    name: potential_soil_erosion
+    description: WMS-endpoint Potential soil erosion aggregated for a grid of 1 km
+      by 1 km in Flanders
+    function: null
+  link-6:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wfs?SERVICE=WFS&version=2.0.0&request=GetFeature&count=1&typeName=potential_soil_erosion
+    type: OGC:WFS-2.0.0-http-get-feature
+    name: potential_soil_erosion
+    description: WFS-feature Potential soil erosion aggregated for a grid of 1 km
+      by 1 km in Flanders
+    function: download
+  wms:
+    name: potential_soil_erosion
+    description: 'The potential soil erosion aggregated for a grid of 1 km shows the
+      average potential erosion (ton/ha) for a specific grid cell. The map is the
+      sum of water and tillage erosion. The map takes into account 4 types of land
+      use: forest, permanent cover, agricultural crops without permanent cover and
+      other land use. The map is based on the soil erosion map aggregated for each
+      agricultural parcel in Flanders (2010).  The original map on parcel level is
+      a product of computer modeling with a spatial resolution of 5 m * 5 m by the
+      "Physical and Regional Geography Division, Department of Earth and Environmental
+      Sciences, K.U. Leuven". The calculation of water erosion is based on the Revised
+      Soil Loss Equation (RUSLE, Renard et al., 1991) using a 2 dimensional approach
+      for calculating the LS factor based on Desmet and Govers (1996).  The water
+      erosion is calculated with a crop factor of 0,001 for forest, a crop factor
+      of 0,01 for permanent cover (excluding forest), a crop factor of 0,37 for other
+      agricultural crops and a crop factor of 0 for other land use. Tillage erosion
+      is calculated according to the WaTEM/SEDEM model based on Van Oost et al. (2000).'
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    type: ogc:wms
+spatial:
+  scale: null
+  resolution: 1KM
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

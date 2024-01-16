@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Pedosequences-of-Slovenia-
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.kis.si/en/Soil_data
+spatial:
+  resolution: 01:25,0
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: 'Pedosequences of Slovenia '
+  abstract: 'Pedo-sequences of Slovenia groupes Slovenian soil types based on the
+    parent material since this is the most influent soil formation factor in Slo.
+    The data is color-coded and in digital form (not parcel-specific). Data is not
+    depth specified
+
+    '
+  dates:
+    creation: '1999'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '1999'
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Agricultural institute of Slovenia
+    country: Slovenia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Pedo-sequences of Slovenia groupes Slovenian soil types based on the
+      parent material since this is the most influent soil formation factor in Slo.
+      The data is color-coded and in digital form (not parcel-specific).. Mapping:
+      *. Depth intervals: otherRestrictions. Uncertainty quantification: NO'

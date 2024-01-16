@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: AFBI-5k-Soil-Attribute-Dataset
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.afbini.gov.uk/articles/soil-maps-and-soil-survey
+spatial:
+  resolution: 5km point grid
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: AFBI 5k Soil Attribute Dataset
+  abstract: "Representative soil pit excavated \n"
+  dates:
+    creation: 1988-1997
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1988-1997
+  accessconstraints: otherRestrictions
+  rights: The dataset cannot be made publically available
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: Agri-Food and Biosciences Institute
+    country: UK
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Representative soil pit excavated. Mapping: Conventional mapping -
+      554 sample points. Depth intervals: Genetic-based horizons (A, Ap, B, C etc).
+      Uncertainty quantification: NO'

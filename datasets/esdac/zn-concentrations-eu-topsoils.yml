@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: zn-concentrations-eu-topsoils
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2023
+identification:
+  title: Zinc concentrations in EU topsoils
+  abstract: 'Zinc (Zn) is essential to sustain crop production and human health, while
+    it can be toxic when present in excess. The Zn concentration (mg kg-1) in European
+    topsoils as predicted by the quantile regression forest using the 21,682 samples
+    of LUCAS. The resolution of this map is 250 m by 250 m.
+
+    '
+  dates: 2023
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/93627
+    type: metadata
+    name: Zinc concentrations in EU topsoils
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/zinc%20s_0.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

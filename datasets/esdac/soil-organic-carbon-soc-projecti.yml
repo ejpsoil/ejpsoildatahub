@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: soil-organic-carbon-soc-projections-europe
+  language: eng
+  charset: utf8
+  hierarchylevel: /resource-type/datasets
+  datestamp: 2016
+identification:
+  title: 'Soil Organic Carbon (SOC) Projections for Europe '
+  abstract: 'This dataset consists of a number of data layers (raster GRID maps) that
+    are associated to the peer-reviewed publication "Assessment of soil organic carbon
+    stocks under future climate and land cover changes in Europe" . Layers cover the
+    current Soil Organic Carbon Stocks (2016) and the projected Soil Organic Carbon
+    Stocks by 2050, for various Climate Scenarios (CCSM4, HadGEM2-AO , IPSL-CM5A-LR
+    MRI-CGCM3) and Representative Concentration Pathways (RCPs).
+
+    '
+  dates: 2016
+  keywords:
+    default:
+      keywords:
+      - null
+      - https://esdac.jrc.ec.europa.eu/node/45807
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: Yusuf Yigini and Panos Panagos
+    type: metadata
+    name: 'Soil Organic Carbon (SOC) Projections for Europe '
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/figure-2.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

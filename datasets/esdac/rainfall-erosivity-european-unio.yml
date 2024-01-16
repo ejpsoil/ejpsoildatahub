@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: rainfall-erosivity-european-union-and-switzerland
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2012
+identification:
+  title: Rainfall Erosivity in the EU and Switzerland (R-factor)
+  abstract: 'Dataset (GIS map) (2015) and associated products for the "Rainfall erosivity"
+    (R-factor), one of the input layers when calculating the Universal Soil Loss Equation
+    (USLE) model, which is the most frequently used model for soil erosion risk estimation;
+    for EU28+Switzerland; R-factor map at resolutions of 500m. Users can downloads
+    Raw data, Baseline map (2010), Monthly erosivity, Future projections (2050), Past
+    erosivity (1961-2000).
+
+    '
+  dates: 2012
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34378
+    type: metadata
+    name: Rainfall Erosivity in the EU and Switzerland (R-factor)
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Fig2-R%20Ver2_Crop.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

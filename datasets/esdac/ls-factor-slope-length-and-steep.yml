@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ls-factor-slope-length-and-steepness-factor-eu
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2015
+identification:
+  title: LS-factor (Slope Length and Steepness factor) for the EU
+  abstract: 'This dataset (GIS maps) (2015) represents the Slope Length and Steepness
+    factor (LS-factor), one of the six input layers when calculating the Universal
+    Soil Loss Equation (USLE) model, which is the most frequently used model for soil
+    erosion risk estimation; for EU28; maps at resolutions of 25m (per country) and
+    100m (Europe-wide).
+
+    '
+  dates: 2015
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34384
+    type: metadata
+    name: LS-factor (Slope Length and Steepness factor) for the EU
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/LS-factor.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

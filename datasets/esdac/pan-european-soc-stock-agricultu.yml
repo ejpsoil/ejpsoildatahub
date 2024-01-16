@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: pan-european-soc-stock-agricultural-soils
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2013
+identification:
+  title: Pan-European SOC stock of agricultural soils
+  abstract: 'Data (2014) related to Pan-European SOC stock of agricultural soils,
+    containing GIS maps for a) Pan-European SOC stock of agricultural soils (shapefile),
+    b) Potential carbon sequestration by modelling a comprehensive set of management
+    practices (shapefile), c) Average Eroded SOC in agricultural soils (raster).
+
+    '
+  dates: 2013
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission Joint Research Centre
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34381
+    type: metadata
+    name: Pan-European SOC stock of agricultural soils
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/erosion_forest_0.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

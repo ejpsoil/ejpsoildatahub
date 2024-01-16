@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: e4b53170-f364-4b53-bc17-f5fa482f8aa3
+  language: fre
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2-6-2015
+spatial:
+  scale: null
+  resolution: 1KM
+identification:
+  language: fre
+  charset: utf8
+  title: "Contamination en \xE9l\xE9ments traces m\xE9talliques (ETM)"
+  abstract: 'Eight  trace elements (Cd, Cr, Cu, Hg, Ni, Pb, Se, Zn) in agricultural
+    soils in France, results of data collection at national level, 2007
+
+    '
+  dates:
+    pubblication: 2-6-2015
+  keywords:
+    default:
+      keywords:
+      - soil degradation processes
+    country:
+      keywords:
+      - France
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soil contamination
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://www.gissol.fr/thematiques/etm-50
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: INRA InfoSol
+    individualname: Denis BAIZE
+    country: France
+    email: infosol@orleans.inra.fr
+    contactinstructions: email
+distribution:
+  wms:
+    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_bdetm/wms?
+    type: ogc:wms
+    name: teneur_cd_tot_bdetm
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

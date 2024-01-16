@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: support-practices-factor-p-factor-eu
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2015
+identification:
+  title: Support Practices factor (P-factor) for the EU
+  abstract: 'This GIS map (2015) represents the "Support Practices factor" (P-factor)
+    for the EU. At European level, the effect of support practices (compulsory for
+    farmers to receive incentives under the CAP-GAEC) on soil loss were assessed by
+    P-factor estimation taking into account a) contour farming b) maintenance of stone
+    walls and c) grass margins. Resolution 1km.
+
+    '
+  dates: 2015
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34401
+    type: metadata
+    name: Support Practices factor (P-factor) for the EU
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/P-factor7_Final_0.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

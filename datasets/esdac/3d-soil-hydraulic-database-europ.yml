@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 3d-soil-hydraulic-database-europe-1-km-and-250-m-resolution
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2017
+identification:
+  title: 3D Soil Hydraulic Database of Europe at 1 km and 250 m resolution
+  abstract: 'A consistent spatial soil hydraulic database at 7 soil depths up to 2
+    m calculated for Europe based on SoilGrids250m and 1 km datasets and pedotransfer
+    functions trained on the European Hydropedological Data Inventory. Saturated water
+    content, water content at field capacity and wilting point, saturated hydraulic
+    conductivity and Mualem-van Genuchten parameters for the description of the moisture
+    retention, and unsaturated hydraulic conductivity curves have been predicted.
+    The derived 3D soil hydraulic layers (EU-SoilHydroGrids ver1.0) can be used for
+    environmental modelling purposes at catchment or continental scale in Europe.
+    Currently, only EU-SoilHydroGrids provides information on the most frequently
+    required soil hydraulic properties with full European coverage up to 2 m depth
+    at 250 m resolution.
+
+    '
+  dates: 2017
+  keywords:
+    default:
+      keywords:
+      - Soil Functions Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/49322
+    type: metadata
+    name: 3D Soil Hydraulic Database of Europe at 1 km and 250 m resolution
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/ths.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: manure-and-soil-biodiversity
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2021
+identification:
+  title: Manure and soil biodiversity
+  abstract: 'This dataset includes the spatial distribution of manure in EU and UK
+    (per country, animal type) plus the database of the literature used to review
+    interactions between Manure and Soil biodiversity.
+
+    '
+  dates: 2021
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: ''
+    type: metadata
+    name: Manure and soil biodiversity
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Manure_map_0.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

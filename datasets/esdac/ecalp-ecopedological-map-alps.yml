@@ -1,0 +1,38 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ecalp-ecopedological-map-alps
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2005
+identification:
+  title: 'ECALP: Ecopedological Map of the Alps'
+  abstract: ''
+  dates: 2005
+  keywords:
+    default:
+      keywords:
+      - Soil Projects Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission - DG JRC
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: ''
+    type: metadata
+    name: 'ECALP: Ecopedological Map of the Alps'
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/applications_ecalp.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

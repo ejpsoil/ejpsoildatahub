@@ -1,0 +1,89 @@
+metadata:
+  identifier: Carte-des-sols-125000
+  language: fre
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 1-10-1999
+identification:
+  title: Carte des sols 1:25000
+  abstract: 'Soil Map 1:25000 Detailed soil map on topographic background. The published
+    collection comprises 7 sheets (1964 - 1999).
+
+    '
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Luxembourg
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  extents:
+    spatial:
+    - bbox:
+      - 5.586528
+      - 49.321018
+      - 6.62763
+      - 50.266328
+      crs: '4326'
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  rights: no conditions apply
+  fees: ''
+  language: fre
+  charset: utf8
+  dates:
+    pubblication: 1-10-1999
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
+  url: https://map.geoportail.lu/theme/agriculture?layers=702-1637&zoom=8&lang=fr&version=3&X=669751&Y=6416190&opacities=1-1&bgLayer=orthogr_2013_global
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  distributor:
+    organization: null
+    url: https://ws.geoportail.lu/wss/service/250k/guest?
+    individualname: null
+    email: null
+    address: null
+    city: null
+    administrativearea: null
+    postalcode: null
+    country: null
+    positionname: null
+  pointOfContact:
+    organization: "Minist\xE8re de l'Agriculture, de la Viticulture et de la Protection\
+      \ des consommateurs. Service de p\xE9dologie - Administration des services techniques\
+      \ de l\u2019agriculture"
+    individualname: Simone Marx
+    country: Luxembourg
+    email: pedologie@asta.etat.lu
+    contactinstructions: email
+distribution:
+  wms:
+    name: WMS
+    description: null
+    url: http://ws.geoportail.lu/250k
+    type: ogc:wms
+mcf:
+  version: 1.0
+spatial:
+  scale: 1:25000
+  resolution: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

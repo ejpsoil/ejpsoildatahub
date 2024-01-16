@@ -1,0 +1,41 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: wrb-data-soil-atlas-northern-circumpolar-region
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2018
+identification:
+  title: WRB Data for the Soil Atlas of the Northern Circumpolar Region
+  abstract: 'These data are the WRB soil data for the whole area covered by the Soil
+    Atlas of the Northern Circumpolar Region. It comes as a single shapefile.
+
+    '
+  dates: 2018
+  keywords:
+    default:
+      keywords:
+      - European Soil Database and soil properties
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/51113
+    type: metadata
+    name: WRB Data for the Soil Atlas of the Northern Circumpolar Region
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/NCP.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

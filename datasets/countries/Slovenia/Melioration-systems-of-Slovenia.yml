@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Melioration-systems-of-Slovenia
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: 1:5,000?
+  datatype: AGRI_PARCEL LPI,POLYGON WITH Land Parcel Identification (LPI) is  available
+    for agricultural parcel
+identification:
+  language: null
+  charset: utf8
+  title: Melioration systems of Slovenia
+  abstract: "Names and areas of different melioration systems, but the dataset is\
+    \ currently not working (parcel-specific,no). \n"
+  dates:
+    creation: N/A - 2013
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: N/A - 2013
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Ministry of Agriculture, Forestry and Food, Slovenia
+    country: Slovenia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Names and areas of different melioration systems, but the dataset
+      is currently not working (parcel-specific,no).. Mapping: . Depth intervals:
+      . Uncertainty quantification: '

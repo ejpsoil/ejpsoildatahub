@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: "\u0395\u03B4\u03B1\u03C6\u03BF\u03BB\u03BF\u03B3\u03B9\u03BA\u03CC\u03C2\
+    -\u03A7\u03AC\u03C1\u03C4\u03B7\u03C2-\u03C4\u03B7\u03C2-\u0395\u03BB\u03BB\u03AC\
+    \u03B4\u03B1\u03C2"
+  language: gre
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2015
+spatial:
+  scale: 1:500000
+  resolution: null
+identification:
+  language: gre
+  charset: utf8
+  title: "\u0395\u03B4\u03B1\u03C6\u03BF\u03BB\u03BF\u03B3\u03B9\u03BA\u03CC\u03C2\
+    \ \u03A7\u03AC\u03C1\u03C4\u03B7\u03C2 \u03C4\u03B7\u03C2 \u0395\u03BB\u03BB\u03AC\
+    \u03B4\u03B1\u03C2"
+  abstract: 'Soil Map of Greece
+
+    '
+  dates:
+    pubblication: 2015
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Greece
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - Soil Map
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: no limitation
+  rights: no conditions apply
+  url: https://iris.gov.gr/SoilServices/dynamicquery.html
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Aristotle University of Thessaloniki
+    individualname: Pavlatou-Ve Athina
+    country: Greece
+    email: ave@agro.auth.gr
+    contactinstructions: email
+distribution:
+  jpg:
+    url: http://appliedsoilab.web.auth.gr/images/Soil_Map_of_Greece.JPG
+    type: image/jpg
+    name: JPG
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

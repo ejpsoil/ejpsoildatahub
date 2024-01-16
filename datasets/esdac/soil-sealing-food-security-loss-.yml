@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: soil-sealing-food-security-loss-potential-agricultural-production-capability
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2014
+identification:
+  title: Soil Sealing and food security (Loss of Potential Agricultural Production
+    Capability)
+  abstract: 'This dataset (2015), an Excel file, contains the data associated to the
+    peer-reveiwed paper: Gardi, C., Panagos, P., Van Liedekerke, M., Bosco, C., de
+    Brogniez, D. 2015. Land take and food security: assessment of land take on the
+    agricultural production in Europe. Journal of Environmental Planning and Management,
+    58 (5) , pp. 898-912.
+
+    '
+  dates: 2014
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: ''
+    type: metadata
+    name: Soil Sealing and food security (Loss of Potential Agricultural Production
+      Capability)
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/LandTake-Food.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

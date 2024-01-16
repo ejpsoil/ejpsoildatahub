@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: maps-indicators-soil-hydraulic-properties-europe
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2016
+identification:
+  title: Maps of indicators of soil hydraulic properties for Europe
+  abstract: 'Soil hydraulic properties maps (2016) for Europe: for Water retention
+    of topsoil: saturated water content (cm3/cm3), water content at field capacity
+    (cm3/cm3), water content at wilting point (cm3/cm3); for Hydraulic conductivity
+    of topsoil: saturated hydraulic conductivity (cm/day). Besides the true values
+    in the units mentioned values scaled between 1 and 10 without measurement units
+    were also calculated.
+
+    '
+  dates: 2016
+  keywords:
+    default:
+      keywords:
+      - Soil Functions Data
+      - /DocumentsPublications
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: JRC - European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/44409
+    type: metadata
+    name: Maps of indicators of soil hydraulic properties for Europe
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/sf_water_0.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

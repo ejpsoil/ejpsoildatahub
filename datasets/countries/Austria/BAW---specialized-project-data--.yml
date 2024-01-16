@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: BAW---specialized-project-data-&-long-term-research
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.baw.at/en/wasser-boden-en/projekte.html
+spatial:
+  resolution: 1000 points over the whole country;
+  datatype: POINT
+identification:
+  language: null
+  charset: utf8
+  title: BAW - specialized project data & long term research
+  abstract: "sampling intervals, depending on the project; sampling depth, single\
+    \ sampling sites till 1m, at monitoring sites till 1.5m or 2m depth frequency\
+    \ of data collection, single survey and monitoring, both is done depending on\
+    \ the individual project requirements; \n"
+  dates:
+    creation: since 1945 analog/since 1990 digital data
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Austria
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: since 1945 analog/since 1990 digital data
+  accessconstraints: Data available only under special permission
+  rights: all analytical data are only provided under permission of data owner; data
+    can be obtained e.g. to write scientific articles together with the data owner;
+  maintenancefrequency: none of the above (specify in comments)
+contact:
+  pointOfContact:
+    organization: BAW - Federal Agency for Water Management
+    country: Austria
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'sampling intervals, depending on the project; sampling depth, single
+      sampling sites till 1m, at monitoring sites till 1.5m or 2m depth. Mapping:
+      . Depth intervals: . Uncertainty quantification: '

@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: "CEH-Land-Cover-plus\_Pesticides"
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://www.ceh.ac.uk/services/ceh-land-cover-plus-products-fertilisers-pesticides
+spatial:
+  resolution: 75-100
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: "CEH Land Cover plus\_Pesticides"
+  abstract: 'Mixed sampling type Data available fro 162 active ingredients
+
+    '
+  dates:
+    creation: 2012-2017
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - UK
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2012-2017
+  accessconstraints: Restricted
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: UK Centre for Ecology & Hydrology
+    country: UK
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: "Mixed sampling type. Mapping: Anonymised data from Pesticide Utilisation\
+      \ Survey data used with spatial interpolation model  to predict applications\
+      \ for every 1km grid cell in England, Wales and Scotland The total application\
+      \ for each 1km square was then derived using crop areas from CEH Land Cover\xAE\
+      \ plus,Crops. Depth intervals: . Uncertainty quantification: "

@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: global-applications-soil-erosion-modelling-tracker
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2021
+identification:
+  title: Global Applications of Soil Erosion Modelling Tracker
+  abstract: 'Global Applications of Soil Erosion Modelling Tracker (GASEMT) includes
+    3030 individual modelling records from 126 countries, encompassing all continents.
+    GASEMT includes peer-reviewed research literature on soil-erosion modelling published
+    between 1994 and 2017.
+
+    '
+  dates: 2021
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: ''
+    type: metadata
+    name: Global Applications of Soil Erosion Modelling Tracker
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/GASEMT.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

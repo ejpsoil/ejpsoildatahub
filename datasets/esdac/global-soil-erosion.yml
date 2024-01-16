@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: global-soil-erosion
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2019
+identification:
+  title: 'Global Soil Erosion '
+  abstract: 'Global Soil Erosion is a re-sampled dataset (25km) of the original Global
+    Soil Erosion map. Both the 2012 and 2001 datasets are provided. The data package
+    includes also the input layers (K, LS, R, C) at 25km resolution and a sample area
+    (in Amazon rainforest) at the original resolution of 250m
+
+    '
+  dates: 2019
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/56588
+    type: metadata
+    name: 'Global Soil Erosion '
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Official_Global_map_Borrelli_et_al_2017.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

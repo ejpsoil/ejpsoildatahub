@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: lucas-2018-topsoil-data
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2022
+identification:
+  title: LUCAS 2018 TOPSOIL data
+  abstract: 'Data from the 2018 LUCAS campaign soil component containing soil properties
+    data for 18,984 samples: pH (CaCl2 and H2O), organic carbon content, CaCO3, nitrogen,
+    phosphorous, potassium, EC (Electrical conductivity), Oxalate extractable Fe and
+    Al .
+
+    '
+  dates: 2022
+  keywords:
+    default:
+      keywords:
+      - Soil Point Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/80774
+    type: metadata
+    name: LUCAS 2018 TOPSOIL data
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/LUCAS2018.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

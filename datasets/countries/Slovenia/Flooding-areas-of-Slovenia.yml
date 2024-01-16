@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Flooding-areas-of-Slovenia
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: null
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Flooding areas of Slovenia
+  abstract: "Flood-endangered regions are presented in 3 flooding appearance levels,floodings\
+    \ level appearance possible every 10, 100, and 500 years. SDE Feature Class.;\
+    \ Digital; Flooding protection and prevention (parcel-specific,no).http://gis.arso.gov.si/geoportal/catalog/search/resource/details.page?uuid={D3D85E9D-DFEF-4C38-8147-48FCFDFC08B6}\
+    \ \n"
+  dates:
+    creation: 2013 - 2015
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2013 - 2015
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Ministry of the Environment and Spatial Planning - Slovenian Environment
+      Agency
+    country: Slovenia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Flood-endangered regions are presented in 3 flooding appearance levels,floodings
+      level appearance possible every 10, 100, and 500 years. SDE Feature Class.;
+      Digital; Flooding protection and prevention (parcel-specific,no).http://gis.arso.gov.si/geoportal/catalog/search/resource/details.page?uuid={D3D85E9D-DFEF-4C38-8147-48FCFDFC08B6}.
+      Mapping: . Depth intervals: . Uncertainty quantification: '

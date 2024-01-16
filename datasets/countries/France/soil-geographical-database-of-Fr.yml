@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: soil-geographical-database-of-France-at-11,000,000
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: https://doi.org/10.15454/BPN57S
+spatial:
+  resolution: 1:1,000,000
+  datatype: NATURAL_POLYGONs,polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: soil geographical database of France at 1:1,000,000
+  abstract: 'synthesis of soil surveys and soil knowledge it formed the French part
+    of the soil geographical DB of Eurasia
+
+    '
+  dates:
+    creation: '1998'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - France
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '1998'
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: INRAE
+    country: France
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'synthesis of soil surveys and soil knowledge. Mapping: conventional
+      mapping. Depth intervals: defined as  topsoil/subsoil  only, without any other
+      desription. Uncertainty quantification: NO'

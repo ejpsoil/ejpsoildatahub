@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: soil-erosion-forestland-europe-using-rusle2015
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2014
+identification:
+  title: Soil erosion in forestland in Europe (using RUSLE2015)
+  abstract: 'Dataset (2 GIS-maps) (2016) related to soil erosion in Forestland in
+    Europe. One map is the soil loss potential for EU28; the other map is the European
+    Forest Cover Change for 36 European countries.
+
+    '
+  dates: 2014
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission - DG JRC
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34382
+    type: metadata
+    name: Soil erosion in forestland in Europe (using RUSLE2015)
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/erosion_forest.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

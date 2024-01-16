@@ -1,0 +1,103 @@
+metadata:
+  identifier: d60d8925-06fd-455d-b5fe-62ad78766e0a
+  language: ger
+  language_alternate: null
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 26-11-2015
+identification:
+  title: "Luftkapazit\xE4t der B\xF6den im effektiven Wurzelraum in Deutschland"
+  abstract: 'The map of the air capacity of soils in Germany gives an overview of
+    the content of air in a soil at field capacity
+
+    '
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Germany
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - avaliable water capacity
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  extents:
+    spatial:
+    - bbox:
+      - 5.432722
+      - 46.981071
+      - 15.655428
+      - 55.067148
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  rights: no conditions apply
+  fees: ''
+  language: ger
+  charset: utf8
+  dates:
+    pubblication: 26-11-2015
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
+  url: https://geoviewer.bgr.de/mapapps/resources/apps/geoviewer/index.html?lang=de&serviceURL=https://services.bgr.de/wms/boden/lkwe1000/%3F
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  distributor:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    url: https://www.bgr.bund.de/DE/Themen/Boden/Projekte/Ressourcenbewertung_und_management_abgeschlossen/Bodenkundliche_Themenkarten_fuer_HAD/Bodenkundliche_Themenkarten_neu.html
+    individualname: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    email: geodatenmanagement@bgr.de
+    address: Stilleweg 2
+    city: Hannover
+    administrativearea: DE-NI
+    postalcode: '30655'
+    country: DE
+    positionname: Technischer Ansprechpartner
+  pointOfContact:
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe (BGR)"
+    individualname: SteggerUlrich
+    country: Germany
+    email: geodatenmanagement@bgr.de
+    contactinstructions: email
+distribution:
+  wms:
+    name: '0'
+    description: "Die Karte der Luftkapazit\xE4t im effektiven Wurzelraum in Deutschland\
+      \ gibt einen \xDCberblick \xFCber die Gr\xF6\xDFe des Luftspeichers der B\xF6\
+      den. Unter Luftkapazit\xE4t wird der Porenraum verstanden, der bei Feldkapazit\xE4\
+      t mit Luft gef\xFCllt ist. Damit stellt sie ein Ma\xDF f\xFCr die Versorgung\
+      \ der Wurzeln mit Sauerstoff dar. Die Gr\xF6\xDFe des Luftspeichers im Boden\
+      \ h\xE4ngt von der Bodenart, der Lagerungsdichte und dem Humusgehalt ab. Der\
+      \ effektive Wurzelraum wird anhand von Landnutzungs- und Bodendaten bestimmt.\
+      \ Die Karte basiert auf der Auswertung der nutzungsdifferenzierten Boden\xFC\
+      bersichtskarte 1:1.000.000 (BUEK1000N) und zeigt die klassifizierte Luftkapazit\xE4\
+      t in Volumen-%. Die Methode ist in der Bodenkundlichen Kartieranleitung (KA4)\
+      \ und in der Methodendokumentation Bodenkunde der Ad-hoc-AG Boden ver\xF6ffentlicht.\
+      \ Als Landnutzungsinformation und zur nutzungsabh\xE4ngigen Differenzierung\
+      \ der Profildaten werden Daten des CORINE Land Cover Projektes (2006) herangezogen."
+    url: https://services.bgr.de/wms/boden/lkwe1000/?
+    type: ogc:wms
+  GEOTiff:
+    url: https://download.bgr.de/bgr/boden/LKWE1000/geotiff/LKWe1000_250.zip
+    type: application/geotiff
+    name: GEOTiff
+mcf:
+  version: 1.0
+spatial:
+  scale: 1:1 M
+  resolution: null
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

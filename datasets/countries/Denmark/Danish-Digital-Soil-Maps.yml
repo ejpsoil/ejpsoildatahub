@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Danish-Digital-Soil-Maps
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: Rasters with 30.4 m resolution
+  datatype: GRID
+identification:
+  language: null
+  charset: utf8
+  title: Danish Digital Soil Maps
+  abstract: 'Digital soil maps produced at national level for Denmark, based on legacy
+    soil data. Compiled from several studies. GSM intervals, however, intervals at
+    0 - 30 cm have been merged to one. Uncertainty estimates available for some properties.
+    References,http://dx.doi.org/10.1371/journal.pone.0105519; http://dx.doi.org/10.2136/sssaj2012.0275;
+    http://dx.doi.org/10.1016/j.geoderma.2017.10.015; https://doi.org/10.1016/j.geoderma.2018.01.018
+
+    '
+  dates:
+    creation: '2012'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Denmark
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '2012'
+  accessconstraints: otherRestrictions
+  rights: ''
+  maintenancefrequency: it was a single survey
+contact:
+  pointOfContact:
+    organization: Aarhus University
+    country: Denmark
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Digital soil maps produced at national level for Denmark, based on
+      legacy soil data. Compiled from several studies.. Mapping: Various, including
+      Decision tree classification, Cubist regression models, machine learning model
+      ensembles, artificial neural networks. Depth intervals: Standard GSM depth intervals;
+      layers according to GlobalSoilMap . Uncertainty quantification: YES'

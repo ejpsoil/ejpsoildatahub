@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Land-use-maps-(Slovenia)
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+spatial:
+  resolution: 01:05,0
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Land use maps (Slovenia)
+  abstract: "Map od ,land use,, with parcel ID, in digital form (parcel-specific,no).\
+    \ The official land use / land cover interpretation key is regularly updated and\
+    \ published by the Ministry for agriculture, forestry and food. In Slovenian only.\
+    \  \n"
+  dates:
+    creation: 2002 -
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovenia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2002 -
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: Ministry of Agriculture, Forestry and Food, Slovenia
+    country: Slovenia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'Map od ,land use,, with parcel ID, in digital form (parcel-specific,no)..
+      Mapping: . Depth intervals: . Uncertainty quantification: '

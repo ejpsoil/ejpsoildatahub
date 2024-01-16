@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: saline-and-sodic-soils-european-union
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2009
+identification:
+  title: Saline and Sodic Soils in European Union
+  abstract: 'Saline and Sodic Soils Map for EU-27 (2008) showing the area distribution
+    of saline, sodic and potentially salt affected areas within the European Union.
+    The accuracy of input input data only allows the designation of salt affected
+    areas with a limited level of reliability (e.g. < 50 or > 50% of the area); therefore
+    the results represented in the map should only be used for orientating purposes.
+
+    '
+  dates: 2009
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - /DocumentsPublications
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/6867
+    type: metadata
+    name: Saline and Sodic Soils in European Union
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/salinisation_small.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

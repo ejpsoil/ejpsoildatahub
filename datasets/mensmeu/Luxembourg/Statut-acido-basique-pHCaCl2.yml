@@ -1,0 +1,92 @@
+metadata:
+  identifier: Statut-acido-basique-(pHCaCl2)
+  language: fre
+  language_alternate: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2015
+identification:
+  title: Statut acido-basique (pHCaCl2)
+  abstract: 'Interpolation (Kriging) of the Acid-base status of soils (pHCaCl2)
+
+    '
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Luxembourg
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - pH
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  extents:
+    spatial:
+    - bbox:
+      - 5.586528
+      - 49.321018
+      - 6.62763
+      - 50.266328
+      crs: '4326'
+    temporal:
+    - begin: an interval of dates
+    - end: ''
+  rights: no conditions apply
+  fees: ''
+  language: fre
+  charset: utf8
+  dates:
+    pubblication: 2015
+  topiccategory:
+  - geoscientificInformation
+  accessconstraints: no limitation
+  url: https://map.geoportail.lu/theme/main?zoom=8&X=669751&Y=6416190&layers=703&pk_campaign=geoseo_data&lang=fr&version=3&opacities=1&bgLayer=basemap_2015_global&crosshair=false
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  distributor:
+    organization: null
+    url: https://ws.geoportail.lu/wss/service/250k/guest?
+    individualname: null
+    email: null
+    address: null
+    city: null
+    administrativearea: null
+    postalcode: null
+    country: null
+    positionname: null
+  pointOfContact:
+    organization: "Minist\xE8re de l'Agriculture, de la Viticulture et de la Protection\
+      \ des consommateurs. Service de p\xE9dologie - Administration des services techniques\
+      \ de l\u2019agriculture"
+    individualname: Simone Marx
+    country: Luxembourg
+    email: pedologie@asta.etat.lu
+    contactinstructions: email
+distribution:
+  wms:
+    name: WMS
+    description: null
+    url: http://ws.geoportail.lu/250k
+    type: ogc:wms
+  ARC GRID:
+    url: https://data.public.lu/fr/datasets/r/b2d2527b-fc25-41ed-b5fc-98ca90434dc3
+    type: application/arc grid
+    name: ARC GRID
+mcf:
+  version: 1.0
+spatial:
+  scale: null
+  resolution: 5m
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null

@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Geological-map-of-Italy-by-Compagnoni-et-al.,-1983
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://opac.isprambiente.it/SebinaOpac/Opac?action=documentview&sessID=163F7581877A0FF557CD28C792D07E48@2904d67b&docID=4
+spatial:
+  resolution: 1:500.000
+  datatype: NATURAL_POLYGONs, polygons with natural boundaries
+identification:
+  language: null
+  charset: utf8
+  title: Geological map of Italy by Compagnoni et al., 1983
+  abstract: ''
+  dates:
+    creation: '1983'
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Italy
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: '1983'
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: null
+contact:
+  pointOfContact:
+    organization: ''
+    country: Italy
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '

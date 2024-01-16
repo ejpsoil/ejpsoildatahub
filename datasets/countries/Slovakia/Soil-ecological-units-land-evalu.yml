@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Soil-ecological-units-(land-evaluation-system)
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  dataseturi: http://www.podnemapy.sk/portal/verejnost/bpej/bpej.aspx
+spatial:
+  resolution: 3,513888889
+  datatype: DERIVED Soil Profiles linked to the polygons
+identification:
+  language: null
+  charset: utf8
+  title: Soil ecological units (land evaluation system)
+  abstract: 'class area polygon maps based on soil profile observations Fisrst data
+    were colected 1971-1976. Continuous update on request
+
+    '
+  dates:
+    creation: 1971-2019
+  keywords:
+    default:
+      keywords:
+      - EJP Country survey
+    country:
+      keywords:
+      - Slovakia
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 1971-2019
+  accessconstraints: No restrictions
+  rights: ''
+  maintenancefrequency: otherRestrictions
+contact:
+  pointOfContact:
+    organization: NPPC
+    country: Slovakia
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: 'class area polygon maps based on soil profile observations. Mapping:
+      conventional mapping. Depth intervals: defined as  topsoil/subsoil  only, without
+      any other desription. Uncertainty quantification: NO'

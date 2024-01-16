@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: soil-organic-carbon-saturation-capacity
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2016
+identification:
+  title: Soil Organic Carbon - Saturation Capacity in Europe
+  abstract: 'This dataset (map) (2016) shows the Soil Organic Carbon (SOC) saturation
+    capacity, expressed as the ratio between the actual and the potential SOC stock
+    in each pixel. Values close to 0 indicate a great potential of soil to store more
+    carbon.
+
+    '
+  dates: 2016
+  keywords:
+    default:
+      keywords:
+      - Soil Functions Data
+      - /resource-type/soil-threats-data
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/44386
+    type: metadata
+    name: Soil Organic Carbon - Saturation Capacity in Europe
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/carbonpool.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

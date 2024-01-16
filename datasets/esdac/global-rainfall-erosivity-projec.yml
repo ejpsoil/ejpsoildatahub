@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: global-rainfall-erosivity-projections-2050-and-2070
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2022
+identification:
+  title: Global rainfall erosivity projections for 2050 and 2070
+  abstract: 'We make available both the aggregated data (2050 and 2070 Rainfall erosivity
+    for 3 scenarios) and the 102 contributing simulations (3 scenarios x 19 models
+    x 2 time-scale) in a GEOTIFF format with a 30 arc-seconds spatial resolution.
+
+    '
+  dates: 2022
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/81613
+    type: metadata
+    name: Global rainfall erosivity projections for 2050 and 2070
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Erosivity%20change%202010-2050.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

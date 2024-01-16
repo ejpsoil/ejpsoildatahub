@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: estimate-net-erosion-and-sediment-transport-using-watemsedem-european-union
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2018
+identification:
+  title: Net erosion and sediment transport using WaTEM/SEDEM (for EU)
+  abstract: 'Dataset (GIS map) (218) that shows the net soil erosion and deposition
+    in European Union as a result of an application WaTEM/SEDEM model; resolution
+    100m; EU28. Data are also available at 25m resolution.
+
+    '
+  dates: 2018
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/51366
+    type: metadata
+    name: Net erosion and sediment transport using WaTEM/SEDEM (for EU)
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Sedem_small.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

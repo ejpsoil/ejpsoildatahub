@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: global-soil-erosion-water-2070
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2020
+identification:
+  title: Global soil erosion by water in 2070
+  abstract: 'Land use and climate change impacts on global soil erosion by water (2015-2070).
+    This dataset includes the baseline scenario (2015) and the future projections
+    (2070) of soil erosion based on land use changes and climate change effects.
+
+    '
+  dates: 2020
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/66719
+    type: metadata
+    name: Global soil erosion by water in 2070
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Image_small.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

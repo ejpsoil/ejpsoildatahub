@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: multiple-concurrent-soil-erosion-processes
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2022
+identification:
+  title: Multiple concurrent soil erosion processes
+  abstract: 'A first-ever assessment at European scale combines the threat of water,
+    wind, tillage and harvesting to reveal the cumulative impact on arable land. We
+    present the datasets for each of the erosion process (water, wind, tillage, harvesting
+    root crops) and their cumulative effect at 100m resolution for EU arable lands
+    (110 Million ha).
+
+    '
+  dates: 2022
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/87036
+    type: metadata
+    name: Multiple concurrent soil erosion processes
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/nature_social%20media%20_map_1200x1200.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

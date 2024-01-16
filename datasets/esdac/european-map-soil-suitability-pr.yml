@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: european-map-soil-suitability-provide-platform-most-human-activities-eu28
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2016
+identification:
+  title: European map of soil suitability to provide a platform for most human activities
+    (EU28)
+  abstract: 'This dataset (map)(2016) presents the suitability of soil as a platform
+    for most human activities in the EU. Calculation of suitability was done using
+    vaious properties of the European Soil database (soil type, soil water regime,
+    limitation to agricultural use, depth to rock, land use) and slope of the terrain.
+
+    '
+  dates: 2016
+  keywords:
+    default:
+      keywords:
+      - Soil Functions Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/45587
+    type: metadata
+    name: European map of soil suitability to provide a platform for most human activities
+      (EU28)
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/human-activity.JPG
+    type: image/JPG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

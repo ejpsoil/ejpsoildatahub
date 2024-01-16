@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: topsoil-soil-organic-carbon-lucas-eu25
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2014
+identification:
+  title: Topsoil Soil Organic Carbon (LUCAS) for EU25
+  abstract: 'This dataset (2015) provides maps for Topsoil Soil Organic Carbon in
+    EU-25 that are based on LUCAS 2009 soil poibnt data through a generalized additive
+    model. Map of predicted topsoil organic carbon content (g C kg-1) : The map of
+    predicted topsoil organic carbon content (g C kg-1) was produced by fitting a
+    generalised additive model between organic carbon measurements from the LUCAS
+    survey (dependent variable) and a set of selected environmental covariates; namely
+    slope, land cover, annual accumulated temperature, net primary productivity, latitude
+    and longitude. It also includes a Map of standard error of the OC model predictions
+    (g C kg-1).
+
+    '
+  dates: 2014
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: European Commission Joint Research Centre
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/34383
+    type: metadata
+    name: Topsoil Soil Organic Carbon (LUCAS) for EU25
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/LUCASSOC.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

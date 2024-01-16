@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: water-erosion-europe-2050
+  language: eng
+  charset: utf8
+  hierarchylevel: Datasets
+  datestamp: 2021
+identification:
+  title: Water erosion in Europe by 2050
+  abstract: 'The dataset includes the soil loss by water erosion projections by 2050.
+    The data include 3 raster files for the corresponding three different greenhouse
+    gas concentration scenarios (RCP2.6, RCP4.5, RCP8.5) , the erosivity projections
+    and the C-factor 2050.
+
+    '
+  dates: 2021
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+      - null
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/75370
+    type: metadata
+    name: Water erosion in Europe by 2050
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Erosion_Change_RCP8.5.PNG
+    type: image/PNG
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset
