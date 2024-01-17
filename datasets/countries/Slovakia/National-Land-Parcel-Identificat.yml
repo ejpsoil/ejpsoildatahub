@@ -4,6 +4,7 @@ metadata:
   identifier: National-Land-Parcel-Identification-System
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: 3,513888889

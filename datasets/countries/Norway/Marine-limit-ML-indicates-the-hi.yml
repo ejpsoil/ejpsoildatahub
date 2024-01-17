@@ -4,6 +4,7 @@ metadata:
   identifier: Marine-limit-(ML)-indicates-the-highest-level-reached-by-sea-after-last-glaciation-150-000
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.ngu.no/en/topic/datasets
 spatial:

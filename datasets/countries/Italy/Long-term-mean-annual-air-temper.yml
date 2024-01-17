@@ -4,6 +4,7 @@ metadata:
   identifier: Long-term-mean-annual-air-temperature-(1960-2008)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://doi.org/10.1007/978-94-007-5642-7_2
 spatial:

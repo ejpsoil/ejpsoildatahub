@@ -4,6 +4,7 @@ metadata:
   identifier: Bodemassociatiekaart-(1500.000)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.geopunt.be/catalogus/datasetfolder/c4f51b28-51bf-4189-8e98-72b94ae8da13
 spatial:

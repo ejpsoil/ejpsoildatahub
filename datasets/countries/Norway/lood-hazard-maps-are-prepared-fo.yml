@@ -4,6 +4,7 @@ metadata:
   identifier: lood-hazard-maps-are-prepared-for-floods-with-20-,-200--and-1000-year-return-period
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://kartkatalog.geonorge.no/metadata/flood-hazard-map/e95008fc-0945-4d66-8bc9-e50ab3f50401
 spatial:

@@ -4,6 +4,7 @@ metadata:
   identifier: National-Land-Cover-Database-(NMD)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://gpt.vic-metria.nu/data/land/NMD/NMD2018_ProductDescription_ENG.pdf
 spatial:

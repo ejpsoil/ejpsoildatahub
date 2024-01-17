@@ -4,6 +4,7 @@ metadata:
   identifier: Maps-of-the-agronomic-soil-properties-from-BDAT
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://doi.org/10.15454/SVDTOU
 spatial:

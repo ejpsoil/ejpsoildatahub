@@ -4,6 +4,7 @@ metadata:
   identifier: Tellus-Geophyical-and-Geochemical-Survey
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.gsi.ie/en-ie/programmes-and-projects/tellus/Pages/default.aspx
 spatial:

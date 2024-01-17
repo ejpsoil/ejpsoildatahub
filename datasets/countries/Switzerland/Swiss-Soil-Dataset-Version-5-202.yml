@@ -4,6 +4,7 @@ metadata:
   identifier: Swiss-Soil-Dataset-Version-5-(2020)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://nabodat.ch/index.php/de/service/bodendatensatz
 spatial:

@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2009-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/6867
 identification:
   title: Saline and Sodic Soils in European Union
   abstract: 'Saline and Sodic Soils Map for EU-27 (2008) showing the area distribution
@@ -20,6 +21,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data - /DocumentsPublications
   topiccategory:
   - geoscientificInformation

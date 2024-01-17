@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2014-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/34382
 identification:
   title: Soil erosion in forestland in Europe (using RUSLE2015)
   abstract: 'Dataset (2 GIS-maps) (2016) related to soil erosion in Forestland in
@@ -18,6 +19,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

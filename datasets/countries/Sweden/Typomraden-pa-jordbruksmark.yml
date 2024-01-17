@@ -4,6 +4,7 @@ metadata:
   identifier: "Typomr\xE5den-p\xE5-jordbruksmark"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.slu.se/institutioner/mark-miljo/forskning/hydroteknik/observationsfalt-typomraden/
 spatial:

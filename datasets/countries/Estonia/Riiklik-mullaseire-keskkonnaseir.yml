@@ -5,6 +5,7 @@ metadata:
     steemis-KESE-(National-soil-monitoring-in-environmental-monitoring-data-collection-and-disclosure-information-system-KESE)"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.keskkonnaagentuur.ee/et/eesmargid-tegevused/keskkonnaseire/otsi-seireandmeid
 spatial:

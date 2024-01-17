@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2012-01-01
+  dataseturi: ''
 identification:
   title: Biochar Meta-analysis Database
   abstract: 'Data (2011) associated to the publication "A quantitative review of the
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Projects Data
   topiccategory:
   - geoscientificInformation

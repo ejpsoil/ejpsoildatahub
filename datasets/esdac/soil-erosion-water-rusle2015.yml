@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2015-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/34942
 identification:
   title: Soil erosion by water (RUSLE2015)
   abstract: 'Dataset (GIS map) (2015) that shows the Soil Loss by Water Erosion in
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

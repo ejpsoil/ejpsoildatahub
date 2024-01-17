@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2023-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/92596
 identification:
   title: Projected Land Conservation Impacts on Global Soil Erosion and Pollination
     Sufficiency
@@ -22,6 +23,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Functions Data - /resource-type/soil-threats-data
   topiccategory:
   - geoscientificInformation

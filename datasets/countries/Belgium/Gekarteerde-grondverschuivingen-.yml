@@ -4,6 +4,7 @@ metadata:
   identifier: Gekarteerde-grondverschuivingen-(mapped-landslides)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/5e1146a5-4f72-4e93-a71d-8297d3dfec6c
 spatial:

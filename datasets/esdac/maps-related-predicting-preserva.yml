@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2016-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/44466
 identification:
   title: Maps of preservation capacity of cultural artefacts and buried materials
     in soils in the EU
@@ -20,6 +21,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Functions Data - /DocumentsPublications
   topiccategory:
   - geoscientificInformation

@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2018-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/55069
 identification:
   title: Carbon budget in the EU agricultural soils
   abstract: 'Cumulative C budget over the period 2016-20100 in the EU agricultural
@@ -17,6 +18,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

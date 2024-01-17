@@ -4,6 +4,7 @@ metadata:
   identifier: Database-on-the-monitoring-of-mineral-nitrogen-in-soils-of-the-SISMAP
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://www.vaad.gov.lv/sakums/informacija-sabiedribai/par-augsnu-agrokimisko-izpeti-un-minerala-slapekla-monitoringu.aspx
 spatial:

@@ -4,6 +4,7 @@ metadata:
   identifier: Bedrock,-50,000
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://kartkatalog.geonorge.no/metadata/bedrock-scale-150000/a5c76d05-33bd-4a1d-b28b-81575092e468
 spatial:

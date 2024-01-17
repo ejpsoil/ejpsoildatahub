@@ -4,6 +4,7 @@ metadata:
   identifier: Danish-Soil-Profile-Database
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://dx.doi.org/10.1080/00167223.1985.10649211
 spatial:

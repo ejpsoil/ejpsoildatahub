@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2020-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/66719
 identification:
   title: Global soil erosion by water in 2070
   abstract: 'Land use and climate change impacts on global soil erosion by water (2015-2070).
@@ -18,6 +19,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

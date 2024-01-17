@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2008-01-01
+  dataseturi: ''
 identification:
   title: Heavy Metals in topsoils
   abstract: 'GIS Maps (2008) produced by mapping the concentrations of eight critical
@@ -20,6 +21,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

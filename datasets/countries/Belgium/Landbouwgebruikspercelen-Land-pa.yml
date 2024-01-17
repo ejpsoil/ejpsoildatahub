@@ -4,6 +4,7 @@ metadata:
   identifier: Landbouwgebruikspercelen-(Land-parcel-identification)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://www.geopunt.be/catalogus/datasetfolder/7cc9babc-e021-46bc-abb6-1b74d44b14ea
 spatial:

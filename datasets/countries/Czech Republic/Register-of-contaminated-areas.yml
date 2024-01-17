@@ -4,6 +4,7 @@ metadata:
   identifier: Register-of-contaminated-areas
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://eagri.cz/public/web/file/520923/Publikace_25_let_Monitoring_Zemedelskych_pud_1992_2013.pdf
 spatial:

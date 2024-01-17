@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2004-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/87
 identification:
   title: 'OCTOP: Topsoil Organic Carbon Content for Europe'
   abstract: 'A 2004 GIS map of Soil Organic Carbon (SOC) content (%) in the surface
@@ -17,6 +18,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

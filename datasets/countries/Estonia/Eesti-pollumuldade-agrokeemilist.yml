@@ -4,6 +4,7 @@ metadata:
   identifier: "Eesti-p\xF5llumuldade-agrokeemiliste-n\xE4itajate-digitaalne-andmekogu-(Digital-database-of-agrochemical-parameters-of-Estoanian-agricultural-soils)"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: one point per 5 ha

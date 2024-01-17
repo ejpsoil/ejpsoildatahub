@@ -4,6 +4,7 @@ metadata:
   identifier: Estimation-of-amount-of-fertilizer-(mineral-fertilizer-animal-manure)--yearly-applied-to-each-agricultural-parcel-in-Flanders
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: Vector

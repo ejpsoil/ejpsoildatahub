@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2023-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/88670
 identification:
   title: Post-fire soil erosion in Europe
   abstract: 'This dataset contains the soil erosion estimations resulting of a study
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

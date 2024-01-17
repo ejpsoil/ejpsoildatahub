@@ -4,6 +4,7 @@ metadata:
   identifier: Soil-erosion-in-Estonia-modelled-by-use-of-USLE
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://pmk.agri.ee/et/pollumajanduskeskkonna-uuringud/uurimisvaldkonnad/muld
 spatial:

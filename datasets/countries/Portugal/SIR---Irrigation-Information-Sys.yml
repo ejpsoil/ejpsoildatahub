@@ -4,6 +4,7 @@ metadata:
   identifier: SIR---Irrigation-Information-System
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: Map with public irrigated areas 2018 and Nitrate vulnerable zones, and
     Database of the amount of water used per crop in each irrigation dystrict (http://sir.dgadr.gov.pt/images/conteudos/regadios/cartografia/reg_Exploracao/AH_PaisConcretizados.pdf

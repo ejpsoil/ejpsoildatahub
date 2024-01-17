@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2006-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/34643
 identification:
   title: European Soil Database v2.0 (vector and attribute data)
   abstract: 'This database (2004) is the only harmonized soil database for Europe,
@@ -21,6 +22,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - European Soil Database and soil properties
   topiccategory:
   - geoscientificInformation

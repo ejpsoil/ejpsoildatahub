@@ -4,6 +4,7 @@ metadata:
   identifier: General-Geological-Map-of-the-Federal-Republic-of-Germany
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://services.bgr.de/geologie/guek200
 spatial:

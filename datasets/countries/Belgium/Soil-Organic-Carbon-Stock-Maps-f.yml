@@ -4,6 +4,7 @@ metadata:
   identifier: Soil-Organic-Carbon-Stock-Maps-for-Belgium-(40m-grid)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/bf8c35ad-ab45-4084-b1e1-3042c66204aa
 spatial:

@@ -4,6 +4,7 @@ metadata:
   identifier: WRB-Reference-Soil-Groups-250k
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/64e8a11d-5602-4ad5-b370-e4d396fe218f
 spatial:

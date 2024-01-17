@@ -4,6 +4,7 @@ metadata:
   identifier: Danish-Soil-Monitoring-Data-Base
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://dx.doi.org/10.1111/ejss.12169
 spatial:

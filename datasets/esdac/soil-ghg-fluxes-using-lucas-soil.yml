@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2018-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/51616
 identification:
   title: Soil GHG fluxes using LUCAS soil-DayCent (for EU)
   abstract: 'Soil fluxes (CO2 and N2O ) under mitigation scenarios using the LUCAS
@@ -17,6 +18,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Functions Data
   topiccategory:
   - geoscientificInformation

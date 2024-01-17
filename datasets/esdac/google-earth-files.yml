@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2008-01-01
+  dataseturi: ''
 identification:
   title: Google Earth Files
   abstract: 'Google Earth Files (with ".kmz" extension) that correspond to 73 attribute
@@ -17,6 +18,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - European Soil Database and soil properties
   topiccategory:
   - geoscientificInformation

@@ -4,6 +4,7 @@ metadata:
   identifier: Incentive-Programs-related-to-land-use-and-animal-husbandry
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://data.norge.no/datasets/46850f03-98eb-4689-af4d-33594984cf2f
 spatial:

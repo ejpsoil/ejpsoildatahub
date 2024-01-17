@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2011-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/34406
 identification:
   title: Global Spatial Layers for Estimating Soil GHG Emissions from Indirect Land
     Use Changes(ILUC) due to the Production of Biofuels
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Projects Data
   topiccategory:
   - geoscientificInformation

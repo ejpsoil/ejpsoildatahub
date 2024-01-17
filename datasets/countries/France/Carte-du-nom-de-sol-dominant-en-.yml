@@ -5,6 +5,7 @@ metadata:
     ographique-des-Sols-de-France"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://agroenvgeo.data.inra.fr/geonetwork/srv/metadata/f599548d-b0be-55f9-9adf-4e9aa3a0be91
 spatial:

@@ -4,6 +4,7 @@ metadata:
   identifier: Scottish-Pesticide-Surveys-Database
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.sasa.gov.uk/pesticides/pesticide-usage/scottish-pesticide-surveys-database-scopes
 spatial:

@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2014-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/91
 identification:
   title: Soil Atlas of Africa and its associated Soil Map (data)
   abstract: 'This GIS map (2013), present in the Soil Atlas of Africa, contains the
@@ -17,6 +18,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - European Soil Database and soil properties - /resource-type/soil-projects-data
   topiccategory:
   - geoscientificInformation

@@ -4,6 +4,7 @@ metadata:
   identifier: Basisregistratie-Ondergrond---Soil-map
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://basisregistratieondergrond.nl/inhoud-bro/registratieobjecten/modellen/bodemkaart-sgm/
 spatial:

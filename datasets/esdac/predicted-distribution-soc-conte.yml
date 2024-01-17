@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2016-01-01
+  dataseturi: Soil Projects Data
 identification:
   title: Predicted distribution of SOC content in Europe (based on LUCAS  BioSoil
     and CZO) in the context of the EU-funded SoilTrEC project
@@ -21,6 +22,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Datasets - /resource-type/soil-projects-data
   topiccategory:
   - geoscientificInformation

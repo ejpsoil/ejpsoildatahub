@@ -4,6 +4,7 @@ metadata:
   identifier: Map-of-soil-erosion-risk-in-Scotland-(partial-cover)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.spatialdata.gov.scot/geonetwork/srv/metadata/1a9302f1-b65e-40ae-8718-a4820cf70d1d
 spatial:

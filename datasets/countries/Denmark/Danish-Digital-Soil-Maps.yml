@@ -4,6 +4,7 @@ metadata:
   identifier: Danish-Digital-Soil-Maps
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: Rasters with 30.4 m resolution

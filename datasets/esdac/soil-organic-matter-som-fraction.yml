@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2019-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/60594
 identification:
   title: 'Soil Organic Matter (SOM) fractions '
   abstract: 'This dataset contains the original measured Soil Organic Matter (SOM)
@@ -20,6 +21,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

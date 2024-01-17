@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2009-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/6866
 identification:
   title: Natural susceptibility to soil compaction in Europe
   abstract: 'Map (2008) showing the natural susceptibility of agricultural soils to
@@ -20,6 +21,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data - /DocumentsPublications
   topiccategory:
   - geoscientificInformation

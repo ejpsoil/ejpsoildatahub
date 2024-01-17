@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2016-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/44409
 identification:
   title: Maps of indicators of soil hydraulic properties for Europe
   abstract: 'Soil hydraulic properties maps (2016) for Europe: for Water retention
@@ -21,6 +22,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Functions Data - /DocumentsPublications
   topiccategory:
   - geoscientificInformation

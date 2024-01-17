@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2016-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/43848
 identification:
   title: Global Soil Biodiversity Atlas Maps
   abstract: 'Dataset (2016) containing 2 GIS maps from the Global Soil Biodiversity
@@ -23,6 +24,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Functions Data - /resource-type/soil-threats-data
   topiccategory:
   - geoscientificInformation

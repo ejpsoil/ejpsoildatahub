@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2021-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/77187
 identification:
   title: Land degradation debt
   abstract: 'Global Land degradation as debts for a) tree cover, b) soil erosion c)
@@ -18,6 +19,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

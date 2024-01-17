@@ -4,6 +4,7 @@ metadata:
   identifier: The-Agricultural-Registers-and-Information-Boards-register-of-land-use-structure-by-land-parcels
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: null

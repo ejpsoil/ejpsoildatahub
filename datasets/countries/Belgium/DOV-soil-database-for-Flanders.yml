@@ -4,6 +4,7 @@ metadata:
   identifier: DOV-soil-database-for-Flanders
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/3f507fd9-24c0-40ab-9328-29f0dff571fe
 spatial:

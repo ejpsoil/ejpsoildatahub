@@ -4,6 +4,7 @@ metadata:
   identifier: Bare-Soil-Water-Erosion-Potential
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://map.bgs.ac.uk/arcgis/services/UKSO/UKSO_BGS/MapServer/WMSServer?
 spatial:

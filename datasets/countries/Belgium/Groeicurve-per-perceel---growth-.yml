@@ -4,6 +4,7 @@ metadata:
   identifier: Groeicurve-per-perceel---growth-curve-per-field-parcel-(based-on-NDVI)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: Vector

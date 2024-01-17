@@ -4,6 +4,7 @@ metadata:
   identifier: Carbon-Change-dataset-of-the-Netherlands
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://research.wur.nl/en/publications/koolstofvoorraad-in-de-bodem-van-nederland-1998-2018-cc-nl
 spatial:

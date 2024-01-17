@@ -4,6 +4,7 @@ metadata:
   identifier: National-Soil-Compaction-Survey
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.slu.se/institutioner/mark-miljo/forskning/jordbearbetning/miljoovervakning/?si=C8E21EFA1402F7CC038D7AAE7BF5EF7F&rid=2023297005&sn=sluEPi6-prodSearchIndex
 spatial:

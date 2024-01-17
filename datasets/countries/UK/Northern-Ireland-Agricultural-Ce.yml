@@ -4,6 +4,7 @@ metadata:
   identifier: Northern-Ireland-Agricultural-Census
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.daera-ni.gov.uk/publications/agricultural-census-northern-ireland-2019
 spatial:

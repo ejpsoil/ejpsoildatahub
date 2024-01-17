@@ -4,6 +4,7 @@ metadata:
   identifier: Land-resource-map-125.000
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://kartkatalog.geonorge.no/metadata/ar50-land-resource-map-150-000/4bc2d1e0-f693-4bf2-820d-c11830d849a3
 spatial:

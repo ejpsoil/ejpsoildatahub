@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2024-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/100107
 identification:
   title: Phosphorus cycle in European agricultural soils
   abstract: 'Process-based biogeochemical models are valuable instruments to monitor
@@ -22,6 +23,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Functions Data
   topiccategory:
   - geoscientificInformation

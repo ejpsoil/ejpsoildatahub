@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2010-01-01
+  dataseturi: ''
 identification:
   title: Support to Renewable Energy Directive
   abstract: ''
@@ -14,6 +15,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Projects Data
   topiccategory:
   - geoscientificInformation

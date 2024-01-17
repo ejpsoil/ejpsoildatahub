@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2021-01-01
+  dataseturi: ''
 identification:
   title: Global Applications of Soil Erosion Modelling Tracker
   abstract: 'Global Applications of Soil Erosion Modelling Tracker (GASEMT) includes
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

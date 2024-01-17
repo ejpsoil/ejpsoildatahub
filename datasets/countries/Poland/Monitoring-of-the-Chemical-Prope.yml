@@ -4,6 +4,7 @@ metadata:
   identifier: Monitoring-of-the-Chemical-Properties-of-Arable-Soils-in-Poland
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://doi.org/10.26114/sir.iung.2017.51.04
 spatial:

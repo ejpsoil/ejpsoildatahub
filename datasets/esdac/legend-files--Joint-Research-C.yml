@@ -1,22 +1,22 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: spade-14
+  identifier: legend-files
   language: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2018-01-01
+  datestamp: 2010-01-01
+  dataseturi: ''
 identification:
-  title: Soil profile analytical database 14 (SPADE 14)
-  abstract: 'md[''abstract''] }}
-
-    '
+  title: Legend Files
+  abstract: ''
   dates:
-    creation: 2018-01-01
+    creation: 2010-01-01
   keywords:
     default:
       keywords:
-      - Soil Point Data
+      - ESDAC
+      - European Soil Database and soil properties
   topiccategory:
   - geoscientificInformation
   status: completed
@@ -27,11 +27,11 @@ contact:
     email: ec-esdac@ec.europe.eu
 distribution:
   md:
-    url: https://esdac.jrc.ec.europa.eu/node/55003
+    url: ''
     type: metadata
-    name: Soil profile analytical database 14 (SPADE 14)
+    name: Legend Files
   thumbnail:
-    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/database.png
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/lyr_files.png
     type: image/png
     rel: preview
     name: Preview

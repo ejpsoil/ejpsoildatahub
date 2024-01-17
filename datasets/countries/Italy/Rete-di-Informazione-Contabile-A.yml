@@ -4,6 +4,7 @@ metadata:
   identifier: Rete-di-Informazione-Contabile-Agricola-(Farms-Agronomical-Mangement-database)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://gaia.crea.gov.it/#Rica
 spatial:

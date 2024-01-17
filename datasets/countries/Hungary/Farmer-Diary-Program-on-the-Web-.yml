@@ -5,6 +5,7 @@ metadata:
     -Program)"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://gn.gak.hu/
 spatial:

@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2018-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/34380
 identification:
   title: European Landslide Susceptibility Map version 2 (ELSUS v2)
   abstract: 'The spatial dataset (GIS map) shows landslide susceptibility levels at
@@ -22,6 +23,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

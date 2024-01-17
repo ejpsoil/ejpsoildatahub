@@ -4,6 +4,7 @@ metadata:
   identifier: WRB-Soil-units-40k
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/dut/metadata/83c46eae-a202-454c-b063-a858be3e4335
 spatial:

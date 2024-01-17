@@ -4,6 +4,7 @@ metadata:
   identifier: Large-scale-soil-map-of-Estonia
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://geoportaal.maaamet.ee/est/Ruumiandmed/Mullastiku-kaart-p33.html
 spatial:

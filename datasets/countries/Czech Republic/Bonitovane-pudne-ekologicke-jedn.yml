@@ -4,6 +4,7 @@ metadata:
   identifier: "Bonitovan\xE9-p\u016Fdn\u011B-ekologick\xE9-jednotky-(Evaluated-Soil-Ecological-units)"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.spucr.cz/bpej
 spatial:

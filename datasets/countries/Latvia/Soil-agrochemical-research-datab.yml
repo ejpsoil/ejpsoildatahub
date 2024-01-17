@@ -4,6 +4,7 @@ metadata:
   identifier: Soil-agrochemical-research-database-of-the-State-Information-System-for-Monitoring-of-Agricultural-Plants-(SISMAP)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://www.vaad.gov.lv/sakums/informacija-sabiedribai/par-augsnu-agrokimisko-izpeti-un-minerala-slapekla-monitoringu.aspx
 spatial:

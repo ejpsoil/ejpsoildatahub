@@ -4,6 +4,7 @@ metadata:
   identifier: GlobalSoilMap-France
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.sciencedirect.com/science/article/pii/S0016706118319529
 spatial:

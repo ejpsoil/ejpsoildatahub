@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2016-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/44386
 identification:
   title: Soil Organic Carbon - Saturation Capacity in Europe
   abstract: 'This dataset (map) (2016) shows the Soil Organic Carbon (SOC) saturation
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Functions Data - /resource-type/soil-threats-data
   topiccategory:
   - geoscientificInformation

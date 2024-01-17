@@ -4,6 +4,7 @@ metadata:
   identifier: Amelioration-cadastre-information-system
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.melioracija.lv/
 spatial:

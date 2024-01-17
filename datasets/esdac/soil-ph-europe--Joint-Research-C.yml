@@ -6,9 +6,15 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2010-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/6868
 identification:
   title: Soil pH in Europe
-  abstract: 'md[''abstract''] }}
+  abstract: 'A quantitative map of estimated soil pH values across Europe from a compilation
+    of 12,333 soil pH measurements from 11 different sources, and using a geo-statistical
+    framework based on Regression-Kriging. Fifty-four (54) auxiliary variables in
+    the form of raster maps at 5km resolution were used to explain the differences
+    in the distribution of soil pH (CaCl2) and the kriged map of the residuals from
+    the regression model was added.
 
     '
   dates:
@@ -16,6 +22,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data - /DocumentsPublications
   topiccategory:
   - geoscientificInformation

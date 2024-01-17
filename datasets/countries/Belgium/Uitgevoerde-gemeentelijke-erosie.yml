@@ -4,6 +4,7 @@ metadata:
   identifier: Uitgevoerde-gemeentelijke-erosiebestrijdingswerken-(soil-erosion-control-measures)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/692a9efb-8509-4a6f-a3be-6887f969867d
 spatial:

@@ -4,6 +4,7 @@ metadata:
   identifier: INIA-Experimental-Farm-La-Canaleja-(Madrid,-Spain)--Indicators-for-labile-organic-carbon
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://doi.org/10.1016/j.apsoil.2015.08.021
 spatial:

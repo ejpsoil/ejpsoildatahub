@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2016-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/45948
 identification:
   title: Maps indicating the availability of Raw Material from soils in the European
     Union
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Functions Data
   topiccategory:
   - geoscientificInformation

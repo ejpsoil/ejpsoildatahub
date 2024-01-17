@@ -4,6 +4,7 @@ metadata:
   identifier: AFBI-Pesticide-usage-monitoring-surveys
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.afbini.gov.uk/articles/pesticide-usage-monitoring-surveys
 spatial:

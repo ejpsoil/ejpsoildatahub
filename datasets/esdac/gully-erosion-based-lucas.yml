@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2022-01-01
+  dataseturi: ''
 identification:
   title: Gully Erosion based on LUCAS
   abstract: 'The LUCAS topsoil survey 2018 included a module for visual assessment
@@ -18,6 +19,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

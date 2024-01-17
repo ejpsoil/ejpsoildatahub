@@ -4,6 +4,7 @@ metadata:
   identifier: LV-LUCAS-Topsoil-2009-data
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://www.dataeuropa.eu/eudp/sk/dataset/jrc-esdac-92
 spatial:

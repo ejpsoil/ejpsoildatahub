@@ -4,6 +4,7 @@ metadata:
   identifier: Erosion-risk-maps
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://link.springer.com/article/10.1007/s13280-018-1134-8#Sec5
 spatial:

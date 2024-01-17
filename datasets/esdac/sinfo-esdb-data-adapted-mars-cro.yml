@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2007-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/33970
 identification:
   title: 'SINFO: ESDB Data adapted for the MARS Crop Yield Forecasting System'
   abstract: 'A database (2007) that is the result of adapting the European Soil Database
@@ -18,6 +19,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - European Soil Database and soil properties
   topiccategory:
   - geoscientificInformation

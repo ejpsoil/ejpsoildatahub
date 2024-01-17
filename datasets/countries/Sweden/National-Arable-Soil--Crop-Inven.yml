@@ -4,6 +4,7 @@ metadata:
   identifier: National-Arable-Soil-&-Crop-Inventory
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.slu.se/institutioner/mark-miljo/miljoanalys/akermarksinventeringen/undersokningar/mark-grodoinventeringen/
 spatial:

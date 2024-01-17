@@ -4,6 +4,7 @@ metadata:
   identifier: Digital-Soil-Mapping-Sweden
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: "Piikki, K. & S\xF6derstr\xF6m, M. (2019) Digital soil mapping of arable\
     \ land in Sweden - Validation of performance at multiple scales. Geoderma 352,342\

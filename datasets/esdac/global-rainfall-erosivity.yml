@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2017-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/48491
 identification:
   title: Global Rainfall Erosivity
   abstract: 'Rainfall erosivity dataset (2017) is one of the input layers when calculating
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

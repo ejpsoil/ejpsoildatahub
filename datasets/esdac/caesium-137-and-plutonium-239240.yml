@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2020-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/66136
 identification:
   title: Caesium-137 and Plutonium-239+240 in European topsoils
   abstract: 'Plutonium and Cesium inventories in European topsoils. Includes also
@@ -17,6 +18,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

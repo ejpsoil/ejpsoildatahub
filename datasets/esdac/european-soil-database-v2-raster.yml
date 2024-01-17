@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2006-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/78
 identification:
   title: European Soil Database v2 Raster Library 1kmx1km
   abstract: 'This database (2006) is a set of raster data sets that have been derived
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - European Soil Database and soil properties
   topiccategory:
   - geoscientificInformation

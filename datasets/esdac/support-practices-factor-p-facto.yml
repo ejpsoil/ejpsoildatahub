@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2015-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/34401
 identification:
   title: Support Practices factor (P-factor) for the EU
   abstract: 'This GIS map (2015) represents the "Support Practices factor" (P-factor)
@@ -20,6 +21,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

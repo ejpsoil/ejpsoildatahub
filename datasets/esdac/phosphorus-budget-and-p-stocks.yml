@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2022-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/85401
 identification:
   title: Phosphorus budget and P stocks
   abstract: 'Phosphorus (P) budget in the European agricultural soils. We provide
@@ -20,6 +21,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

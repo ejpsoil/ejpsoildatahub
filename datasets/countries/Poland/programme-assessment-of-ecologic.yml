@@ -4,6 +4,7 @@ metadata:
   identifier: programme-assessment-of-ecological-status-of-farmland-in-Poland
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: 44000

@@ -4,6 +4,7 @@ metadata:
   identifier: Krigged-maps-of-trace-elements-contents-in-French-soil
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://doi.org/10.15454/VN9F6H
 spatial:

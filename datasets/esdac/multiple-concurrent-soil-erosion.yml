@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2022-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/87036
 identification:
   title: Multiple concurrent soil erosion processes
   abstract: 'A first-ever assessment at European scale combines the threat of water,
@@ -20,6 +21,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

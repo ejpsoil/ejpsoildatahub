@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2023-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/99099
 identification:
   title: 'Cadmium in topsoils of the European Union '
   abstract: 'Cadmium content (mg kg-1) in the European Union topsoils applying an
@@ -18,6 +19,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

@@ -4,6 +4,7 @@ metadata:
   identifier: "Jordlagerf\xF6ljder"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://resource.sgu.se/dokument/produkter/jordlagerfoljder-beskrivning.pdf
 spatial:

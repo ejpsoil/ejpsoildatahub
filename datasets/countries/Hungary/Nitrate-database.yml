@@ -4,6 +4,7 @@ metadata:
   identifier: Nitrate-database
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: 550000 parcells, 2,6 million hectares

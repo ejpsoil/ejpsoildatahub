@@ -4,6 +4,7 @@ metadata:
   identifier: Land-Registry-LPIS-(Land-Parcel-Identification-System)---AZZP
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://eagri.cz/public/web/mze/farmar/LPIS/
 spatial:

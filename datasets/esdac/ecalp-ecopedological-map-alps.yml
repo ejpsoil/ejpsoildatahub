@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2005-01-01
+  dataseturi: ''
 identification:
   title: 'ECALP: Ecopedological Map of the Alps'
   abstract: ''
@@ -14,6 +15,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Projects Data
   topiccategory:
   - geoscientificInformation

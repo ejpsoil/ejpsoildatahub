@@ -4,6 +4,7 @@ metadata:
   identifier: pH--Map-of-Turkey's-Soils
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: 1:500 000/7742 points

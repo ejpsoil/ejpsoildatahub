@@ -4,6 +4,7 @@ metadata:
   identifier: "If\xD6L---long-term-research-site"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://boku.ac.at/nas/ifoel/arbeitsgruppen/ag-bodenfruchtbarkeit-und-anbausysteme/abgeschlossene-projekte
 spatial:

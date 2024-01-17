@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2018-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/51113
 identification:
   title: WRB Data for the Soil Atlas of the Northern Circumpolar Region
   abstract: 'These data are the WRB soil data for the whole area covered by the Soil
@@ -17,6 +18,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - European Soil Database and soil properties
   topiccategory:
   - geoscientificInformation

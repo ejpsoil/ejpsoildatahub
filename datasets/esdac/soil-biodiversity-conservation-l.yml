@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2022-01-01
+  dataseturi: ''
 identification:
   title: Soil Biodiversity Conservation literature and legally binding instruments
   abstract: 'We present the review of 54 articles in the literature and Member States
@@ -17,6 +18,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

@@ -4,6 +4,7 @@ metadata:
   identifier: Danish-Soil-Classification-Data-Base
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: "Madsen, H.B., N\xF8rr, A.H. and Holst, K.A. The Danish soil classification.\
     \ The Royal Danish Geographical Society, Copenhagen, Denmark, 1992."

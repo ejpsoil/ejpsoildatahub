@@ -4,6 +4,7 @@ metadata:
   identifier: Soil-Agricultural-Map-in-25000
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://doi.org/10.1002/jpln.200800317
 spatial:

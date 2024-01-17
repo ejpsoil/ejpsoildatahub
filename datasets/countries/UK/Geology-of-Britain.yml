@@ -4,6 +4,7 @@ metadata:
   identifier: Geology-of-Britain
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://mapapps.bgs.ac.uk/geologyofbritain/home.html?&_ga=2.233755742.1734434781.1602596859-854914404.1598689897
 spatial:

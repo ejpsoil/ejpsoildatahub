@@ -4,6 +4,7 @@ metadata:
   identifier: UK-Soil-and-Herbage-Pollutant-Survey
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.gov.uk/government/publications/uk-soil-and-herbage-pollutant-survey
 spatial:

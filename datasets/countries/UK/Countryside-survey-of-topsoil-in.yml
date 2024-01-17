@@ -4,6 +4,7 @@ metadata:
   identifier: Countryside-survey-of-topsoil-in-Great-Britain
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://catalogue.ceh.ac.uk/eidc/documents?facet=topic%7C0%2FSoil%2F
 spatial:

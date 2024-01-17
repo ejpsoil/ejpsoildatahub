@@ -4,6 +4,7 @@ metadata:
   identifier: Nitrate-Vulnerable-Zone-designations-2017-to-2020
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://map.environment.gov.scot/Soil_maps/?layer=9#
 spatial:

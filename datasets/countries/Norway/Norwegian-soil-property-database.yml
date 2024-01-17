@@ -4,6 +4,7 @@ metadata:
   identifier: Norwegian-soil-property-database
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: 5000

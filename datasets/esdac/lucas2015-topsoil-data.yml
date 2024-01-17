@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2020-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/67674
 identification:
   title: LUCAS 2015 TOPSOIL data
   abstract: 'Data from the 2015 LUCAS campaign soil component containing soil properties
@@ -21,6 +22,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Point Data
   topiccategory:
   - geoscientificInformation

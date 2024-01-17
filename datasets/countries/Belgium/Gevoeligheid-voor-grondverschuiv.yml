@@ -4,6 +4,7 @@ metadata:
   identifier: Gevoeligheid-voor-grondverschuivingen-(susceptilbity-landslides)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/2035e01e-eef5-4806-948c-df7b966169a1
 spatial:

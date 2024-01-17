@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2023-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/89891
 identification:
   title: Soil biodiversity - DNA Bacteria and Fungi
   abstract: 'The dataset includes bacterial 16S data and fungal ITS raw DNA sequences
@@ -17,6 +18,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Functions Data
   topiccategory:
   - geoscientificInformation

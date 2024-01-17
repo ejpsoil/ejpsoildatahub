@@ -5,6 +5,7 @@ metadata:
     -des-Sols-en-fran\xE7ais)"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: 16km by 16 km size cell, one plot at the centroid, 2170 plots

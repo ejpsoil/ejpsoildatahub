@@ -4,6 +4,7 @@ metadata:
   identifier: Agricultural-Soil-Profiles-Database
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: 17,741 points, 1 point per 120 ha of agricultural land

@@ -4,6 +4,7 @@ metadata:
   identifier: "\_Map-of-runoff-risk-in-Scotland-(partial-cover)"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.spatialdata.gov.scot/geonetwork/srv/metadata/ab89fb3c-14fa-4ec1-8cd2-f9811a61713d
 spatial:

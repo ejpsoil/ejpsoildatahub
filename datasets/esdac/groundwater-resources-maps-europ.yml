@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2005-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/34405
 identification:
   title: Groundwater Resources maps of Europe
   abstract: 'GIS Maps related to Groundwater resources in Europe, covering 3 themes:
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Projects Data
   topiccategory:
   - geoscientificInformation

@@ -4,6 +4,7 @@ metadata:
   identifier: Referance-soil-profiles-for-SAM25
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: 15000

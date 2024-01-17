@@ -4,6 +4,7 @@ metadata:
   identifier: soil-geographical-database-of-France-at-11,000,000
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://doi.org/10.15454/BPN57S
 spatial:

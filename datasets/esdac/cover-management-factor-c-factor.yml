@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2015-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/34422
 identification:
   title: Cover Management factor (C-factor) for the EU
   abstract: 'This dataset (GIS map) (2015) represents the Cover Management factor
@@ -23,6 +24,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

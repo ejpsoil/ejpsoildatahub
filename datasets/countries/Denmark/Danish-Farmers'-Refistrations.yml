@@ -4,6 +4,7 @@ metadata:
   identifier: Danish-Farmers'-Refistrations
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://lbst.dk/landbrug/kort-og-markblokke/markkort-og-markblokke/
 spatial:

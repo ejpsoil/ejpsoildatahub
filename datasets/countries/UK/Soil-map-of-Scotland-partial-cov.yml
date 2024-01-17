@@ -4,6 +4,7 @@ metadata:
   identifier: Soil-map-of-Scotland-(partial-cover)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.hutton.ac.uk/learning/natural-resource-datasets/soilshutton/soils-maps-scotland/download#soilmapdata
 spatial:

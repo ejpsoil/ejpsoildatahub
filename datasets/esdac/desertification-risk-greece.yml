@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2018-01-01
+  dataseturi: ''
 identification:
   title: Desertification risk in Greece
   abstract: 'Qualitative assessment on desertification risk in Greece based on Environmentally
@@ -17,6 +18,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data - Country=GR
   topiccategory:
   - geoscientificInformation

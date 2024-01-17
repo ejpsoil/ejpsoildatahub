@@ -4,6 +4,7 @@ metadata:
   identifier: Indicative-Flood-Risk-Areas-for-England
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.data.gov.uk/api/2/rest/harvestobject/ee455457-06e1-4f18-baf1-cc73c5385447/xml
 spatial:

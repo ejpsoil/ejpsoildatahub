@@ -4,6 +4,7 @@ metadata:
   identifier: INFOSOLO---Database-of-Soil-Profile-Data-for-Portugal
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://data.isric.org/geonetwork/srv/metadata/25d0cf4d-1865-4d2a-be32-40a1b2483936
 spatial:

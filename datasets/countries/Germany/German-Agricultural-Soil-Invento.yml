@@ -4,6 +4,7 @@ metadata:
   identifier: German-Agricultural-Soil-Inventory
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://doi.org/10.1002/jpln.202000113
 spatial:

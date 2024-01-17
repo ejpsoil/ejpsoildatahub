@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2023-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/93627
 identification:
   title: Zinc concentrations in EU topsoils
   abstract: 'Zinc (Zn) is essential to sustain crop production and human health, while
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

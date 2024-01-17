@@ -4,6 +4,7 @@ metadata:
   identifier: Danish-Acid-Sulphate-Data-Base
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://doi.org/10.1016/S0341-8162(85)80031-X
 spatial:

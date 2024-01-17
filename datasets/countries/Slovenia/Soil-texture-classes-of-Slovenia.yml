@@ -4,6 +4,7 @@ metadata:
   identifier: Soil-texture-classes-of-Slovenia
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: USDA soil texture class definitions are  traditionaly used in Slovenia.
     See USDA texture class classification.

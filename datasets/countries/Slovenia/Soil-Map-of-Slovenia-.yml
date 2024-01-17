@@ -4,6 +4,7 @@ metadata:
   identifier: Soil-Map-of-Slovenia-
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiX6_bDn-zuAhURz4UKHatwBhwQFjANegQIARAC&url=https%3A%2F%2Fesdac.jrc.ec.europa.eu%2Fprojects%2Fesoter%2FDanube%2FPresentations%2Fc%2520-%2520Slovenia%2520-%2520Marko%2520Zupan%2520-%2520SoilData_SLO_DanubeBasin_2015.pdf&usg=AOvVaw1HO7q_Tosj3M4tsKjF4dI-
 spatial:

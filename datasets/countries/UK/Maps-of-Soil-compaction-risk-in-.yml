@@ -4,6 +4,7 @@ metadata:
   identifier: Maps-of-Soil-compaction-risk-in-Scotland-(partial-cover)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.spatialdata.gov.scot/geonetwork/srv/metadata/d16d695d-f7a0-4f1f-8ba2-335dda8428c8
 spatial:

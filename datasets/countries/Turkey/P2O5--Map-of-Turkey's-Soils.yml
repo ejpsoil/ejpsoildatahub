@@ -4,6 +4,7 @@ metadata:
   identifier: P2O5--Map-of-Turkey's-Soils
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://arastirma.tarimorman.gov.tr/toprakgubre/Belgeler/Karbon_Panel/Toprak%20Organik%20Karbon%20Bilgi%20Sistemi%20Projesi.pdf
 spatial:

@@ -4,6 +4,7 @@ metadata:
   identifier: "Landwirtschaftsz\xE4hlung--Agrarstrukturerhebung"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.destatis.de/EN/Themes/Economic-Sectors-Enterprises/Agriculture-Forestry-Fisheries/_node.html
 spatial:

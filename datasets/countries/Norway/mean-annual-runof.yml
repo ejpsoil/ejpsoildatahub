@@ -4,6 +4,7 @@ metadata:
   identifier: mean-annual-runof
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://kartkatalog.geonorge.no/metadata/hydrology-mean-annual-runoff/85a3486c-6d30-4cfb-957d-ae776e473ba1
 spatial:

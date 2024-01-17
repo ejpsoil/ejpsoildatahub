@@ -4,6 +4,7 @@ metadata:
   identifier: "CEH-Land-Cover-plus\_Crops"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.ceh.ac.uk/crops2015
 spatial:

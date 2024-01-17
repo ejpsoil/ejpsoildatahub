@@ -4,6 +4,7 @@ metadata:
   identifier: Geochemische-atlas-van-Nederland
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://research.wur.nl/en/publications/geochemische-bodematlas-van-nederland
 spatial:

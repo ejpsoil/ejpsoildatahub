@@ -4,6 +4,7 @@ metadata:
   identifier: Various-interpolated-grids-characterizing-weather-and-climate-in-Germany
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://opendata.dwd.de/climate_environment/CDC/grids_germany/
 spatial:

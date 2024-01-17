@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2017-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/49322
 identification:
   title: 3D Soil Hydraulic Database of Europe at 1 km and 250 m resolution
   abstract: 'A consistent spatial soil hydraulic database at 7 soil depths up to 2
@@ -26,6 +27,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Functions Data
   topiccategory:
   - geoscientificInformation

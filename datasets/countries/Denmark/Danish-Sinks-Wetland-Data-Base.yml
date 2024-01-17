@@ -4,6 +4,7 @@ metadata:
   identifier: Danish-Sinks-Wetland-Data-Base
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://dx.doi.org/10.1097/ss.0000000000000066
 spatial:

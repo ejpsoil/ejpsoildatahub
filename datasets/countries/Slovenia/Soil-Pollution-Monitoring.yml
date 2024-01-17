@@ -4,6 +4,7 @@ metadata:
   identifier: Soil-Pollution-Monitoring
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://soil.bf.uni-lj.si/rots/index.php?page=gis/slo
 spatial:

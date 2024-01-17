@@ -4,6 +4,7 @@ metadata:
   identifier: Soil-organic-matter-in-Slovenia
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: FAO (2018) Global Soil Organic Carbon Map (GSOCmap) Technical Report.
     FAO, Rome, Italy - See Slovenia

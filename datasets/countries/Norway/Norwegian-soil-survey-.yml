@@ -4,6 +4,7 @@ metadata:
   identifier: Norwegian-soil-survey-
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://kartkatalog.geonorge.no/metadata/soil/c961484d-9d4b-4f6a-8bd5-e145e96d1560
 spatial:

@@ -5,6 +5,7 @@ metadata:
     ographique-des-Sols-de-France"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://doi.org/10.15454/JPB9RB
 spatial:

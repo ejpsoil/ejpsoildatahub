@@ -4,6 +4,7 @@ metadata:
   identifier: Protected-areas-of-Slovenia
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjK3bOLz_PuAhXB0qQKHTlFCNMQFjAEegQIAxAD&url=https%3A%2F%2Fwww.gov.si%2Fassets%2Fministrstva%2FMOP%2FPublikacije%2F4a9bb5ad59%2Fzavarovana_obmocja.pdf&usg=AOvVaw2SZZZN8vkyyIhkLd4TLdNO
 spatial:

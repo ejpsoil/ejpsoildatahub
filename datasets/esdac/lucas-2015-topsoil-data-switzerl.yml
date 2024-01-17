@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2019-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/58896
 identification:
   title: LUCAS 2015 Topsoil data of Switzerland
   abstract: 'The dataset contains the data of physical and chemical properties analysed
@@ -21,6 +22,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Point Data
   topiccategory:
   - geoscientificInformation

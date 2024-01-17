@@ -4,6 +4,7 @@ metadata:
   identifier: Turkish-Ministry-of-Agriculture-and-Forestry-Soil-Fertilizer-and-Water-Resources-Central-Research-Institute--Soil-Information-System
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://85.25.185.76/tgskmae/starter.aspx
 spatial:

@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2016-01-01
+  dataseturi: Yusuf Yigini and Panos Panagos
 identification:
   title: 'Soil Organic Carbon (SOC) Projections for Europe '
   abstract: 'This dataset consists of a number of data layers (raster GRID maps) that
@@ -21,6 +22,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - - https://esdac.jrc.ec.europa.eu/node/45807
   topiccategory:
   - geoscientificInformation

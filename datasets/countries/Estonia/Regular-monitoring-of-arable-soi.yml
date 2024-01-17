@@ -4,6 +4,7 @@ metadata:
   identifier: Regular-monitoring-of-arable-soils-(I-period)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: 3082 total points (79 areas)

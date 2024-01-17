@@ -4,6 +4,7 @@ metadata:
   identifier: Pedosequences-of-Slovenia-
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.kis.si/en/Soil_data
 spatial:

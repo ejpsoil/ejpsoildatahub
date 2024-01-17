@@ -4,6 +4,7 @@ metadata:
   identifier: Soil-ecological-units-(land-evaluation-system)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://www.podnemapy.sk/portal/verejnost/bpej/bpej.aspx
 spatial:

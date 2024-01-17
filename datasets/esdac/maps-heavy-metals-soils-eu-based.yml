@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2018-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/55283
 identification:
   title: Maps of heavy metals in the soils of the EU  based on LUCAS 2009 HM data
   abstract: 'Detailed maps of heavy metals in the EU27 (EU-28 except Croatia), based
@@ -17,6 +18,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

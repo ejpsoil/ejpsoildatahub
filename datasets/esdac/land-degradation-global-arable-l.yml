@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2021-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/70363
 identification:
   title: Land degradation in global arable lands
   abstract: 'Analysis of the spatial footprint of the multiple forms of land degradation
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

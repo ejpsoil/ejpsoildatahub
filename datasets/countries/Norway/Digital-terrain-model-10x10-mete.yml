@@ -4,6 +4,7 @@ metadata:
   identifier: Digital-terrain-model-10x10-meters
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://hoydedata.no/LaserInnsyn/
 spatial:

@@ -4,6 +4,7 @@ metadata:
   identifier: "GSD-Elevation-data,-grid-2+\_"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/geodataprodukter/produktlista/hojddata-grid-2/
 spatial:

@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2015-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/34921
 identification:
   title: Topsoil physical properties for Europe (based on LUCAS topsoil data)
   abstract: 'This dataset (GIS maps)(2016) contains 7 soil property maps that have
@@ -20,6 +21,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - European Soil Database and soil properties
   topiccategory:
   - geoscientificInformation

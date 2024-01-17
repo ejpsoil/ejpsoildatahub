@@ -4,6 +4,7 @@ metadata:
   identifier: "Komplexn\xED-pr\u016Fzkum-p\u016Fd-(Systematic-Soil-Survey)"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://kpp.vumop.cz
 spatial:

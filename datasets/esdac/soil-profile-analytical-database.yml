@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2009-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/33999
 identification:
   title: Soil Profile Analytical Database 2
   abstract: 'Soil Profile Analytical Database for Europe (2009) (separate from the
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Point Data
   topiccategory:
   - geoscientificInformation

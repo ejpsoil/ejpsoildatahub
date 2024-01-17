@@ -4,6 +4,7 @@ metadata:
   identifier: Basisregistratie-Ondergrond---Borehole-research---profile-descriptions
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://basisregistratieondergrond.nl/inhoud-bro/registratieobjecten/bodem-grondonderzoek/booronderzoek-bhr/bodemkundige-bhr/
 spatial:

@@ -4,6 +4,7 @@ metadata:
   identifier: Melioration-systems-of-Slovenia
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: 1:5,000?

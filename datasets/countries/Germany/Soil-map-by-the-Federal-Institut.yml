@@ -4,6 +4,7 @@ metadata:
   identifier: Soil-map-by-the-Federal-Institute-for-Geosciences-and-Natural-Resources-(BGR)-in-cooperation-with-the-National-Geological-Surveys-(SGD)-of-the-federal-states
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://services.bgr.de/wms/boden/buek200/?
 spatial:

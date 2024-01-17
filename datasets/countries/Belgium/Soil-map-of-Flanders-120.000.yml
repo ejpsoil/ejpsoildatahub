@@ -4,6 +4,7 @@ metadata:
   identifier: Soil-map-of-Flanders-(120.000)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/a1547a01-b9fc-40fa-a2eb-009a39c02c7b
 spatial:

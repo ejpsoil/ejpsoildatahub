@@ -4,6 +4,7 @@ metadata:
   identifier: Potential-soil-erosion-map-of-Flanders
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/298d34a4-d459-4fc8-a9be-e8e26cd9b354
 spatial:

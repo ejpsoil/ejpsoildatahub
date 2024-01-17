@@ -4,6 +4,7 @@ metadata:
   identifier: Spatial-Information-Portal-of-Lithuania
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.geoportal.lt/geoportal/en/web/engeoportal
 spatial:

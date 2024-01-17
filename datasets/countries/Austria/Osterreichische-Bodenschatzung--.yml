@@ -4,6 +4,7 @@ metadata:
   identifier: "\xD6sterreichische-Bodensch\xE4tzung---Austrian-Soil-Condition-Survey"
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.bmf.gv.at/themen/steuern/immobilien-grundstuecke/grundbesitzabgaben-einheitsbewertung/land-und-forstwirtschaftliches-vermoegen-bodenschaetzung.html
 spatial:

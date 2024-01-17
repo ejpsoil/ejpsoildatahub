@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2014-01-01
+  dataseturi: ''
 identification:
   title: Progress in the management of contaminated sites in Europe
   abstract: 'These are the underlying data for the report "Progress in management
@@ -20,6 +21,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

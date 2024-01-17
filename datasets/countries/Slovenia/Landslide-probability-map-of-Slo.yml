@@ -4,6 +4,7 @@ metadata:
   identifier: Landslide-probability-map-of-Slovenia
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: "Zorn M, Komac B (2007) Probability modelling of landslide hazard. Acta\
     \ Geogaphica Slovenica 47:139\u2013169"

@@ -4,6 +4,7 @@ metadata:
   identifier: BAW---specialized-project-data-&-long-term-research
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.baw.at/en/wasser-boden-en/projekte.html
 spatial:

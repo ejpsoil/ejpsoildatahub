@@ -4,6 +4,7 @@ metadata:
   identifier: Soil-quality-index-for-Slovenia
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: "Zupan M, Rupreht J, Ti\u010D I, et al (2006) Izdelava digitalne karte\
     \ talnega \u0161tevila. MKGP, Ljubljana [in Slovenian only]"

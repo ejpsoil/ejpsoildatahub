@@ -4,6 +4,7 @@ metadata:
   identifier: Soil-Map-of-Slovakiain-1400k-scale
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://www.podnemapy.sk/poda400/viewer.htm
 spatial:

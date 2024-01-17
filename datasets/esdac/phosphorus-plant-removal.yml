@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2022-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/79282
 identification:
   title: 'Phosphorus plant removal '
   abstract: 'Phosphorus (P) plant removal is the amount of P removed by crop harvesting
@@ -18,6 +19,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

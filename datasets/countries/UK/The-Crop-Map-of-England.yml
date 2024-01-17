@@ -4,6 +4,7 @@ metadata:
   identifier: The-Crop-Map-of-England
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://data.catchmentbasedapproach.org/datasets/crop-map-of-england-2018
 spatial:

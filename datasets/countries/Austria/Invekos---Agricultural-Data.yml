@@ -4,6 +4,7 @@ metadata:
   identifier: Invekos---Agricultural-Data
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.bmlrt.gv.at/land/direktzahlungen/Invekos.html
 spatial:

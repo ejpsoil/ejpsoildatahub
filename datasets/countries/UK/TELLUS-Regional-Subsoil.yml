@@ -4,6 +4,7 @@ metadata:
   identifier: TELLUS-Regional-Subsoil
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.economy-ni.gov.uk/articles/introduction-tellus-project
 spatial:

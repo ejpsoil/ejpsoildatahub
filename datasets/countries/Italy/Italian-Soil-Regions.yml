@@ -4,6 +4,7 @@ metadata:
   identifier: Italian-Soil-Regions
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://doi.org/10.1007/978-94-007-5642-7_6
 spatial:

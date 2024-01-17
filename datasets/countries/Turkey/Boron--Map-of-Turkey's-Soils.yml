@@ -4,6 +4,7 @@ metadata:
   identifier: Boron--Map-of-Turkey's-Soils
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://arastirma.tarimorman.gov.tr/toprakgubre/Haber/155/Enstitumuz-Tarafindan-Ilk-Olarak-Uretilmis-Olan-Turkiye-Topraklari-Bor-Haritasi-Guncellenmistir
 spatial:

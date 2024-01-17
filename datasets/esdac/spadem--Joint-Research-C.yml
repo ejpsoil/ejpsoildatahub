@@ -1,24 +1,26 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: gloreda
+  identifier: spadem
   language: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2023-01-01
+  datestamp: 2009-01-01
+  dataseturi: ''
 identification:
-  title: GloREDa
-  abstract: 'Global Rainfall Erosivity Database (GloREDa) includes point R-factor
-    data from almost 3,939 stations in 65 countries worldwide b) monthly erosivity
-    values and c) Monthly erosivity maps
+  title: SPADE/M
+  abstract: 'Database (2004) developed from the measured profiles; present in the
+    Soil Profile Analytical Database of Europe of the European Soil Database v2. It
+    counts 560 profiles within the EU.
 
     '
   dates:
-    creation: 2023-01-01
+    creation: 2009-01-01
   keywords:
     default:
       keywords:
-      - Soil Threats Data
+      - ESDAC
+      - Soil Point Data
   topiccategory:
   - geoscientificInformation
   status: completed
@@ -29,11 +31,11 @@ contact:
     email: ec-esdac@ec.europe.eu
 distribution:
   md:
-    url: https://esdac.jrc.ec.europa.eu/node/95263
+    url: ''
     type: metadata
-    name: GloREDa
+    name: SPADE/M
   thumbnail:
-    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Gloreda.jpg
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/spade_m_profiles_xs.jpg
     type: image/jpg
     rel: preview
     name: Preview

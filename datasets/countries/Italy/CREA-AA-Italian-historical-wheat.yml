@@ -4,6 +4,7 @@ metadata:
   identifier: CREA-AA-Italian-historical-wheater-series
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.reterurale.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/16319
 spatial:

@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2022-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/79752
 identification:
   title: Glucose-induced priming effects in soils across Europe
   abstract: 'Quantification and comparison of glucose-induced priming effects in soils
@@ -17,6 +18,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Functions Data
   topiccategory:
   - geoscientificInformation

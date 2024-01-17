@@ -4,6 +4,7 @@ metadata:
   identifier: Geological-map-of-Italy-by-Compagnoni-et-al.,-1983
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://opac.isprambiente.it/SebinaOpac/Opac?action=documentview&sessID=163F7581877A0FF557CD28C792D07E48@2904d67b&docID=4
 spatial:

@@ -4,6 +4,7 @@ metadata:
   identifier: AFBI-5k-Soil-Attribute-Dataset
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.afbini.gov.uk/articles/soil-maps-and-soil-survey
 spatial:

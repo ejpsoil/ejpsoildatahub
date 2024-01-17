@@ -4,6 +4,7 @@ metadata:
   identifier: Land-use-maps-(Slovenia)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: 01:05,0

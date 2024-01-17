@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2016-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/44420
 identification:
   title: 'Maps of the Storing and Filtering Capacity of Soils in Europe '
   abstract: 'This dataset (2016) contains 10 maps that relate to the soil''s storing
@@ -24,6 +25,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Functions Data - /DocumentsPublications
   topiccategory:
   - geoscientificInformation

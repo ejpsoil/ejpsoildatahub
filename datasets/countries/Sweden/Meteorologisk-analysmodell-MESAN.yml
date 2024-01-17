@@ -4,6 +4,7 @@ metadata:
   identifier: Meteorologisk-analysmodell-MESAN-(AROME)---API
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://opendata.smhi.se/apidocs/metanalys/index.html
 spatial:

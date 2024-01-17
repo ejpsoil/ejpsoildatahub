@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2021-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/75370
 identification:
   title: Water erosion in Europe by 2050
   abstract: 'The dataset includes the soil loss by water erosion projections by 2050.
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data
   topiccategory:
   - geoscientificInformation

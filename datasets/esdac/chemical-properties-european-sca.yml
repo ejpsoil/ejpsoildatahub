@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2019-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/59842
 identification:
   title: Maps of Soil Chemical properties at European scale based on LUCAS 2009/2012
     topsoil data
@@ -23,6 +24,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - European Soil Database and soil properties
   topiccategory:
   - geoscientificInformation

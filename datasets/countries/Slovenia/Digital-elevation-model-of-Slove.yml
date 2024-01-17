@@ -4,6 +4,7 @@ metadata:
   identifier: Digital-elevation-model-of-Slovenia
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: 12,5x12,5 m resolution

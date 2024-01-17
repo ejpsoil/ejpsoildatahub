@@ -4,6 +4,7 @@ metadata:
   identifier: Water-protection-areas-of-Slovenia
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://kazalci.arso.gov.si/en/content/water-protection-areas-0?tid=16
 spatial:

@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2011-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/34411
 identification:
   title: iSOIL project (Interactions between soil related sciences)
   abstract: 'Data from the FP7 iSOIL research projectdealing with new technologies
@@ -20,6 +21,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Projects Data
   topiccategory:
   - geoscientificInformation

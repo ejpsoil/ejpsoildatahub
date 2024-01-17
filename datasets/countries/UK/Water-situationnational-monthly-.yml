@@ -4,6 +4,7 @@ metadata:
   identifier: Water-situation,national-monthly-reports-for-England
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: https://www.gov.uk/government/publications/water-situation-national-monthly-reports-for-england-2020
 spatial:

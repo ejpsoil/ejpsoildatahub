@@ -4,6 +4,7 @@ metadata:
   identifier: Bodemafdekkingskaart-2015-(BAK),-5-m-resolutie-(Soil-sealing-rate)
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
   dataseturi: http://www.geopunt.be/catalogus/datasetfolder/9d3df29f-ac3b-497d-9ed7-097e37232151
 spatial:

@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2004-01-01
+  dataseturi: https://esdac.jrc.ec.europa.eu/node/71
 identification:
   title: Pan European Soil Erosion Risk Assessment - PESERA
   abstract: 'A 2003 GIS map of Soil erosion estimates (t/ha/yr) by applying the PESERA
@@ -19,6 +20,7 @@ identification:
   keywords:
     default:
       keywords:
+      - ESDAC
       - Soil Threats Data - /DocumentsPublications
   topiccategory:
   - geoscientificInformation
