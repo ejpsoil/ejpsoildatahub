@@ -18,7 +18,7 @@ identification:
 
     '
   dates:
-    creation: since 1950`s ongoing
+    creation:  1950
   keywords:
     default:
       keywords:
@@ -33,7 +33,7 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: since 1950`s ongoing
+    - begin:  1950
   accessconstraints: Data freely available
   rights: ''
   maintenancefrequency: it was a single survey

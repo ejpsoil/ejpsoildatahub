@@ -18,7 +18,7 @@ identification:
     \ farmers may send soil samples only once or more often for analysis to AGES;\
     \ "
   dates:
-    creation: since 1988
+    creation:  1988
   keywords:
     default:
       keywords:
@@ -33,7 +33,7 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: since 1988
+    - begin:  1988
   accessconstraints: none of the above (specify in comments)
   rights: 'readyly evaluated data can be obtaned from reports and publications; '
   maintenancefrequency: none of the above (specify in comments)

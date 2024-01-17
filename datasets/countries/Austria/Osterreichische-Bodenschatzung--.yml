@@ -16,7 +16,7 @@ identification:
   title: "\xD6sterreichische Bodensch\xE4tzung - Austrian Soil Condition Survey"
   abstract: "top soil and subsoil; there are soil reference sites/soil profiles; "
   dates:
-    creation: since 1958
+    creation:  1958
   keywords:
     default:
       keywords:
@@ -31,7 +31,7 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: since 1958
+    - begin:  1958
   accessconstraints: Data available only under special permission
   rights: Data can be obtained for free during delivery process at the relevant authorities;
     beyond those times, compensation has to be payed;

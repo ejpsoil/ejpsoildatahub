@@ -18,7 +18,7 @@ identification:
     \ 10, 20, 30 and 50 cm; 0-30cm, 30-60cm, 60-90cm; sampling strategies applied;\
     \ regular, random, purposive; "
   dates:
-    creation: since 2003
+    creation:  2003
   keywords:
     default:
       keywords:
@@ -33,7 +33,7 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: since 2003
+    - begin:  2003
   accessconstraints: none of the above (specify in comments)
   rights: 'readyly evaluated data can be obtaned from reports and publications; '
   maintenancefrequency: regular  monitoring 2-5 years

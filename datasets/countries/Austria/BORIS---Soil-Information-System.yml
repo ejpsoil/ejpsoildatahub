@@ -21,7 +21,7 @@ identification:
 
     '
   dates:
-    creation: since mid 80`s ongoing
+    creation:  1980
   keywords:
     default:
       keywords:
@@ -36,7 +36,7 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: since mid 80`s ongoing
+    - begin:  1980
   accessconstraints: Data available only under special permission
   rights: 'Analytical data are only provided under permission of data owners, Site
     and soil profile parameters are freely available; can be obtained e.g. for non-commercial

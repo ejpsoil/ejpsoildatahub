@@ -18,7 +18,8 @@ identification:
     \ of data collection, single survey and monitoring, both is done depending on\
     \ the individual project requirements; "
   dates:
-    creation: since 1945 analog/since 1990 digital data
+    creation: 1945  
+    modified: 1990 
   keywords:
     default:
       keywords:
@@ -33,7 +34,7 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: since 1945 analog/since 1990 digital data
+    - begin:  1945 
   accessconstraints: Data available only under special permission
   rights: all analytical data are only provided under permission of data owner; data
     can be obtained e.g. to write scientific articles together with the data owner;
