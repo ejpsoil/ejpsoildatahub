@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: "Bodov\xE1-vrstva-z\xE1kladn\xEDch-a-v\xFDb\u011Brov\xFDch-sond-KPP"
   language: cze
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 11-12-2017
@@ -14,11 +14,9 @@ identification:
   language: cze
   charset: utf8
   title: "Bodov\xE1 vrstva z\xE1kladn\xEDch a v\xFDb\u011Brov\xFDch sond KPP"
-  abstract: 'Spot layer of basic and selective probes KPP
-
-    '
+  abstract: 'Spot layer of basic and selective probes KPP'
   dates:
-    pubblication: 11-12-2017
+    creation: 11-12-2017
   keywords:
     default:
       keywords:

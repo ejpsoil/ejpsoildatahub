@@ -7,9 +7,7 @@ metadata:
   datestamp: 3-3-2017
 identification:
   title: 'Augsnes laukumi '
-  abstract: 'Historical digital soil database
-
-    '
+  abstract: 'Historical digital soil database'
   keywords:
     default:
       keywords:
@@ -43,7 +41,7 @@ identification:
   language: lav
   charset: utf8
   dates:
-    last revision: 3-3-2017
+    modified: 3-3-2017
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

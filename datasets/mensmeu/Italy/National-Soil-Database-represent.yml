@@ -15,9 +15,7 @@ identification:
   charset: utf8
   title: National Soil Database representative Soil Systems geography (1:500.000)
   abstract: 'soil profiles, soil types, Soil texture, soil chemistry, soil chemicophysical
-    properties
-
-    '
+    properties'
   dates:
     creation: 1-6-2011
   keywords:

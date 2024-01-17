@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Potenci\xE1ln\xED-zranitelnost-p\u016Fd-utu\u017Een\xEDm"
   language: cze
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2014
+  datestamp: 2014-01-01
 spatial:
   scale: 3,513888889
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: cze
   charset: utf8
   title: "Potenci\xE1ln\xED zranitelnost p\u016Fd utu\u017Een\xEDm"
-  abstract: 'Map of potential soil compaction
-
-    '
+  abstract: 'Map of potential soil compaction'
   dates:
-    last revision: 2014
+    modified: 2014
   keywords:
     default:
       keywords:

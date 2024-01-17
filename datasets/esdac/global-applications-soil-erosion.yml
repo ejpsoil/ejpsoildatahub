@@ -4,8 +4,8 @@ metadata:
   identifier: global-applications-soil-erosion-modelling-tracker
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2021
+  hierarchylevel: dataset
+  datestamp: 2021-01-01
 identification:
   title: Global Applications of Soil Erosion Modelling Tracker
   abstract: 'Global Applications of Soil Erosion Modelling Tracker (GASEMT) includes
@@ -14,12 +14,12 @@ identification:
     between 1994 and 2017.
 
     '
-  dates: 2021
+  dates:
+    creation: 2021-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

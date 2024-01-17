@@ -1,16 +1,14 @@
 metadata:
   identifier: 0086CC52-6F67-4393-99BE-7D3AB1B84160
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2006
+  datestamp: 2006-01-01
 identification:
   title: "Boden\xFCbersichtskarte der Bundesrepublik Deutschland 1:5.000.000"
   abstract: 'Soil Map of the Federal Republic of Germany 1:5,000,000. Focused on information
-    about the parent material, and generalization
-
-    '
+    about the parent material, and generalization'
   keywords:
     default:
       keywords:
@@ -44,7 +42,7 @@ identification:
   language: ger
   charset: utf8
   dates:
-    pubblication: 2006
+    creation: 01-01-2006
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

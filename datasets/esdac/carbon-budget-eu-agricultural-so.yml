@@ -4,20 +4,20 @@ metadata:
   identifier: carbon-budget-eu-agricultural-soils
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2018
+  hierarchylevel: dataset
+  datestamp: 2018-01-01
 identification:
   title: Carbon budget in the EU agricultural soils
   abstract: 'Cumulative C budget over the period 2016-20100 in the EU agricultural
     soils under the accelerated and current soil erosion scenarios.
 
     '
-  dates: 2018
+  dates:
+    creation: 2018-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

@@ -1,10 +1,10 @@
 metadata:
   identifier: Soil-map-for-England-and-Wales
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2019
+  datestamp: 2019-01-01
 identification:
   title: Soil map for England and Wales
   abstract: "Soil map for England and Wales \u2014 WRB 2006 tier 1 version\n"
@@ -41,7 +41,7 @@ identification:
   language: eng
   charset: utf8
   dates:
-    last revision: 2019
+    modified: 2019
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

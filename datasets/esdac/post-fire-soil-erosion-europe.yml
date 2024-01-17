@@ -4,8 +4,8 @@ metadata:
   identifier: post-fire-soil-erosion-europe
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2023
+  hierarchylevel: dataset
+  datestamp: 2023-01-01
 identification:
   title: Post-fire soil erosion in Europe
   abstract: 'This dataset contains the soil erosion estimations resulting of a study
@@ -14,12 +14,12 @@ identification:
     (Rdata) are provided at 25m resolution, from year 1 (2017) to year 5 (2021).
 
     '
-  dates: 2023
+  dates:
+    creation: 2023-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

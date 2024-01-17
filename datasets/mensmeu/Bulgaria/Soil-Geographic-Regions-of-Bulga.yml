@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1974
+  datestamp: 1974-01-01
 spatial:
   scale: 1:400000
   resolution: null
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: Soil Geographic Regions of Bulgaria (1974)
   abstract: 'Soil-geographical regioning of Bulgaria. The stratification is: zones,
-    subzones, soil provinces and soil regions.
-
-    '
+    subzones, soil provinces and soil regions.'
   dates:
-    pubblication: 1974
+    creation: 01-01-1974
   keywords:
     default:
       keywords:

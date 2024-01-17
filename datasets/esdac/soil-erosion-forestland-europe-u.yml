@@ -4,8 +4,8 @@ metadata:
   identifier: soil-erosion-forestland-europe-using-rusle2015
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2014
+  hierarchylevel: dataset
+  datestamp: 2014-01-01
 identification:
   title: Soil erosion in forestland in Europe (using RUSLE2015)
   abstract: 'Dataset (2 GIS-maps) (2016) related to soil erosion in Forestland in
@@ -13,12 +13,12 @@ identification:
     Forest Cover Change for 36 European countries.
 
     '
-  dates: 2014
+  dates:
+    creation: 2014-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

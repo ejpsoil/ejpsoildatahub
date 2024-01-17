@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Szervesanyag-k\xE9szlet--\xE9s-min\u0151s\xE9g-v\xE1ltoz\xE1s"
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2012
+  datestamp: 2012-01-01
 spatial:
   scale: 1:5M
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: hun
   charset: utf8
   title: "Szervesanyag k\xE9szlet- \xE9s min\u0151s\xE9g v\xE1ltoz\xE1s"
-  abstract: 'Soil organic matter content (%) in depth 0-30 cm, 30-60 cm, 60-90 cm
-
-    '
+  abstract: 'Soil organic matter content (%) in depth 0-30 cm, 30-60 cm, 60-90 cm'
   dates:
-    pubblication: 2012
+    creation: 01-01-2012
   keywords:
     default:
       keywords:

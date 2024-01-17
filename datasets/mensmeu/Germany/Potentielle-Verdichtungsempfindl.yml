@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: "Potentielle-Verdichtungsempfindlichkeit-der-B\xF6den-in-Deutschland"
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 27-9-2019
@@ -16,11 +16,9 @@ identification:
   title: "Potentielle Verdichtungsempfindlichkeit der B\xF6den in Deutschland"
   abstract: 'The map of Soil compaction susceptibility of soils in Germany gives an
     overview of the exposure of arable land to soil compaction. It shows the area
-    of soils which are threatened by soil compaction at 35 cm depth
-
-    '
+    of soils which are threatened by soil compaction at 35 cm depth'
   dates:
-    pubblication: 27-9-2019
+    creation: 27-9-2019
   keywords:
     default:
       keywords:

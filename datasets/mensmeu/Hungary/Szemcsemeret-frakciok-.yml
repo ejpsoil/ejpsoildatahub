@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Szemcsem\xE9ret-frakci\xF3k-[%]"
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2018
+  datestamp: 2018-01-01
 spatial:
   scale: null
   resolution: 100m
@@ -14,11 +14,9 @@ identification:
   language: hun
   charset: utf8
   title: "Szemcsem\xE9ret frakci\xF3k [%]"
-  abstract: 'Clay-, silt-, sand content (%) of the soil in depths
-
-    '
+  abstract: 'Clay-, silt-, sand content (%) of the soil in depths'
   dates:
-    creation: 2018
+    creation: 2018-01-01
   keywords:
     default:
       keywords:

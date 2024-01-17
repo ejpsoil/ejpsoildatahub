@@ -1,16 +1,14 @@
 metadata:
   identifier: Soil-organic-carbon-content-of-scottish-topsoil
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 13-2-2014
+  datestamp: 2014-01-01
 identification:
   title: Soil organic carbon content of scottish topsoil
   abstract: 'This soil organic carbon dataset is based on the digital (vector) version
-    of the soils of Scotland 1:250 000
-
-    '
+    of the soils of Scotland 1:250 000'
   keywords:
     default:
       keywords:
@@ -44,7 +42,7 @@ identification:
   language: eng
   charset: utf8
   dates:
-    pubblication: 13-2-2014
+    creation: 13-2-2014
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

@@ -4,8 +4,8 @@ metadata:
   identifier: ls-factor-slope-length-and-steepness-factor-eu
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2015
+  hierarchylevel: dataset
+  datestamp: 2015-01-01
 identification:
   title: LS-factor (Slope Length and Steepness factor) for the EU
   abstract: 'This dataset (GIS maps) (2015) represents the Slope Length and Steepness
@@ -15,12 +15,12 @@ identification:
     100m (Europe-wide).
 
     '
-  dates: 2015
+  dates:
+    creation: 2015-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

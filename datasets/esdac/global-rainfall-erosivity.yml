@@ -4,8 +4,8 @@ metadata:
   identifier: global-rainfall-erosivity
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2017
+  hierarchylevel: dataset
+  datestamp: 2017-01-01
 identification:
   title: Global Rainfall Erosivity
   abstract: 'Rainfall erosivity dataset (2017) is one of the input layers when calculating
@@ -14,12 +14,12 @@ identification:
     at resolutions of 30 arc-sec ((~1 km at the Equator).
 
     '
-  dates: 2017
+  dates:
+    creation: 2017-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

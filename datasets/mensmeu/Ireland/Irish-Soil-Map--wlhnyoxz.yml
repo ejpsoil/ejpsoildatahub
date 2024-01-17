@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: Irish-Soil-Map-
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 30-9-2014
@@ -14,11 +14,9 @@ identification:
   language: eng
   charset: utf8
   title: 'Irish Soil Map '
-  abstract: 'Irish Soil Map 1:250,000
-
-    '
+  abstract: 'Irish Soil Map 1:250,000'
   dates:
-    last revision: 30-9-2014
+    modified: 30-9-2014
   keywords:
     default:
       keywords:

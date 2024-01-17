@@ -4,20 +4,20 @@ metadata:
   identifier: octop-topsoil-organic-carbon-content-europe
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2004
+  hierarchylevel: dataset
+  datestamp: 2004-01-01
 identification:
   title: 'OCTOP: Topsoil Organic Carbon Content for Europe'
   abstract: 'A 2004 GIS map of Soil Organic Carbon (SOC) content (%) in the surface
     horizon of soils in Europe, associated to a JRC internal report.
 
     '
-  dates: 2004
+  dates:
+    creation: 2004-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

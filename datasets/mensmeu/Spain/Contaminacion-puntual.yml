@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1998
+  datestamp: 1998-01-01
 spatial:
   scale: 1:5 M
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: spa
   charset: utf8
   title: "Contaminaci\xF3n puntual"
-  abstract: 'Map of point source pollution
-
-    '
+  abstract: 'Map of point source pollution'
   dates:
-    pubblication: 1998
+    creation: 01-01-1998
   keywords:
     default:
       keywords:

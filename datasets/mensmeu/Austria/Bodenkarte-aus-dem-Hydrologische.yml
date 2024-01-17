@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: Bodenkarte-aus-dem-Hydrologischen-Atlas-Osterreich
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1992
+  datestamp: 1992-01-01
 spatial:
   scale: null
   resolution: 1KM
@@ -14,11 +14,9 @@ identification:
   language: ger
   charset: utf8
   title: Bodenkarte aus dem Hydrologischen Atlas Osterreich
-  abstract: 'Soil map from the Hydrological Atlas Austria
-
-    '
+  abstract: 'Soil map from the Hydrological Atlas Austria'
   dates:
-    creation: 1992
+    creation: 01-01-1992
   keywords:
     default:
       keywords:

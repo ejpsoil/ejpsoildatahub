@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: Maa-aines-tuote/Aggregate sand and gravel -product
   abstract: 'The soil data contains information on the location and volume of sand
-    and gravel deposits and their ability to meet the needs of municipal engineering
-
-    '
+    and gravel deposits and their ability to meet the needs of municipal engineering'
   dates:
-    last revision: 28-9-2018
+    modified: 28-9-2018
   keywords:
     default:
       keywords:

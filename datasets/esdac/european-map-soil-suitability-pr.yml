@@ -4,8 +4,8 @@ metadata:
   identifier: european-map-soil-suitability-provide-platform-most-human-activities-eu28
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2016
+  hierarchylevel: dataset
+  datestamp: 2016-01-01
 identification:
   title: European map of soil suitability to provide a platform for most human activities
     (EU28)
@@ -15,12 +15,12 @@ identification:
     limitation to agricultural use, depth to rock, land use) and slope of the terrain.
 
     '
-  dates: 2016
+  dates:
+    creation: 2016-01-01
   keywords:
     default:
       keywords:
       - Soil Functions Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

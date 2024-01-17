@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: Erozijos intensyvumas
   abstract: 'The National atlas of the Republic of Lithuania in digital format. Intensity
-    of erosion
-
-    '
+    of erosion'
   dates:
-    pubblication: 1-4-2011
+    creation: 1-4-2011
   keywords:
     default:
       keywords:

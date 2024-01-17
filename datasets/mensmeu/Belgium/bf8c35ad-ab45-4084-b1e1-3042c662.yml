@@ -3,19 +3,16 @@ mcf:
 metadata:
   identifier: bf8c35ad-ab45-4084-b1e1-3042c66204aa
   hierarchylevel: dataset
-  datestamp: 2018-01-15
+  datestamp: 2018-01-01
   language: dut
   language_alternate: eng
   charset: utf8
 identification:
   title: Soil Organic Carbon Stock Maps for Belgium
-  abstract: 'Soil Organic Carbon Stock Maps for Belgium: mean (40 m grid)
-
-    '
+  abstract: 'Soil Organic Carbon Stock Maps for Belgium: mean (40 m grid)'
   dates:
     creation: '2017-12-06'
     publication: '2018-01-15'
-    pubblication: 2018-01-15
   keywords:
     keywords-0:
       type: null

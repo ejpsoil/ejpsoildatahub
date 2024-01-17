@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2009
+  datestamp: 2009-01-01
 spatial:
   scale: 1:400000
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: bul
   charset: utf8
   title: Map of the potential risk to water erosion for Bulgaria
-  abstract: 'Map of the potential risk to water erosion for Bulgaria
-
-    '
+  abstract: 'Map of the potential risk to water erosion for Bulgaria'
   dates:
-    pubblication: 2009
+    creation: 01-01-2009
   keywords:
     default:
       keywords:

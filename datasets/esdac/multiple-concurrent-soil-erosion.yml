@@ -4,8 +4,8 @@ metadata:
   identifier: multiple-concurrent-soil-erosion-processes
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2022
+  hierarchylevel: dataset
+  datestamp: 2022-01-01
 identification:
   title: Multiple concurrent soil erosion processes
   abstract: 'A first-ever assessment at European scale combines the threat of water,
@@ -15,12 +15,12 @@ identification:
     (110 Million ha).
 
     '
-  dates: 2022
+  dates:
+    creation: 2022-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

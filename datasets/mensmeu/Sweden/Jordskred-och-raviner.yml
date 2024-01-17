@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 20-5-2019
+  datestamp: 2019-01-01
 spatial:
   scale: 1:1 M
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: swe
   charset: utf8
   title: Jordskred och raviner
-  abstract: 'Inventory of landslides and gullies
-
-    '
+  abstract: 'Inventory of landslides and gullies'
   dates:
-    last revision: 20-5-2019
+    modified: 20-5-2019
   keywords:
     default:
       keywords:

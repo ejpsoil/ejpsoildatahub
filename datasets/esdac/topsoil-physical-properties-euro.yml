@@ -4,8 +4,8 @@ metadata:
   identifier: topsoil-physical-properties-europe-based-lucas-topsoil-data
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2015
+  hierarchylevel: dataset
+  datestamp: 2015-01-01
 identification:
   title: Topsoil physical properties for Europe (based on LUCAS topsoil data)
   abstract: 'This dataset (GIS maps)(2016) contains 7 soil property maps that have
@@ -15,12 +15,12 @@ identification:
     class; available water capacity. Resolution 500m.
 
     '
-  dates: 2015
+  dates:
+    creation: 2015-01-01
   keywords:
     default:
       keywords:
       - European Soil Database and soil properties
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

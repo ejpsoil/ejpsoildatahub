@@ -1,16 +1,14 @@
 metadata:
   identifier: CS--Topsoil-Nutrients---Olsen-P
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 26-3-2012
+  datestamp: 2012-3-26
 identification:
   title: CS -Topsoil Nutrients - Olsen-P
   abstract: 'Olsen-Phosphorus (mg/kg) Model estimates of topsoil nutrients [Countryside
-    Survey]
-
-    '
+    Survey]'
   keywords:
     default:
       keywords:
@@ -44,7 +42,7 @@ identification:
   language: eng
   charset: utf8
   dates:
-    pubblication: 26-3-2012
+    creation: 2012-3-26
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

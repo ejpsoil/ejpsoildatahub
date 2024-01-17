@@ -4,20 +4,20 @@ metadata:
   identifier: soil-biodiversity-dna-eukaryotes
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2023
+  hierarchylevel: dataset
+  datestamp: 2023-01-01
 identification:
   title: Soil biodiversity dna eukaryotes
   abstract: 'The dataset includes bacterial 18S raw DNA sequences for 885 samples
     collected as part of LUCAS 2018 Soil survey (Biodiversity module).
 
     '
-  dates: 2023
+  dates:
+    creation: 2023-01-01
   keywords:
     default:
       keywords:
       - Soil Functions Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

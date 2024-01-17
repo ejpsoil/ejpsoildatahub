@@ -4,17 +4,17 @@ metadata:
   identifier: european-reference-grids
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2003
+  hierarchylevel: dataset
+  datestamp: 2003-01-01
 identification:
   title: European Reference Grids
   abstract: ''
-  dates: 2003
+  dates:
+    creation: 2003-01-01
   keywords:
     default:
       keywords:
       - Soil Projects Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

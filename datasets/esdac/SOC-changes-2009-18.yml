@@ -4,8 +4,8 @@ metadata:
   identifier: SOC-changes-2009-18
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2023
+  hierarchylevel: dataset
+  datestamp: 2023-01-01
 identification:
   title: Changes in Soil Organic Carbon in Croplands and Grasslands between 2009 and
     2018
@@ -14,12 +14,12 @@ identification:
     across the EU and UK between 2009 and 2018.
 
     '
-  dates: 2023
+  dates:
+    creation: 2023-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

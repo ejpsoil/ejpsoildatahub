@@ -4,8 +4,8 @@ metadata:
   identifier: pan-european-soil-erosion-risk-assessment-pesera
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2004
+  hierarchylevel: dataset
+  datestamp: 2004-01-01
 identification:
   title: Pan European Soil Erosion Risk Assessment - PESERA
   abstract: 'A 2003 GIS map of Soil erosion estimates (t/ha/yr) by applying the PESERA
@@ -14,12 +14,12 @@ identification:
     estimates of sediment loss are from erosion by water.
 
     '
-  dates: 2004
+  dates:
+    creation: 2004-01-01
   keywords:
     default:
       keywords:
-      - Soil Threats Data
-      - /DocumentsPublications
+      - Soil Threats Data - /DocumentsPublications
   topiccategory:
   - geoscientificInformation
   status: completed

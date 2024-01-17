@@ -4,8 +4,8 @@ metadata:
   identifier: projected-land-conservation-impacts-global-soil-erosion-and-pollination-sufficiency
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2023
+  hierarchylevel: dataset
+  datestamp: 2023-01-01
 identification:
   title: Projected Land Conservation Impacts on Global Soil Erosion and Pollination
     Sufficiency
@@ -17,12 +17,12 @@ identification:
     landscape heterogeneity.
 
     '
-  dates: 2023
+  dates:
+    creation: 2023-01-01
   keywords:
     default:
       keywords:
-      - Soil Functions Data
-      - /resource-type/soil-threats-data
+      - Soil Functions Data - /resource-type/soil-threats-data
   topiccategory:
   - geoscientificInformation
   status: completed

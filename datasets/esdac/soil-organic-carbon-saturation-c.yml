@@ -4,8 +4,8 @@ metadata:
   identifier: soil-organic-carbon-saturation-capacity
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2016
+  hierarchylevel: dataset
+  datestamp: 2016-01-01
 identification:
   title: Soil Organic Carbon - Saturation Capacity in Europe
   abstract: 'This dataset (map) (2016) shows the Soil Organic Carbon (SOC) saturation
@@ -14,12 +14,12 @@ identification:
     carbon.
 
     '
-  dates: 2016
+  dates:
+    creation: 2016-01-01
   keywords:
     default:
       keywords:
-      - Soil Functions Data
-      - /resource-type/soil-threats-data
+      - Soil Functions Data - /resource-type/soil-threats-data
   topiccategory:
   - geoscientificInformation
   status: completed

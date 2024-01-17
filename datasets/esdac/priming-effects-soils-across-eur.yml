@@ -4,20 +4,20 @@ metadata:
   identifier: priming-effects-soils-across-europe
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2022
+  hierarchylevel: dataset
+  datestamp: 2022-01-01
 identification:
   title: Glucose-induced priming effects in soils across Europe
   abstract: 'Quantification and comparison of glucose-induced priming effects in soils
     with contrasting land uses and under different crop types
 
     '
-  dates: 2022
+  dates:
+    creation: 2022-01-01
   keywords:
     default:
       keywords:
       - Soil Functions Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

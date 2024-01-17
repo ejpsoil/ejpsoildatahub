@@ -4,8 +4,8 @@ metadata:
   identifier: biochar-meta-analysis-database
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2012
+  hierarchylevel: dataset
+  datestamp: 2012-01-01
 identification:
   title: Biochar Meta-analysis Database
   abstract: 'Data (2011) associated to the publication "A quantitative review of the
@@ -14,12 +14,12 @@ identification:
     175-187"
 
     '
-  dates: 2012
+  dates:
+    creation: 2012-01-01
   keywords:
     default:
       keywords:
       - Soil Projects Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

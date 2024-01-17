@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: gloreda
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2023-01-01
+identification:
+  title: GloREDa
+  abstract: 'Global Rainfall Erosivity Database (GloREDa) includes point R-factor
+    data from almost 3,939 stations in 65 countries worldwide b) monthly erosivity
+    values and c) Monthly erosivity maps
+
+    '
+  dates:
+    creation: 2023-01-01
+  keywords:
+    default:
+      keywords:
+      - Soil Threats Data
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/95263
+    type: metadata
+    name: GloREDa
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/Gloreda.jpg
+    type: image/jpg
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

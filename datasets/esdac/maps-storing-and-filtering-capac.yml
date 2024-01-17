@@ -4,8 +4,8 @@ metadata:
   identifier: maps-storing-and-filtering-capacity-soils-europe
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2016
+  hierarchylevel: dataset
+  datestamp: 2016-01-01
 identification:
   title: 'Maps of the Storing and Filtering Capacity of Soils in Europe '
   abstract: 'This dataset (2016) contains 10 maps that relate to the soil''s storing
@@ -19,12 +19,12 @@ identification:
     (FILT_NAPL). As input, variables from the European Soil Database have been used.
 
     '
-  dates: 2016
+  dates:
+    creation: 2016-01-01
   keywords:
     default:
       keywords:
-      - Soil Functions Data
-      - /DocumentsPublications
+      - Soil Functions Data - /DocumentsPublications
   topiccategory:
   - geoscientificInformation
   status: completed

@@ -4,8 +4,8 @@ metadata:
   identifier: land-degradation-debt
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2021
+  hierarchylevel: dataset
+  datestamp: 2021-01-01
 identification:
   title: Land degradation debt
   abstract: 'Global Land degradation as debts for a) tree cover, b) soil erosion c)
@@ -13,12 +13,12 @@ identification:
     between natural potential condition and current condition.
 
     '
-  dates: 2021
+  dates:
+    creation: 2021-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

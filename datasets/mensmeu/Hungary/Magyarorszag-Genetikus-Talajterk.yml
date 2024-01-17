@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Magyarorsz\xE1g-Genetikus-Talajt\xE9rk\xE9pe-1984"
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1984
+  datestamp: 1984-01-01
 spatial:
   scale: 1:250000
   resolution: null
@@ -16,7 +16,7 @@ identification:
   title: "Magyarorsz\xE1g Genetikus Talajt\xE9rk\xE9pe 1984"
   abstract: "Genetic Soil Map of Hungary M\xC9M-NAK 1984\n"
   dates:
-    pubblication: 1984
+    creation: 01-01-1984
   keywords:
     default:
       keywords:

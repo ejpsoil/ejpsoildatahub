@@ -4,8 +4,8 @@ metadata:
   identifier: progress-management-contaminated-sites-europe-0
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2014
+  hierarchylevel: dataset
+  datestamp: 2014-01-01
 identification:
   title: Progress in the management of contaminated sites in Europe
   abstract: 'These are the underlying data for the report "Progress in management
@@ -15,12 +15,12 @@ identification:
     Italy, Latvia) are bundled in an additional file.
 
     '
-  dates: 2014
+  dates:
+    creation: 2014-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

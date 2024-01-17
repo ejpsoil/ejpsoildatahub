@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 20-5-2019
+  datestamp: 2019-01-01
 spatial:
   scale: 1:9M
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: swe
   charset: utf8
   title: "Efterbehandling av f\xF6rorenade omr\xE5den"
-  abstract: 'Localization of remediation of contaminated sites
-
-    '
+  abstract: 'Localization of remediation of contaminated sites'
   dates:
-    last revision: 20-5-2019
+    modified: 2019
   keywords:
     default:
       keywords:

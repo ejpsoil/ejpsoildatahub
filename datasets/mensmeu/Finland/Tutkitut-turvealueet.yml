@@ -14,11 +14,9 @@ identification:
   language: fin
   charset: utf8
   title: Tutkitut turvealueet
-  abstract: 'Investigated peatland areas,  relates to the carbon stuff
-
-    '
+  abstract: 'Investigated peatland areas,  relates to the carbon stuff'
   dates:
-    last revision: 2-7-2018
+    modified: 2-7-2018
   keywords:
     default:
       keywords:

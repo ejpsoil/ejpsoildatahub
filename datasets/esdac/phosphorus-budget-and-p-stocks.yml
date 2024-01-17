@@ -4,8 +4,8 @@ metadata:
   identifier: phosphorus-budget-and-p-stocks
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2022
+  hierarchylevel: dataset
+  datestamp: 2022-01-01
 identification:
   title: Phosphorus budget and P stocks
   abstract: 'Phosphorus (P) budget in the European agricultural soils. We provide
@@ -15,12 +15,12 @@ identification:
     LUCAS point data with measured Total P.
 
     '
-  dates: 2022
+  dates:
+    creation: 2022-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

@@ -4,20 +4,20 @@ metadata:
   identifier: soil-ghg-fluxes-using-lucas-soil-daycent
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2018
+  hierarchylevel: dataset
+  datestamp: 2018-01-01
 identification:
   title: Soil GHG fluxes using LUCAS soil-DayCent (for EU)
   abstract: 'Soil fluxes (CO2 and N2O ) under mitigation scenarios using the LUCAS
     soil-DayCent model integration framework
 
     '
-  dates: 2018
+  dates:
+    creation: 2018-01-01
   keywords:
     default:
       keywords:
       - Soil Functions Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

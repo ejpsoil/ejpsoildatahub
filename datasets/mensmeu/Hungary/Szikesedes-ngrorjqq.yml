@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Szikesed\xE9s"
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2012
+  datestamp: 2012-01-01
 spatial:
   scale: 1:5M
   resolution: null
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: "Szikesed\xE9s"
   abstract: 'Salinisation. The salt content of the soil in depths 0-30 cm (plowed),
-    30-60 cm, 60-90 cm
-
-    '
+    30-60 cm, 60-90 cm'
   dates:
-    pubblication: 2012
+    creation: 01-01-2012
   keywords:
     default:
       keywords:

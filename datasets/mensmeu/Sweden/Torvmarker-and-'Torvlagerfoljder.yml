@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Torvmarker-and-'Torvlagerf\xF6ljder"
   language: swe
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 20-5-2019
+  datestamp: 2019-01-01
 spatial:
   scale: 1:1 M
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: swe
   charset: utf8
   title: "Torvmarker and 'Torvlagerf\xF6ljder"
-  abstract: 'Map of peatlands and extraction
-
-    '
+  abstract: 'Map of peatlands and extraction'
   dates:
-    last revision: 20-5-2019
+    modified: 2019
   keywords:
     default:
       keywords:

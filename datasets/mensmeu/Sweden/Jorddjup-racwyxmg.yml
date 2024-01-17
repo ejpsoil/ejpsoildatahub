@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 20-5-2019
+  datestamp: 2019-01-01
 spatial:
   scale: null
   resolution: 5KM
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: Jorddjup
   abstract: 'The map presents an overview of the thickness of surficial materials
-    over bedrock.
-
-    '
+    over bedrock.'
   dates:
-    last revision: 20-5-2019
+    modified: 20-5-2019
   keywords:
     default:
       keywords:

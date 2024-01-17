@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: Map-of-subsoil-compaction-risk
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 19-4-2018
+  datestamp: 2018-01-01
 spatial:
   scale: 1:25000
   resolution: null
@@ -17,7 +17,7 @@ identification:
   abstract: "Scotlands Soil Data. Map of subsoil compaction risk (partial cover).\
     \ \n"
   dates:
-    last revision: 19-4-2018
+    modified: 2018
   keywords:
     default:
       keywords:

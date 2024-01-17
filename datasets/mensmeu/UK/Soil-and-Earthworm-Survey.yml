@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: Soil-and-Earthworm-Survey
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1-6-2010
+  datestamp: 2010-01-01
 spatial:
   scale: null
   resolution: null
@@ -17,7 +17,7 @@ identification:
   abstract: "The OPAL (Open Air Laboratories) Data Explorer allows you to visualise\
     \ environmental data \n"
   dates:
-    pubblication: 1-6-2010
+    creation: 2010-01-01
   keywords:
     default:
       keywords:

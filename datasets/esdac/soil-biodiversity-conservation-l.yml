@@ -4,20 +4,20 @@ metadata:
   identifier: soil-biodiversity-conservation-literature-and-legally-binding-instruments
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2022
+  hierarchylevel: dataset
+  datestamp: 2022-01-01
 identification:
   title: Soil Biodiversity Conservation literature and legally binding instruments
   abstract: 'We present the review of 54 articles in the literature and Member States
     policy documents which address Soil Biodiversity Conservation
 
     '
-  dates: 2022
+  dates:
+    creation: 2022-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

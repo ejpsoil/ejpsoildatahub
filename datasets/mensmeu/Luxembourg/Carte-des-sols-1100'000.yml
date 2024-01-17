@@ -8,9 +8,7 @@ metadata:
 identification:
   title: Carte des sols 1:100'000
   abstract: 'Soil Map 1:100000. Vector database of the soil associations map of the
-    Grand Duchy of Luxembourg
-
-    '
+    Grand Duchy of Luxembourg'
   keywords:
     default:
       keywords:
@@ -44,7 +42,7 @@ identification:
   language: fre
   charset: utf8
   dates:
-    pubblication: 1-1-1969
+    creation: 1-1-1969
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

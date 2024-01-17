@@ -16,11 +16,9 @@ identification:
   title: "Dybden til redoxgr\xE6nsen"
   abstract: 'Redox depth. The map illustrates depth to the redox interface in meters
     below ground. The interface marks the transition from oxidised to reduced conditions
-    in the subsurface
-
-    '
+    in the subsurface'
   dates:
-    pubblication: 15-3-2019
+    creation: 15-3-2019
   keywords:
     default:
       keywords:

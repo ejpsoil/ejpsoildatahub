@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1999
+  datestamp: 1999-01-01
 spatial:
   scale: 1:25000
   resolution: null
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: Plant available water in Slovenia
   abstract: 'Data on soil available water capacity It is expressed as g of water /
-    100g soil. The data is unofficial and in digital form
-
-    '
+    100g soil. The data is unofficial and in digital form'
   dates:
-    pubblication: 1999
+    creation: 01-01-1999
   keywords:
     default:
       keywords:

@@ -14,11 +14,9 @@ identification:
   language: lit
   charset: utf8
   title: "Dirvo\u017Eemio \u012F\u0161alas"
-  abstract: 'Map of The National Atlas of Lithuania - Permafrost soil
-
-    '
+  abstract: 'Map of The National Atlas of Lithuania - Permafrost soil'
   dates:
-    pubblication: 6-6-2013
+    creation: 6-6-2013
   keywords:
     default:
       keywords:

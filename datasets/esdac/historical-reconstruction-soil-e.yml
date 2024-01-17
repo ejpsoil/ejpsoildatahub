@@ -4,8 +4,8 @@ metadata:
   identifier: historical-reconstruction-soil-erosion-europe
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2022
+  hierarchylevel: dataset
+  datestamp: 2022-01-01
 identification:
   title: Historical reconstruction of soil erosion in Europe
   abstract: 'The past soil erosion rates have been reconstructed by applying the CE-DYNAM
@@ -15,12 +15,12 @@ identification:
     Models.
 
     '
-  dates: 2022
+  dates:
+    creation: 2022-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

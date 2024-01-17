@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: 5785e221-1784-4713-a109-3fe2c0a80153
   language: cze
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: '2022-07-27'
@@ -20,7 +20,7 @@ identification:
     \ v Syst\xE9mu evidence kontaminovan\xFDch m\xEDst (SEKM) na adrese http://www.sekm.cz."
   dates:
     creation: 30-11-2010
-    revision: '2016-07-13'
+    modified: '2016-07-13'
   keywords:
     default:
       keywords:

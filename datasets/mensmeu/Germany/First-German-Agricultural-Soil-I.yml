@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 20-5-2020
+  datestamp: 2020-01-01
 spatial:
   scale: null
   resolution: 8Km
@@ -25,7 +25,7 @@ identification:
     \ total of 3104 field sites were sampled in a 8x8 km grid (Jacobs et al., 2018).\
     \ \n"
   dates:
-    pubblication: 20-5-2020
+    creation: 01-01-20-5-2020
   keywords:
     default:
       keywords:

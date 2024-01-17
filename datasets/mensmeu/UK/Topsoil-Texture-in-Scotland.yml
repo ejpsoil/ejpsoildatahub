@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: Topsoil-Texture-in-Scotland
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1-5-2011
+  datestamp: 2011-01-01
 spatial:
   scale: 1:25000
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: eng
   charset: utf8
   title: Topsoil Texture in Scotland
-  abstract: 'Indicative soil texture classes for Nitrate Vulnerable Zones in Scotland
-
-    '
+  abstract: 'Indicative soil texture classes for Nitrate Vulnerable Zones in Scotland'
   dates:
-    pubblication: 1-5-2011
+    creation: 2011-01-01
   keywords:
     default:
       keywords:

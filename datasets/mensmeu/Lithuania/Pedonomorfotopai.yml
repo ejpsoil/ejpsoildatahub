@@ -14,11 +14,9 @@ identification:
   language: lit
   charset: utf8
   title: Pedonomorfotopai
-  abstract: 'Map of The National Atlas of Lithuania - Pedonomorfotopai
-
-    '
+  abstract: 'Map of The National Atlas of Lithuania - Pedonomorfotopai'
   dates:
-    pubblication: 6-6-2013
+    creation: 6-6-2013
   keywords:
     default:
       keywords:

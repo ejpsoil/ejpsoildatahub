@@ -4,8 +4,8 @@ metadata:
   identifier: soil-organic-matter-som-fractions
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2019
+  hierarchylevel: dataset
+  datestamp: 2019-01-01
 identification:
   title: 'Soil Organic Matter (SOM) fractions '
   abstract: 'This dataset contains the original measured Soil Organic Matter (SOM)
@@ -15,12 +15,12 @@ identification:
     Matter (MAOM)
 
     '
-  dates: 2019
+  dates:
+    creation: 2019-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

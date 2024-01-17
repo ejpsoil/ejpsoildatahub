@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1992
+  datestamp: 1992-01-01
 spatial:
   scale: 1:5 M
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: spa
   charset: utf8
   title: Soil Map Of Spain
-  abstract: 'Soil Map Of Spain
-
-    '
+  abstract: 'Soil Map Of Spain'
   dates:
-    pubblication: 1992
+    creation: 01-01-1992
   keywords:
     default:
       keywords:

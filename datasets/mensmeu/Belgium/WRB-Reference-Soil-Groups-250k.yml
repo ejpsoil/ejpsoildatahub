@@ -16,11 +16,9 @@ identification:
   title: WRB Reference Soil Groups 250k
   abstract: 'WRB Reference Soil Groups 250k: The soil map of Belgium according to
     the international World Reference Base (WRB) soil classification system is a translation
-    of the soil map
-
-    '
+    of the soil map'
   dates:
-    pubblication: 24-6-2015
+    creation: 24-6-2015
   keywords:
     default:
       keywords:

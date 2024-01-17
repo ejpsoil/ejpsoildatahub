@@ -8,9 +8,7 @@ metadata:
 identification:
   title: Carte des sols 1:25000
   abstract: 'Soil Map 1:25000 Detailed soil map on topographic background. The published
-    collection comprises 7 sheets (1964 - 1999).
-
-    '
+    collection comprises 7 sheets (1964 - 1999).'
   keywords:
     default:
       keywords:
@@ -44,7 +42,7 @@ identification:
   language: fre
   charset: utf8
   dates:
-    pubblication: 1-10-1999
+    creation: 1-10-1999
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

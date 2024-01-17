@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1956
+  datestamp: 1956-01-01
 spatial:
   scale: 1:200000
   resolution: null
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: Soil map of the Republic of Bulgaria in scale 1:200 000
   abstract: 'Soil map of the P.R. of Bulgaria 1:200000. The soil map is based on soil
-    survey conducted 1947-1951 (14000 soil profiles and analytical data for 400 profiles)
-
-    '
+    survey conducted 1947-1951 (14000 soil profiles and analytical data for 400 profiles)'
   dates:
-    pubblication: 1956
+    creation: 01-01-1956
   keywords:
     default:
       keywords:

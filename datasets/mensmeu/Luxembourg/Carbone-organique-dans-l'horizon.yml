@@ -4,12 +4,10 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2013
+  datestamp: 2013-01-01
 identification:
   title: Carbone organique dans l'horizon de surface
-  abstract: 'Topsoil Organic Carbon Content%
-
-    '
+  abstract: 'Topsoil Organic Carbon Content%'
   keywords:
     default:
       keywords:
@@ -43,7 +41,7 @@ identification:
   language: fre
   charset: utf8
   dates:
-    pubblication: 2013
+    creation: 01-01-2013
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2015
+  datestamp: 2015-01-01
 spatial:
   scale: 1:250000
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: fin
   charset: utf8
   title: Maannostietokanta 1:250 000
-  abstract: 'Soil database 1:250 000
-
-    '
+  abstract: 'Soil database 1:250 000'
   dates:
-    pubblication: 2015
+    creation: 01-01-2015
   keywords:
     default:
       keywords:

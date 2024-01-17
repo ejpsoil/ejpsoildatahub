@@ -4,8 +4,8 @@ metadata:
   identifier: maps-indicators-soil-hydraulic-properties-europe
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2016
+  hierarchylevel: dataset
+  datestamp: 2016-01-01
 identification:
   title: Maps of indicators of soil hydraulic properties for Europe
   abstract: 'Soil hydraulic properties maps (2016) for Europe: for Water retention
@@ -16,12 +16,12 @@ identification:
     were also calculated.
 
     '
-  dates: 2016
+  dates:
+    creation: 2016-01-01
   keywords:
     default:
       keywords:
-      - Soil Functions Data
-      - /DocumentsPublications
+      - Soil Functions Data - /DocumentsPublications
   topiccategory:
   - geoscientificInformation
   status: completed

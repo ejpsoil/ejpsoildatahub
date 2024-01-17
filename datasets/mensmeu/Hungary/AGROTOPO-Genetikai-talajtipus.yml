@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "AGROTOPO-Genetikai-talajt\xEDpus"
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2008
+  datestamp: 2008-01-01
 spatial:
   scale: 1:100000
   resolution: null
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: "AGROTOPO: Genetikai talajt\xEDpus"
   abstract: 'AGROTOPO database: Soil types according to the Hungarian classification
-    system
-
-    '
+    system'
   dates:
-    pubblication: 2008
+    creation: 01-01-2008
   keywords:
     default:
       keywords:

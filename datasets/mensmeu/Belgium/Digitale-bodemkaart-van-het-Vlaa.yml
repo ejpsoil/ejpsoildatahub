@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: Digitale-bodemkaart-van-het-Vlaams-Gewest-bodemtypes
   hierarchylevel: dataset
-  datestamp: 20-6-2017
+  datestamp: 2017-01-01
   language: dut
   language_alternate: eng
   charset: utf8
@@ -11,13 +11,11 @@ identification:
   title: 'Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
   abstract: 'Digital soil map of the Flemish Region: soil types. In accordance with
     the classification system used: morphogenetic for inland Flanders (substrate,
-    texture class, drainage class, profile development group, phase and variant)
-
-    '
+    texture class, drainage class, profile development group, phase and variant)'
   dates:
-    revision: '2017-06-20'
+    modified: '2017-06-20'
     publication: '2016-06-20'
-    last revision: 20-6-2017
+    modified: 20-6-2017
   keywords:
     keywords-0:
       type: null

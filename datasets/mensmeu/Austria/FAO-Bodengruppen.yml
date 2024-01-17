@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: FAO-Bodengruppen
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1989
+  datestamp: 1989-01-01
 spatial:
   scale: 1:1 M
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: ger
   charset: utf8
   title: FAO Bodengruppen
-  abstract: 'Soil systematic of Austria 1969
-
-    '
+  abstract: 'Soil systematic of Austria 1969'
   dates:
-    creation: 1989
+    creation: 01-01-1989
   keywords:
     default:
       keywords:

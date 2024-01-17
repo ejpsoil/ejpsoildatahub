@@ -4,8 +4,8 @@ metadata:
   identifier: global-landform-classification
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2015
+  hierarchylevel: dataset
+  datestamp: 2015-01-01
 identification:
   title: Global Landform classification
   abstract: 'This dataset (GIS maps) represent global lanform classification calculated
@@ -15,12 +15,12 @@ identification:
     and a three part geometric signature.
 
     '
-  dates: 2015
+  dates:
+    creation: 2015-01-01
   keywords:
     default:
       keywords:
       - Soil Projects Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

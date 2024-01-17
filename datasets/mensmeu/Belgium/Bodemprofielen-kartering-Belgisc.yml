@@ -5,16 +5,14 @@ metadata:
   hierarchylevel: dataset
   datestamp: 31-5-2011
   language: dut
-  language_alternate: null
+  
   charset: utf8
 identification:
   title: Bodemprofielen kartering Belgische bodemkaart
-  abstract: 'Location of soil profiles mapping Belgian soil map
-
-    '
+  abstract: 'Location of soil profiles mapping Belgian soil map'
   dates:
-    revision: '2011-05-31'
-    last revision: 31-5-2011
+    modified: '2011-05-31'
+    modified: 31-5-2011
   keywords:
     keywords-0:
       type: null

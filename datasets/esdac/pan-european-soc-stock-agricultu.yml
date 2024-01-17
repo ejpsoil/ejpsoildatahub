@@ -4,8 +4,8 @@ metadata:
   identifier: pan-european-soc-stock-agricultural-soils
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2013
+  hierarchylevel: dataset
+  datestamp: 2013-01-01
 identification:
   title: Pan-European SOC stock of agricultural soils
   abstract: 'Data (2014) related to Pan-European SOC stock of agricultural soils,
@@ -14,12 +14,12 @@ identification:
     practices (shapefile), c) Average Eroded SOC in agricultural soils (raster).
 
     '
-  dates: 2013
+  dates:
+    creation: 2013-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

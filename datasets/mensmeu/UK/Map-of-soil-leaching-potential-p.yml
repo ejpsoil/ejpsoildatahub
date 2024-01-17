@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: Map-of-soil-leaching-potential-(partial-cover)
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 19-4-2018
+  datestamp: 2018-01-01
 spatial:
   scale: 1:25000
   resolution: null
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: Map of soil leaching potential (partial cover)
   abstract: 'Map of risk of potential pollutants and nutrients leaching through the
-    soil to ground and surface waters in scotland soils
-
-    '
+    soil to ground and surface waters in scotland soils'
   dates:
-    pubblication: 19-4-2018
+    creation: 2018
   keywords:
     default:
       keywords:

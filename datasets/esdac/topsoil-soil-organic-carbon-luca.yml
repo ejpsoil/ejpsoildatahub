@@ -4,8 +4,8 @@ metadata:
   identifier: topsoil-soil-organic-carbon-lucas-eu25
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2014
+  hierarchylevel: dataset
+  datestamp: 2014-01-01
 identification:
   title: Topsoil Soil Organic Carbon (LUCAS) for EU25
   abstract: 'This dataset (2015) provides maps for Topsoil Soil Organic Carbon in
@@ -19,12 +19,12 @@ identification:
     (g C kg-1).
 
     '
-  dates: 2014
+  dates:
+    creation: 2014-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

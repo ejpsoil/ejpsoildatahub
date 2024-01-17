@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: 500e7063-e828-4e82-b533-91c80a010817
   language: cze
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 1-2-2012
@@ -15,9 +15,7 @@ identification:
   charset: utf8
   title: "P\u016Fdn\xED mapa 1 : 50 000"
   abstract: 'Soil map at a scale of 1 : 50,000 of the new digital edition of the Czech
-    Geological Survey (since 2012)
-
-    '
+    Geological Survey (since 2012)'
   dates:
     creation: 1-2-2012
   keywords:

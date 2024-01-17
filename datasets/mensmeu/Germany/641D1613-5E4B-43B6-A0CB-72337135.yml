@@ -1,16 +1,14 @@
 metadata:
   identifier: 641D1613-5E4B-43B6-A0CB-723371356E62
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 9-6-2017
 identification:
   title: "Wasserhaushalt der B\xF6den in Deutschland"
   abstract: 'Soil water balance in Germany. The theme maps of soil water balance in
-    Germany are based on the landuse stratified soil map of Germany
-
-    '
+    Germany are based on the landuse stratified soil map of Germany'
   keywords:
     default:
       keywords:
@@ -44,7 +42,7 @@ identification:
   language: ger
   charset: utf8
   dates:
-    pubblication: 9-6-2017
+    creation: 9-6-2017
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

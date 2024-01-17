@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Nitr\xE1t-bemos\xF3d\xE1s"
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2012
+  datestamp: 2012-01-01
 spatial:
   scale: 1:5M
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: hun
   charset: utf8
   title: "Nitr\xE1t bemos\xF3d\xE1s"
-  abstract: 'Nitrate leaching:
-
-    '
+  abstract: 'Nitrate leaching:'
   dates:
-    pubblication: 2012
+    creation: 01-01-2012
   keywords:
     default:
       keywords:

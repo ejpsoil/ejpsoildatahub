@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: "Reten\u010Dn\xED-vodn\xED-kapacita-p\u016Fd"
   language: cze
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 15-12-2018
@@ -14,9 +14,7 @@ identification:
   language: cze
   charset: utf8
   title: "Reten\u010Dn\xED vodn\xED kapacita p\u016Fd"
-  abstract: 'Map of delimitation of soil water retention capacity, large scale map
-
-    '
+  abstract: 'Map of delimitation of soil water retention capacity, large scale map'
   dates:
     creation: 15-12-2018
   keywords:

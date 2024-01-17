@@ -4,8 +4,8 @@ metadata:
   identifier: soil-organic-carbon-soc-projections-europe
   language: eng
   charset: utf8
-  hierarchylevel: /resource-type/datasets
-  datestamp: 2016
+  hierarchylevel: dataset
+  datestamp: 2016-01-01
 identification:
   title: 'Soil Organic Carbon (SOC) Projections for Europe '
   abstract: 'This dataset consists of a number of data layers (raster GRID maps) that
@@ -16,12 +16,12 @@ identification:
     MRI-CGCM3) and Representative Concentration Pathways (RCPs).
 
     '
-  dates: 2016
+  dates:
+    creation: 2016-01-01
   keywords:
     default:
       keywords:
-      - null
-      - https://esdac.jrc.ec.europa.eu/node/45807
+      - - https://esdac.jrc.ec.europa.eu/node/45807
   topiccategory:
   - geoscientificInformation
   status: completed

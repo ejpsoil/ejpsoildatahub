@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2014
+  datestamp: 2014-01-01
 spatial:
   scale: 1:50000
   resolution: null
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: Bodemkaart 1:50.000
   abstract: 'The soil map of the Netherlands, scale 1: 50 000, provides spatial information
-    about soil composition up to a depth of 1.2 meters.
-
-    '
+    about soil composition up to a depth of 1.2 meters.'
   dates:
-    pubblication: 2014
+    creation: 01-01-2014
   keywords:
     default:
       keywords:

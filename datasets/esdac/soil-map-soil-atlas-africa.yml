@@ -4,20 +4,20 @@ metadata:
   identifier: soil-map-soil-atlas-africa
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2014
+  hierarchylevel: dataset
+  datestamp: 2014-01-01
 identification:
   title: Soil Atlas of Africa and its associated Soil Map (data)
   abstract: 'This GIS map (2013), present in the Soil Atlas of Africa, contains the
     dominant WRB Reference Soil Group and associated qualifiers (shapefile).
 
     '
-  dates: 2014
+  dates:
+    creation: 2014-01-01
   keywords:
     default:
       keywords:
-      - European Soil Database and soil properties
-      - /resource-type/soil-projects-data
+      - European Soil Database and soil properties - /resource-type/soil-projects-data
   topiccategory:
   - geoscientificInformation
   status: completed

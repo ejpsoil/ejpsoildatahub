@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: National-Soils-Inventory-for-Scotland---Point-data
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 19-4-2018
+  datestamp: 2018-01-01
 spatial:
   scale: null
   resolution: 10KM
@@ -14,11 +14,9 @@ identification:
   language: eng
   charset: utf8
   title: National Soils Inventory for Scotland - Point data
-  abstract: 'National Soils Inventory for Scotland (NSIS1)
-
-    '
+  abstract: 'National Soils Inventory for Scotland (NSIS1)'
   dates:
-    pubblication: 19-4-2018
+    creation: 2018
   keywords:
     default:
       keywords:

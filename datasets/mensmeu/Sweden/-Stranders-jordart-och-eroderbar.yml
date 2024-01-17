@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "-Str\xE4nders-jordart-och-eroderbarhet"
   language: swe
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 20-5-2019
+  datestamp: 2019-01-01
 spatial:
   scale: 1:100000
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: swe
   charset: utf8
   title: " Str\xE4nders jordart och eroderbarhet"
-  abstract: 'Localisation of erosion of soil and beaches
-
-    '
+  abstract: 'Localisation of erosion of soil and beaches'
   dates:
-    last revision: 20-5-2019
+    modified: 2019
   keywords:
     default:
       keywords:

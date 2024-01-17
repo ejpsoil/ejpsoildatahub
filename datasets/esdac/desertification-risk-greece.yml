@@ -4,20 +4,20 @@ metadata:
   identifier: desertification-risk-greece
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2018
+  hierarchylevel: dataset
+  datestamp: 2018-01-01
 identification:
   title: Desertification risk in Greece
   abstract: 'Qualitative assessment on desertification risk in Greece based on Environmentally
     Sensitive Areas (ESAs) data of MEDALUS methodology
 
     '
-  dates: 2018
+  dates:
+    creation: 2018-01-01
   keywords:
     default:
       keywords:
-      - Soil Threats Data
-      - Country: GR
+      - Soil Threats Data - Country=GR
   topiccategory:
   - geoscientificInformation
   status: completed

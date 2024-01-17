@@ -1,16 +1,14 @@
 metadata:
   identifier: d60d8925-06fd-455d-b5fe-62ad78766e0a
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 26-11-2015
 identification:
   title: "Luftkapazit\xE4t der B\xF6den im effektiven Wurzelraum in Deutschland"
   abstract: 'The map of the air capacity of soils in Germany gives an overview of
-    the content of air in a soil at field capacity
-
-    '
+    the content of air in a soil at field capacity'
   keywords:
     default:
       keywords:
@@ -44,7 +42,7 @@ identification:
   language: ger
   charset: utf8
   dates:
-    pubblication: 26-11-2015
+    creation: 26-11-2015
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

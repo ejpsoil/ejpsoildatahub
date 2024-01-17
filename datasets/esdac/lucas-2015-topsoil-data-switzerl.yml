@@ -4,8 +4,8 @@ metadata:
   identifier: lucas-2015-topsoil-data-switzerland
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2019
+  hierarchylevel: dataset
+  datestamp: 2019-01-01
 identification:
   title: LUCAS 2015 Topsoil data of Switzerland
   abstract: 'The dataset contains the data of physical and chemical properties analysed
@@ -16,12 +16,12 @@ identification:
     The dataset format is an Excel file.
 
     '
-  dates: 2019
+  dates:
+    creation: 2019-01-01
   keywords:
     default:
       keywords:
       - Soil Point Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

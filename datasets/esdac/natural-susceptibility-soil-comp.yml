@@ -4,8 +4,8 @@ metadata:
   identifier: natural-susceptibility-soil-compaction-europe
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2009
+  hierarchylevel: dataset
+  datestamp: 2009-01-01
 identification:
   title: Natural susceptibility to soil compaction in Europe
   abstract: 'Map (2008) showing the natural susceptibility of agricultural soils to
@@ -15,12 +15,12 @@ identification:
     etc.). For EU-27.
 
     '
-  dates: 2009
+  dates:
+    creation: 2009-01-01
   keywords:
     default:
       keywords:
-      - Soil Threats Data
-      - /DocumentsPublications
+      - Soil Threats Data - /DocumentsPublications
   topiccategory:
   - geoscientificInformation
   status: completed

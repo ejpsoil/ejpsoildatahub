@@ -4,8 +4,8 @@ metadata:
   identifier: copper-distribution-topsoils
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2018
+  hierarchylevel: dataset
+  datestamp: 2018-01-01
 identification:
   title: Copper distribution in topsoils in the European Union
   abstract: 'Copper distribution in European Union topsoils based on LUCAS points.
@@ -13,12 +13,12 @@ identification:
     modelling.
 
     '
-  dates: 2018
+  dates:
+    creation: 2018-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

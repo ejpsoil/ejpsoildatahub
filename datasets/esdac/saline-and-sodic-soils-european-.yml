@@ -4,8 +4,8 @@ metadata:
   identifier: saline-and-sodic-soils-european-union
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2009
+  hierarchylevel: dataset
+  datestamp: 2009-01-01
 identification:
   title: Saline and Sodic Soils in European Union
   abstract: 'Saline and Sodic Soils Map for EU-27 (2008) showing the area distribution
@@ -15,12 +15,12 @@ identification:
     the results represented in the map should only be used for orientating purposes.
 
     '
-  dates: 2009
+  dates:
+    creation: 2009-01-01
   keywords:
     default:
       keywords:
-      - Soil Threats Data
-      - /DocumentsPublications
+      - Soil Threats Data - /DocumentsPublications
   topiccategory:
   - geoscientificInformation
   status: completed

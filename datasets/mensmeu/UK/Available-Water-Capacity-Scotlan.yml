@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: Available-Water-Capacity,-Scotland-
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 27-3-2019
@@ -16,7 +16,7 @@ identification:
   title: 'Available Water Capacity, Scotland '
   abstract: "Available Water Capacity (AWC) (2012 version) \n"
   dates:
-    pubblication: 27-3-2019
+    creation: 27-3-2019
   keywords:
     default:
       keywords:

@@ -3,20 +3,17 @@ mcf:
 metadata:
   identifier: 70f368f8-db6e-430d-9ae4-fe0acd55fe52
   hierarchylevel: dataset
-  datestamp: 1-1-2011
+  datestamp: 2011-01-01
   language: dut
   language_alternate: eng
   charset: utf8
 identification:
   title: Potential soil erosion aggregated for a grid of 1 km by 1 km in Flanders
-  abstract: 'The potential soil erosion aggregated for a grid of 1 km  (ton/ha)
-
-    '
+  abstract: 'The potential soil erosion aggregated for a grid of 1 km  (ton/ha)'
   dates:
     creation: '2010-12-01'
     publication: '2011-01-01'
-    revision: '2021-01-07'
-    pubblication: 1-1-2011
+    modified: '2021-01-07'
   keywords:
     keywords-0:
       type: null

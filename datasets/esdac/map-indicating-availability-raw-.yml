@@ -4,8 +4,8 @@ metadata:
   identifier: map-indicating-availability-raw-material-soils-european-union-organic-soil-material-b-soil
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2016
+  hierarchylevel: dataset
+  datestamp: 2016-01-01
 identification:
   title: Maps indicating the availability of Raw Material from soils in the European
     Union
@@ -14,12 +14,12 @@ identification:
     European Union.
 
     '
-  dates: 2016
+  dates:
+    creation: 2016-01-01
   keywords:
     default:
       keywords:
       - Soil Functions Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

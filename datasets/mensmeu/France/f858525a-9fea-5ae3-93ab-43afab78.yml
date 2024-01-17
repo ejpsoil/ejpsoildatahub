@@ -9,9 +9,7 @@ identification:
   title: "La carte nationale des stocks de carbone des sols int\xE9gr\xE9e dans la\
     \ carte mondiale de la FAO"
   abstract: 'Estimation of organic carbon stocks from 0 to 30 cm deep in metropolitan
-    France excluding Corsica
-
-    '
+    France excluding Corsica'
   keywords:
     default:
       keywords:
@@ -45,7 +43,7 @@ identification:
   language: fre
   charset: utf8
   dates:
-    pubblication: 5-7-2019
+    creation: 5-7-2019
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2001
+  datestamp: 2001-01-01
 spatial:
   scale: 1:1 M
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: spa
   charset: utf8
   title: 'Espana Mapa de suelos '
-  abstract: 'Soil map of Spain
-
-    '
+  abstract: 'Soil map of Spain'
   dates:
-    creation: 2001
+    creation: 2001-01-01
   keywords:
     default:
       keywords:

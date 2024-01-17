@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Karbonatgehalt-in-Oberb\xF6den-\xD6sterreichs"
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2004
+  datestamp: 2004-01-01
 spatial:
   scale: 1:250000
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: ger
   charset: utf8
   title: "Karbonatgehalt in Oberb\xF6den \xD6sterreichs"
-  abstract: 'Topsoil Carbonate content of Austria
-
-    '
+  abstract: 'Topsoil Carbonate content of Austria'
   dates:
-    pubblication: 2004
+    creation: 01-01-2004
   keywords:
     default:
       keywords:

@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Potenci\xE1ln\xED-zranitelnost-p\u016Fd-acidifikac\xED"
   language: cze
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2014
+  datestamp: 2014-01-01
 spatial:
   scale: 3,513888889
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: cze
   charset: utf8
   title: "Potenci\xE1ln\xED zranitelnost p\u016Fd acidifikac\xED"
-  abstract: 'Map of potential acidification
-
-    '
+  abstract: 'Map of potential acidification'
   dates:
-    creation: 2014
+    creation: 2014-01-01
   keywords:
     default:
       keywords:

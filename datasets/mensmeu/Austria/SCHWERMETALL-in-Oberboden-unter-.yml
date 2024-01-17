@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "SCHWERMETALL-in-Oberboden-unter-Ber\xFCcksichtigung-der-Karbonatbeeinflussung"
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2004
+  datestamp: 2004-01-01
 spatial:
   scale: null
   resolution: 4Km
@@ -14,11 +14,9 @@ identification:
   language: ger
   charset: utf8
   title: "SCHWERMETALL in Oberboden unter Ber\xFCcksichtigung der Karbonatbeeinflussung"
-  abstract: 'Heavy metal content in topsoil under consideration of the carbonate influence
-
-    '
+  abstract: 'Heavy metal content in topsoil under consideration of the carbonate influence'
   dates:
-    pubblication: 2004
+    creation: 01-01-2004
   keywords:
     default:
       keywords:

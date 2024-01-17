@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: 57873d25-73c4-46eb-a4da-3fdfc0a80153
   language: cze
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 30-11-2010
@@ -14,9 +14,7 @@ identification:
   language: cze
   charset: utf8
   title: "Evidovan\xE1 kontaminovan\xE1 m\xEDsta (11/2010)"
-  abstract: 'Reference points and names of contaminated sites already registered
-
-    '
+  abstract: 'Reference points and names of contaminated sites already registered'
   dates:
     creation: 30-11-2010
   keywords:

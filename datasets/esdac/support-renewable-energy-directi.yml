@@ -4,17 +4,17 @@ metadata:
   identifier: support-renewable-energy-directive
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2010
+  hierarchylevel: dataset
+  datestamp: 2010-01-01
 identification:
   title: Support to Renewable Energy Directive
   abstract: ''
-  dates: 2010
+  dates:
+    creation: 2010-01-01
   keywords:
     default:
       keywords:
       - Soil Projects Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

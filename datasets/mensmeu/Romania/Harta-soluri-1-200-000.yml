@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: "Hart\u0103-soluri-1-200-000"
   language: rum
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2-2-2018
@@ -14,11 +14,9 @@ identification:
   language: rum
   charset: utf8
   title: "Hart\u0103 soluri 1: 200 000"
-  abstract: 'Soil Map 1:200000
-
-    '
+  abstract: 'Soil Map 1:200000'
   dates:
-    last revision: 2-2-2018
+    modified: 2-2-2018
   keywords:
     default:
       keywords:

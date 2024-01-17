@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: "Hloubka-p\u016Fdy-(dle-KPP)"
   language: cze
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 11-12-2017
@@ -14,11 +14,9 @@ identification:
   language: cze
   charset: utf8
   title: "Hloubka p\u016Fdy (dle KPP)"
-  abstract: 'Map of soil depth, large scale map.
-
-    '
+  abstract: 'Map of soil depth, large scale map.'
   dates:
-    pubblication: 11-12-2017
+    creation: 11-12-2017
   keywords:
     default:
       keywords:

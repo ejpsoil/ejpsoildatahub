@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: National-Soil-Map-of-Scotland
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1981
+  datestamp: 1981-01-01
 spatial:
   scale: 1:250000
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: eng
   charset: utf8
   title: National Soil Map of Scotland
-  abstract: 'National Soil Map of Scotland
-
-    '
+  abstract: 'National Soil Map of Scotland'
   dates:
-    creation: 1981
+    creation: 01-01-1981
   keywords:
     default:
       keywords:

@@ -1,16 +1,14 @@
 metadata:
   identifier: c3a44581-8f7d-5da9-9c8b-25aaf4ab71c3
   language: fre
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 17-6-2019
 identification:
   title: "Carte des teneurs en Capacit\xE9 dEchange Cationique (CEC) (m\xE9thode Riehm)"
   abstract: 'Map of Cation Exchange Capacity by canton. The analyzes come from the
-    Earth Analysis Database (BDAT).
-
-    '
+    Earth Analysis Database (BDAT).'
   keywords:
     default:
       keywords:
@@ -44,7 +42,7 @@ identification:
   language: fre
   charset: utf8
   dates:
-    pubblication: 17-6-2019
+    creation: 17-6-2019
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

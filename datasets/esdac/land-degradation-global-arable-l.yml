@@ -4,8 +4,8 @@ metadata:
   identifier: land-degradation-global-arable-lands
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2021
+  hierarchylevel: dataset
+  datestamp: 2021-01-01
 identification:
   title: Land degradation in global arable lands
   abstract: 'Analysis of the spatial footprint of the multiple forms of land degradation
@@ -14,12 +14,12 @@ identification:
     Data are at global scale.
 
     '
-  dates: 2021
+  dates:
+    creation: 2021-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: "Dirvo\u017Eemio karbonatingumas ir r\u016Bg\u0161tingumas"
   abstract: 'The National atlas of the Republic of Lithuania in digital format. Soil
-    carbonate content and acidity
-
-    '
+    carbonate content and acidity'
   dates:
-    pubblication: 1-4-2011
+    creation: 1-4-2011
   keywords:
     default:
       keywords:

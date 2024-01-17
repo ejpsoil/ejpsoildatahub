@@ -1,15 +1,13 @@
 metadata:
   identifier: 02F23B5B-5FB8-48BA-ADDA-7ECA7481C4DE
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2007
+  datestamp: 2007-01-01
 identification:
   title: "Gehalte an organischer Substanz in Oberb\xF6den Deutschlands"
-  abstract: 'Organic Matter Content of Top-Soils in Germany 1:1,000,000
-
-    '
+  abstract: 'Organic Matter Content of Top-Soils in Germany 1:1,000,000'
   keywords:
     default:
       keywords:
@@ -43,7 +41,7 @@ identification:
   language: ger
   charset: utf8
   dates:
-    pubblication: 2007
+    creation: 01-01-2007
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

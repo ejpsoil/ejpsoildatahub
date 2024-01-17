@@ -14,11 +14,9 @@ identification:
   language: ger
   charset: utf8
   title: Bodenaciditaet
-  abstract: 'Map of soil acidity  (pH  0 - 140 cm)
-
-    '
+  abstract: 'Map of soil acidity  (pH  0 - 140 cm)'
   dates:
-    pubblication: 30-11-2011
+    creation: 30-11-2011
   keywords:
     default:
       keywords:

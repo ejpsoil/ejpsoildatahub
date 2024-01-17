@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: e4b53170-f364-4b53-bc17-f5fa482f8aa3
   language: fre
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2-6-2015
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: "Contamination en \xE9l\xE9ments traces m\xE9talliques (ETM)"
   abstract: 'Eight  trace elements (Cd, Cr, Cu, Hg, Ni, Pb, Se, Zn) in agricultural
-    soils in France, results of data collection at national level, 2007
-
-    '
+    soils in France, results of data collection at national level, 2007'
   dates:
-    pubblication: 2-6-2015
+    creation: 2-6-2015
   keywords:
     default:
       keywords:

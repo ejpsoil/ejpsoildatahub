@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Sz\xE9n---k\xE9szlet-1992"
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2018
+  datestamp: 2018-01-01
 spatial:
   scale: null
   resolution: 100m
@@ -14,11 +14,9 @@ identification:
   language: hun
   charset: utf8
   title: "Sz\xE9n - k\xE9szlet 1992"
-  abstract: 'Map of organic carbon stock 1992; T/ha; 0-30 cm
-
-    '
+  abstract: 'Map of organic carbon stock 1992; T/ha; 0-30 cm'
   dates:
-    creation: 2018
+    creation: 2018-01-01
   keywords:
     default:
       keywords:

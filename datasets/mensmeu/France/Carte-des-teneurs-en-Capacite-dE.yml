@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: "Carte-des-teneurs-en-Capacit\xE9-dEchange-Cationique-(CEC)-(m\xE9thode-Metson)"
   language: fre
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 17-6-2019
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: "Carte des teneurs en Capacit\xE9 dEchange Cationique (CEC) (m\xE9thode Metson)"
   abstract: 'Map of Cation Exchange Capacity by canton. The analyzes come from the
-    Earth Analysis Database (BDAT).
-
-    '
+    Earth Analysis Database (BDAT).'
   dates:
-    pubblication: 17-6-2019
+    creation: 17-6-2019
   keywords:
     default:
       keywords:

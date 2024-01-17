@@ -4,8 +4,8 @@ metadata:
   identifier: groundwater-resources-maps-europe-0
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2005
+  hierarchylevel: dataset
+  datestamp: 2005-01-01
 identification:
   title: Groundwater Resources maps of Europe
   abstract: 'GIS Maps related to Groundwater resources in Europe, covering 3 themes:
@@ -14,12 +14,12 @@ identification:
     Italy, Luxembourg, Netherlands and United Kingdom)
 
     '
-  dates: 2005
+  dates:
+    creation: 2005-01-01
   keywords:
     default:
       keywords:
       - Soil Projects Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

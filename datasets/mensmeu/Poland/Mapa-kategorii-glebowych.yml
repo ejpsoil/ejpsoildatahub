@@ -17,11 +17,9 @@ identification:
   abstract: 'Spatial diversity of soil cover in Poland by soil susceptibility category
     to drought. The basic factor determining the belonging of soils to a given soil
     category is the granulometric composition and its diversity in the soil profile
-    to a depth of 1.5 m.
-
-    '
+    to a depth of 1.5 m.'
   dates:
-    pubblication: 18-5-2012
+    creation: 18-5-2012
   keywords:
     default:
       keywords:

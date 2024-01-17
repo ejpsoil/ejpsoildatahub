@@ -4,8 +4,8 @@ metadata:
   identifier: cover-management-factor-c-factor-eu
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2015
+  hierarchylevel: dataset
+  datestamp: 2015-01-01
 identification:
   title: Cover Management factor (C-factor) for the EU
   abstract: 'This dataset (GIS map) (2015) represents the Cover Management factor
@@ -18,12 +18,12 @@ identification:
     in arable lands.
 
     '
-  dates: 2015
+  dates:
+    creation: 2015-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

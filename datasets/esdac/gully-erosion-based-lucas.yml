@@ -4,8 +4,8 @@ metadata:
   identifier: gully-erosion-based-lucas
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2022
+  hierarchylevel: dataset
+  datestamp: 2022-01-01
 identification:
   title: Gully Erosion based on LUCAS
   abstract: 'The LUCAS topsoil survey 2018 included a module for visual assessment
@@ -13,12 +13,12 @@ identification:
     topsoil sites. Find the 211 points declared as gully erosion.
 
     '
-  dates: 2022
+  dates:
+    creation: 2022-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

@@ -4,8 +4,8 @@ metadata:
   identifier: estimate-net-erosion-and-sediment-transport-using-watemsedem-european-union
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2018
+  hierarchylevel: dataset
+  datestamp: 2018-01-01
 identification:
   title: Net erosion and sediment transport using WaTEM/SEDEM (for EU)
   abstract: 'Dataset (GIS map) (218) that shows the net soil erosion and deposition
@@ -13,12 +13,12 @@ identification:
     100m; EU28. Data are also available at 25m resolution.
 
     '
-  dates: 2018
+  dates:
+    creation: 2018-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

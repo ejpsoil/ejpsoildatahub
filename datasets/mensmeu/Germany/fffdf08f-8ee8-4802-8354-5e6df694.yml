@@ -3,22 +3,20 @@ mcf:
 metadata:
   identifier: fffdf08f-8ee8-4802-8354-5e6df694b0c7
   hierarchylevel: dataset
-  datestamp: 19-6-2017
+  datestamp: 2017-01-01
   language: ger
-  language_alternate: null
+  
   charset: utf8
 identification:
   title: "Stoffe in B\xF6den in Deutschland"
   abstract: 'Soil substances in Germany. In addition to substances that serve as nutrients
     for the plants, there are also pollutants in the soil which in higher concentrations
     can impair the growth of plants and animals. Some substances (e.g., nickel) are
-    essential in low concentrations but in higher concentrations they are toxi
-
-    '
+    essential in low concentrations but in higher concentrations they are toxi'
   dates:
-    creation: 19-6-2017
+    creation: 2017-01-01
     publication: '2022-01-03'
-    revision: '2022-03-22'
+    modified: '2022-03-22'
   keywords:
     keywords-0:
       type: theme

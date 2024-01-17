@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: spade-14
+  language: eng
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: 2018-01-01
+identification:
+  title: Soil profile analytical database 14 (SPADE 14)
+  abstract: 'md[''abstract''] }}
+
+    '
+  dates:
+    creation: 2018-01-01
+  keywords:
+    default:
+      keywords:
+      - Soil Point Data
+  topiccategory:
+  - geoscientificInformation
+  status: completed
+contact:
+  pointOfContact:
+    organization: Joint Research Centre of the European Commission
+    country: Italy
+    email: ec-esdac@ec.europe.eu
+distribution:
+  md:
+    url: https://esdac.jrc.ec.europa.eu/node/55003
+    type: metadata
+    name: Soil profile analytical database 14 (SPADE 14)
+  thumbnail:
+    url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/database.png
+    type: image/png
+    rel: preview
+    name: Preview
+dataquality:
+  scope:
+    level: dataset

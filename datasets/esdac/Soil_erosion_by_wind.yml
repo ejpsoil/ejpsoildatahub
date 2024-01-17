@@ -4,8 +4,8 @@ metadata:
   identifier: Soil_erosion_by_wind
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2013
+  hierarchylevel: dataset
+  datestamp: 2013-01-01
 identification:
   title: Soil erosion by wind
   abstract: 'This dataset consists of various elements related to soil erosion by
@@ -18,12 +18,12 @@ identification:
     region.
 
     '
-  dates: 2013
+  dates:
+    creation: 2013-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: Mapy-KPP
   language: cze
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1961
+  datestamp: 1961-01-01
 spatial:
   scale: 1:10000
   resolution: null
@@ -16,7 +16,7 @@ identification:
   title: Mapy KPP
   abstract: "Soil maps from National Soil Survey \n"
   dates:
-    creation: 1961
+    creation: 01-01-1961
   keywords:
     default:
       keywords:

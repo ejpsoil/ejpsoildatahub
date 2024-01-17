@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "szerves-sz\xE9ntartalom"
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2015
+  datestamp: 2015-01-01
 spatial:
   scale: null
   resolution: 250m
@@ -16,7 +16,7 @@ identification:
   title: "szerves sz\xE9ntartalom"
   abstract: "Map of soil organic cabon content \n"
   dates:
-    pubblication: 2015
+    creation: 01-01-2015
   keywords:
     default:
       keywords:

@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: Soil-World-Reference-Base,-Scotland
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2-1-2012
+  datestamp: 2012-01-01
 spatial:
   scale: 1:250000
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: eng
   charset: utf8
   title: Soil World Reference Base, Scotland
-  abstract: 'Soil World Reference Base, Scotland WMS
-
-    '
+  abstract: 'Soil World Reference Base, Scotland WMS'
   dates:
-    pubblication: 2-1-2012
+    creation: 2012-01-01
   keywords:
     default:
       keywords:

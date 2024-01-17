@@ -4,8 +4,8 @@ metadata:
   identifier: heavy-metals-topsoils
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2008
+  hierarchylevel: dataset
+  datestamp: 2008-01-01
 identification:
   title: Heavy Metals in topsoils
   abstract: 'GIS Maps (2008) produced by mapping the concentrations of eight critical
@@ -15,12 +15,12 @@ identification:
     European countries that contributed to the database.
 
     '
-  dates: 2008
+  dates:
+    creation: 2008-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

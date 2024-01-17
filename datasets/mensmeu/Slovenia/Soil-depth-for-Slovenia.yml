@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1999
+  datestamp: 1999-01-01
 spatial:
   scale: 1:25000
   resolution: null
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: Soil depth for Slovenia
   abstract: 'Data about soils, sorted into 5 classes form very shallow (less than
-    15cm) to deep soils (more than 100cm). Unofficial data in digital form
-
-    '
+    15cm) to deep soils (more than 100cm). Unofficial data in digital form'
   dates:
-    pubblication: 1999
+    creation: 01-01-1999
   keywords:
     default:
       keywords:

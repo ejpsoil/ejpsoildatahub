@@ -4,8 +4,8 @@ metadata:
   identifier: soil-erodibility-k-factor-high-resolution-dataset-europe
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2011
+  hierarchylevel: dataset
+  datestamp: 2011-01-01
 identification:
   title: Soil Erodibility (K- Factor) High Resolution dataset for Europe
   abstract: 'Map at 500m resolution (2014) providing a complete picture of the soil
@@ -13,12 +13,12 @@ identification:
     the LUCAS 2009 soil survey exercise and the European Soil Database.
 
     '
-  dates: 2011
+  dates:
+    creation: 2011-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

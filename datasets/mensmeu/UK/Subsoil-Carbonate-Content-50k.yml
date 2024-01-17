@@ -3,19 +3,17 @@ mcf:
 metadata:
   identifier: Subsoil-Carbonate-Content-50k
   hierarchylevel: dataset
-  datestamp: 2012
+  datestamp: 2012-01-01
   language: eng
-  language_alternate: null
+  
   charset: utf8
 identification:
   title: Subsoil Carbonate Content 50k
-  abstract: 'Parent material carbonate content
-
-    '
+  abstract: 'Parent material carbonate content'
   dates:
     creation: '2008-08-22'
-    revision: '2010-01-04'
-    pubblication: 2012
+    modified: '2010-01-04'
+    creation: 01-01-2012
   keywords:
     keywords-0:
       type: null

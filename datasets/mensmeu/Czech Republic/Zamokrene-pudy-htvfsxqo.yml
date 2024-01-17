@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Zamok\u0159en\xE9-p\u016Fdy"
   language: cze
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2008
+  datestamp: 2008-01-01
 spatial:
   scale: null
   resolution: 10m
@@ -14,11 +14,9 @@ identification:
   language: cze
   charset: utf8
   title: "Zamok\u0159en\xE9 p\u016Fdy"
-  abstract: 'Map of permanently and periodically wet soils in the Czech Republic
-
-    '
+  abstract: 'Map of permanently and periodically wet soils in the Czech Republic'
   dates:
-    pubblication: 2008
+    creation: 01-01-2008
   keywords:
     default:
       keywords:

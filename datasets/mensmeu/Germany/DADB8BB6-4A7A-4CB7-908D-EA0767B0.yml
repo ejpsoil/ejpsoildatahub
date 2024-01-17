@@ -1,10 +1,10 @@
 metadata:
   identifier: DADB8BB6-4A7A-4CB7-908D-EA0767B068D7
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 19-6-2017
+  datestamp: 2017
 identification:
   title: "Eigenschaften der B\xF6den in Deutschland"
   abstract: "The soil type describes the size of the mineral particles. The content\
@@ -43,7 +43,7 @@ identification:
   language: ger
   charset: utf8
   dates:
-    pubblication: 19-6-2017
+    creation: 01-01-19-6-2017
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

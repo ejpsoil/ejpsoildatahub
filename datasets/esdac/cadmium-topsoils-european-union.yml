@@ -4,8 +4,8 @@ metadata:
   identifier: cadmium-topsoils-european-union
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2023
+  hierarchylevel: dataset
+  datestamp: 2023-01-01
 identification:
   title: 'Cadmium in topsoils of the European Union '
   abstract: 'Cadmium content (mg kg-1) in the European Union topsoils applying an
@@ -13,12 +13,12 @@ identification:
     of 100 m.
 
     '
-  dates: 2023
+  dates:
+    creation: 2023-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

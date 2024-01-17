@@ -4,8 +4,8 @@ metadata:
   identifier: erosion-potential-method-epm
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2024
+  hierarchylevel: dataset
+  datestamp: 2024-01-01
 identification:
   title: 'Erosion potential method (EPM) '
   abstract: 'Global gross soil erosion rates according to the Erosion Potential Model
@@ -13,12 +13,12 @@ identification:
     of soil erosion classes) according to the Copernicus Land Cover data source classification.
 
     '
-  dates: 2024
+  dates:
+    creation: 2024-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

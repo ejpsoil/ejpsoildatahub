@@ -4,20 +4,20 @@ metadata:
   identifier: maps-heavy-metals-soils-eu-based-lucas-2009-hm-data-0
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2018
+  hierarchylevel: dataset
+  datestamp: 2018-01-01
 identification:
   title: Maps of heavy metals in the soils of the EU  based on LUCAS 2009 HM data
   abstract: 'Detailed maps of heavy metals in the EU27 (EU-28 except Croatia), based
     on topsoil HM data from LUCAS 2009
 
     '
-  dates: 2018
+  dates:
+    creation: 2018-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

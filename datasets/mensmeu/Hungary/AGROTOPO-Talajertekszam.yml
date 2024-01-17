@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "AGROTOPO-Talaj\xE9rt\xE9ksz\xE1m"
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2006
+  datestamp: 2006-01-01
 spatial:
   scale: 1:100000
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: hun
   charset: utf8
   title: "AGROTOPO: Talaj\xE9rt\xE9ksz\xE1m"
-  abstract: 'AGROTOPO database: Soil productivity value (bonitation index)
-
-    '
+  abstract: 'AGROTOPO database: Soil productivity value (bonitation index)'
   dates:
-    pubblication: 2006
+    creation: 01-01-2006
   keywords:
     default:
       keywords:

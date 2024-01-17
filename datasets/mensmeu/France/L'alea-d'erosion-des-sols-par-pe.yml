@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "L\u2019al\xE9a-d\u2019\xE9rosion-des-sols-par-petite-r\xE9gion-agricole"
   language: fre
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2011
+  datestamp: 2011-01-01
 spatial:
   scale: 1:1 M
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: fre
   charset: utf8
   title: "L\u2019al\xE9a d\u2019\xE9rosion des sols par petite r\xE9gion agricole"
-  abstract: 'The risk of soil erosion by small agricultural area
-
-    '
+  abstract: 'The risk of soil erosion by small agricultural area'
   dates:
-    pubblication: 2011
+    creation: 01-01-2011
   keywords:
     default:
       keywords:

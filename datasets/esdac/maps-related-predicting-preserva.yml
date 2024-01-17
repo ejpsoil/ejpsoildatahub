@@ -4,8 +4,8 @@ metadata:
   identifier: maps-related-predicting-preservation-cultural-artefacts-and-buried-materials-soils-eu-0
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2016
+  hierarchylevel: dataset
+  datestamp: 2016-01-01
 identification:
   title: Maps of preservation capacity of cultural artefacts and buried materials
     in soils in the EU
@@ -15,12 +15,12 @@ identification:
     evidence (strati).
 
     '
-  dates: 2016
+  dates:
+    creation: 2016-01-01
   keywords:
     default:
       keywords:
-      - Soil Functions Data
-      - /DocumentsPublications
+      - Soil Functions Data - /DocumentsPublications
   topiccategory:
   - geoscientificInformation
   status: completed

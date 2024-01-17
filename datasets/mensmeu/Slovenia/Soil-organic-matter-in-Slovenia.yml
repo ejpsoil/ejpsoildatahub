@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2004
+  datestamp: 2004-01-01
 spatial:
   scale: 1:25000
   resolution: null
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: Soil organic matter in Slovenia
   abstract: 'Evaluation of soil organic matter from the available data sources (extrapolated
-    and correlated). Unofficial data in digital form
-
-    '
+    and correlated). Unofficial data in digital form'
   dates:
-    pubblication: 2004
+    creation: 01-01-2004
   keywords:
     default:
       keywords:

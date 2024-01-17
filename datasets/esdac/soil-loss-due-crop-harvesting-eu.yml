@@ -4,8 +4,8 @@ metadata:
   identifier: soil-loss-due-crop-harvesting-european-union
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2019
+  hierarchylevel: dataset
+  datestamp: 2019-01-01
 identification:
   title: Soil loss due to crop harvesting in the European Union
   abstract: 'Soil loss due to crop harvesting in the European Union. The regional
@@ -13,12 +13,12 @@ identification:
     and regional level.
 
     '
-  dates: 2019
+  dates:
+    creation: 2019-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

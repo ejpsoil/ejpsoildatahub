@@ -4,8 +4,8 @@ metadata:
   identifier: soil-biomass-productivity-maps-grasslands-and-pasture-coplands-and-forest-areas-european
   language: eng
   charset: utf8
-  hierarchylevel: /resource-type/datasets
-  datestamp: 2016
+  hierarchylevel: dataset
+  datestamp: 2016-01-01
 identification:
   title: Soil Biomass Productivity maps of grasslands and pasture  of croplands and
     of forest areas in the European Union (EU27)
@@ -14,12 +14,12 @@ identification:
     (EU27)
 
     '
-  dates: 2016
+  dates:
+    creation: 2016-01-01
   keywords:
     default:
       keywords:
-      - Datasets
-      - /resource-type/soil-functions-data
+      - Datasets - /resource-type/soil-functions-data
   topiccategory:
   - geoscientificInformation
   status: completed

@@ -4,12 +4,10 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2015
+  datestamp: 2015-01-01
 identification:
   title: Statut acido-basique (pHCaCl2)
-  abstract: 'Interpolation (Kriging) of the Acid-base status of soils (pHCaCl2)
-
-    '
+  abstract: 'Interpolation (Kriging) of the Acid-base status of soils (pHCaCl2)'
   keywords:
     default:
       keywords:
@@ -43,7 +41,7 @@ identification:
   language: fre
   charset: utf8
   dates:
-    pubblication: 2015
+    creation: 01-01-2015
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

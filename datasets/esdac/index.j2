@@ -6,20 +6,20 @@ metadata:
     identifier: "{{ md['id'] }}"
     language: eng
     charset: utf8
-    hierarchylevel: {{ md['type'] }}
-    datestamp: {{ md['year'] }}
+    hierarchylevel: "dataset"
+    datestamp: {{ md['year'] }}-01-01
 
 identification:
     title: "{{ md['title'] }}"
-    abstract: >
+    abstract: |
         {{ md['abstract'] }}
     dates:
-        {{ md['year'] }}
+        creation: {{ md['year'] }}-01-01
     keywords:
         default:
             keywords: 
               - {{ md['kw1'] }}
-              - {{ md['kw2'] }}
+              {% if md['kw2'] %} - {{ md['kw2'] }} {% endif %}
     topiccategory:
         - geoscientificInformation
     status: completed

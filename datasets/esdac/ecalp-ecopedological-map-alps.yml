@@ -4,17 +4,17 @@ metadata:
   identifier: ecalp-ecopedological-map-alps
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2005
+  hierarchylevel: dataset
+  datestamp: 2005-01-01
 identification:
   title: 'ECALP: Ecopedological Map of the Alps'
   abstract: ''
-  dates: 2005
+  dates:
+    creation: 2005-01-01
   keywords:
     default:
       keywords:
       - Soil Projects Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: "Soil-Map-of-Germany-11,000,000-(B\xDCK1000)"
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 31-12-2007
@@ -17,7 +17,7 @@ identification:
   abstract: "Soil Map of the Federal Republic of Germany 1:1,000,000 - English version\
     \ (B\xDCK 1000 EN), Version 2.1\n"
   dates:
-    pubblication: 31-12-2007
+    creation: 31-12-2007
   keywords:
     default:
       keywords:

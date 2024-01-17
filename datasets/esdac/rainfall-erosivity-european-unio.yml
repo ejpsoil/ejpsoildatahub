@@ -4,8 +4,8 @@ metadata:
   identifier: rainfall-erosivity-european-union-and-switzerland
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2012
+  hierarchylevel: dataset
+  datestamp: 2012-01-01
 identification:
   title: Rainfall Erosivity in the EU and Switzerland (R-factor)
   abstract: 'Dataset (GIS map) (2015) and associated products for the "Rainfall erosivity"
@@ -16,12 +16,12 @@ identification:
     erosivity (1961-2000).
 
     '
-  dates: 2012
+  dates:
+    creation: 2012-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

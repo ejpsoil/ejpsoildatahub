@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: 7726cc56-8ee0-47f4-9a7f-5b9456b66151
   language: fre
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 28-5-2015
@@ -14,11 +14,9 @@ identification:
   language: fre
   charset: utf8
   title: Cartogramme des teneurs en Potassium total
-  abstract: 'Map of the contents in Potassium total
-
-    '
+  abstract: 'Map of the contents in Potassium total'
   dates:
-    pubblication: 28-5-2015
+    creation: 28-5-2015
   keywords:
     default:
       keywords:

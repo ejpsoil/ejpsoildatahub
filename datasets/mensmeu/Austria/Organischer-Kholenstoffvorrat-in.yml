@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: Organischer-Kholenstoffvorrat-in-Oberboden-(ASCOC)
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1992
+  datestamp: 1992-01-01
 spatial:
   scale: null
   resolution: 1KM
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: Organischer Kholenstoffvorrat in Oberboden (ASCOC)
   abstract: 'Organic carbon stock in topsoil (ASCOC). Humus / carbon storage and changes
-    in organic carbon content (Corg)
-
-    '
+    in organic carbon content (Corg)'
   dates:
-    creation: 1992
+    creation: 01-01-1992
   keywords:
     default:
       keywords:

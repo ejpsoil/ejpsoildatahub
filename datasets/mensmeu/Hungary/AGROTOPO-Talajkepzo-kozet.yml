@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "AGROTOPO-Talajk\xE9pz\u0151-k\u0151zet"
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2003
+  datestamp: 2003-01-01
 spatial:
   scale: 1:100000
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: hun
   charset: utf8
   title: "AGROTOPO: Talajk\xE9pz\u0151 k\u0151zet"
-  abstract: 'AGROTOPO database: Parent material
-
-    '
+  abstract: 'AGROTOPO database: Parent material'
   dates:
-    pubblication: 2003
+    creation: 01-01-2003
   keywords:
     default:
       keywords:

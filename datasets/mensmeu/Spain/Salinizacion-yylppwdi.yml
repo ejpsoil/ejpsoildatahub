@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1999
+  datestamp: 1999-01-01
 spatial:
   scale: 1:5 M
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: spa
   charset: utf8
   title: "Salinizaci\xF3n"
-  abstract: 'Map of the risk of salinization
-
-    '
+  abstract: 'Map of the risk of salinization'
   dates:
-    pubblication: 1999
+    creation: 01-01-1999
   keywords:
     default:
       keywords:

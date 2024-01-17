@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: "Bodenkarte-von-\xD6sterreich-eBOD"
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 28-6-2019
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: "Bodenkarte von \xD6sterreich eBOD"
   abstract: 'The digital soil map of Austria eBOD. Several characteristics, e.g. Parent
-    material, soil type,  coarse fraction or humus and carbonate content
-
-    '
+    material, soil type,  coarse fraction or humus and carbonate content'
   dates:
-    last revision: 28-6-2019
+    modified: 28-6-2019
   keywords:
     default:
       keywords:

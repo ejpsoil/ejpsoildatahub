@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Bonitovan\xE9-p\xF4dno-ekologick\xE9-jednotky"
   language: slo
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2020
+  datestamp: 2020-01-01
 spatial:
   scale: 3,513888889
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: slo
   charset: utf8
   title: "Bonitovan\xE9 p\xF4dno-ekologick\xE9 jednotky"
-  abstract: 'Soil ecological units (land evaluation system)
-
-    '
+  abstract: 'Soil ecological units (land evaluation system)'
   dates:
-    pubblication: 2020
+    creation: 01-01-2020
   keywords:
     default:
       keywords:

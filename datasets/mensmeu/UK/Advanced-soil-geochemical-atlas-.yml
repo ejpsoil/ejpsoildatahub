@@ -1,19 +1,17 @@
 metadata:
   identifier: Advanced-soil-geochemical-atlas-of-England-and-Wales
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2012
+  datestamp: 2012-01-01
 identification:
   title: Advanced soil geochemical atlas of England and Wales
   abstract: 'The Advanced Soil Geochemical Atlas of England and Wales was a joint
     project between the British Geological Survey and Rothamsted Research. The maps
     are based on 5700 surface soil samples (0-15cm), collected across England and
     Wales, that have been analysed for 52 major and trace elements. The soil samples
-    collected for the National Soil Inventory (NSI)
-
-    '
+    collected for the National Soil Inventory (NSI)'
   keywords:
     default:
       keywords:
@@ -46,7 +44,7 @@ identification:
   language: eng
   charset: utf8
   dates:
-    pubblication: 2012
+    creation: 01-01-2012
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

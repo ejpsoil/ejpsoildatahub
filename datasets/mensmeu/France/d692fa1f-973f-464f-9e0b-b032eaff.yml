@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: d692fa1f-973f-464f-9e0b-b032eaff29fb
   language: fre
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 28-5-2015
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: Cartogramme du pH
   abstract: 'Map of the pH. The data come from the soil analysis results of the 2200
-    sites of the Soil Quality Measurement Network, during the first sampling campaign.
-
-    '
+    sites of the Soil Quality Measurement Network, during the first sampling campaign.'
   dates:
-    pubblication: 28-5-2015
+    creation: 28-5-2015
   keywords:
     default:
       keywords:

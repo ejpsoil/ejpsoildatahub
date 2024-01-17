@@ -4,8 +4,8 @@ metadata:
   identifier: phosphorus-cycle-european-agricultural-soils
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2024
+  hierarchylevel: dataset
+  datestamp: 2024-01-01
 identification:
   title: Phosphorus cycle in European agricultural soils
   abstract: 'Process-based biogeochemical models are valuable instruments to monitor
@@ -17,12 +17,12 @@ identification:
     manuscript.
 
     '
-  dates: 2024
+  dates:
+    creation: 2024-01-01
   keywords:
     default:
       keywords:
       - Soil Functions Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

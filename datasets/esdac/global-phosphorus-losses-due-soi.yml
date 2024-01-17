@@ -4,8 +4,8 @@ metadata:
   identifier: global-phosphorus-losses-due-soil-erosion
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2020
+  hierarchylevel: dataset
+  datestamp: 2020-01-01
 identification:
   title: Global phosphorus losses due to soil erosion
   abstract: 'Global average phosphorus (P) losses due to soil erosion in kg ha?1 yr?1.
@@ -13,12 +13,12 @@ identification:
     with global P content of cropland soils (data also available for P content)
 
     '
-  dates: 2020
+  dates:
+    creation: 2020-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

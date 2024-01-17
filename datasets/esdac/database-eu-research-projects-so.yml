@@ -4,8 +4,8 @@ metadata:
   identifier: database-eu-research-projects-soils
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2023
+  hierarchylevel: dataset
+  datestamp: 2023-01-01
 identification:
   title: Database of EU Research projects in soils
   abstract: 'Collection of EU Research projects in soils during the last forty years
@@ -13,12 +13,12 @@ identification:
     (FP) for research and innovation (from FP1 to H2020)
 
     '
-  dates: 2023
+  dates:
+    creation: 2023-01-01
   keywords:
     default:
       keywords:
       - Soil Projects Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

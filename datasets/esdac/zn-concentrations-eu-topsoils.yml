@@ -4,8 +4,8 @@ metadata:
   identifier: zn-concentrations-eu-topsoils
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2023
+  hierarchylevel: dataset
+  datestamp: 2023-01-01
 identification:
   title: Zinc concentrations in EU topsoils
   abstract: 'Zinc (Zn) is essential to sustain crop production and human health, while
@@ -14,12 +14,12 @@ identification:
     of LUCAS. The resolution of this map is 250 m by 250 m.
 
     '
-  dates: 2023
+  dates:
+    creation: 2023-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

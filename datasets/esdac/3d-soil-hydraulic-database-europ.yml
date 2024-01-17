@@ -4,8 +4,8 @@ metadata:
   identifier: 3d-soil-hydraulic-database-europe-1-km-and-250-m-resolution
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2017
+  hierarchylevel: dataset
+  datestamp: 2017-01-01
 identification:
   title: 3D Soil Hydraulic Database of Europe at 1 km and 250 m resolution
   abstract: 'A consistent spatial soil hydraulic database at 7 soil depths up to 2
@@ -21,12 +21,12 @@ identification:
     at 250 m resolution.
 
     '
-  dates: 2017
+  dates:
+    creation: 2017-01-01
   keywords:
     default:
       keywords:
       - Soil Functions Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

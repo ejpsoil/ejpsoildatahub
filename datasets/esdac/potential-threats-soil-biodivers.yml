@@ -4,8 +4,8 @@ metadata:
   identifier: potential-threats-soil-biodiversity-europe
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2016
+  hierarchylevel: dataset
+  datestamp: 2016-01-01
 identification:
   title: Potential threats to soil biodiversity in Europe
   abstract: 'Dataset that contains 3 GIS maps showing Potential threats to soil biodiversity
@@ -14,12 +14,12 @@ identification:
     resolution 500m.
 
     '
-  dates: 2016
+  dates:
+    creation: 2016-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

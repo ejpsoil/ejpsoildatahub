@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: portartalom
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2015
+  datestamp: 2015-01-01
 spatial:
   scale: null
   resolution: 250m
@@ -14,11 +14,9 @@ identification:
   language: hun
   charset: utf8
   title: portartalom
-  abstract: 'Map of silt content; 0-30 cm
-
-    '
+  abstract: 'Map of silt content; 0-30 cm'
   dates:
-    pubblication: 2015
+    creation: 01-01-2015
   keywords:
     default:
       keywords:

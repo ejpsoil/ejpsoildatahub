@@ -4,8 +4,8 @@ metadata:
   identifier: lucas-2018-topsoil-data
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2022
+  hierarchylevel: dataset
+  datestamp: 2022-01-01
 identification:
   title: LUCAS 2018 TOPSOIL data
   abstract: 'Data from the 2018 LUCAS campaign soil component containing soil properties
@@ -14,12 +14,12 @@ identification:
     Al .
 
     '
-  dates: 2022
+  dates:
+    creation: 2022-01-01
   keywords:
     default:
       keywords:
       - Soil Point Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

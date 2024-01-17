@@ -4,10 +4,10 @@ metadata:
   identifier: "A-talajt\xF6m\xF6r\xF6d\xE9s-m\xE9rt\xE9ke-\xE9s-t\xEDpusa-Magyarorsz\xE1\
     gon"
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2012
+  datestamp: 2012-01-01
 spatial:
   scale: 1:5M
   resolution: null
@@ -17,11 +17,9 @@ identification:
   title: "A talajt\xF6m\xF6r\xF6d\xE9s m\xE9rt\xE9ke \xE9s t\xEDpusa Magyarorsz\xE1\
     gon"
   abstract: 'Degree of soil compaction (in plowed depth 0-30 cm), and type of compaction
-    (surface, subsurface, or subsoil)
-
-    '
+    (surface, subsurface, or subsoil)'
   dates:
-    pubblication: 2012
+    creation: 01-01-2012
   keywords:
     default:
       keywords:

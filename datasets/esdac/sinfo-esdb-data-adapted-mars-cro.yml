@@ -4,8 +4,8 @@ metadata:
   identifier: sinfo-esdb-data-adapted-mars-crop-yield-forecasting-system
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2007
+  hierarchylevel: dataset
+  datestamp: 2007-01-01
 identification:
   title: 'SINFO: ESDB Data adapted for the MARS Crop Yield Forecasting System'
   abstract: 'A database (2007) that is the result of adapting the European Soil Database
@@ -13,12 +13,12 @@ identification:
     Monitoring System) for use in the MARS Crop Yield Forecast Sing System.
 
     '
-  dates: 2007
+  dates:
+    creation: 2007-01-01
   keywords:
     default:
       keywords:
       - European Soil Database and soil properties
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: "La-profondeur-des-sols-en-France-m\xE9tropolitaine"
   language: fre
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 12-5-1998
@@ -14,11 +14,9 @@ identification:
   language: fre
   charset: utf8
   title: "La profondeur des sols en France m\xE9tropolitaine"
-  abstract: 'Soil depth in metropolitan France
-
-    '
+  abstract: 'Soil depth in metropolitan France'
   dates:
-    pubblication: 12-5-1998
+    creation: 12-5-1998
   keywords:
     default:
       keywords:

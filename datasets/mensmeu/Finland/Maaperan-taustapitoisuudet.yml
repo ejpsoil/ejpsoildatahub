@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1983
+  datestamp: 1983-01-01
 spatial:
   scale: null
   resolution: 1Km
@@ -17,11 +17,9 @@ identification:
   abstract: 'Soil geochemical baselines.In Finland, a Government Decree on the Assessment
     of Soil Contamination and Remediation Needs has generated a need for reliable
     and readily accessible data on geochemical baseline concentrations in Finnish
-    soils
-
-    '
+    soils'
   dates:
-    creation: 1983
+    creation: 01-01-1983
   keywords:
     default:
       keywords:

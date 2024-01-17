@@ -4,8 +4,8 @@ metadata:
   identifier: european-soil-database-v20-vector-and-attribute-data
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2006
+  hierarchylevel: dataset
+  datestamp: 2006-01-01
 identification:
   title: European Soil Database v2.0 (vector and attribute data)
   abstract: 'This database (2004) is the only harmonized soil database for Europe,
@@ -16,12 +16,12 @@ identification:
     contains measured and estimated soil profiles for Europe.
 
     '
-  dates: 2006
+  dates:
+    creation: 2006-01-01
   keywords:
     default:
       keywords:
       - European Soil Database and soil properties
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

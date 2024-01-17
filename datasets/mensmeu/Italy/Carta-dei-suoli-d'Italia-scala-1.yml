@@ -14,11 +14,9 @@ identification:
   language: ita
   charset: utf8
   title: "Carta dei suoli d\u2019Italia, scala 1:1.000.000"
-  abstract: 'Soil map of Italy, scale 1:1.000.000
-
-    '
+  abstract: 'Soil map of Italy, scale 1:1.000.000'
   dates:
-    pubblication: 16-11-2015
+    creation: 16-11-2015
   keywords:
     default:
       keywords:

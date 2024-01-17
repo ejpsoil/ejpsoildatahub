@@ -4,8 +4,8 @@ metadata:
   identifier: manure-and-soil-biodiversity
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2021
+  hierarchylevel: dataset
+  datestamp: 2021-01-01
 identification:
   title: Manure and soil biodiversity
   abstract: 'This dataset includes the spatial distribution of manure in EU and UK
@@ -13,12 +13,12 @@ identification:
     interactions between Manure and Soil biodiversity.
 
     '
-  dates: 2021
+  dates:
+    creation: 2021-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

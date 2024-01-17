@@ -8,7 +8,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2015
+  datestamp: 2015-01-01
 spatial:
   scale: 1:500000
   resolution: null
@@ -18,11 +18,9 @@ identification:
   title: "\u0395\u03B4\u03B1\u03C6\u03BF\u03BB\u03BF\u03B3\u03B9\u03BA\u03CC\u03C2\
     \ \u03A7\u03AC\u03C1\u03C4\u03B7\u03C2 \u03C4\u03B7\u03C2 \u0395\u03BB\u03BB\u03AC\
     \u03B4\u03B1\u03C2"
-  abstract: 'Soil Map of Greece
-
-    '
+  abstract: 'Soil Map of Greece'
   dates:
-    pubblication: 2015
+    creation: 01-01-2015
   keywords:
     default:
       keywords:

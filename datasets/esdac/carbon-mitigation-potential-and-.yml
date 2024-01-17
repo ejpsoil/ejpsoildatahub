@@ -4,20 +4,20 @@ metadata:
   identifier: carbon-mitigation-potential-and-radiative-agricultural-land-management
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2020
+  hierarchylevel: dataset
+  datestamp: 2020-01-01
 identification:
   title: Carbon mitigation potential and radiative agricultural land management
   abstract: 'Maximising climate mitigation potential by carbon and radiative agricultural
     land management with cover crops
 
     '
-  dates: 2020
+  dates:
+    creation: 2020-01-01
   keywords:
     default:
       keywords:
       - Soil Functions Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

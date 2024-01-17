@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: Clay-content---Digital-soil-map-of-Sweden
   language: swe
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2017
+  datestamp: 2017-01-01
 spatial:
   scale: null
   resolution: 50m
@@ -14,11 +14,9 @@ identification:
   language: swe
   charset: utf8
   title: Clay content - Digital soil map of Sweden
-  abstract: 'Predicted clay content in the topsoil. FAO/USDA soil texture classes
-
-    '
+  abstract: 'Predicted clay content in the topsoil. FAO/USDA soil texture classes'
   dates:
-    pubblication: 2017
+    creation: 01-01-2017
   keywords:
     default:
       keywords:

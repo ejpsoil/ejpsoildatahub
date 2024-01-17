@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: fe6d0480-746c-43e1-b765-7015354bba00
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 6-5-2015
@@ -16,9 +16,7 @@ identification:
   title: Soil types
   abstract: 'In the  national soil inventory of the Maltese Islands (MALSIS), soils
     were described according to the criteria of the World Reference Base for Soil
-    Resources.
-
-    '
+    Resources.'
   dates:
     creation: 6-5-2015
   keywords:

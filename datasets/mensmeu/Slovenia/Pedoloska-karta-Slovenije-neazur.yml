@@ -14,11 +14,9 @@ identification:
   language: slv
   charset: utf8
   title: "Pedolo\u0161ka karta Slovenije (nea\u017Eurna)"
-  abstract: 'Digital Soil map of Slovenia in 1:25.000
-
-    '
+  abstract: 'Digital Soil map of Slovenia in 1:25.000'
   dates:
-    pubblication: 23-12-1999
+    creation: 23-12-1999
   keywords:
     default:
       keywords:

@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Les-sols-dominants-de-France-m\xE9tropolitaine"
   language: fre
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2011
+  datestamp: 2011-01-01
 spatial:
   scale: 1:1 M
   resolution: null
@@ -16,11 +16,9 @@ identification:
   title: "Les sols dominants de France m\xE9tropolitaine"
   abstract: 'The dominat soils map of France represents essentially the strong influence
     of the nature of the mineral material in which the soils have been formed and
-    evolve.
-
-    '
+    evolve.'
   dates:
-    pubblication: 2011
+    creation: 01-01-2011
   keywords:
     default:
       keywords:

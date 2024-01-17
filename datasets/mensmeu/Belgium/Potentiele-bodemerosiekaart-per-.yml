@@ -11,14 +11,12 @@ identification:
   title: "Potenti\xEBle bodemerosiekaart per perceel "
   abstract: 'The potential soil erosion map per parcel is based on the 2017 parcel
     map. The erosion calculation is based on the revised universal soil loss equation
-    or R.U.S.L.E
-
-    '
+    or R.U.S.L.E'
   dates:
     creation: '2017-12-05'
     publication: '2017-12-14'
-    revision: '2020-11-19'
-    pubblication: 14-12-2017
+    modified: '2020-11-19'
+    creation: 14-12-2017
   keywords:
     keywords-0:
       type: null

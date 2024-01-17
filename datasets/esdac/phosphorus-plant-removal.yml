@@ -4,8 +4,8 @@ metadata:
   identifier: phosphorus-plant-removal
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2022
+  hierarchylevel: dataset
+  datestamp: 2022-01-01
 identification:
   title: 'Phosphorus plant removal '
   abstract: 'Phosphorus (P) plant removal is the amount of P removed by crop harvesting
@@ -13,12 +13,12 @@ identification:
     regional scale.
 
     '
-  dates: 2022
+  dates:
+    creation: 2022-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

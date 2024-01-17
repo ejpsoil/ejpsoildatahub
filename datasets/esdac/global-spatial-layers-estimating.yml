@@ -4,8 +4,8 @@ metadata:
   identifier: global-spatial-layers-estimating-soil-ghg-emissions-indirect-land-use-changesiluc-due
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2011
+  hierarchylevel: dataset
+  datestamp: 2011-01-01
 identification:
   title: Global Spatial Layers for Estimating Soil GHG Emissions from Indirect Land
     Use Changes(ILUC) due to the Production of Biofuels
@@ -14,12 +14,12 @@ identification:
     due to Land Use Conversion, which was prepared in support to Commission Decision
 
     '
-  dates: 2011
+  dates:
+    creation: 2011-01-01
   keywords:
     default:
       keywords:
       - Soil Projects Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

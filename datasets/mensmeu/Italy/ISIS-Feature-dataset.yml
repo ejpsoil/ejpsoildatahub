@@ -14,9 +14,7 @@ identification:
   language: ita
   charset: utf8
   title: ISIS Feature dataset
-  abstract: 'Soil regions, Soil Systems and climatic rasters (Google Earth)
-
-    '
+  abstract: 'Soil regions, Soil Systems and climatic rasters (Google Earth)'
   dates:
     creation: 1-6-2010
   keywords:

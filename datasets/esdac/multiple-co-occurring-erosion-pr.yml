@@ -4,8 +4,8 @@ metadata:
   identifier: multiple-co-occurring-erosion-processes-global-cropland
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2023
+  hierarchylevel: dataset
+  datestamp: 2023-01-01
 identification:
   title: Multiple co-occurring erosion processes on global cropland
   abstract: 'Novel assessment of the spatial distribution of individual and combined
@@ -14,12 +14,12 @@ identification:
     wind erosion, Soil Loss by Crop Harvesting (SLCH), Tillage erosion and gully erosion.
 
     '
-  dates: 2023
+  dates:
+    creation: 2023-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

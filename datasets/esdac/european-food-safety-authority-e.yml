@@ -4,8 +4,8 @@ metadata:
   identifier: european-food-safety-authority-efsa-data-persam-software-tool
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2011
+  hierarchylevel: dataset
+  datestamp: 2011-01-01
 identification:
   title: European Food Safety Authority (EFSA) Data and PERSAM software tool
   abstract: 'Data and software made public as the result of a collaboration between
@@ -20,12 +20,12 @@ identification:
     Field Capacity.
 
     '
-  dates: 2011
+  dates:
+    creation: 2011-01-01
   keywords:
     default:
       keywords:
       - Soil Projects Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

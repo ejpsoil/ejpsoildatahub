@@ -4,8 +4,8 @@ metadata:
   identifier: predicted-distribution-soc-content-europe-based-lucas-biosoil-and-czo-context-eu-funded-1
   language: eng
   charset: utf8
-  hierarchylevel: /resource-type/datasets
-  datestamp: 2016
+  hierarchylevel: dataset
+  datestamp: 2016-01-01
 identification:
   title: Predicted distribution of SOC content in Europe (based on LUCAS  BioSoil
     and CZO) in the context of the EU-funded SoilTrEC project
@@ -16,12 +16,12 @@ identification:
     soil data coming from five different critical zone observatories (CZOs) in Europe).
 
     '
-  dates: 2016
+  dates:
+    creation: 2016-01-01
   keywords:
     default:
       keywords:
-      - Datasets
-      - /resource-type/soil-projects-data
+      - Datasets - /resource-type/soil-projects-data
   topiccategory:
   - geoscientificInformation
   status: completed

@@ -4,8 +4,8 @@ metadata:
   identifier: post-fire-soil-erosion-map-portugal
   language: eng
   charset: utf8
-  hierarchylevel: last
-  datestamp: 2022
+  hierarchylevel: dataset
+  datestamp: 2022-01-01
 identification:
   title: Post-fire soil erosion map for Portugal
   abstract: 'This dataset contains the results of a study that mapped post-fire soil
@@ -15,12 +15,12 @@ identification:
     y-1).
 
     '
-  dates: 2022
+  dates:
+    creation: 2022-01-01
   keywords:
     default:
       keywords:
-      - Datasets
-      - Country: PT
+      - Datasets - Country=PT
   topiccategory:
   - geoscientificInformation
   status: completed

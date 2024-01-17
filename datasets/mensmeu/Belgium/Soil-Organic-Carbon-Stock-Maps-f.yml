@@ -9,13 +9,11 @@ metadata:
   charset: utf8
 identification:
   title: Soil Organic Carbon Stock Maps for Belgium
-  abstract: 'Soil Organic Carbon Stock Maps for Belgium: mean (1 km grid)
-
-    '
+  abstract: 'Soil Organic Carbon Stock Maps for Belgium: mean (1 km grid)'
   dates:
     creation: '2017-12-06'
     publication: '2018-01-15'
-    pubblication: 15-1-2018
+    creation: 15-1-2018
   keywords:
     keywords-0:
       type: null

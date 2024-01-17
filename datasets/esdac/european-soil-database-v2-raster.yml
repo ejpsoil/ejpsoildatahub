@@ -4,8 +4,8 @@ metadata:
   identifier: european-soil-database-v2-raster-library-1kmx1km
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2006
+  hierarchylevel: dataset
+  datestamp: 2006-01-01
 identification:
   title: European Soil Database v2 Raster Library 1kmx1km
   abstract: 'This database (2006) is a set of raster data sets that have been derived
@@ -14,12 +14,12 @@ identification:
     that are contained in the ESDB v2.0
 
     '
-  dates: 2006
+  dates:
+    creation: 2006-01-01
   keywords:
     default:
       keywords:
       - European Soil Database and soil properties
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

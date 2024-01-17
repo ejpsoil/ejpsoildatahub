@@ -1,7 +1,7 @@
 metadata:
   identifier: CS---Topsoil---Soil-Moisture
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 26-6-2014
@@ -42,7 +42,7 @@ identification:
   language: eng
   charset: utf8
   dates:
-    pubblication: 26-6-2014
+    creation: 26-6-2014
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

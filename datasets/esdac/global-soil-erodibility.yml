@@ -4,8 +4,8 @@ metadata:
   identifier: global-soil-erodibility
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2023
+  hierarchylevel: dataset
+  datestamp: 2023-01-01
 identification:
   title: Global Soil Erodibility
   abstract: 'This dataset encompasses global soil erodibility (K) factor maps, with
@@ -16,12 +16,12 @@ identification:
     (Borrelli et al., 2017) is also included.
 
     '
-  dates: 2023
+  dates:
+    creation: 2023-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

@@ -14,11 +14,9 @@ identification:
   language: lit
   charset: utf8
   title: "Dirvo\u017Eemio bonitavimas"
-  abstract: 'Map of The National Atlas of Lithuania - Bonitet of the soil
-
-    '
+  abstract: 'Map of The National Atlas of Lithuania - Bonitet of the soil'
   dates:
-    pubblication: 6-6-2013
+    creation: 6-6-2013
   keywords:
     default:
       keywords:

@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: Peatland
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 19-4-2018
+  datestamp: 2018-01-01
 spatial:
   scale: null
   resolution: 10KM
@@ -14,11 +14,9 @@ identification:
   language: eng
   charset: utf8
   title: Peatland
-  abstract: 'Peatland (filtered from 1:250,000 soils data for SRDP)
-
-    '
+  abstract: 'Peatland (filtered from 1:250,000 soils data for SRDP)'
   dates:
-    pubblication: 19-4-2018
+    creation: 2018-01-01
   keywords:
     default:
       keywords:

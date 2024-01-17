@@ -10,13 +10,11 @@ metadata:
 identification:
   title: WRB Soil Units 40k
   abstract: 'WRB Soil Units 40k: Soil map of the Flemish Region according to the international
-    soil classification system World Reference Base on a scale of 1: 40,000
-
-    '
+    soil classification system World Reference Base on a scale of 1: 40,000'
   dates:
     creation: '2014-10-31'
     publication: '2015-04-26'
-    pubblication: 26-4-2015
+    creation: 26-4-2015
   keywords:
     keywords-0:
       type: null

@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Vodn\xE1-er\xF3zia-p\xF4dy-v-p\xF4dno-klimatick\xFDch-podmienkach-slovenska"
   language: slo
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2013
+  datestamp: 2013-01-01
 spatial:
   scale: 1:100000
   resolution: null
@@ -16,7 +16,7 @@ identification:
   title: "Vodn\xE1 er\xF3zia p\xF4dy v p\xF4dno-klimatick\xFDch podmienkach slovenska"
   abstract: "Water soil erosion in soil-climate conditions of Slovakia \n"
   dates:
-    pubblication: 2013
+    creation: 01-01-2013
   keywords:
     default:
       keywords:

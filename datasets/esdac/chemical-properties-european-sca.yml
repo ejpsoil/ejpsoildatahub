@@ -4,8 +4,8 @@ metadata:
   identifier: chemical-properties-european-scale-based-lucas-topsoil-data
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2019
+  hierarchylevel: dataset
+  datestamp: 2019-01-01
 identification:
   title: Maps of Soil Chemical properties at European scale based on LUCAS 2009/2012
     topsoil data
@@ -18,12 +18,12 @@ identification:
     / LAEA Europe
 
     '
-  dates: 2019
+  dates:
+    creation: 2019-01-01
   keywords:
     default:
       keywords:
       - European Soil Database and soil properties
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

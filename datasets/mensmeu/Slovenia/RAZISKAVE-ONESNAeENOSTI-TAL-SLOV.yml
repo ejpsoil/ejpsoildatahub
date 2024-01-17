@@ -6,7 +6,7 @@ metadata:
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2001
+  datestamp: 2001-01-01
 spatial:
   scale: 1:1 M
   resolution: null
@@ -16,11 +16,9 @@ identification:
   title: "RAZISKAVE ONESNA\xE9ENOSTI TAL SLOVENIJE "
   abstract: 'Soil Pollution Monitoring (SPM) in Slovenia. 212 points of measurement
     for monitoring purposes. The data is digital form with data on organic and inorganic
-    pollution concentrations and samples from different depth
-
-    '
+    pollution concentrations and samples from different depth'
   dates:
-    last revision: 2001
+    modified: 2001
   keywords:
     default:
       keywords:

@@ -4,8 +4,8 @@ metadata:
   identifier: mercury-content-european-union-topsoil
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2021
+  hierarchylevel: dataset
+  datestamp: 2021-01-01
 identification:
   title: Mercury content in the European Union topsoil
   abstract: 'Topsoil Hg concentrations (?g kg?1) across 26 EU countries estimated
@@ -14,12 +14,12 @@ identification:
     21591 LUCAS samples (0-20cm) from 26 European Union countries.
 
     '
-  dates: 2021
+  dates:
+    creation: 2021-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

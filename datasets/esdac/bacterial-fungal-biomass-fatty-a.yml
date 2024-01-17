@@ -4,8 +4,8 @@ metadata:
   identifier: bacterial-fungal-biomass-fatty-acid-methyl-esters
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2023
+  hierarchylevel: dataset
+  datestamp: 2023-01-01
 identification:
   title: Bacterial and fungal biomass (fatty acid methyl esters)
   abstract: 'Land-use- and climate-mediated variations in soil bacterial and fungal
@@ -14,12 +14,12 @@ identification:
     including staff from the European Commission Joint Research Centre
 
     '
-  dates: 2023
+  dates:
+    creation: 2023-01-01
   keywords:
     default:
       keywords:
       - Soil Functions Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

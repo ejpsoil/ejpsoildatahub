@@ -4,8 +4,8 @@ metadata:
   identifier: global-soil-erosion-water-2070
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2020
+  hierarchylevel: dataset
+  datestamp: 2020-01-01
 identification:
   title: Global soil erosion by water in 2070
   abstract: 'Land use and climate change impacts on global soil erosion by water (2015-2070).
@@ -13,12 +13,12 @@ identification:
     (2070) of soil erosion based on land use changes and climate change effects.
 
     '
-  dates: 2020
+  dates:
+    creation: 2020-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

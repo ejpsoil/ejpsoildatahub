@@ -1,15 +1,13 @@
 metadata:
   identifier: Topsoil-pH-of-Scottish-soils
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2014
+  datestamp: 2014-01-01
 identification:
   title: Topsoil pH of Scottish soils
-  abstract: 'Topsoil pH of Scottish soils
-
-    '
+  abstract: 'Topsoil pH of Scottish soils'
   keywords:
     default:
       keywords:
@@ -43,7 +41,7 @@ identification:
   language: eng
   charset: utf8
   dates:
-    pubblication: 2014
+    creation: 01-01-2014
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

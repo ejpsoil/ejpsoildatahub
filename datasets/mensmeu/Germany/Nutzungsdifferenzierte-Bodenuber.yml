@@ -4,7 +4,7 @@ metadata:
   identifier: "Nutzungsdifferenzierte-Boden\xFCbersichtskarte-der-Bundesrepublik-Deutschland-11.000.000---Auszug-Gr\xFC\
     nlandb\xF6den-und-landwirtschaftliche-Fl\xE4chen-heterogener-Struktur"
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 22-2-2013
@@ -19,11 +19,9 @@ identification:
     \ heterogener Struktur"
   abstract: 'Use-differentiated soil survey map of the Federal Republic of Germany
     1: 1.000.000 - Excerpt grassland soils and agricultural areas of heterogeneous
-    structure
-
-    '
+    structure'
   dates:
-    pubblication: 22-2-2013
+    creation: 22-2-2013
   keywords:
     default:
       keywords:

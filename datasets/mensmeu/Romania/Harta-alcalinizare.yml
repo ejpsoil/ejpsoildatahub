@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: "Hart\u0103-alcalinizare"
   language: rum
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2-2-2018
@@ -14,11 +14,9 @@ identification:
   language: rum
   charset: utf8
   title: "Hart\u0103 alcalinizare"
-  abstract: 'Map of the risk of soil alkalinization
-
-    '
+  abstract: 'Map of the risk of soil alkalinization'
   dates:
-    pubblication: 2-2-2018
+    creation: 2-2-2018
   keywords:
     default:
       keywords:

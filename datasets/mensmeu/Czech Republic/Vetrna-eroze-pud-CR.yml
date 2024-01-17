@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: "V\u011Btrn\xE1-eroze-p\u016Fd-\u010CR"
   language: cze
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 1-9-2013
@@ -14,9 +14,7 @@ identification:
   language: cze
   charset: utf8
   title: "V\u011Btrn\xE1 eroze p\u016Fd \u010CR"
-  abstract: 'Map of potential soil loss by water erosion
-
-    '
+  abstract: 'Map of potential soil loss by water erosion'
   dates:
     creation: 1-9-2013
   keywords:

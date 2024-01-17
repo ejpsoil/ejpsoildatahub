@@ -4,8 +4,8 @@ metadata:
   identifier: support-practices-factor-p-factor-eu
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2015
+  hierarchylevel: dataset
+  datestamp: 2015-01-01
 identification:
   title: Support Practices factor (P-factor) for the EU
   abstract: 'This GIS map (2015) represents the "Support Practices factor" (P-factor)
@@ -15,12 +15,12 @@ identification:
     walls and c) grass margins. Resolution 1km.
 
     '
-  dates: 2015
+  dates:
+    creation: 2015-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

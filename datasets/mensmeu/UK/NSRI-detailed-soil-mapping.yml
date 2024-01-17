@@ -1,16 +1,14 @@
 metadata:
   identifier: NSRI-detailed-soil-mapping
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2023
+  datestamp: 2023-01-01
 identification:
   title: NSRI detailed soil mapping
   abstract: 'This map shows the extents of the detailed soil mapping available for
-    a variety of scales from the National Soil Resources Institute (NSRI)
-
-    '
+    a variety of scales from the National Soil Resources Institute (NSRI)'
   keywords:
     default:
       keywords:

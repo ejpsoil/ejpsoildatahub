@@ -14,11 +14,9 @@ identification:
   language: dut
   charset: utf8
   title: Bodemkundig booronderzoek BRO
-  abstract: 'Location of pedological borehole research (BRO)
-
-    '
+  abstract: 'Location of pedological borehole research (BRO)'
   dates:
-    last revision: 29-4-2019
+    modified: 29-4-2019
   keywords:
     default:
       keywords:

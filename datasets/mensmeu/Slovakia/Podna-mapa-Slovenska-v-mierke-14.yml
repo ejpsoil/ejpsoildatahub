@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "P\xF4dna-mapa-Slovenska-v-mierke-1400-000"
   language: slo
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1993
+  datestamp: 1993-01-01
 spatial:
   scale: 1:400000
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: slo
   charset: utf8
   title: "P\xF4dna mapa Slovenska v mierke 1:400 000"
-  abstract: 'Soil map of Slovakia in scale 1: 400 000
-
-    '
+  abstract: 'Soil map of Slovakia in scale 1: 400 000'
   dates:
-    pubblication: 1993
+    creation: 01-01-1993
   keywords:
     default:
       keywords:

@@ -4,8 +4,8 @@ metadata:
   identifier: global-rainfall-erosivity-projections-2050-and-2070
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2022
+  hierarchylevel: dataset
+  datestamp: 2022-01-01
 identification:
   title: Global rainfall erosivity projections for 2050 and 2070
   abstract: 'We make available both the aggregated data (2050 and 2070 Rainfall erosivity
@@ -13,12 +13,12 @@ identification:
     x 2 time-scale) in a GEOTIFF format with a 30 arc-seconds spatial resolution.
 
     '
-  dates: 2022
+  dates:
+    creation: 2022-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

@@ -1,16 +1,14 @@
 metadata:
   identifier: Szervesanyag-tartalom
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2018
+  datestamp: 2018-01-01
 identification:
   title: Szervesanyag-tartalom
   abstract: 'Soil organic matter content (%) in depths 0-5 cm, 5-15 cm, 15-30 cm,
-    30-60cm, 60-100 cm, 100-200 cm, 0-30 cm, 60-90 cm
-
-    '
+    30-60cm, 60-100 cm, 100-200 cm, 0-30 cm, 60-90 cm'
   keywords:
     default:
       keywords:
@@ -44,7 +42,7 @@ identification:
   language: hun
   charset: utf8
   dates:
-    creation: 2018
+    creation: 2018-01-01
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

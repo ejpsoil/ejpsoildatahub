@@ -17,11 +17,9 @@ identification:
   title: "Carte du nom de sol dominant en WRB issue de la Base de Donn\xE9es G\xE9\
     ographique des Sols de France"
   abstract: 'Geographic Database of Soils of France at 1 / 1,000,000 version 3.2.8.0,
-    10/09/1998
-
-    '
+    10/09/1998'
   dates:
-    pubblication: 17-6-2019
+    creation: 17-6-2019
   keywords:
     default:
       keywords:

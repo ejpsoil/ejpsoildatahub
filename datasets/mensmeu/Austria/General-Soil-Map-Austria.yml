@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: General-Soil-Map-(Austria)
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2005
+  datestamp: 2005-01-01
 spatial:
   scale: 1:1 M
   resolution: null
@@ -17,7 +17,7 @@ identification:
   abstract: "The General Soil Map is part of the Hydrological Atlas Austria (HA\xD6\
     )\n"
   dates:
-    last revision: 2005
+    modified: 2005
   keywords:
     default:
       keywords:

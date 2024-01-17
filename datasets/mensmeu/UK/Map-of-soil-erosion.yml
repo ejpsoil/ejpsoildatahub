@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: Map-of-soil-erosion
   language: eng
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 8-10-2018
+  datestamp: 2018-01-01
 spatial:
   scale: 1:25000
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: eng
   charset: utf8
   title: Map of soil erosion
-  abstract: 'Scotlands Soil Data. Map of soil erosion risk (partial cover)
-
-    '
+  abstract: 'Scotlands Soil Data. Map of soil erosion risk (partial cover)'
   dates:
-    last revision: 8-10-2018
+    modified: 8-10-2018
   keywords:
     default:
       keywords:

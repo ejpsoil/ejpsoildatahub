@@ -4,8 +4,8 @@ metadata:
   identifier: water-erosion-europe-2050
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2021
+  hierarchylevel: dataset
+  datestamp: 2021-01-01
 identification:
   title: Water erosion in Europe by 2050
   abstract: 'The dataset includes the soil loss by water erosion projections by 2050.
@@ -14,12 +14,12 @@ identification:
     and the C-factor 2050.
 
     '
-  dates: 2021
+  dates:
+    creation: 2021-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

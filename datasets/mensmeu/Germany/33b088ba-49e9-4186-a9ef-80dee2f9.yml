@@ -1,7 +1,7 @@
 metadata:
   identifier: 33b088ba-49e9-4186-a9ef-80dee2f92586
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 26-11-2015
@@ -9,9 +9,7 @@ identification:
   title: "Grundwasserbeeinflussung der B\xF6den in Deutschland"
   abstract: 'The map of the groundwater influence on soils in Germany gives an overview
     of depth of groundwater below the surface. Soils that are influenced by groundwater
-    usually have a limited crop yield
-
-    '
+    usually have a limited crop yield'
   keywords:
     default:
       keywords:
@@ -44,7 +42,7 @@ identification:
   language: ger
   charset: utf8
   dates:
-    pubblication: 26-11-2015
+    creation: 26-11-2015
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

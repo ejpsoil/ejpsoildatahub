@@ -16,11 +16,9 @@ identification:
   title: Happamat sulfaattimaat 1:250 000
   abstract: 'Acid sulfate soils 1:250 000. map product shows  interpretation of ASS
     occurrence in Finland classified in to four classes according to probability of
-    occurrence; High, Moderate, Small and Very Small
-
-    '
+    occurrence; High, Moderate, Small and Very Small'
   dates:
-    pubblication: 6-3-2019
+    creation: 6-3-2019
   keywords:
     default:
       keywords:

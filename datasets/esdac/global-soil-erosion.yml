@@ -4,8 +4,8 @@ metadata:
   identifier: global-soil-erosion
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2019
+  hierarchylevel: dataset
+  datestamp: 2019-01-01
 identification:
   title: 'Global Soil Erosion '
   abstract: 'Global Soil Erosion is a re-sampled dataset (25km) of the original Global
@@ -14,12 +14,12 @@ identification:
     (in Amazon rainforest) at the original resolution of 250m
 
     '
-  dates: 2019
+  dates:
+    creation: 2019-01-01
   keywords:
     default:
       keywords:
       - Soil Threats Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Biol\xF3giai-talaj\xE1llapot"
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2012
+  datestamp: 2012-01-01
 spatial:
   scale: 1:5M
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: hun
   charset: utf8
   title: "Biol\xF3giai talaj\xE1llapot"
-  abstract: 'Soil biological status:
-
-    '
+  abstract: 'Soil biological status:'
   dates:
-    pubblication: 2012
+    creation: 01-01-2012
   keywords:
     default:
       keywords:

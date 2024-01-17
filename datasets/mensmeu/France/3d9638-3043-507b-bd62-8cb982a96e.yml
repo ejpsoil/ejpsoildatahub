@@ -1,16 +1,14 @@
 metadata:
   identifier: 3d9638-3043-507b-bd62-8cb982a96e6a
   language: fre
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 28-5-2015
 identification:
   title: Carte des teneurs en Carbone par canton
   abstract: 'Map of carbon contents by canton. The analyzes come from the Earth Analysis
-    Database (BDAT).
-
-    '
+    Database (BDAT).'
   keywords:
     default:
       keywords:
@@ -44,7 +42,7 @@ identification:
   language: fre
   charset: utf8
   dates:
-    pubblication: 28-5-2015
+    creation: 28-5-2015
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

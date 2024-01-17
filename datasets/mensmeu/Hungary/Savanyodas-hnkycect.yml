@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Savanyod\xE1s"
   language: hun
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2012
+  datestamp: 2012-01-01
 spatial:
   scale: 1:5M
   resolution: null
@@ -15,11 +15,9 @@ identification:
   charset: utf8
   title: "Savanyod\xE1s"
   abstract: 'Soil acidification in depth 0-30 cm. (Values of hydrolytic acidity y1>8
-    in the counties).
-
-    '
+    in the counties).'
   dates:
-    pubblication: 2012
+    creation: 01-01-2012
   keywords:
     default:
       keywords:

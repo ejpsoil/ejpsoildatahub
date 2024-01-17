@@ -9,9 +9,7 @@ identification:
   title: "Carte de la R\xE9serve Utile en eau issue de la Base de Donn\xE9es G\xE9\
     ographique des Sols de France"
   abstract: 'Map of the dominant class of  available water by Cartographic Unit of
-    Soil
-
-    '
+    Soil'
   keywords:
     default:
       keywords:
@@ -45,7 +43,7 @@ identification:
   language: fre
   charset: utf8
   dates:
-    pubblication: 17-6-2019
+    creation: 17-6-2019
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation

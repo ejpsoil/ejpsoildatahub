@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Skeletovitost-p\u016Fdy"
   language: cze
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2015
+  datestamp: 2015-01-01
 spatial:
   scale: 3,513888889
   resolution: null
@@ -14,11 +14,9 @@ identification:
   language: cze
   charset: utf8
   title: "Skeletovitost p\u016Fdy"
-  abstract: 'Soil stoniness, large scale map.
-
-    '
+  abstract: 'Soil stoniness, large scale map.'
   dates:
-    last revision: 2015
+    modified: 2015
   keywords:
     default:
       keywords:

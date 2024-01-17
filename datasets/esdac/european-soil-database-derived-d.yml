@@ -4,8 +4,8 @@ metadata:
   identifier: european-soil-database-derived-data
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2013
+  hierarchylevel: dataset
+  datestamp: 2013-01-01
 identification:
   title: European Soil Database Derived data
   abstract: 'A number of layers for soil properties have been created based on data
@@ -13,12 +13,12 @@ identification:
     Soil Database (HWSD) and Soil-Terrain Database (SOTER).
 
     '
-  dates: 2013
+  dates:
+    creation: 2013-01-01
   keywords:
     default:
       keywords:
       - European Soil Database and soil properties
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

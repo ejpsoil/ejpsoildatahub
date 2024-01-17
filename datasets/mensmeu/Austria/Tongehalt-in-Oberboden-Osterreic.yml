@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Tongehalt-in-Oberb\xF6den-\xD6sterreichs"
   language: ger
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1-1-2004
+  datestamp: 2004-01-01
 spatial:
   scale: 1:250000
   resolution: 4Km
@@ -16,7 +16,7 @@ identification:
   title: "Tongehalt in Oberb\xF6den \xD6sterreichs"
   abstract: "Topsoil clay content in Austria(0-10/20 cm) \n"
   dates:
-    pubblication: 1-1-2004
+    creation: 2004-01-01
   keywords:
     default:
       keywords:

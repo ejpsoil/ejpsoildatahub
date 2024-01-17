@@ -4,8 +4,8 @@ metadata:
   identifier: isoil-project-interactions-between-soil-related-sciences
   language: eng
   charset: utf8
-  hierarchylevel: Datasets
-  datestamp: 2011
+  hierarchylevel: dataset
+  datestamp: 2011-01-01
 identification:
   title: iSOIL project (Interactions between soil related sciences)
   abstract: 'Data from the FP7 iSOIL research projectdealing with new technologies
@@ -15,12 +15,12 @@ identification:
     Austria, Czech Republic and Bulgaria.
 
     '
-  dates: 2011
+  dates:
+    creation: 2011-01-01
   keywords:
     default:
       keywords:
       - Soil Projects Data
-      - null
   topiccategory:
   - geoscientificInformation
   status: completed

@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: Soil-profiles-of-Slovenia-125.000
   language: slv
-  language_alternate: null
+  
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 2023
+  datestamp: 2023-01-01
 spatial:
   scale: 1:25000
   resolution: null
@@ -17,7 +17,7 @@ identification:
   abstract: "1644 points of detailed soil profile description using standard soil\
     \ science methods. The profiles were carried out between 1960 and 1999 \n"
   dates:
-    pubblication: 2023
+    creation: 01-01-2023
   keywords:
     default:
       keywords:
