@@ -4,6 +4,7 @@ metadata:
   identifier: AGES---farm-data-&-long-term-research-sites
   language: eng
   charset: utf8
+  datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: 3-20 points, depending on the size of the site;
