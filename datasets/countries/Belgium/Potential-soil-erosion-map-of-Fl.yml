@@ -14,7 +14,7 @@ identification:
   language: null
   charset: utf8
   title: Potential soil erosion map of Flanders
-  abstract: "modeling \n"
+  abstract: "modeling "
   dates:
     creation: every year a new map
   keywords:

@@ -12,7 +12,7 @@ identification:
   language: null
   charset: utf8
   title: Norwegian soil property database
-  abstract: "borehole/profile \n"
+  abstract: "borehole/profile "
   dates:
     creation: 1990-2020
   keywords:

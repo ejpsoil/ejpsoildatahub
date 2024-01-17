@@ -20,7 +20,7 @@ identification:
   abstract: "Data on soil available water capacity presented as a difference between\
     \ the water holding capacity of the soil and permanent wilting point. It is expressed\
     \ as g of water / 100g soil. The data is unofficial and in digital form (parcel-specific,no).\
-    \ \n"
+    \ "
   dates:
     creation: 1999 - 2014
   keywords:

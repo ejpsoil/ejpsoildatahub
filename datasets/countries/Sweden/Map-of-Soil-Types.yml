@@ -13,7 +13,7 @@ identification:
   charset: utf8
   title: Map of Soil Types
   abstract: "extensive field mapping on foot + image interpretation (resolution 1:25000\
-    \ and 1:50000), as well as aerial interpretation (1:50000 and 1:100000) \n"
+    \ and 1:50000), as well as aerial interpretation (1:50000 and 1:100000) "
   dates:
     creation: 1960 - present
   keywords:

@@ -15,7 +15,7 @@ identification:
   abstract: "Map od ,land use,, with parcel ID, in digital form (parcel-specific,no).\
     \ The official land use / land cover interpretation key is regularly updated and\
     \ published by the Ministry for agriculture, forestry and food. In Slovenian only.\
-    \  \n"
+    \  "
   dates:
     creation: 2002 -
   keywords:

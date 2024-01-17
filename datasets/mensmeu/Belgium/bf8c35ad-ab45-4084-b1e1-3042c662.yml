@@ -183,7 +183,7 @@ distribution:
       \ The regional maps were compiled at a fine resolution (10m x 10m grid cells\
       \ for Flanders and 40m x 40m grid cells for Wallonia). Next they were joined\
       \ (40m x 40m grid cells). The regional maps for Flanders were scaled up tot\
-      \ the 40m x 40m grid of Wallonia.  \r\nGiven the different origin of the individual\
+      \ the 40m x 40m grid of Wallonia.  \rGiven the different origin of the individual\
       \ maps, the uncertainty varies between maps. For instance, a map of the 90%\
       \ confidence interval of the SOC stocks was produced for agricultural soils\
       \ in Wallonia based on a Monte Carlo Approach taking into account both the measurement\
@@ -196,7 +196,7 @@ distribution:
       \ No additional uncertainty is taken into account for the conversion functions\
       \ that use the stochastic variables \"bulk density\". The metadata are available\
       \ and allow assessing the uncertainties of the stock estimates in the different\
-      \ component maps.\r\nThe SOC stock map (resolution of 40m x 40m) is the first\
+      \ component maps.\rThe SOC stock map (resolution of 40m x 40m) is the first\
       \ comprehensive map for Belgium integrating grasslands, croplands and forests.\
       \ Based on this map another SOC stock map at a resolution of 1km x 1km in the\
       \ coordinate reference system WGS84 was created."

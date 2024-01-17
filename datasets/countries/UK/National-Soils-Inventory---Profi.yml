@@ -13,9 +13,10 @@ identification:
   language: null
   charset: utf8
   title: National Soils Inventory - Profile
-  abstract: "Soil pit excavation \n"
+  abstract: "Soil pit excavation"
   dates:
-    creation: 1980 - 1995
+    creation: 1980
+    modified: 1995
   keywords:
     default:
       keywords:
@@ -30,7 +31,8 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 1980 - 1995
+    - begin: 1980 
+      end: 1995
   accessconstraints: Restricted
   rights: Data licence and potential cost
   maintenancefrequency: it was a single survey
@@ -42,5 +44,4 @@ dataquality:
   scope:
     level: dataset
   lineage:
-    statement: 'Soil pit excavation. Mapping: 5km Grid. Depth intervals: Genetic-based
-      horizons (A, Ap, B, C etc). Uncertainty quantification: NO'
+    statement: 'Soil pit excavation. Mapping: 5km Grid. Depth intervals; Genetic-based horizons (A, Ap, B, C etc). Uncertainty quantification: NO'

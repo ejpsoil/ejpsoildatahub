@@ -14,7 +14,7 @@ identification:
   language: null
   charset: utf8
   title: "\xD6sterreichische Bodensch\xE4tzung - Austrian Soil Condition Survey"
-  abstract: "top soil and subsoil; there are soil reference sites/soil profiles; \n"
+  abstract: "top soil and subsoil; there are soil reference sites/soil profiles; "
   dates:
     creation: since 1958
   keywords:

@@ -14,10 +14,8 @@ identification:
   charset: utf8
   title: Tellus Geophyical and Geochemical Survey
   abstract: 'Survey includes both remote (airborne) and ground-based geochemical surveying
-    so does not fit into either ''remote'' or ''proximal'' but is both. Sampled to
-    10cm depth
-
-    '
+    so does not fit into either remote orproximal but is both. Sampled to
+    10cm depth'
   dates:
     creation: 2011-2023
   keywords:
@@ -34,9 +32,9 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 2011-2023
+    - begin: 2011
+      end: 2023
   accessconstraints: No restrictions
-  rights: ''
   maintenancefrequency: it was a single survey
 contact:
   pointOfContact:
@@ -46,7 +44,8 @@ dataquality:
   scope:
     level: dataset
   lineage:
-    statement: 'Survey includes both remote (airborne) and ground-based geochemical
-      surveying so does not fit into either ''remote'' or ''proximal'' but is both..
-      Mapping: Gridded. Depth intervals: Other  depth intervals (specify in comments).
-      Uncertainty quantification: '
+    statement: |
+      Survey includes both remote (airborne) and ground-based geochemical
+      surveying so does not fit into either remote or proximal but is both.
+      Mapping; Gridded. Depth intervals; Other  depth intervals (specify in comments).
+      Uncertainty quantification

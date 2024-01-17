@@ -13,7 +13,7 @@ identification:
   charset: utf8
   title: Soil cover of Slovenia
   abstract: "Soil cover map for years 1996, 2000, 2006 and 2012, with evaluation of\
-    \ changes. In digital form (parcel-specific,no). \n"
+    \ changes. In digital form (parcel-specific,no). "
   dates:
     creation: 1996 - 2016
   keywords:

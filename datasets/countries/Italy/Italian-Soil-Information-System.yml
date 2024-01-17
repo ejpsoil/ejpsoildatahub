@@ -13,7 +13,7 @@ identification:
   language: null
   charset: utf8
   title: Italian Soil Information System
-  abstract: "mainly based on profile sampling \n"
+  abstract: "mainly based on profile sampling "
   dates:
     creation: '2013'
   keywords:

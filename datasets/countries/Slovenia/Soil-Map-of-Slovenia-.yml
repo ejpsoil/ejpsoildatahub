@@ -14,7 +14,7 @@ identification:
   charset: utf8
   title: 'Soil Map of Slovenia '
   abstract: "Soil types of Slovenia based on Slovenian Soil classification system.\
-    \ Each SMU has up to 3 STU. \n"
+    \ Each SMU has up to 3 STU. "
   dates:
     creation: '1999'
   keywords:

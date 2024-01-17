@@ -16,7 +16,7 @@ identification:
   language: null
   charset: utf8
   title: Digital Map of Walloon Soils
-  abstract: "Whole profile by soil horizons  \n"
+  abstract: "Whole profile by soil horizons  "
   dates:
     creation: 1947-1991
   keywords:

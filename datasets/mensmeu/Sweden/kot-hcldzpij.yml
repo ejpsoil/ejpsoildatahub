@@ -14,7 +14,7 @@ identification:
   language: swe
   charset: utf8
   title: kot
-  abstract: "Map of soil organic carbon \n"
+  abstract: "Map of soil organic carbon "
   dates:
     modified: 2019
   keywords:

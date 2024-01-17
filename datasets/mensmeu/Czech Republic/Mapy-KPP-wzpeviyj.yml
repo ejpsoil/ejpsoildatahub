@@ -14,7 +14,7 @@ identification:
   language: cze
   charset: utf8
   title: Mapy KPP
-  abstract: "Soil maps from National Soil Survey \n"
+  abstract: "Soil maps from National Soil Survey "
   dates:
     creation: 01-01-1961
   keywords:

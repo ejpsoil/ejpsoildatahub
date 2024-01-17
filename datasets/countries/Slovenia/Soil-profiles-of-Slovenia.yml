@@ -26,7 +26,7 @@ identification:
     \ cm), color (by Munsell), coarse material in the horizon, as well as some measured\
     \ soil parameters such as soil pH, soil texture parameters, phosphorus, potassium,\
     \ organic matter, and organic content, nitrogen, C/N ratio, CEC (cation exchange\
-    \ capacity). \n"
+    \ capacity). "
   dates:
     creation: '2015'
   keywords:

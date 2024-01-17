@@ -15,7 +15,7 @@ identification:
   charset: utf8
   title: Map of topsoil compaction risk
   abstract: "Scotlands Soil Data. Map of topsoil compaction risk (partial cover).\
-    \ \n"
+    \ "
   dates:
     modified: 2018
   keywords:

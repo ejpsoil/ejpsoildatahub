@@ -13,7 +13,7 @@ identification:
   language: null
   charset: utf8
   title: WRB Soil units 40k
-  abstract: "borehole/profile \n"
+  abstract: "borehole/profile "
   dates:
     creation: 1947-1978
   keywords:

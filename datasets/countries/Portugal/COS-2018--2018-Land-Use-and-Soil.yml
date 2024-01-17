@@ -21,7 +21,7 @@ identification:
     \ occupation/use unit means any area of terrain greater than or equal to the defined\
     \ minimum cartographic unit (1 ha) with distance between lines \u2265 to 20 m\
     \ and the % of a given class of land occupation/use is \u2265 75% of the total\
-    \ area (Caetano et al., 2010). \n"
+    \ area (Caetano et al., 2010). "
   dates:
     creation: Reporting to 2018 (finished in Nov 2019)
   keywords:

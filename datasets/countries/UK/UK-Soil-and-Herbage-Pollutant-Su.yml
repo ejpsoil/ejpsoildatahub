@@ -13,7 +13,7 @@ identification:
   language: null
   charset: utf8
   title: UK Soil and Herbage Pollutant Survey
-  abstract: "5cm x 3 cores from topsoil \n"
+  abstract: "5cm x 3 cores from topsoil "
   dates:
     creation: '2007'
   keywords:

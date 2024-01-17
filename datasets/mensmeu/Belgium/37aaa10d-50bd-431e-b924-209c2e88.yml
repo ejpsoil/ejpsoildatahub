@@ -184,7 +184,7 @@ distribution:
       \ joined (40m x 40m grid cells) and finally scaled up to the required 1 by 1\
       \ km grid cells. This was done using the following tools: block statistics (mean),\
       \ mosaic to new raster (mean), project to raster, block statistics (mean), resample\
-      \ (nearest neighbour) and project raster.\r\nGiven the different origin of the\
+      \ (nearest neighbour) and project raster.\rGiven the different origin of the\
       \ individual maps, the uncertainty varies between maps. For instance, a map\
       \ of the 90% confidence interval of the SOC stocks was produced for agricultural\
       \ soils in Wallonia based on a Monte Carlo Approach taking into account both\
@@ -195,7 +195,7 @@ distribution:
       \ are simulated 1000 times as being independent normal distributed variables\
       \ using their model estimation and standard error as distribution parameters.\
       \ No additional uncertainty is taken into account for the conversion functions\
-      \ that use the stochastic variables \"bulk density\".\r\nThe SOC stock maps\
+      \ that use the stochastic variables \"bulk density\".\rThe SOC stock maps\
       \ are the first comprehensive map for Belgium integrating grasslands, croplands\
       \ and forests. There are two versions of the SOC stock maps for Belgium: 1)\
       \ resolution of 40m x 40m in the coordinate reference system Lambert72 and 2)\

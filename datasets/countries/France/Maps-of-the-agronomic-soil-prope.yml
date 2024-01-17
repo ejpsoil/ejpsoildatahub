@@ -14,7 +14,7 @@ identification:
   language: null
   charset: utf8
   title: Maps of the agronomic soil properties from BDAT
-  abstract: "bulk sample only \n"
+  abstract: "bulk sample only "
   dates:
     creation: '2014'
   keywords:
