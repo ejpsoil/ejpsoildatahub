@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6510954
+  dataseturi: http://doi.org/10.5281/zenodo.6510954
+  hierarchylevel: dataset
+identification:
+  keywords:
+    default:
+      keywords: -'EJPSoil'
+  title: Adoption rate of 58 innovative soil management practices (maps of inventory
+    A)
+  abstract: Adoption rate of 58 innovative soil management practices (maps of inventory
+    A)
+  dates:
+    issued: '2022-05-02'
+    publication: '2022'
+  rights: ''
+distribution:
+  contentUrl:
+    url: http://doi.org/10.5281/zenodo.6510954
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6510953
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Vanwindekens-Frederic:
+    individualname: "Vanwindekens, Fr\xE9d\xE9ric"
+    role: ''
+    organization: 'Centre wallon de Recherches agronomiques: Gembloux, Wallonie, BE'
+    url: https://orcid.org/0000-0002-9117-7543
+  Heller-Olivier:
+    individualname: Heller, Olivier
+    role: ''
+    organization: "Agroscope: Z\xFCrich, Z\xFCrich, CH"
+    url: https://orcid.org/0000-0002-5918-4161
+  Di-Bene-Claudia:
+    individualname: Di Bene, Claudia
+    role: ''
+    organization: 'Consiglio per la ricerca in agricoltura e l''analisi dell''economia
+      agraria: Roma, Lazio, IT'
+    url: https://orcid.org/0000-0002-3830-251X
+  Nino-Pasquale:
+    individualname: Nino, Pasquale
+    role: ''
+    organization: 'Consiglio per la ricerca e la sperimentazione in agricoltura e
+      l''analisi dell''economia agraria (CREA): Roma, Lazio, IT'
+    url: ''
+spatial:
+  type: ''

@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.20387-bonares-40kc-2661
+  dataseturi: http://doi.org/10.20387/bonares-40kc-2661
+  hierarchylevel: dataset
+identification:
+  keywords:
+    default:
+      keywords: -'EJPSoil'
+  title: Provision of Metadata of European Agricultural Long-Term Experiments through
+    BonaRes and EJP SOIL Collaboration
+  abstract: 'The dataset includes the meta-information of 616 LTEs from 30 different
+    countries across Europe with a minimum duration of typically 20 years, including
+    clustered information of the European LTEs in different categories (management
+    operations, land use, duration, status, etc.). It consists of the updated version
+    of the dataset published by Grosse et al., 2020 (https://doi.org/10.20387/BonaRes-3TR6-MG8R)
+    but is extended by further LTE metadata, categories and research themes within
+    a collaboration of BonaRes and EJP SOIL.
+
+
+    Research domain: Soil Sciences'
+  dates:
+    available: '2022-03-25'
+    issued: '2022-03-15'
+    updated: '2022-03-15'
+    publication: '2022'
+  rights: cc-by-4.0
+distribution:
+  contentUrl:
+    url: http://doi.org/10.20387/bonares-40kc-2661
+    type: WWW:LINK
+    title: Link
+contact:
+  Donmez-Cenk:
+    individualname: "D\xF6nmez, Cenk"
+    role: ''
+    organization: Leibniz Center for Agricultural Landscape Research (ZALF)
+    url: ''
+  Blanchy-Guillaume:
+    individualname: Blanchy, Guillaume
+    role: ''
+    organization: Flanders Research Institute for Agriculture, Fisheries and Food
+      (ILVO)
+    url: ''
+  Svoboda-Nikolai:
+    individualname: Svoboda, Nikolai
+    role: ''
+    organization: Leibniz Center for Agricultural Landscape Research (ZALF)
+    url: ''
+  D'Hose-Tommy:
+    individualname: D'Hose, Tommy
+    role: ''
+    organization: Flanders Research Institute for Agriculture, Fisheries and Food
+      (ILVO)
+    url: ''
+  Hoffmann-Carsten:
+    individualname: Hoffmann, Carsten
+    role: ''
+    organization: Leibniz Center for Agricultural Landscape Research (ZALF)
+    url: ''
+  Hierold-Wilfried:
+    individualname: Hierold, Wilfried
+    role: ''
+    organization: Leibniz Center for Agricultural Landscape Research (ZALF)
+    url: ''
+  Klummp-Katja:
+    individualname: Klummp, Katja
+    role: ''
+    organization: "Institut national de recherche pour l\u2019agriculture, l\u2019\
+      alimentation et l\u2019environnement (INRAE)"
+    url: ''
+  '|':
+    individualname: '|'
+    role: ProjectLeader
+    organization: '|'
+    url: ''
+spatial:
+  type: Table

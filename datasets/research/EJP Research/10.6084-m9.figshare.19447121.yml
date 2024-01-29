@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.6084-m9.figshare.19447121
+  dataseturi: http://doi.org/10.6084/m9.figshare.19447121
+  hierarchylevel: dataset
+identification:
+  keywords:
+    default:
+      keywords:
+        subject: Agricultural land management
+  title: 'Supplementary material to: Quality Assessment of Meta-Analyses on Soil Organic
+    Carbon'
+  abstract: "Table S1: List of resources for assessing the quality of, reporting or\
+    \ creating meta-analyses in several disciplines Table S2: 31 soil organic carbon\
+    \ meta-analyses and their individual scores per (sub)-criterium Table S3: Literature\
+    \ gathering Table S4: Information on screening process Table S5: Results for all\
+    \ meta-analyses per group and (sub)-criterium Table S6: Quick quality assessment\
+    \ of meta-analyses in IPCC report with the help of \"cut-off\" criteria Table\
+    \ S7: Results for criteria 1-5 and 9-17 from meta-analyses that passed and did\
+    \ not pass the \"cut-off\" criteria Table S8: Template for quality assessment\
+    \ <br> <strong>Corresponding article:</strong> <br> Fohrafellner, J., Zechmeister-Boltenstern,\
+    \ S., Murugan, R., and Valkama, E.: Quality assessment of meta-analyses on soil\
+    \ organic carbon, SOIL, 9, 117\u2013140, https://doi.org/10.5194/soil-9-117-2023,\
+    \ 2023. <br>"
+  dates:
+    created: '2023-02-24'
+    updated: '2023-02-24'
+    issued: '2023'
+    publication: '2023'
+  rights: cc-by-4.0
+distribution:
+  contentUrl:
+    url: http://doi.org/10.6084/m9.figshare.19447121
+    type: WWW:LINK
+    title: Link
+contact:
+  Fohrafellner-Julia:
+    individualname: Fohrafellner, Julia
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0001-5734-7353
+  Zechmeister-Boltenstern-Sophie:
+    individualname: Zechmeister-Boltenstern, Sophie
+    role: ''
+    organization: ''
+    url: ''
+  Murugan-Rajasekaran:
+    individualname: Murugan, Rajasekaran
+    role: ''
+    organization: ''
+    url: ''
+  Valkama-Elena:
+    individualname: Valkama, Elena
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0002-8337-8070
+spatial:
+  type: Dataset

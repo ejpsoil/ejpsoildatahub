@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.6084-m9.figshare.14987130
+  dataseturi: https://doi.org/10.6084/m9.figshare.14987130
+  hierarchylevel: software
+identification:
+  keywords:
+    default:
+      keywords:
+        subject: Statistics
+  title: Ex-Tract tool_1.2.xlsm
+  abstract: 'The EX-TRACT Information tool (EX-TRACT) is an Excel spreadsheet, which
+    allows for the estimation of the experimental error associated to statistical
+    analysis results (i.e., standard deviation and standard error of treatments mean)
+    of published articles, in which minimal information is reported. This tool will
+    help researchers estimate experimental error for main effects or interaction,
+    in complete randomization (CRD), in randomized block (CRBD), split-plot (SP),
+    split-split-plot (SSP) and split block (SB) experiments.<br> <strong>PLEASE</strong>
+    ensure you download the latest version of the tool.<br> <strong>LATEST VERSION:
+    EX-TRACT tool_1.2</strong> <br> <strong>EX-TRACT tool_1.2 UPDATES</strong>: this
+    version solves a problem that occurred on PC with decimal separator set with comma
+    rather than dot. <br> <br> For further support or to report any bug, please write
+    to marco.acutis@unimi.it'
+  dates:
+    created: '2022-04-12'
+    updated: '2022-04-12'
+    issued: '2022'
+    publication: '2022'
+  rights: cc-by-4.0
+distribution:
+  contentUrl:
+    url: https://doi.org/10.6084/m9.figshare.14987130
+    type: WWW:LINK
+    title: Link
+contact:
+  Acutis-Marco:
+    individualname: Acutis, Marco
+    role: ''
+    organization: ''
+    url: ''
+  Tadiello-Tommaso:
+    individualname: Tadiello, Tommaso
+    role: ''
+    organization: ''
+    url: ''
+  Perego-Alessia:
+    individualname: Perego, Alessia
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0002-0601-9699
+  Guardo-Andrea-Di:
+    individualname: Guardo, Andrea Di
+    role: ''
+    organization: ''
+    url: ''
+  Schillaci-Calogero:
+    individualname: Schillaci, Calogero
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0001-7689-5697
+  Valkama-Elena:
+    individualname: Valkama, Elena
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0002-8337-8070
+spatial:
+  type: Software

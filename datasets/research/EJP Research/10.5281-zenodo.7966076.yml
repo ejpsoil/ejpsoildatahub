@@ -1,0 +1,36 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7966076
+  dataseturi: http://doi.org/10.5281/zenodo.7966076
+  hierarchylevel: dataset
+identification:
+  keywords:
+    default:
+      keywords: -'EJPSoil'
+  title: Dataset of manuscript "No detectable upper limit of mineral associated carbon
+    in temperate agricultural soils"
+  abstract: Dataset of carbon fractions (mineral associated organic carbon and particulate
+    organic carbon) detected in a subset of topsoil samples of the first German Agricultural
+    Soil Inventory.
+  dates:
+    issued: '2023-05-24'
+    publication: '2023'
+  rights: ''
+distribution:
+  contentUrl:
+    url: http://doi.org/10.5281/zenodo.7966076
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7966075
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Poeplau-Christopher:
+    individualname: Poeplau, Christopher
+    role: ''
+    organization: "Th\xFCnen Institute of Climate-Smart Agriculture"
+    url: https://orcid.org/0000-0003-3108-8810
+spatial:
+  type: ''
