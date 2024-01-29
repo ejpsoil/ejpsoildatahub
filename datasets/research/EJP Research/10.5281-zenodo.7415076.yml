@@ -1,0 +1,36 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7415076
+  dataseturi: http://doi.org/10.5281/zenodo.7415076
+  hierarchylevel: software
+identification:
+  keywords:
+    default:
+      keywords:
+        subject: export module
+  title: Export module of the EJP SOIL CarboSeq WP2 database
+  abstract: This export module in the form of a Jupyter Notebook with Voila widgets,
+    helps users to select and extract specific information from the EJP SOIL CarboSeq
+    WP2 database. The updated version of the script can be found at https://github.com/carboseq/tools.
+  dates:
+    issued: '2022-12-08'
+    publication: '2022'
+  rights: ''
+distribution:
+  contentUrl:
+    url: http://doi.org/10.5281/zenodo.7415076
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7415077
+    type: WWW:LINK
+    title: HasVersion
+contact:
+  Blanchy-Guillaume:
+    individualname: Blanchy, Guillaume
+    role: ''
+    organization: Flanders Research Institute for Agriculture, Fisheries and Food
+    url: https://orcid.org/0000-0001-6341-5826
+spatial:
+  type: ''

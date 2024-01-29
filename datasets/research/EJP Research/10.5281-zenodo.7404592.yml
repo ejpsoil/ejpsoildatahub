@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7404592
+  dataseturi: http://doi.org/10.5281/zenodo.7404592
+  hierarchylevel: journalarticle
+identification:
+  keywords:
+    default:
+      keywords:
+        subject: SOC
+  title: 'Databases to: Soil Organic Carbon Under Conservation Agriculture In Mediterranean
+    And Humid Subtropical Climates: Global Meta-Analysis'
+  abstract: 'Please, always download the last version of the file. LAST VERSION: 01
+    Databases linked to the peer review paper: Tadiello, T., Acutis, M., Perego, A.,
+    Schillaci, C., &amp; Valkama, E. (2023). Soil organic carbon under conservation
+    agriculture in Mediterranean and humid subtropical climates: Global meta-analysis.
+    European Journal of Soil Science, 74(1), e13338. https://doi.org/10.1111/ejss.13338
+    The file includes the dataset used for the meta-analysis and the raw data retrieved
+    from each scientific paper.'
+  dates:
+    issued: '2022-12-06'
+    publication: '2022'
+  rights: ''
+distribution:
+  contentUrl:
+    url: http://doi.org/10.5281/zenodo.7404592
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7404591
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Tadiello-Tommaso:
+    individualname: Tadiello, Tommaso
+    role: ''
+    organization: University of Milan
+    url: https://orcid.org/0000-0001-9919-317X
+  Acutis-Marco:
+    individualname: Acutis, Marco
+    role: ''
+    organization: University of Milan
+    url: https://orcid.org/0000-0002-1576-8261
+  Perego-Alessia:
+    individualname: Perego, Alessia
+    role: ''
+    organization: University of Milan
+    url: https://orcid.org/0000-0002-0601-9699
+  Schillaci-Calogero:
+    individualname: Schillaci, Calogero
+    role: ''
+    organization: European Commission, Joint Research Centre (JRC)
+    url: https://orcid.org/0000-0001-7689-5697
+  Valkama-Elena:
+    individualname: Valkama, Elena
+    role: ''
+    organization: Natural Resources Institute Finland (Luke)
+    url: https://orcid.org/0000-0002-8337-8070
+spatial:
+  type: ''

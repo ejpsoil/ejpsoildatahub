@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Scheper_2022
+  dataseturi: https://doi.org/10.1016/j.mex.2022.101826
+  hierarchylevel: dataset
+  datestamp: ''
+identification:
+  keywords:
+    default:
+      keywords: -'EJPSoil'
+  title: "TASOW \xE2\u20AC\u201C A tool for the automated selection of potential windbreaks"
+  abstract: ''
+  dates:
+    creation: ''
+  status: ''
+  language: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.1016/j.mex.2022.101826
+    type: WWW:LINK
+    title: Link
+  www:
+    name: "TASOW \xE2\u20AC\u201C A tool for the automated selection of potential\
+      \ windbreaks"
+    url: http://dx.doi.org/10.1016/j.mex.2022.101826
+    type: www
+contact:
+  ? ''
+  : individualname: ''
+    role: creator
+  Scheper-Simon-and-Kitzler-Barbara-and-Weninger-Thomas-and-Strauss-Peter-and-Michel-Kerstin:
+    individualname: Scheper, Simon and Kitzler, Barbara and Weninger, Thomas and Strauss,
+      Peter and Michel, Kerstin
+    role: author
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: publisher
+  Scheper-Simon:
+    individualname: Scheper, Simon
+    role: author
+  Kitzler-Barbara:
+    individualname: Kitzler, Barbara
+    role: author
+  Weninger-Thomas:
+    individualname: Weninger, Thomas
+    role: author
+  Strauss-Peter:
+    individualname: Strauss, Peter
+    role: author
+  Michel-Kerstin:
+    individualname: Michel, Kerstin
+    role: author
+spatial:
+  datatype: ''
+  geomtype: ''
+content_info: {}

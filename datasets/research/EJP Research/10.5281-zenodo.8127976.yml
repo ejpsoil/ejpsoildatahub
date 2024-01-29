@@ -1,0 +1,356 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8127976
+  dataseturi: http://doi.org/10.5281/zenodo.8127976
+  hierarchylevel: dataset
+identification:
+  keywords:
+    default:
+      keywords:
+        subject: EJPSOIL, LTEs, agricultural (meta)data, SOC, organic carbon
+  title: EJPSOIL CarboSeq crop and soil management database
+  abstract: The database of the EJPSOIL CarboSeq WP2 with (meta)data of long term
+    agricultural field experiments for Tier2 (SOC) and where available Tier 3 (carbon
+    input) from Europe
+  dates:
+    available: '2025-07-31'
+    accepted: '2023-07-09'
+    issued: '2023'
+    publication: '2023'
+  rights: ''
+distribution:
+  contentUrl:
+    url: http://doi.org/10.5281/zenodo.8127976
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8127975
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Ruysschaert-Greet:
+    individualname: Ruysschaert, Greet
+    role: ''
+    organization: Plant Sciences Unit, Flanders research institute for agriculture,
+      fisheries and food (ILVO), 9820 Merelbeke, Belgium
+    url: https://orcid.org/0000-0001-6735-0337
+  Panagea-Ioanna:
+    individualname: Panagea, Ioanna
+    role: ''
+    organization: Plant Sciences Unit, Flanders research institute for agriculture,
+      fisheries and food (ILVO), 9820 Merelbeke, Belgium
+    url: https://orcid.org/0000-0003-4813-2291
+  Blanchy-Guillaume:
+    individualname: Blanchy, Guillaume
+    role: ''
+    organization: Plant Sciences Unit, Flanders research institute for agriculture,
+      fisheries and food (ILVO), 9820 Merelbeke, Belgium
+    url: ''
+  Keiblinger-Katharina:
+    individualname: Keiblinger, Katharina
+    role: ''
+    organization: University of Natural Resources and Life Sciences, Department of
+      Forest and Soil Sciences, Institute of Soil Research, 1190 Vienna, Austria
+    url: ''
+  Diacono-Mariangela:
+    individualname: Diacono, Mariangela
+    role: ''
+    organization: Antonio Bruno, Claudia Di Bene, Silvia Vanino, Mariangela Diacono
+      Council for Agricultural Research and Economics (CREA), IT
+    url: ''
+  Rosinger-Christoph:
+    individualname: Rosinger, Christoph
+    role: ''
+    organization: University of Natural Resources and Life Sciences Vienna, Department
+      of Forest and Soil Sciences, Institute of Soil Research, 1190 Vienna, Austria,
+      University of Natural Resources and Life Sciences Vienna, Department of Crop
+      Sciences, Institute of Agronomy, 3430 Tulln an der Donau, Austria
+    url: ''
+  Di-Bene-Claudia:
+    individualname: Di Bene, Claudia
+    role: ''
+    organization: Antonio Bruno, Claudia Di Bene, Silvia Vanino, Mariangela Diacono
+      Council for Agricultural Research and Economics (CREA), IT
+    url: ''
+  Makoschitz-Lisa:
+    individualname: Makoschitz, Lisa
+    role: ''
+    organization: Austrian Agency for Health and Food Safety (AGES), AT
+    url: ''
+  Sanden-Taru:
+    individualname: "Sand\xE9n, Taru"
+    role: ''
+    organization: Austrian Agency for Health and Food Safety (AGES), AT
+    url: ''
+  Spiegel-Heide:
+    individualname: Spiegel, Heide
+    role: ''
+    organization: Austrian Agency for Health and Food Safety (AGES), AT
+    url: ''
+  Alonso-Ayuso-Maria:
+    individualname: "Alonso-Ayuso, Mar\xEDa"
+    role: ''
+    organization: "Spanish National Research Council. Department of Soil and Water,\
+      \ Estaci\xF3n Experimental de Aula Dei, 50015 Zaragoza. Spain"
+    url: ''
+  Martinez-Garcia-Laura-B.:
+    individualname: Martinez-Garcia, Laura B.
+    role: ''
+    organization: "Spanish National Research Council. Department of Soil and Water,\
+      \ Estaci\xF3n Experimental de Aula Dei, 50015 Zaragoza. Spain."
+    url: ''
+  Alvaro-Fuentes-Jorge:
+    individualname: Alvaro-Fuentes, Jorge
+    role: ''
+    organization: "Spanish National Research Council. Department of Soil and Water,\
+      \ Estaci\xF3n Experimental de Aula Dei, 50015 Zaragoza. Spain"
+    url: ''
+  Suhadolc-Marjetka:
+    individualname: Suhadolc, Marjetka
+    role: ''
+    organization: University of Ljubljana, Biotechnical Faculty, SI-1000 Ljubljana,
+      Slovenia
+    url: ''
+  Ocvirk-Kristina:
+    individualname: Ocvirk, Kristina
+    role: ''
+    organization: University of Ljubljana, Biotechnical Faculty, SI-1000 Ljubljana,
+      Slovenia
+    url: ''
+  Kay-Sonja:
+    individualname: Kay, Sonja
+    role: ''
+    organization: Agroscope, Research Group Agricultural Landscapes and Biodiversity,
+      8049 Zurich, Switzerland
+    url: ''
+  Viaud-Valerie:
+    individualname: Viaud, Valerie
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement (INRAE), UMR SAS, 35000 Rennes, France
+    url: ''
+  Barcena-Teresa-G.:
+    individualname: "B\xE1rcena, Teresa G."
+    role: ''
+    organization: Norwegian Institute of Bioeconomy Research (NIBIO), NO
+    url: ''
+  Bruno-Antonio:
+    individualname: Bruno, Antonio
+    role: ''
+    organization: Council for Agricultural Research and Economics (CREA), IT
+    url: ''
+  Carranca-Corina:
+    individualname: Carranca, Corina
+    role: ''
+    organization: National Institute for Agrarian and Veterinarian Research I. P.
+      (INIAV), PT
+    url: ''
+  Castanheira-Nadia:
+    individualname: "Castanheira, N\xE1dia"
+    role: DataCollector
+    organization: National Institute for Agrarian and Veterinarian Research I. P.
+      (INIAV), PT
+    url: ''
+  De-Boever-Marteen:
+    individualname: De Boever, Marteen
+    role: ''
+    organization: Plant Sciences Unit, Flanders research institute for agriculture,
+      fisheries and food (ILVO), 9820 Merelbeke, Belgium
+    url: ''
+  Demir-Zeynep:
+    individualname: Demir, Zeynep
+    role: ''
+    organization: Ministry of Food, Agriculture and Livestock, General Directorate
+      of Agricultural Research and Policies (TAGEM), TR
+    url: ''
+  D'Hose-Tommy:
+    individualname: D'Hose, Tommy
+    role: ''
+    organization: Plant Sciences Unit, Flanders research institute for agriculture,
+      fisheries and food (ILVO), 9820 Merelbeke, Belgium
+    url: ''
+  Erdal-Ulfet:
+    individualname: "Erdal, \xDClfet"
+    role: ''
+    organization: Ministry of Food, Agriculture and Livestock, General Directorate
+      of Agricultural Research and Policies (TAGEM), TR
+    url: ''
+  Feiza-Virginijus:
+    individualname: Feiza, Virginijus
+    role: ''
+    organization: Lithuanian Research Centre for Agriculture and Forestry (LAMMC),
+      LT
+    url: ''
+  Gabriel-Jose-L:
+    individualname: Gabriel, Jose L
+    role: ''
+    organization: National Institute for Agriculture and Food Research and Technology
+      - Higher Council for Scientific Research (INIA-CSIC), ES
+    url: ''
+  Ghiasi-Shiva:
+    individualname: Ghiasi, Shiva
+    role: ''
+    organization: Agroscope (AGS), CH
+    url: ''
+  Gillikin-Ava:
+    individualname: Gillikin, Ava
+    role: ''
+    organization: Wageningen University & Research (WUR), NL
+    url: ''
+  Hirte-Juliane:
+    individualname: Hirte, Juliane
+    role: ''
+    organization: Agroscope (AGS), CH
+    url: ''
+  Hendriks-Chantal:
+    individualname: Hendriks, Chantal
+    role: ''
+    organization: Wageningen University & Research (WUR), NL
+    url: ''
+  Jacobs-Anna:
+    individualname: Jacobs, Anna
+    role: ''
+    organization: "Th\xFCnen Institute of Climate-Smart Agriculture (Th\xFCnen), DE"
+    url: ''
+  Jensen-Johannes-L.:
+    individualname: Jensen, Johannes L.
+    role: ''
+    organization: Aarhus University (AU), DK
+    url: ''
+  Kauer-Karin:
+    individualname: Kauer, Karin
+    role: ''
+    organization: Estonian University of Life Sciences, (EMU), EE
+    url: ''
+  Mertens-Kaat:
+    individualname: Mertens, Kaat
+    role: ''
+    organization: Plant Sciences Unit, Flanders research institute for agriculture,
+      fisheries and food (ILVO), 9820 Merelbeke, Belgium
+    url: ''
+  Mihelic-Rok:
+    individualname: "Miheli\u010D, Rok"
+    role: ''
+    organization: University of Ljubljana, Biotechnical Faculty, Centre for Soil and
+      Environmental Science (ULBF), SI
+    url: ''
+  Mockeviciene-Ieva:
+    individualname: Mockeviciene, Ieva
+    role: ''
+    organization: Lithuanian Research Centre for Agriculture and Forestry (LAMMC),
+      LT
+    url: ''
+  Pardon-Paul:
+    individualname: Pardon, Paul
+    role: ''
+    organization: Plant Sciences Unit, Flanders research institute for agriculture,
+      fisheries and food (ILVO), 9090 Melle, Belgium
+    url: ''
+  Parvin-Nargish:
+    individualname: Parvin, Nargish
+    role: ''
+    organization: Swedish University of Agricultural Sciences (SLU), SE
+    url: ''
+  Pfeil-Christoph:
+    individualname: Pfeil, Christoph
+    role: ''
+    organization: Agroscope (AGS), CH
+    url: ''
+  Plaza-Cesar:
+    individualname: "Plaza, C\xE9sar"
+    role: ''
+    organization: National Institute for Agriculture and Food Research and Technology
+      - Higher Council for Scientific Research (INIA-CSIC), ES
+    url: ''
+  Santin-Montanya-M.I.:
+    individualname: "Sant\xEDn-Montany\xE1, M.I."
+    role: ''
+    organization: National Institute for Agriculture and Food Research and Technology
+      - Higher Council for Scientific Research (INIA-CSIC), ES
+    url: ''
+  Schneider-Florian:
+    individualname: Schneider, Florian
+    role: ''
+    organization: "Th\xFCnen Institute of Climate-Smart Agriculture, Germany"
+    url: ''
+  Seitz-Daria:
+    individualname: Seitz, Daria
+    role: ''
+    organization: "Th\xFCnen Institute of Climate-Smart Agriculture, Germany"
+    url: ''
+  Vanino-Silvia:
+    individualname: Vanino, Silvia
+    role: ''
+    organization: Council for Agricultural Research and Economics (CREA), IT
+    url: ''
+  Verdonk-Loes:
+    individualname: Verdonk, Loes
+    role: ''
+    organization: Wageningen University & Research (WUR), NL
+    url: ''
+  Vilkiene-Monika:
+    individualname: Vilkiene, Monika
+    role: ''
+    organization: Lithuanian Research Centre for Agriculture and Forestry (LAMMC),
+      LT
+    url: ''
+  Seidel-Felix:
+    individualname: Seidel, Felix
+    role: ''
+    organization: "Th\xFCnen Institute of Climate-Smart Agriculture, Germany"
+    url: ''
+  Don-Axel:
+    individualname: Don, Axel
+    role: ''
+    organization: "Th\xFCnen Institute of Climate-Smart Agriculture, Germany"
+    url: ''
+  Bruno-Huyghebaert:
+    individualname: Bruno, Huyghebaert
+    role: DataCollector
+    organization: Centre Wallon de Recherches Agronomiques (CRAW), BE
+    url: ''
+  D'Avino-Lorenzo:
+    individualname: D'Avino, Lorenzo
+    role: DataCollector
+    organization: Council for Agricultural Research and Economics (CREA), IT
+    url: ''
+  da-Conceicao-Goncalves-Maria:
+    individualname: "da Concei\xE7\xE3o Gon\xE7alves, Maria"
+    role: DataCollector
+    organization: National Institute for Agrarian and Veterinarian Research I. P.
+      (INIAV), PT
+    url: ''
+  Drexler-Sophie:
+    individualname: Drexler, Sophie
+    role: DataCollector
+    organization: "Th\xFCnen Institute of Climate-Smart Agriculture (Th\xFCnen), DE"
+    url: ''
+  Henriksen-Trond-M.:
+    individualname: Henriksen, Trond M.
+    role: DataCollector
+    organization: Norwegian Institute of Bioeconomy Research (NIBIO), NO
+    url: ''
+  Klumpp-Katja:
+    individualname: Klumpp, Katja
+    role: DataCollector
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement (INRAE), FR
+    url: ''
+  Siebielec-Grzegorz:
+    individualname: Siebielec, Grzegorz
+    role: DataCollector
+    organization: Institute of Soil Science and Plant Cultivation (IUNG), PL
+    url: ''
+  Stajnko-Denis:
+    individualname: Stajnko, Denis
+    role: DataCollector
+    organization: University of Maribor, (FKBV), SI
+    url: ''
+  Toth-Eszter:
+    individualname: "T\xF3th, Eszter"
+    role: DataCollector
+    organization: Centre for Agricultural Research (ATK), HU
+    url: ''
+spatial:
+  type: ''

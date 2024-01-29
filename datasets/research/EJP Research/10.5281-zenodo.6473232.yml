@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6473232
+  dataseturi: http://doi.org/10.5281/zenodo.6473232
+  hierarchylevel: dataset
+identification:
+  keywords:
+    default:
+      keywords: -'EJPSoil'
+  title: Characterization of the Agroecological Zones of Europe
+  abstract: 'This dataset was compiled in the i-SoMPE Project of EJP SOIL in 2021
+    and 2022. This dataset contains information to characterize the agroecological
+    zones (AEZ) of Europe on 4 spatial levels. The data was calculated by an R project
+    available on GitLab (https://gitlab.com/heoi/i-sompe-wp1 and https://gitlab.com/heoi/i-SoMPE-WP1-Agri4Cast)
+    using various data on land use, cliamate, soil characteristics and slope. More
+    information on the data can be found in the report of the i-SoMPE project. The
+    dataset contains the following files: 1 XLSX file with information on all 4 spatial
+    levels 4 CSV files with information on 1 of 4 spatial levels 1 XLSX file that
+    contains information on the attributes described in the dataset 1 ZIP-Folder with
+    a shapefile of the AEZs used in i-SoMPE and described in the dataset'
+  dates:
+    issued: '2022-04-20'
+    publication: '2022'
+  rights: ''
+distribution:
+  contentUrl:
+    url: http://doi.org/10.5281/zenodo.6473232
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6473231
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Heller-Olivier:
+    individualname: Heller, Olivier
+    role: ''
+    organization: Agroscope
+    url: https://orcid.org/0000-0002-5918-4161
+spatial:
+  type: ''

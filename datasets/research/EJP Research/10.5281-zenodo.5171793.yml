@@ -1,0 +1,33 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5171793
+  dataseturi: http://doi.org/10.5281/zenodo.5171793
+  hierarchylevel: software
+identification:
+  keywords:
+    default:
+      keywords: -'EJPSoil'
+  title: 'FlorianSchne/reciprocalModelling: Article in press'
+  abstract: R code version for article in press
+  dates:
+    issued: '2021-08-09'
+    publication: '2021'
+  rights: ''
+distribution:
+  contentUrl:
+    url: http://doi.org/10.5281/zenodo.5171793
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.5171794
+    type: WWW:LINK
+    title: HasVersion
+contact:
+  Schneider-Florian:
+    individualname: Schneider, Florian
+    role: ''
+    organization: ''
+    url: ''
+spatial:
+  type: ''

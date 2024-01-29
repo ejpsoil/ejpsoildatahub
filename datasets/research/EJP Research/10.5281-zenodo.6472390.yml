@@ -1,0 +1,34 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6472390
+  dataseturi: http://doi.org/10.5281/zenodo.6472390
+  hierarchylevel: dataset
+identification:
+  keywords:
+    default:
+      keywords: -'EJPSoil'
+  title: Zonal and raster data for i-SoMPE WP1 R Project
+  abstract: This data is necessary to run the i-SoMPE WP1 R Project available on GitLab
+    (https://gitlab.com/heoi/i-sompe-wp1)
+  dates:
+    issued: '2022-04-20'
+    publication: '2022'
+  rights: ''
+distribution:
+  contentUrl:
+    url: http://doi.org/10.5281/zenodo.6472390
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6472389
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Heller-Olivier:
+    individualname: Heller, Olivier
+    role: ''
+    organization: Agroscope
+    url: https://orcid.org/0000-0002-5918-4161
+spatial:
+  type: ''

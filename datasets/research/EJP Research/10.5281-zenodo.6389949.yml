@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6389949
+  dataseturi: http://doi.org/10.5281/zenodo.6389949
+  hierarchylevel: dataset
+identification:
+  keywords:
+    default:
+      keywords:
+        subject: weighting
+  title: 'Supplementary material to: Quality Assessment of Meta-Analyses on Soil Organic
+    Carbon'
+  abstract: '<strong>Title</strong>: Supplementary material to: Quality Assessment
+    of Meta-Analyses on Soil Organic Carbon <strong>Content</strong>: underlying data
+    to article Table S1: List of resources for assessing the quality of, reporting
+    or creating meta-analyses in several disciplines Table S2: 31 soil organic carbon
+    meta-analyses and their individual scores per (sub)-criterium Table S3: Literature
+    gathering Table S4: Information on screening process Table S5: Results for all
+    meta-analyses per group and (sub)-criterium Table S6: Quick quality assessment
+    of meta-analyses in IPCC report with the help of "cut-off" criteria Table S7:
+    Results for criteria 1-5 and 9-17 from meta-analyses that passed and did not pass
+    the "cut-off" criteria Table S8: Template for quality assessment'
+  dates:
+    issued: '2022-11-28'
+    publication: '2022'
+  rights: ''
+distribution:
+  contentUrl:
+    url: http://doi.org/10.5281/zenodo.6389949
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5194/egusphere-2022-488
+    type: WWW:LINK
+    title: IsSupplementedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.6389948
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Fohrafellner-Julia:
+    individualname: Fohrafellner, Julia
+    role: ''
+    organization: BIOS Science Austria
+    url: https://orcid.org/0000-0001-5734-7353
+  Zechmeister-Boltenstern-Sophie:
+    individualname: Zechmeister-Boltenstern, Sophie
+    role: ''
+    organization: University of Natural Resources and Life Sciences, Vienna (BOKU)
+    url: ''
+  Murugan-Rajasekaran:
+    individualname: Murugan, Rajasekaran
+    role: ''
+    organization: University of Natural Resources and Life Sciences, Vienna (BOKU)
+    url: ''
+  Valkama-Elena:
+    individualname: Valkama, Elena
+    role: ''
+    organization: Natural Resources Institute Finland (Luke)
+    url: https://orcid.org/0000-0002-8337-8070
+spatial:
+  type: ''
