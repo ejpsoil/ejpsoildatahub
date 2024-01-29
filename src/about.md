@@ -18,6 +18,10 @@ At present, the metadata catalogue contains metadata from these sources:
 
 - Metadata of datasets harvested from [ESDAC](https://esdac.jrc.ec.europa.eu/resource-type/datasets) 
 
+We kindly ask you to report any issues on existing registrations or to suggest missing entries via a [git issue](https://github.com/ejpsoil/ejpsoildatahub/issues).
+
+Metadata records are stored in a conveniant [MCF format](https://geopython.github.io/pygeometa/reference/mcf/), a metadata convention from the geopython community, which is a compatible subset of ISO19115. If you prefer a guided editor, consider to modify the record using [mdme](https://osgeo.github.io/mdme/).
+
 ## Read more
 
 Technical articles are available in the [project wiki](https://ejpsoil.github.io/soildata-assimilation-guidance) on how to interact with the system and metadata in general:
@@ -26,8 +30,8 @@ Technical articles are available in the [project wiki](https://ejpsoil.github.io
 - [Overview metadata & discovery](https://ejpsoil.github.io/soildata-assimilation-guidance/metadata.html)
 - [Introduction to pycsw](https://ejpsoil.github.io/soildata-assimilation-guidance/cookbook/pycsw.html)
 
-## EJPSoil
+## EJP SOIL
 
-The overall goal of the [EJP Soil](https://ejpsoil.eu/about-ejp-soil) programme is to build a sustainable European integrated research system and develop and deploy a reference framework on climate-smart, sustainable agricultural soil management. EJP SOIL unites a unique group of 26 partners from 24 European countries, > 400 scientists in a 5 year programme (2020 - 2025).
+The overall goal of the [EJP SOIL](https://ejpsoil.eu/about-ejp-soil) programme is to build a sustainable European integrated research system and develop and deploy a reference framework on climate-smart, sustainable agricultural soil management. EJP SOIL unites a unique group of 26 partners from 24 European countries, > 400 scientists in a 5 year programme (2020 - 2025).
 
 ![Funded under EU grant 862695](https://ejpsoil.eu/fileadmin/_processed_/0/3/csm_Horizon_2020_funding_Thumbnail_a20cd538b7.jpg)
