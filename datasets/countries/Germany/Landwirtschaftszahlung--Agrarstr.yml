@@ -15,7 +15,7 @@ identification:
   language: null
   charset: utf8
   title: "Landwirtschaftsz\xE4hlung/ Agrarstrukturerhebung"
-  abstract: "Farmer questionnaire "
+  abstract: 'Farmer questionnaire '
   dates:
     creation: 1930 until today
   keywords:

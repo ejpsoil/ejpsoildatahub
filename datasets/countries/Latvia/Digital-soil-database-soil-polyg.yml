@@ -15,8 +15,8 @@ identification:
   language: null
   charset: utf8
   title: Digital soil database (soil polygons )
-  abstract: "profile sampling (samples from topsoil and subsoil), soil sampling with\
-    \ augers.  "
+  abstract: 'profile sampling (samples from topsoil and subsoil), soil sampling with
+    augers.  '
   dates:
     creation: 1960-1991
   keywords:

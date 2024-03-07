@@ -15,8 +15,8 @@ identification:
   charset: utf8
   title: Turkish Ministry of Agriculture and Forestry Soil Fertilizer and Water Resources
     Central Research Institute  Soil Information System
-  abstract: "mixed sampling type, 2 Km x 2 Km grid, soil profile sampling Mainly top\
-    \ soil, 0-30 cm, soil profile  "
+  abstract: 'mixed sampling type, 2 Km x 2 Km grid, soil profile sampling Mainly top
+    soil, 0-30 cm, soil profile  '
   dates:
     creation: 2008- present
   keywords:

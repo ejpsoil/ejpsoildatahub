@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Italian-Soil-Information-System
+  identifier: Costantini_2013
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -10,17 +10,20 @@ metadata:
 spatial:
   resolution: 1:1.000.000
   datatype: DERIVED Soil Profiles linked to the polygons
+  geomtype: ''
 identification:
-  language: null
+  language: ''
   charset: utf8
-  title: Italian Soil Information System
-  abstract: "mainly based on profile sampling "
+  title: Pedodiversity
+  abstract: 'mainly based on profile sampling '
   dates:
     creation: '2013'
   keywords:
     default:
       keywords:
-      - EJP Country survey
+      - ''
+      - ''
+      - ''
     country:
       keywords:
       - Italy
@@ -32,13 +35,41 @@ identification:
   extents:
     temporal:
     - begin: '2013'
+    spatial:
+    - bbox: []
+      crs: '4326'
   accessconstraints: No restrictions
   rights: ''
   maintenancefrequency: null
+  status: ''
 contact:
   pointOfContact:
     organization: CREA
     country: Italy
+  Costantini-Edoardo-A.-C.:
+    individualname: Costantini, Edoardo A. C.
+    role: creator
+  Barbetti-Roberto:
+    individualname: Barbetti, Roberto
+    role: creator
+  Fantappie-Maria:
+    individualname: "Fantappi\xE8, Maria"
+    role: creator
+  L'Abate-Giovanni:
+    individualname: "L\u2019Abate, Giovanni"
+    role: creator
+  Lorenzetti-Romina:
+    individualname: Lorenzetti, Romina
+    role: creator
+  Magini-Simona:
+    individualname: Magini, Simona
+    role: creator
+  Springer-Netherlands:
+    individualname: Springer Netherlands
+    role: creator
+  ? ''
+  : individualname: ''
+    role: creator
 dataquality:
   scope:
     level: dataset
@@ -46,3 +77,9 @@ dataquality:
     statement: 'mainly based on profile sampling. Mapping: Conventional mapping,https://doi.org/10.1007/978-94-007-5642-7_6.
       Depth intervals: Genetic-based horizons (A, Ap, B, C etc). Uncertainty quantification:
       NO'
+distribution:
+  www:
+    name: Pedodiversity
+    url: http://dx.doi.org/10.1007/978-94-007-5642-7_6
+    type: www
+content_info: {}

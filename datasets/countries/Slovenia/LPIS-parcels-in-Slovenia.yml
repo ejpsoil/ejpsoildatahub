@@ -13,9 +13,9 @@ identification:
   language: null
   charset: utf8
   title: LPIS-parcels in Slovenia
-  abstract: "Agricultural land use data, collected annually, for estimation of subsidies\
-    \ rights. Land use elements do not reflect cadaster parcels. In digital form and\
-    \ parcel-specific. "
+  abstract: 'Agricultural land use data, collected annually, for estimation of subsidies
+    rights. Land use elements do not reflect cadaster parcels. In digital form and
+    parcel-specific. '
   dates:
     creation: 2005 -
   keywords:

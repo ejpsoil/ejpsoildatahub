@@ -1,22 +1,24 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Monitoring-of-the-Chemical-Properties-of-Arable-Soils-in-Poland
+  identifier: doi.org-10.26114-sir.iung.2017.51.04
   language: eng
   charset: utf8
   datestamp: 2022-01-01
-  hierarchylevel: dataset
+  hierarchylevel: datapaper
   dataseturi: https://doi.org/10.26114/sir.iung.2017.51.04
 spatial:
   resolution: 216
   datatype: POINT
+  type: ''
 identification:
   language: null
   charset: utf8
-  title: Monitoring of the Chemical Properties of Arable Soils in Poland
-  abstract: "topsoil layer "
+  title: "Sta\u0142y monitoring gleb u\u017Cytk\xF3w rolnych Polski"
+  abstract: 'topsoil layer '
   dates:
     creation: 1995-2015
+    publication: '2017'
   keywords:
     default:
       keywords:
@@ -39,8 +41,18 @@ contact:
   pointOfContact:
     organization: "IUNG-GIO\u015A"
     country: Poland
+  Grzegorz-Siebielec:
+    individualname: Grzegorz Siebielec
+    role: ''
+    organization: ''
+    url: ''
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: 'topsoil layer. Mapping: . Depth intervals: 0-20 cm. Uncertainty quantification: '
+distribution:
+  contentUrl:
+    url: https://doi.org/10.26114/sir.iung.2017.51.04
+    type: WWW:LINK
+    title: Link

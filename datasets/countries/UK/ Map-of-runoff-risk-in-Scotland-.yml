@@ -1,10 +1,10 @@
 mcf:
-  version: 1.0
+  version: '1.0'
 metadata:
-  identifier: "\_Map-of-runoff-risk-in-Scotland-(partial-cover)"
+  identifier: ab89fb3c-14fa-4ec1-8cd2-f9811a61713d
   language: eng
   charset: utf8
-  datestamp: 2022-01-01
+  datestamp: '2022-03-23'
   hierarchylevel: dataset
   dataseturi: https://www.spatialdata.gov.scot/geonetwork/srv/metadata/ab89fb3c-14fa-4ec1-8cd2-f9811a61713d
 spatial:
@@ -13,13 +13,18 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: "\_Map of runoff risk in Scotland (partial cover)"
-  abstract: 'mixed sampling type - incorporates all previous detailed soil mapping
-    augmented by a reconnaissance survey at 2-3/kme Data relates to soil surface (topsoil)
-
-    '
+  title: Map of runoff risk (partial cover)
+  abstract: 'The map shows the risk of water flowing overland (runoff) carrying potential
+    pollutants into water courses. This map primarily covers the cultivated land in
+    Scotland. The digital dataset gives information on the likelihood of a potential
+    pollutant applied to the soil surface running off the land to a water course in
+    3 classes: Low, Moderate or High and is based on fundamental soil characteristics
+    such as depth to a slowly permeable layer, soil porosity and flow pathways through
+    the soil.'
   dates:
-    creation: 1947-1981
+    creation: '2018-04-19'
+    publication: '2018-04-19'
+    revision: '2018-04-19'
   keywords:
     default:
       keywords:
@@ -30,18 +35,44 @@ identification:
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
+    keywords-0:
+      type: null
+      keywords:
+      - runoff
+    keywords-1:
+      type: theme
+      keywords:
+      - Soil
   topiccategory:
+  - farming
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 1947-1981
-  accessconstraints: No restrictions
+    - begin: '2018-04-19'
+      end: '2018-04-19'
+    spatial:
+    - bbox:
+      - -5.2
+      - 54.6
+      - -1.7
+      - 58.7
+  accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: it was a single survey
+  status: null
 contact:
   pointOfContact:
-    organization: James Hutton Institute
+    organization: The James Hutton Institute
     country: UK
+    individualname: Allan Lilly
+    positionname: Principal Soil Scientist
+    phone: null
+    fax: null
+    address: Craigiebuckler
+    city: Aberdeen
+    administrativearea: null
+    postalcode: null
+    email: soils@hutton.ac.uk
 dataquality:
   scope:
     level: dataset
@@ -49,3 +80,10 @@ dataquality:
     statement: 'mixed sampling type - incorporates all previous detailed soil mapping
       augmented by a reconnaissance survey at 2-3/kme. Mapping: Conventional mapping,https://doi.org/10.1007/978-94-007-5642-7_6.
       Depth intervals: otherRestrictions. Uncertainty quantification: '
+distribution:
+  link-0:
+    url: https://www.hutton.ac.uk/learning/natural-resource-datasets/soilshutton/soils-maps-scotland/download
+    type: null
+    name: null
+    description: null
+    function: null

@@ -1,10 +1,10 @@
 mcf:
-  version: 1.0
+  version: '1.0'
 metadata:
-  identifier: WRB-Reference-Soil-Groups-250k
+  identifier: 64e8a11d-5602-4ad5-b370-e4d396fe218f
   language: eng
   charset: utf8
-  datestamp: 2022-01-01
+  datestamp: '2023-11-08'
   hierarchylevel: dataset
   dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/64e8a11d-5602-4ad5-b370-e4d396fe218f
 spatial:
@@ -13,10 +13,20 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: WRB Reference Soil Groups 250k
-  abstract: "borehole/profile "
+  title: 'WRB Reference Soil Groups 250k: Bodemkaart van het Vlaamse Gewest volgens
+    het internationale bodemclassificatiesysteem World Reference Base op schaal 1:250.000'
+  abstract: "Voor het Vlaamse Gewest werd de Belgische bodemkaart omgezet naar WRB-2014,\
+    \ de 3de editie van het internationaal bodemclassificatiesysteem World Reference\
+    \ Base. Het resultaat ziet u in de kaartlaag \u2018WRB Soil Units 40k: Bodemkaart\
+    \ van het Vlaamse Gewest volgens het internationale bodemclassificatiesysteem\
+    \ World Reference Base op schaal 1:40.000\u2019. De kaartlaag op schaal 250.000\
+    \ is een generalisatie van deze kaartlaag op schaal 1:40.000. De gegeneraliseerde\
+    \ kaartlaag bevat de dominante (meest voorkomende) Reference Soil Group (RSG)\
+    \ en de bijhorende Principal Qualifiers (PQ) en twee geassocieerde RSG\u2019s\
+    \ met hun PQ\u2019s (tweede en derde meest voorkomend) per kaarteenheid."
   dates:
-    creation: 1947-1978
+    creation: '2014-10-31'
+    publication: '2015-04-26'
   keywords:
     default:
       keywords:
@@ -27,22 +37,152 @@ identification:
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
+    keywords-0:
+      type: null
+      keywords:
+      - Bodem
+    keywords-1:
+      type: null
+      keywords:
+      - ondergrond
+    keywords-2:
+      type: null
+      keywords:
+      - DOV
+      - Vlaanderen
+      - Ondergrond
+      - Databank Ondergrond Vlaanderen
+      - Departement Omgeving
+      - Reference Soil Group
+      - Principal Qualifiers
+    keywords-3:
+      type: theme
+      keywords:
+      - Regionaal
+    keywords-4:
+      type: theme
+      keywords:
+      - Herbruikbaar
+      - Kosteloos
+      - Vlaamse Open data
+      - Toegevoegd GDI-Vl
+      - Metadata GDI-Vl-conform
+      - Metadata INSPIRE-conform
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 1947-1978
-  accessconstraints: No restrictions
+    - {}
+    spatial:
+    - bbox:
+      - 2.5294427620720183
+      - 50.672832844236424
+      - 5.936771055454563
+      - 51.50622502468869
+  accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: it was a single survey
+  status: completed
 contact:
   pointOfContact:
     organization: Vlaamse overheid, Departement Omgeving, Vlaams Planbureau voor Omgeving
       (VPO)
-    country: Belgium
+    country: "Belgi\xEB"
+    individualname: null
+    positionname: null
+    phone: null
+    fax: null
+    address: Koning Albert II-laan 20 bus 8
+    city: Brussel
+    administrativearea: null
+    postalcode: '1000'
+    email: vpo.omgeving@vlaanderen.be
+    url: https://www.omgevingvlaanderen.be
+  distributor:
+    organization: null
+    individualname: null
+    positionname: null
+    phone: +32 9 240 75 93
+    fax: null
+    address: Technologiepark-Zwijnaarde 68
+    city: Gent
+    administrativearea: null
+    postalcode: '9052'
+    country: "Belgi\xEB"
+    email: dov@vlaanderen.be
+    url: https://www.dov.vlaanderen.be
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: 'borehole/profile. Mapping: . Depth intervals: . Uncertainty quantification:
       NO'
+distribution:
+  link-0:
+    url: https://www.dov.vlaanderen.be/geoserver/bodemkaart_afgeleid/wfs?
+    type: OGC:WFS
+    name: wrb_250000
+    description: 'WFS-endpoint WRB Reference Soil Groups 250k: Bodemkaart van het
+      Vlaamse Gewest volgens het internationale bodemclassificatiesysteem World Reference
+      Base op schaal 1:250.000'
+    function: download
+  link-1:
+    url: https://www.dov.vlaanderen.be/geoserver/bodemkaart_afgeleid/wfs?SERVICE=WFS&version=2.0.0&request=GetCapabilities
+    type: OGC:WFS-2.0.0-http-get-capabilities
+    name: bodemkaart_afgeleid:wrb_250000
+    description: 'WFS-capabilities WRB Reference Soil Groups 250k: Bodemkaart van
+      het Vlaamse Gewest volgens het internationale bodemclassificatiesysteem World
+      Reference Base op schaal 1:250.000'
+    function: download
+  link-2:
+    url: https://www.dov.vlaanderen.be/geoserver/bodemkaart_afgeleid/wms?SERVICE=WMS&version=1.3.0&request=GetCapabilities
+    type: OGC:WMS-1.3.0-http-get-capabilities
+    name: wrb_250000
+    description: 'WMS-capabilities WRB Reference Soil Groups 250k: Bodemkaart van
+      het Vlaamse Gewest volgens het internationale bodemclassificatiesysteem World
+      Reference Base op schaal 1:250.000'
+    function: null
+  link-3:
+    url: https://www.dov.vlaanderen.be/geoserver/bodemkaart_afgeleid/wms/kml?layers=wrb_250000
+    type: GLG:KML-2.0-http-get-map
+    name: wrb_250000
+    description: 'KML WRB Reference Soil Groups 250k: Bodemkaart van het Vlaamse Gewest
+      volgens het internationale bodemclassificatiesysteem World Reference Base op
+      schaal 1:250.000'
+    function: null
+  link-4:
+    url: https://www.dov.vlaanderen.be/geoserver/bodemkaart_afgeleid/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    type: OGC:WMS-1.3.0-http-get-map
+    name: wrb_250000
+    description: 'WMS-map WRB Reference Soil Groups 250k: Bodemkaart van het Vlaamse
+      Gewest volgens het internationale bodemclassificatiesysteem World Reference
+      Base op schaal 1:250.000'
+    function: null
+  link-5:
+    url: https://www.dov.vlaanderen.be/geoserver/bodemkaart_afgeleid/wms?
+    type: OGC:WMS
+    name: wrb_250000
+    description: 'WMS-endpoint WRB Reference Soil Groups 250k: Bodemkaart van het
+      Vlaamse Gewest volgens het internationale bodemclassificatiesysteem World Reference
+      Base op schaal 1:250.000'
+    function: null
+  link-6:
+    url: https://www.dov.vlaanderen.be/geoserver/bodemkaart_afgeleid/wfs?SERVICE=WFS&version=2.0.0&request=GetFeature&count=1&typeName=wrb_250000
+    type: OGC:WFS-2.0.0-http-get-feature
+    name: wrb_250000
+    description: 'WFS-feature WRB Reference Soil Groups 250k: Bodemkaart van het Vlaamse
+      Gewest volgens het internationale bodemclassificatiesysteem World Reference
+      Base op schaal 1:250.000'
+    function: download
+  link-7:
+    url: https://www.milieuinfo.be/dms/d/a/workspace/SpacesStore/522846b2-ec51-470f-91d6-16fd36265caa/wrb_250k.zip
+    type: WWW:DOWNLOAD-1.0-http--download
+    name: Download WRB Reference Soil Groups 250k
+    description: Link naar download WRB Reference Soil Groups 250k
+    function: null
+  link-8:
+    url: https://www.dov.vlaanderen.be/bodemverkenner
+    type: WWW:LINK-1.0-http--related
+    name: DOV bodemverkenner
+    description: Link naar DOV bodemverkenner applicatie
+    function: null

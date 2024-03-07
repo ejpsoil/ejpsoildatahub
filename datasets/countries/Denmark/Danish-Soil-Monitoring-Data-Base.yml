@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Danish-Soil-Monitoring-Data-Base
+  identifier: Taghizadeh_Toosi_2014
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -10,10 +10,12 @@ metadata:
 spatial:
   resolution: Points located in 7-km grid, about 830 in total
   datatype: POINT
+  geomtype: ''
 identification:
-  language: null
+  language: ''
   charset: utf8
-  title: Danish Soil Monitoring Data Base
+  title: Changes in carbon stocks of <scp>D</scp>anish agricultural mineral soils
+    between 1986 and 2009
   abstract: 'The data represent bulk samples composed of 16 subsamples collected within
     a 50x50 m area. Samples were collected in 1986, 1997, 2009 and 2019. Sampling
     intervals,0 - 25 cm, 25 - 50 cm, 50 - 75 cm, 75 - 100 cm
@@ -24,7 +26,9 @@ identification:
   keywords:
     default:
       keywords:
-      - EJP Country survey
+      - ''
+      - ''
+      - ''
     country:
       keywords:
       - Denmark
@@ -36,13 +40,47 @@ identification:
   extents:
     temporal:
     - begin: '2019'
+    spatial:
+    - bbox: []
+      crs: '4326'
   accessconstraints: Restricted
   rights: ''
   maintenancefrequency: regular monitoring 5-10 years
+  status: ''
 contact:
   pointOfContact:
     organization: Aarhus University
     country: Denmark
+  Taghizadeh-Toosi-A.:
+    individualname: "Taghizadeh\u2010Toosi, A."
+    role: creator
+  Olesen-J.-E.:
+    individualname: Olesen, J. E.
+    role: creator
+  Kristensen-K.:
+    individualname: Kristensen, K.
+    role: creator
+  Elsgaard-L.:
+    individualname: Elsgaard, L.
+    role: creator
+  Ostergaard-H.-S.:
+    individualname: "\xD8stergaard, H. S."
+    role: creator
+  Laegdsmand-M.:
+    individualname: "L\xE6gdsmand, M."
+    role: creator
+  Greve-M.-H.:
+    individualname: Greve, M. H.
+    role: creator
+  Christensen-B.-T.:
+    individualname: Christensen, B. T.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+  ? ''
+  : individualname: ''
+    role: creator
 dataquality:
   scope:
     level: dataset
@@ -51,3 +89,10 @@ dataquality:
       within a 50x50 m area. Samples were collected in 1986, 1997, 2009 and 2019..
       Mapping: None. Depth intervals: Other  depth intervals (specify in comments).
       Uncertainty quantification: NO'
+distribution:
+  www:
+    name: Changes in carbon stocks of <scp>D</scp>anish agricultural mineral soils
+      between 1986 and 2009
+    url: http://dx.doi.org/10.1111/ejss.12169
+    type: www
+content_info: {}

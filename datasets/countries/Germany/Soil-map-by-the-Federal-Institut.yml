@@ -15,7 +15,7 @@ identification:
   charset: utf8
   title: Soil map by the Federal Institute for Geosciences and Natural Resources (BGR)
     in cooperation with the National Geological Surveys (SGD) of the federal states
-  abstract: "Conventional soil mapping "
+  abstract: 'Conventional soil mapping '
   dates:
     creation: '2020'
   keywords:

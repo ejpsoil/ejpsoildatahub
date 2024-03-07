@@ -14,7 +14,7 @@ identification:
   language: null
   charset: utf8
   title: National Land Parcel Identification System
-  abstract: "aerial images/satellite images/ground survey "
+  abstract: 'aerial images/satellite images/ground survey '
   dates:
     creation: 2004-2020
   keywords:

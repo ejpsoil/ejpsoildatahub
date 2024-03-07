@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Krigged-maps-of-trace-elements-contents-in-French-soil
+  identifier: doi.org-10.15454-VN9F6H
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -10,15 +10,20 @@ metadata:
 spatial:
   resolution: 1000*1000
   datatype: GRID
+  type: ''
 identification:
   language: null
   charset: utf8
-  title: Krigged maps of trace elements contents in French soil
-  abstract: 'bulk samples 30 cm in average
-
-    '
+  title: Spatial predictions of total and extractable trace elements topsoil content
+    in France
+  abstract: This dataset provides statistical predictions of total content of 8 trace
+    elements in topsoil. The predictions are based on the data collected within the
+    French soil monitoring network. Robust geostatistical techniques are applied to
+    produce these predictions on a regular (about 2-km) grid.
   dates:
     creation: '2014'
+    issued: '2018'
+    publication: '2018'
   keywords:
     default:
       keywords:
@@ -41,9 +46,117 @@ contact:
   pointOfContact:
     organization: INRAE
     country: France
+  Saby-P.A.-Nicolas:
+    individualname: Saby, P.A. Nicolas
+    role: ''
+    organization: (INRA - Institut National de la Recherche Agronomique)
+    url: https://orcid.org/0000-0001-8964-1194
+  Marchant-Ben-.P:
+    individualname: Marchant, Ben .P
+    role: ''
+    organization: (British Geological Survey)
+    url: ''
+  Arrouays-Dominique:
+    individualname: Arrouays, Dominique
+    role: ''
+    organization: (INRA)
+    url: https://orcid.org/0000-0002-6878-6498
+  Jolivet-Claudy:
+    individualname: Jolivet, Claudy
+    role: ''
+    organization: (INRA)
+    url: ''
+  Saby-Nicolas:
+    individualname: Saby, Nicolas
+    role: ContactPerson
+    organization: (INRA - Institut National de la Recherche Agronomique)
+    url: ''
+  Infosol:
+    individualname: Infosol
+    role: ContactPerson
+    organization: (INRA)
+    url: ''
+  Groupement-D'interet-Scientifique-Sur-Les-Sols:
+    individualname: "Groupement D'int\xE9r\xEAt Scientifique Sur Les Sols"
+    role: Producer
+    organization: ''
+    url: ''
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: 'bulk samples. Mapping: geostatitsics. Depth intervals: Other  depth
       intervals (specify in comments). Uncertainty quantification: YES'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.15454/VN9F6H
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.15454/vn9f6h/lsndn8
+    type: WWW:LINK
+    title: HasPart
+  r1:
+    url: https://doi.org/10.15454/vn9f6h/mljpfg
+    type: WWW:LINK
+    title: HasPart
+  r2:
+    url: https://doi.org/10.15454/vn9f6h/zgmaao
+    type: WWW:LINK
+    title: HasPart
+  r3:
+    url: https://doi.org/10.15454/vn9f6h/vqhkva
+    type: WWW:LINK
+    title: HasPart
+  r4:
+    url: https://doi.org/10.15454/vn9f6h/3enobn
+    type: WWW:LINK
+    title: HasPart
+  r5:
+    url: https://doi.org/10.15454/vn9f6h/ctnvtp
+    type: WWW:LINK
+    title: HasPart
+  r6:
+    url: https://doi.org/10.15454/vn9f6h/buspx4
+    type: WWW:LINK
+    title: HasPart
+  r7:
+    url: https://doi.org/10.15454/vn9f6h/ijqsfo
+    type: WWW:LINK
+    title: HasPart
+  r8:
+    url: https://doi.org/10.15454/vn9f6h/l5l8gt
+    type: WWW:LINK
+    title: HasPart
+  r9:
+    url: https://doi.org/10.15454/vn9f6h/hxnghl
+    type: WWW:LINK
+    title: HasPart
+  r10:
+    url: https://doi.org/10.15454/vn9f6h/xunm9d
+    type: WWW:LINK
+    title: HasPart
+  r11:
+    url: https://doi.org/10.15454/vn9f6h/xzezx0
+    type: WWW:LINK
+    title: HasPart
+  r12:
+    url: https://doi.org/10.15454/vn9f6h/v17lpy
+    type: WWW:LINK
+    title: HasPart
+  r13:
+    url: https://doi.org/10.15454/vn9f6h/tdylyh
+    type: WWW:LINK
+    title: HasPart
+  r14:
+    url: https://doi.org/10.15454/vn9f6h/wvmbwu
+    type: WWW:LINK
+    title: HasPart
+  r15:
+    url: https://doi.org/10.15454/vn9f6h/rygpyg
+    type: WWW:LINK
+    title: HasPart
+  r16:
+    url: https://doi.org/10.15454/vn9f6h/qjktra
+    type: WWW:LINK
+    title: HasPart

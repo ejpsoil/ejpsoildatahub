@@ -13,8 +13,8 @@ identification:
   language: null
   charset: utf8
   title: Basic geological map of Slovenia
-  abstract: "Basic lithologic-stratigraphic properties of underlying rock/parent material,\
-    \ in digital form, with underground rock exploration (parcel-specific,no). "
+  abstract: 'Basic lithologic-stratigraphic properties of underlying rock/parent material,
+    in digital form, with underground rock exploration (parcel-specific,no). '
   dates:
     creation: 1969 - 1977
   keywords:

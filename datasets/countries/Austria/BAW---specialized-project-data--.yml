@@ -14,13 +14,13 @@ identification:
   language: null
   charset: utf8
   title: BAW - specialized project data & long term research
-  abstract: "sampling intervals, depending on the project; sampling depth, single\
-    \ sampling sites till 1m, at monitoring sites till 1.5m or 2m depth frequency\
-    \ of data collection, single survey and monitoring, both is done depending on\
-    \ the individual project requirements; "
+  abstract: 'sampling intervals, depending on the project; sampling depth, single
+    sampling sites till 1m, at monitoring sites till 1.5m or 2m depth frequency of
+    data collection, single survey and monitoring, both is done depending on the individual
+    project requirements; '
   dates:
-    creation: 1945  
-    modified: 1990 
+    creation: 1945
+    modified: 1990
   keywords:
     default:
       keywords:
@@ -35,7 +35,7 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin:  1945 
+    - begin: 1945
   accessconstraints: Data available only under special permission
   rights: all analytical data are only provided under permission of data owner; data
     can be obtained e.g. to write scientific articles together with the data owner;

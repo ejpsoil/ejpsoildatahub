@@ -14,10 +14,10 @@ identification:
   language: null
   charset: utf8
   title: Soil Quality Assessment Research Project
-  abstract: "mainly based on profile sampling The data is point data at selected sites\
-    \ across the country to capture the main agroclimatic zones in Ireland. The data\
-    \ have not been extrapolated but contains detailed survey information - soil and\
-    \ management. "
+  abstract: 'mainly based on profile sampling The data is point data at selected sites
+    across the country to capture the main agroclimatic zones in Ireland. The data
+    have not been extrapolated but contains detailed survey information - soil and
+    management. '
   dates:
     creation: 2014-2015
   keywords:

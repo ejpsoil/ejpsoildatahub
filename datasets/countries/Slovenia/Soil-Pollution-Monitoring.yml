@@ -14,9 +14,9 @@ identification:
   language: null
   charset: utf8
   title: Soil Pollution Monitoring
-  abstract: "212 points of measurement for monitoring purposes. The data is a digital\
-    \ form with data on organic and inorganic pollution concentrations and samples\
-    \ from different depths (parcel-specific,no). "
+  abstract: '212 points of measurement for monitoring purposes. The data is a digital
+    form with data on organic and inorganic pollution concentrations and samples from
+    different depths (parcel-specific,no). '
   dates:
     creation: '1999 - '
   keywords:

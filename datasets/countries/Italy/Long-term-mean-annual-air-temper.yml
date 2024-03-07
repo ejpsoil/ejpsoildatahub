@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Long-term-mean-annual-air-temperature-(1960-2008)
+  identifier: Costantini_2013
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -10,17 +10,20 @@ metadata:
 spatial:
   resolution: 1000 M pixel
   datatype: GRID
+  geomtype: ''
 identification:
-  language: null
+  language: ''
   charset: utf8
-  title: Long-term mean annual air temperature (1960-2008)
+  title: Climate and Pedoclimate of Italy
   abstract: ''
   dates:
     creation: 1960-2008
   keywords:
     default:
       keywords:
-      - EJP Country survey
+      - ''
+      - ''
+      - ''
     country:
       keywords:
       - Italy
@@ -32,15 +35,40 @@ identification:
   extents:
     temporal:
     - begin: 1960-2008
+    spatial:
+    - bbox: []
+      crs: '4326'
   accessconstraints: No restrictions
   rights: ''
   maintenancefrequency: null
+  status: ''
 contact:
   pointOfContact:
     organization: CREA
     country: Italy
+  Costantini-Edoardo-A.-C.:
+    individualname: Costantini, Edoardo A. C.
+    role: creator
+  Fantappie-Maria:
+    individualname: "Fantappi\xE9, Maria"
+    role: creator
+  L'Abate-Giovanni:
+    individualname: "L\u2019Abate, Giovanni"
+    role: creator
+  Springer-Netherlands:
+    individualname: Springer Netherlands
+    role: creator
+  ? ''
+  : individualname: ''
+    role: creator
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution:
+  www:
+    name: Climate and Pedoclimate of Italy
+    url: http://dx.doi.org/10.1007/978-94-007-5642-7_2
+    type: www
+content_info: {}

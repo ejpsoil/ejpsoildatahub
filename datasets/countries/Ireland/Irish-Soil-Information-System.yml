@@ -14,7 +14,7 @@ identification:
   language: null
   charset: utf8
   title: Irish Soil Information System
-  abstract: "mainly based on profile sampling "
+  abstract: 'mainly based on profile sampling '
   dates:
     creation: 2009-2014
   keywords:

@@ -14,7 +14,7 @@ identification:
   language: null
   charset: utf8
   title: "CEH Land Cover plus\_Fertilisers"
-  abstract: "Mixed sampling type "
+  abstract: 'Mixed sampling type '
   dates:
     creation: 2010-2015
   keywords:

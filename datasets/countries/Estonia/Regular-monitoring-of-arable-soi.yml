@@ -13,8 +13,8 @@ identification:
   language: null
   charset: utf8
   title: Regular monitoring of arable soils (I period)
-  abstract: "description of soil profile (deep soil pit)/soil sampling/transect method/different\
-    \ sampling depth (bulk density/humus horizon thickness, genetic horizons) "
+  abstract: 'description of soil profile (deep soil pit)/soil sampling/transect method/different
+    sampling depth (bulk density/humus horizon thickness, genetic horizons) '
   dates:
     creation: 1983-1994
   keywords:

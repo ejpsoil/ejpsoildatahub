@@ -13,12 +13,11 @@ identification:
   language: null
   charset: utf8
   title: Digital elevation model of Slovenia
-  abstract: "The digital elevation model merged from different data sources. Metadata\
-    \ contain information on the content, purpose, use, and quality of data, information\
-    \ on owners, administrators and distributors, information on the method, procedure,\
-    \ price and conditions for obtaining data as well as all the other information\
-    \ required for the proper selection and usage of spatial data, in Digital form\
-    \ (parcel-specific,no). "
+  abstract: 'The digital elevation model merged from different data sources. Metadata
+    contain information on the content, purpose, use, and quality of data, information
+    on owners, administrators and distributors, information on the method, procedure,
+    price and conditions for obtaining data as well as all the other information required
+    for the proper selection and usage of spatial data, in Digital form (parcel-specific,no). '
   dates:
     creation: 2005 - 2005
   keywords:

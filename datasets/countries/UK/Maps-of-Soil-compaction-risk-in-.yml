@@ -1,10 +1,10 @@
 mcf:
-  version: 1.0
+  version: '1.0'
 metadata:
-  identifier: Maps-of-Soil-compaction-risk-in-Scotland-(partial-cover)
+  identifier: d16d695d-f7a0-4f1f-8ba2-335dda8428c8
   language: eng
   charset: utf8
-  datestamp: 2022-01-01
+  datestamp: '2022-03-23'
   hierarchylevel: dataset
   dataseturi: https://www.spatialdata.gov.scot/geonetwork/srv/metadata/d16d695d-f7a0-4f1f-8ba2-335dda8428c8
 spatial:
@@ -13,15 +13,17 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Maps of Soil compaction risk in Scotland (partial cover)
-  abstract: 'mixed sampling type - incorporates all previous detailed soil mapping
-    augmented by a reconnaissance survey at 2-3/km2 2 Datasets available;                                         Map
-    of topsoil compaction risk (partial cover)                                                                        Map
-    of subsoil compaction risk (partial cover)
-
-    '
+  title: Map of topsoil compaction risk (partial cover)
+  abstract: 'The map shows the risk of the topsoil becoming compacted due to the passage
+    of machinery. This map primarily covers the cultivated land in Scotland and provides
+    information on the risk of topsoil compaction.The topsoil compaction risk gives
+    information of the likelihood of the topsoil becoming compacted  in 3 classes:
+    High, Moderate or Low. The risk is based on the natural drainage class of the
+    soil and the soil texture.'
   dates:
-    creation: 1947-1981
+    creation: '2018-04-19'
+    publication: '2018-04-19'
+    revision: '2018-04-19'
   keywords:
     default:
       keywords:
@@ -32,18 +34,44 @@ identification:
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
+    keywords-0:
+      type: null
+      keywords:
+      - compaction
+      - soil compaction
+    keywords-1:
+      type: theme
+      keywords:
+      - Soil
   topiccategory:
+  - farming
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 1947-1981
-  accessconstraints: No restrictions
+    - {}
+    spatial:
+    - bbox:
+      - -5.2
+      - 54.6
+      - -1.7
+      - 58.7
+  accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: it was a single survey
+  status: null
 contact:
   pointOfContact:
-    organization: James Hutton Institute
+    organization: The James Hutton Institute
     country: UK
+    individualname: Allan Lilly
+    positionname: Principal Soil Scientist
+    phone: null
+    fax: null
+    address: Craigiebuckler
+    city: Aberdeen
+    administrativearea: null
+    postalcode: null
+    email: soils@hutton.ac.uk
 dataquality:
   scope:
     level: dataset
@@ -52,3 +80,10 @@ dataquality:
       augmented by a reconnaissance survey at 2-3/km2. Mapping: Conventional mapping,https://doi.org/10.1007/978-94-007-5642-7_6.
       Depth intervals: defined as  topsoil/subsoil  only, without any other description.
       Uncertainty quantification: '
+distribution:
+  link-0:
+    url: https://www.hutton.ac.uk/learning/natural-resource-datasets/soilshutton/soils-maps-scotland/download
+    type: null
+    name: null
+    description: null
+    function: null

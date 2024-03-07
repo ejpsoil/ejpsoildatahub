@@ -13,10 +13,9 @@ identification:
   language: null
   charset: utf8
   title: Land use maps (Slovenia)
-  abstract: "Map od ,land use,, with parcel ID, in digital form (parcel-specific,no).\
-    \ The official land use / land cover interpretation key is regularly updated and\
-    \ published by the Ministry for agriculture, forestry and food. In Slovenian only.\
-    \  "
+  abstract: 'Map od ,land use,, with parcel ID, in digital form (parcel-specific,no).
+    The official land use / land cover interpretation key is regularly updated and
+    published by the Ministry for agriculture, forestry and food. In Slovenian only.  '
   dates:
     creation: 2002 -
   keywords:

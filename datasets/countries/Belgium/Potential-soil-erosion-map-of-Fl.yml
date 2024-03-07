@@ -1,10 +1,10 @@
 mcf:
-  version: 1.0
+  version: '1.0'
 metadata:
-  identifier: Potential-soil-erosion-map-of-Flanders
+  identifier: 298d34a4-d459-4fc8-a9be-e8e26cd9b354
   language: eng
   charset: utf8
-  datestamp: 2022-01-01
+  datestamp: '2023-01-27'
   hierarchylevel: dataset
   dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/298d34a4-d459-4fc8-a9be-e8e26cd9b354
 spatial:
@@ -14,10 +14,36 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Potential soil erosion map of Flanders
-  abstract: "modeling "
+  title: "Potenti\xEBle bodemerosiekaart per perceel (2020)"
+  abstract: "De potenti\xEBle bodemerosiekaart per perceel (2020) geeft aan de hand\
+    \ van een klasse-indeling de totale potenti\xEBle erosie van een bepaald landbouwperceel\
+    \ weer. De totale potenti\xEBle erosie houdt geen rekening met het huidige landgebruik\
+    \ (grasland of akkerland). In het veld \u2018Erosiegevoeligheid verzamelaanvraag\u2019\
+    \ staat de informatie die overeenkomt met de erosiegevoeligheid op de verzamelaanvraag\
+    \ 2020. De goedgekeurde bezwaren werden zowel in het veld 'Erosiegevoeligheid\
+    \ verzamelaanvraag' als in het veld 'Totale erosie' verwerkt. De goedgekeurde\
+    \ aanvragen van de verlaging van de erosiegevoeligheidsklasse op basis van een\
+    \ hoog koolstofgehalte werden in het veld 'Erosiegevoeligheid verzamelaanvraag'\
+    \ verwerkt met aanduiding van \u2018/ C\u2019 achter de erosiegevoeligheid, maar\
+    \ het veld 'Totale erosie' behield zijn oorspronkelijke waarde voor deze percelen.\n\
+    \nErosie door water is een proces waarbij bodemdeeltjes door de impact van regendruppels\
+    \ en afstromend water worden losgemaakt en getransporteerd, hetzij laagsgewijs\
+    \ over een grote oppervlakte, hetzij geconcentreerd in geulen en ravijnen. Dit\
+    \ leidt o.m. tot een afname van de bodemkwaliteit en -productiviteit, maar ook\
+    \ tot belangrijke schade door modderoverlast in stroomafwaarts gelegen (woon)gebieden.\
+    \ Bodemerosie is een van de belangrijkste vormen van bodemaantasting in Vlaanderen.\
+    \ \n\nDe potenti\xEBle bodemerosiekaart per perceel is gebaseerd op de landbouwgebruikspercelen\
+    \ ALV 2019 (export augustus 2019). De potenti\xEBle bodemerosiekaart per perceel\
+    \ werd opgesteld door het Vlaams Planbureau voor Omgeving door middel van computermodellering\
+    \ met een ruimtelijke resolutie van 5x5 m. De berekening van de erosie is gebaseerd\
+    \ op de herziene universele bodemverliesvergelijking of R.U.S.L.E. (Revised Universal\
+    \ Soil Loss Equation, Renard et al, 1991). Het betreft een empirisch model waarmee\
+    \ de gemiddelde jaarlijkse bodemerosiesnelheid per oppervlakte-eenheid als gevolg\
+    \ van intergeul- en geulerosie wordt berekend als een product van 6 factoren."
   dates:
-    creation: every year a new map
+    creation: '2019-12-10'
+    publication: '2019-12-17'
+    revision: '2021-02-25'
   keywords:
     default:
       keywords:
@@ -28,22 +54,134 @@ identification:
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
+    keywords-0:
+      type: null
+      keywords:
+      - Gebieden met natuurrisico's
+    keywords-1:
+      type: null
+      keywords:
+      - ondergrond
+      - bodemerosie
+      - watererosie
+      - landbouw
+    keywords-2:
+      type: null
+      keywords:
+      - DOV
+      - Vlaanderen
+      - Ondergrond
+      - Databank Ondergrond Vlaanderen
+      - Departement Omgeving
+    keywords-3:
+      type: theme
+      keywords:
+      - Regionaal
+    keywords-4:
+      type: theme
+      keywords:
+      - Herbruikbaar
+      - Kosteloos
+      - Vlaamse Open data
+      - Toegevoegd GDI-Vl
+      - Metadata GDI-Vl-conform
+      - Metadata INSPIRE-conform
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: every year a new map
-  accessconstraints: No restrictions
+    - begin: '2020-01-01'
+      end: '2020-12-31'
+    spatial:
+    - bbox:
+      - 2.531027913072963
+      - 50.67420802910721
+      - 5.932738352491076
+      - 51.50571453444454
+  accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: regular monitoring, yearly
+  status: completed
 contact:
   pointOfContact:
     organization: Vlaamse overheid, Departement Omgeving, Vlaams Planbureau voor Omgeving
       (VPO)
-    country: Belgium
+    country: "Belgi\xEB"
+    individualname: null
+    positionname: null
+    phone: null
+    fax: null
+    address: Koning Albert II-laan 20 bus 8
+    city: Brussel
+    administrativearea: null
+    postalcode: '1000'
+    email: vpo.omgeving@vlaanderen.be
+    url: https://www.omgevingvlaanderen.be
+  distributor:
+    organization: null
+    individualname: null
+    positionname: null
+    phone: +32 9 240 75 93
+    fax: null
+    address: Technologiepark-Zwijnaarde 68
+    city: Gent
+    administrativearea: null
+    postalcode: '9052'
+    country: "Belgi\xEB"
+    email: dov@vlaanderen.be
+    url: https://www.dov.vlaanderen.be
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: 'modeling. Mapping: RUSLE. Depth intervals: . Uncertainty quantification:
       NO'
+distribution:
+  link-0:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wfs?
+    type: OGC:WFS
+    name: so_potbdmerosiepp_2020
+    description: "WFS-endpoint Potenti\xEBle bodemerosiekaart per perceel (2020)"
+    function: download
+  link-1:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wfs?SERVICE=WFS&version=2.0.0&request=GetCapabilities
+    type: OGC:WFS-2.0.0-http-get-capabilities
+    name: erosie:so_potbdmerosiepp_2020
+    description: "WFS-capabilities Potenti\xEBle bodemerosiekaart per perceel (2020)"
+    function: download
+  link-2:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wms?SERVICE=WMS&version=1.3.0&request=GetCapabilities
+    type: OGC:WMS-1.3.0-http-get-capabilities
+    name: so_potbdmerosiepp_2020
+    description: "WMS-capabilities Potenti\xEBle bodemerosiekaart per perceel (2020)"
+    function: null
+  link-3:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wms/kml?layers=so_potbdmerosiepp_2020
+    type: GLG:KML-2.0-http-get-map
+    name: so_potbdmerosiepp_2020
+    description: "KML Potenti\xEBle bodemerosiekaart per perceel (2020)"
+    function: null
+  link-4:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    type: OGC:WMS-1.3.0-http-get-map
+    name: so_potbdmerosiepp_2020
+    description: "WMS-map Potenti\xEBle bodemerosiekaart per perceel (2020)"
+    function: null
+  link-5:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wms?
+    type: OGC:WMS
+    name: so_potbdmerosiepp_2020
+    description: "WMS-endpoint Potenti\xEBle bodemerosiekaart per perceel (2020)"
+    function: null
+  link-6:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wfs?SERVICE=WFS&version=2.0.0&request=GetFeature&count=1&typeName=so_potbdmerosiepp_2020
+    type: OGC:WFS-2.0.0-http-get-feature
+    name: so_potbdmerosiepp_2020
+    description: "WFS-feature Potenti\xEBle bodemerosiekaart per perceel (2020)"
+    function: download
+  link-7:
+    url: https://www.dov.vlaanderen.be/bodemverkenner
+    type: WWW:LINK-1.0-http--related
+    name: DOV bodemverkenner applicatie
+    description: Link naar DOV bodemverkenner applicatie
+    function: null

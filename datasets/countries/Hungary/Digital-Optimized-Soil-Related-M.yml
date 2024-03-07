@@ -14,8 +14,8 @@ identification:
   language: null
   charset: utf8
   title: Digital, Optimized, Soil Related Maps and Information in Hungary (DOSoReMI.hu)
-  abstract: "not relevant (data are not collected but inferred, spatially exhaustive\
-    \ maps) "
+  abstract: 'not relevant (data are not collected but inferred, spatially exhaustive
+    maps) '
   dates:
     creation: not relevant (data are not collected but inferred, spatially exhaustive
       maps)

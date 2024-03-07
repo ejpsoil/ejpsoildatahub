@@ -14,8 +14,8 @@ identification:
   language: null
   charset: utf8
   title: Melioration systems of Slovenia
-  abstract: "Names and areas of different melioration systems, but the dataset is\
-    \ currently not working (parcel-specific,no). "
+  abstract: 'Names and areas of different melioration systems, but the dataset is
+    currently not working (parcel-specific,no). '
   dates:
     creation: N/A - 2013
   keywords:

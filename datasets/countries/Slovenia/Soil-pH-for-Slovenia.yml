@@ -13,9 +13,8 @@ identification:
   language: null
   charset: utf8
   title: Soil pH for Slovenia
-  abstract: "Evaluation of soil pH, based on the available data (extrapolated and\
-    \ correlated). The data is unofficial and in digital form (parcel-specific,no).\
-    \ "
+  abstract: 'Evaluation of soil pH, based on the available data (extrapolated and
+    correlated). The data is unofficial and in digital form (parcel-specific,no). '
   dates:
     creation: 1999 - 2014
   keywords:

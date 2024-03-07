@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: soil-geographical-database-of-France-at-11,000,000
+  identifier: doi.org-10.15454-BPN57S
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -10,16 +10,42 @@ metadata:
 spatial:
   resolution: 1:1,000,000
   datatype: NATURAL_POLYGONs,polygons with natural boundaries
+  type: ''
 identification:
   language: null
   charset: utf8
-  title: soil geographical database of France at 1:1,000,000
-  abstract: 'synthesis of soil surveys and soil knowledge it formed the French part
-    of the soil geographical DB of Eurasia
-
-    '
+  title: "Base de Donn\xE9es G\xE9ographique des Sols de France \xE0 1/1 000 000 version\
+    \ 3.2.8.0, 10/09/1998"
+  abstract: 'The Soil Geographical Data Base of France at Scale 1:1,000,000 is part
+    of the European Soil Geographical Data Base of Europe. It is the resulting product
+    of a collaborative project involving all the European Union and neighbouring countries.
+    It is a simplified representation of the diversity and spatial variability of
+    the soil coverage for France. The methodology used to differentiate and name the
+    main soil types is based on the terminology of the F.A.O. legend for the Soil
+    Map of the World at Scale 1:5,000,000. This terminology has been refined and adapted
+    to take account of the specificities of the landscapes in Europe. It is itself
+    founded on the distinction of the main pedogenetic processes leading to soil differentiation.
+    The database contains a list of Soil Typological Units (STU). Besides the soil
+    names they represent, these units are described by variables (attributes) specifying
+    the nature and properties of the soils: for example the texture, the water regime,
+    etc. The geographical representation was chosen at a scale corresponding to the
+    1:1,000,000. At this scale, it is not feasible to delineate the STUs. Therefore
+    they are grouped into Soil Mapping Units (SMU) to form soil associations and to
+    illustrate the functioning of pedological systems within the landscapes. Harmonisation
+    of the soil data from the member countries is based on a dictionary giving the
+    definition for each occurrence of the variables. Considering the scale, the precision
+    of the variables is weak. Furthermore these variables were estimated over large
+    areas by expert judgement rather than measured on local soil samples. This expertise
+    results from synthesis and generalisation tasks of national or regional maps published
+    at more detailed scales, for example 1:50,000 or 1:25,000 scales. Delineation
+    of the Soil Mapping Units is also the result of expertise and experience. The
+    spatial variability of soils is very important and is difficult to express at
+    global levels of precision. Quality indices of the information (purity and confidence
+    level) are included with the data in order to guide usage.'
   dates:
     creation: '1998'
+    issued: '2018'
+    publication: '2018'
   keywords:
     default:
       keywords:
@@ -42,6 +68,16 @@ contact:
   pointOfContact:
     organization: INRAE
     country: France
+  INRA:
+    individualname: INRA
+    role: ''
+    organization: (INRA - Institut National de la Recherche Agronomique)
+    url: ''
+  Le-Bas-Christine:
+    individualname: Le Bas, Christine
+    role: ContactPerson
+    organization: (INRA - Institut National de la Recherche Agronomique)
+    url: ''
 dataquality:
   scope:
     level: dataset
@@ -49,3 +85,44 @@ dataquality:
     statement: 'synthesis of soil surveys and soil knowledge. Mapping: conventional
       mapping. Depth intervals: defined as  topsoil/subsoil  only, without any other
       desription. Uncertainty quantification: NO'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.15454/BPN57S
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.15454/bpn57s/o0p7ju
+    type: WWW:LINK
+    title: HasPart
+  r1:
+    url: https://doi.org/10.15454/bpn57s/2dkqkl
+    type: WWW:LINK
+    title: HasPart
+  r2:
+    url: https://doi.org/10.15454/bpn57s/445ywd
+    type: WWW:LINK
+    title: HasPart
+  r3:
+    url: https://doi.org/10.15454/bpn57s/dbt9rx
+    type: WWW:LINK
+    title: HasPart
+  r4:
+    url: https://doi.org/10.15454/bpn57s/ezmx5j
+    type: WWW:LINK
+    title: HasPart
+  r5:
+    url: https://doi.org/10.15454/bpn57s/qejhzr
+    type: WWW:LINK
+    title: HasPart
+  r6:
+    url: https://doi.org/10.15454/bpn57s/qjgbo0
+    type: WWW:LINK
+    title: HasPart
+  r7:
+    url: https://doi.org/10.15454/bpn57s/q14tbe
+    type: WWW:LINK
+    title: HasPart
+  r8:
+    url: https://doi.org/10.15454/bpn57s/cmma5f
+    type: WWW:LINK
+    title: HasPart

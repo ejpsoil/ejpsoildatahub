@@ -15,8 +15,8 @@ identification:
   language: null
   charset: utf8
   title: Landslide probability map of Slovenia
-  abstract: "6 levels of landslide probability, calculated from lithological and geographical\
-    \ data and land use types, in digital form (parcel-specific,no). "
+  abstract: '6 levels of landslide probability, calculated from lithological and geographical
+    data and land use types, in digital form (parcel-specific,no). '
   dates:
     creation: 2005 - 2005
   keywords:

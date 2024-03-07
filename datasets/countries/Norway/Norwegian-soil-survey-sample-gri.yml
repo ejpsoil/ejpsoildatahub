@@ -14,9 +14,9 @@ identification:
   language: null
   charset: utf8
   title: Norwegian soil survey sample grid 9 x9 km on agricultural land
-  abstract: "includes identification of soil types in the field using a soil auger\
-    \ and mapping the distribution of soil types by interpreting high resolution aerial\
-    \ photographs in hand-held GIS on site "
+  abstract: 'includes identification of soil types in the field using a soil auger
+    and mapping the distribution of soil types by interpreting high resolution aerial
+    photographs in hand-held GIS on site '
   dates:
     creation: 1990-2020
   keywords:

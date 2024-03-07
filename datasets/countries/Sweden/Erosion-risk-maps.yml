@@ -14,7 +14,7 @@ identification:
   language: null
   charset: utf8
   title: Erosion risk maps
-  abstract: "Erosion model covering 90.4% of Swedens agrigultural land. "
+  abstract: 'Erosion model covering 90.4% of Swedens agrigultural land. '
   dates:
     creation: '2018'
   keywords:

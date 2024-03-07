@@ -14,11 +14,11 @@ identification:
   language: null
   charset: utf8
   title: "Observationsf\xE4lt p\xE5 jordbruksmark"
-  abstract: "bulksamples (?) from x boreholes, generally sampling depths of 0-20 cm,\
-    \ 20-45 cm and 45-75 cm Integrated monitoring where bi-weekly water samples are\
-    \ collected and evaluated as a reflection of agricultural management. Main focus\
-    \ is nitrogen and phosphorous losses. Soil samples where taken as a one time survey\
-    \ to determine the soil type. "
+  abstract: 'bulksamples (?) from x boreholes, generally sampling depths of 0-20 cm,
+    20-45 cm and 45-75 cm Integrated monitoring where bi-weekly water samples are
+    collected and evaluated as a reflection of agricultural management. Main focus
+    is nitrogen and phosphorous losses. Soil samples where taken as a one time survey
+    to determine the soil type. '
   dates:
     creation: '2005'
   keywords:

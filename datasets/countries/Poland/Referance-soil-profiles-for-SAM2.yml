@@ -13,7 +13,7 @@ identification:
   language: null
   charset: utf8
   title: Referance soil profiles for SAM25
-  abstract: "profile/different sampling depth "
+  abstract: 'profile/different sampling depth '
   dates:
     creation: 1960-1980
   keywords:

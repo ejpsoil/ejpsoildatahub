@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: INIA-Experimental-Farm-La-Canaleja-(Madrid,-Spain)--Indicators-for-labile-organic-carbon
+  identifier: Mart_n_Lammerding_2015
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -10,11 +10,12 @@ metadata:
 spatial:
   resolution: null
   datatype: POINT
+  geomtype: ''
 identification:
-  language: null
+  language: ''
   charset: utf8
-  title: INIA-Experimental Farm La Canaleja (Madrid, Spain)- Indicators for labile
-    organic carbon
+  title: "LONG term management systems under semiarid conditions: Influence on labile\
+    \ organic matter, \u03B2-glucosidase activity and microbial efficiency"
   abstract: 'topsoil only Topsoil 0.15 m. Data were collected during a specific period
     within the LTE
 
@@ -24,7 +25,9 @@ identification:
   keywords:
     default:
       keywords:
-      - EJP Country survey
+      - ''
+      - ''
+      - ''
     country:
       keywords:
       - Spain
@@ -36,16 +39,48 @@ identification:
   extents:
     temporal:
     - begin: 2005-2020
+    spatial:
+    - bbox: []
+      crs: '4326'
   accessconstraints: Restricted
   rights: ''
   maintenancefrequency: regular monitoring, yearly
+  status: ''
 contact:
   pointOfContact:
     organization: INIA
     country: Spain
+  Martin-Lammerding-Diana:
+    individualname: "Mart\xEDn-Lammerding, Diana"
+    role: creator
+  Navas-Mariela:
+    individualname: Navas, Mariela
+    role: creator
+  Albarran-Maria-del-Mar:
+    individualname: "Albarr\xE1n, Mar\xEDa del Mar"
+    role: creator
+  Tenorio-Jose-Luis:
+    individualname: "Tenorio, Jos\xE9 Luis"
+    role: creator
+  Walter-Ingrid:
+    individualname: Walter, Ingrid
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+  ? ''
+  : individualname: ''
+    role: creator
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: 'topsoil only. Mapping: Random. Depth intervals: defined as  topsoil/subsoil  only,
       without any other desription. Uncertainty quantification: No'
+distribution:
+  www:
+    name: "LONG term management systems under semiarid conditions: Influence on labile\
+      \ organic matter, \u03B2-glucosidase activity and microbial efficiency"
+    url: http://dx.doi.org/10.1016/j.apsoil.2015.08.021
+    type: www
+content_info: {}

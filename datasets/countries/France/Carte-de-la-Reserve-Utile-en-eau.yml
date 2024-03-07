@@ -1,8 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: "Carte-de-la-R\xE9serve-Utile-en-eau-issue-de-la-Base-de-Donn\xE9es-G\xE9\
-    ographique-des-Sols-de-France"
+  identifier: doi.org-10.15454-JPB9RB
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -11,16 +10,19 @@ metadata:
 spatial:
   resolution: 1:1,000,000
   datatype: NATURAL_POLYGONs,polygons with natural boundaries
+  type: ''
 identification:
   language: null
   charset: utf8
   title: "Carte de la R\xE9serve Utile en eau issue de la Base de Donn\xE9es G\xE9\
     ographique des Sols de France"
-  abstract: 'pedotransfer rules thematic map from BDGSF
-
-    '
+  abstract: "Cette carte donne la classe de r\xE9serve utile en eau dominante par\
+    \ Unit\xE9 Cartographique de Sol de la Base de Donn\xE9es G\xE9ographique des\
+    \ Sols de France \xE0 1/1 000 000."
   dates:
     creation: '2018'
+    issued: '2018'
+    publication: '2018'
   keywords:
     default:
       keywords:
@@ -43,9 +45,55 @@ contact:
   pointOfContact:
     organization: INRAE
     country: France
+  Le-Bas-Christine:
+    individualname: Le Bas, Christine
+    role: ContactPerson
+    organization: (INRA - Institut National de la Recherche Agronomique)
+    url: ''
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: 'pedotransfer rules. Mapping: thematic mapping. Depth intervals: otherRestrictions.
       Uncertainty quantification: NO'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.15454/JPB9RB
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.15454/jpb9rb/tfokoh
+    type: WWW:LINK
+    title: HasPart
+  r1:
+    url: https://doi.org/10.15454/jpb9rb/xzaetb
+    type: WWW:LINK
+    title: HasPart
+  r2:
+    url: https://doi.org/10.15454/jpb9rb/nbipij
+    type: WWW:LINK
+    title: HasPart
+  r3:
+    url: https://doi.org/10.15454/jpb9rb/ebyjon
+    type: WWW:LINK
+    title: HasPart
+  r4:
+    url: https://doi.org/10.15454/jpb9rb/tjviyz
+    type: WWW:LINK
+    title: HasPart
+  r5:
+    url: https://doi.org/10.15454/jpb9rb/mbtof7
+    type: WWW:LINK
+    title: HasPart
+  r6:
+    url: https://doi.org/10.15454/jpb9rb/bejglt
+    type: WWW:LINK
+    title: HasPart
+  r7:
+    url: https://doi.org/10.15454/jpb9rb/npmoh5
+    type: WWW:LINK
+    title: HasPart
+  r8:
+    url: https://doi.org/10.15454/jpb9rb/huy6tj
+    type: WWW:LINK
+    title: HasPart

@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Danish-Acid-Sulphate-Data-Base
+  identifier: Madsen_1985
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -10,10 +10,12 @@ metadata:
 spatial:
   resolution: 8122 points in total
   datatype: POINT
+  geomtype: ''
 identification:
-  language: null
+  language: ''
   charset: utf8
-  title: Danish Acid Sulphate Data Base
+  title: A method for identification and mapping potentially acid sulfate soils in
+    Jutland, Denmark
   abstract: 'Borehole database with samples collected with a hand auger from pedogenetic
     horizons within boreholes. Covers wetland areas in Jutland.
 
@@ -23,7 +25,9 @@ identification:
   keywords:
     default:
       keywords:
-      - EJP Country survey
+      - ''
+      - ''
+      - ''
     country:
       keywords:
       - Denmark
@@ -35,13 +39,35 @@ identification:
   extents:
     temporal:
     - begin: '1984'
+    spatial:
+    - bbox: []
+      crs: '4326'
   accessconstraints: Restricted
   rights: ''
   maintenancefrequency: it was a single survey
+  status: ''
 contact:
   pointOfContact:
     organization: Aarhus University
     country: Denmark
+  Madsen-H.B.:
+    individualname: Madsen, H.B.
+    role: creator
+  Jensen-N.H.:
+    individualname: Jensen, N.H.
+    role: creator
+  Jakobsen-B.H.:
+    individualname: Jakobsen, B.H.
+    role: creator
+  Platou-S.W.:
+    individualname: Platou, S.W.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+  ? ''
+  : individualname: ''
+    role: creator
 dataquality:
   scope:
     level: dataset
@@ -49,3 +75,10 @@ dataquality:
     statement: 'Borehole database with samples collected with a hand auger from pedogenetic
       horizons within boreholes.. Mapping: Conventional. Depth intervals: Genetic-based
       horizons (A, Ap, B, C etc). Uncertainty quantification: NO'
+distribution:
+  www:
+    name: A method for identification and mapping potentially acid sulfate soils in
+      Jutland, Denmark
+    url: http://dx.doi.org/10.1016/S0341-8162(85)80031-X
+    type: www
+content_info: {}

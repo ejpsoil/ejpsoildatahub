@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Danish-Sinks-Wetland-Data-Base
+  identifier: Greve_2014
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -10,10 +10,11 @@ metadata:
 spatial:
   resolution: 9751 points in total
   datatype: POINT
+  geomtype: ''
 identification:
-  language: null
+  language: ''
   charset: utf8
-  title: Danish Sinks Wetland Data Base
+  title: Change in Peat Coverage in Danish Cultivated Soils During the Past 35 Years
   abstract: 'Soil properties measured on soil cores extracted from predefined depth
     intervals with a 5-cm hand auger. Data includes an evaluation of the quality of
     each core. Covers historic areas with organic soils. Sampling intervals,0 - 30
@@ -25,7 +26,9 @@ identification:
   keywords:
     default:
       keywords:
-      - EJP Country survey
+      - ''
+      - ''
+      - ''
     country:
       keywords:
       - Denmark
@@ -37,13 +40,35 @@ identification:
   extents:
     temporal:
     - begin: '2010'
+    spatial:
+    - bbox: []
+      crs: '4326'
   accessconstraints: Restricted
   rights: ''
   maintenancefrequency: it was a single survey
+  status: ''
 contact:
   pointOfContact:
     organization: Aarhus University
     country: Denmark
+  Greve-Mogens-H.:
+    individualname: Greve, Mogens H.
+    role: creator
+  Christensen-Ole-F.:
+    individualname: "Christensen, Ol\xE9 F."
+    role: creator
+  Greve-Mette-B.:
+    individualname: Greve, Mette B.
+    role: creator
+  Kheir-Rania-Bou:
+    individualname: Kheir, Rania Bou
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+  ? ''
+  : individualname: ''
+    role: creator
 dataquality:
   scope:
     level: dataset
@@ -52,3 +77,9 @@ dataquality:
       intervals with a 5-cm hand auger. Data includes an evaluation of the quality
       of each core.. Mapping: Decision tree classification. Depth intervals: Other  depth
       intervals (specify in comments). Uncertainty quantification: NO'
+distribution:
+  www:
+    name: Change in Peat Coverage in Danish Cultivated Soils During the Past 35 Years
+    url: http://dx.doi.org/10.1097/ss.0000000000000066
+    type: www
+content_info: {}

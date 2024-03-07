@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Danish-Soil-Profile-Database
+  identifier: Madsen_1985
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -10,10 +10,11 @@ metadata:
 spatial:
   resolution: 2,400 points total
   datatype: POINT
+  geomtype: ''
 identification:
-  language: null
+  language: ''
   charset: utf8
-  title: Danish Soil Profile Database
+  title: The Establishment of Pedological Soil Data Bases in Denmark
   abstract: 'Soil profile database with profile and horizon descriptions. Soil properties
     measured on samples collected from pedogenetic horizons. Collection of data from
     several surveys in different locations conducted 1980 - 2012.
@@ -24,7 +25,9 @@ identification:
   keywords:
     default:
       keywords:
-      - EJP Country survey
+      - ''
+      - ''
+      - ''
     country:
       keywords:
       - Denmark
@@ -36,13 +39,29 @@ identification:
   extents:
     temporal:
     - begin: '2012'
+    spatial:
+    - bbox: []
+      crs: '4326'
   accessconstraints: Restricted
   rights: ''
   maintenancefrequency: otherRestrictions
+  status: ''
 contact:
   pointOfContact:
     organization: Aarhus University
     country: Denmark
+  Madsen-Henrik-Breuning:
+    individualname: Madsen, Henrik Breuning
+    role: creator
+  Jensen-Niels-H.:
+    individualname: Jensen, Niels H.
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+  ? ''
+  : individualname: ''
+    role: creator
 dataquality:
   scope:
     level: dataset
@@ -51,3 +70,9 @@ dataquality:
       properties measured on samples collected from pedogenetic horizons.. Mapping:
       Conventional. Depth intervals: Genetic-based horizons (A, Ap, B, C etc). Uncertainty
       quantification: NO'
+distribution:
+  www:
+    name: The Establishment of Pedological Soil Data Bases in Denmark
+    url: http://dx.doi.org/10.1080/00167223.1985.10649211
+    type: www
+content_info: {}

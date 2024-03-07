@@ -14,7 +14,7 @@ identification:
   language: null
   charset: utf8
   title: Basisregistratie Ondergrond - Borehole research - profile descriptions
-  abstract: "borehole description "
+  abstract: 'borehole description '
   dates:
     creation: 1985-present
   keywords:

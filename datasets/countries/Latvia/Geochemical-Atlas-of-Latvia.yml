@@ -13,7 +13,7 @@ identification:
   language: null
   charset: utf8
   title: Geochemical Atlas of Latvia
-  abstract: "profile sampling, samples from topsoil and subsoil "
+  abstract: 'profile sampling, samples from topsoil and subsoil '
   dates:
     creation: 1997-2000
   keywords:

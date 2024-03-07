@@ -13,9 +13,9 @@ identification:
   language: null
   charset: utf8
   title: Hungarian Soil Information and Monitoring System
-  abstract: "from profiles, detailed description of profiles, horizon-based sampling\
-    \ before 2000y, equidistant after 2000y, bulk and undisturbed samples also. Bulk\
-    \ samples mainly, BD measurements at the first year only. "
+  abstract: 'from profiles, detailed description of profiles, horizon-based sampling
+    before 2000y, equidistant after 2000y, bulk and undisturbed samples also. Bulk
+    samples mainly, BD measurements at the first year only. '
   dates:
     creation: 1992-2010
   keywords:

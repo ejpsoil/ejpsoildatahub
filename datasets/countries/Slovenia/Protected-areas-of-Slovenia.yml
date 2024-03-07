@@ -14,9 +14,8 @@ identification:
   language: null
   charset: utf8
   title: Protected areas of Slovenia
-  abstract: "Protected areas on a national and local level with the Natura 2000 protected\
-    \ areas in digital form (parcel-specific,no). http://www.arso.gov.si/narava/zavarovana%20obmo%c4%8dja/SeznamParkov.htm,https://etla.kis.si/KIS-WebGIS/#config=eTLA_JAVNI.xml,\
-    \  "
+  abstract: 'Protected areas on a national and local level with the Natura 2000 protected
+    areas in digital form (parcel-specific,no). http://www.arso.gov.si/narava/zavarovana%20obmo%c4%8dja/SeznamParkov.htm,https://etla.kis.si/KIS-WebGIS/#config=eTLA_JAVNI.xml,  '
   dates:
     creation: 2011 - 2011
   keywords:

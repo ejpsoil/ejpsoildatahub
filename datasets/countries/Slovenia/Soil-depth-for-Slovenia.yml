@@ -13,9 +13,8 @@ identification:
   language: null
   charset: utf8
   title: Soil depth for Slovenia
-  abstract: "Data about soils, sorted into 5 classes form very shallow (less than\
-    \ 15cm) to deep soils (more than 100cm). Unofficial data in digital form (parcel-specific,no).\
-    \ "
+  abstract: 'Data about soils, sorted into 5 classes form very shallow (less than
+    15cm) to deep soils (more than 100cm). Unofficial data in digital form (parcel-specific,no). '
   dates:
     creation: 1999 - 2014
   keywords:

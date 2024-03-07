@@ -13,7 +13,7 @@ identification:
   language: null
   charset: utf8
   title: Agricultural Soil Profiles Database
-  abstract: "profile "
+  abstract: 'profile '
   dates:
     creation: 1961-1970
   keywords:

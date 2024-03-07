@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Soil-Agricultural-Map-in-25000
+  identifier: Dobers_2010
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -10,18 +10,20 @@ metadata:
 spatial:
   resolution: 85.0
   datatype: NATURAL_POLYGONs, polygons with natural boundaries
+  geomtype: ''
 identification:
-  language: null
+  language: ''
   charset: utf8
-  title: Soil Agricultural Map in 25000
-  abstract: "field organoleptic indication of textures and analysis of ProfSAM25k\
-    \ "
+  title: Comparison of Polish and German maps of agricultural soil quality using GIS
+  abstract: 'field organoleptic indication of textures and analysis of ProfSAM25k '
   dates:
     creation: '2013'
   keywords:
     default:
       keywords:
-      - EJP Country survey
+      - ''
+      - ''
+      - ''
     country:
       keywords:
       - Poland
@@ -33,13 +35,32 @@ identification:
   extents:
     temporal:
     - begin: '2013'
+    spatial:
+    - bbox: []
+      crs: '4326'
   accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: it was a single survey
+  status: ''
 contact:
   pointOfContact:
     organization: IUNG
     country: Poland
+  Dobers-Eike-Stefan:
+    individualname: Dobers, Eike Stefan
+    role: creator
+  Ahl-Christian:
+    individualname: Ahl, Christian
+    role: creator
+  Stuczynski-Tomasz:
+    individualname: "Stuczy\u0144ski, Tomasz"
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+  ? ''
+  : individualname: ''
+    role: creator
 dataquality:
   scope:
     level: dataset
@@ -47,3 +68,10 @@ dataquality:
     statement: 'field organoleptic indication of textures and analysis of ProfSAM25k.
       Mapping: conventional mapping. Depth intervals: 0-12.5; 12.5-37.5; 37.5-75;
       75-125;  125 cm. Uncertainty quantification: '
+distribution:
+  www:
+    name: Comparison of Polish and German maps of agricultural soil quality using
+      GIS
+    url: http://dx.doi.org/10.1002/jpln.200800317
+    type: www
+content_info: {}

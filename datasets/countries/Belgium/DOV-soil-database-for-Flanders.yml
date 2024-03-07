@@ -1,10 +1,10 @@
 mcf:
-  version: 1.0
+  version: '1.0'
 metadata:
-  identifier: DOV-soil-database-for-Flanders
+  identifier: 3f507fd9-24c0-40ab-9328-29f0dff571fe
   language: eng
   charset: utf8
-  datestamp: 2022-01-01
+  datestamp: '2023-11-08'
   hierarchylevel: dataset
   dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/3f507fd9-24c0-40ab-9328-29f0dff571fe
 spatial:
@@ -13,12 +13,28 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: DOV soil database for Flanders
-  abstract: 'borehole/profile geneitic horizons and depth intervals
-
-    '
+  title: Bodemlocaties
+  abstract: "Een bodemlocatie is ofwel een profielput of een boring. Een boring is\
+    \ altijd \xE9\xE9n puntlocatie (x,y,z) en een profielput heeft minimum \xE9\xE9\
+    n en maximum twee puntlocaties (begin- en eindpunt van de profielput). \nEen profielput\
+    \ is een uitgegraven put in de bodem waarin profielbeschrijvingen, monsternames\
+    \ of bodemobservaties worden uitgevoerd. Een profielbeschrijving is een waarneming\
+    \ van bodemhorizonten en/of bodemlagen in een uitgegraven profielput. Een bodemhorizont\
+    \ is een visueel te onderscheiden deel van de bodem dat ontstaan is door omzetting\
+    \ van het moedermateriaal door pedogenetische processen of door het afzetten van\
+    \ organisch materiaal. Een bodemhorizont heeft voor de meeste bodemvariabelen\
+    \ homogene morfologische en analytische karakteristieken. Een bodemlaag daarentegen\
+    \ is ontstaan door niet-pedogenetische processen. Aan de hand van een profielput\
+    \ krijg je een beeld van de bodemkundige opbouw.\nEen boring is het resultaat\
+    \ van het boren in de ondergrond met verwijdering van bodem door middel van een\
+    \ gereedschap in de vorm van een holle buis. Aan de hand van dit opgeboorde bodemmateriaal\
+    \ worden bodembeschrijvingen, bodemobservaties en monsternames uitgevoerd.\nDe\
+    \ bodemlocaties uit de 'Aardewerk-Vlaanderen-2010' databank worden afzonderlijk\
+    \ ontsloten in de datasets 'Bodemprofielen kartering Belgische bodemkaart' en\
+    \ 'Oppervlaktemonsters kartering Belgische bodemkaart'."
   dates:
-    creation: 1947-2020
+    creation: '2018-11-20'
+    publication: '2018-11-20'
   keywords:
     default:
       keywords:
@@ -29,22 +45,161 @@ identification:
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
+    keywords-0:
+      type: null
+      keywords:
+      - Bodem
+      - Bodemgebruik
+    keywords-1:
+      type: null
+      keywords:
+      - ondergrond
+      - bodemkaart
+      - bodemtextuur
+      - bodemprofiel
+      - bodemanalyse
+      - bodembiologie
+      - bodemchemie
+      - bodemkunde
+      - bodemkunde
+      - bodemlaag
+      - bodemproces
+      - bodemstructuur
+      - bodemvorming
+      - bodemdaling
+      - bodemdegradatie
+      - bodemerosie
+      - bodemfunctie
+      - bodemgebruik
+      - bodemgesteldheid
+      - bodemkwaliteit
+      - bodemlucht
+      - bodemorganisme
+      - bodemverdichting
+      - bodemverzuring
+      - bodemvocht
+      - bodemvochthuishouding
+      - bodemvruchtbaarheid
+      - doorsijpeling van water in de bodem
+    keywords-2:
+      type: null
+      keywords:
+      - DOV
+      - Vlaanderen
+      - Ondergrond
+      - Databank Ondergrond Vlaanderen
+      - Departement Omgeving
+      - Profielput
+      - Bodemprofielgegevens
+    keywords-3:
+      type: theme
+      keywords:
+      - Regionaal
+    keywords-4:
+      type: theme
+      keywords:
+      - Herbruikbaar
+      - Kosteloos
+      - Vlaamse Open data
+      - Toegevoegd GDI-Vl
+      - Metadata GDI-Vl-conform
+      - Metadata INSPIRE-conform
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 1947-2020
-  accessconstraints: No restrictions
+    - begin: '1999-12-31'
+      end: '1999-01-01'
+    spatial:
+    - bbox:
+      - 2.5521321727947943
+      - 50.52784590072332
+      - 5.869300470014372
+      - 51.452751829458414
+  accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: otherRestrictions
+  status: onGoing
 contact:
   pointOfContact:
     organization: Vlaamse overheid, Departement Omgeving, Vlaams Planbureau voor Omgeving
       (VPO)
-    country: Belgium
+    country: "Belgi\xEB"
+    individualname: null
+    positionname: null
+    phone: null
+    fax: null
+    address: Koning Albert II-laan 20 bus 8
+    city: Brussel
+    administrativearea: null
+    postalcode: '1000'
+    email: vpo.omgeving@vlaanderen.be
+    url: https://www.omgevingvlaanderen.be
+  distributor:
+    organization: null
+    individualname: null
+    positionname: null
+    phone: +32 9 240 75 93
+    fax: null
+    address: Technologiepark-Zwijnaarde 68
+    city: Gent
+    administrativearea: null
+    postalcode: '9052'
+    country: "Belgi\xEB"
+    email: dov@vlaanderen.be
+    url: https://www.dov.vlaanderen.be
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: 'borehole/profile. Mapping: no mapping (points). Depth intervals: otherRestrictions.
       Uncertainty quantification: NO'
+distribution:
+  link-0:
+    url: https://www.dov.vlaanderen.be/geoserver/bodem/wfs?
+    type: OGC:WFS
+    name: bodemlocaties
+    description: WFS-endpoint Bodemlocaties
+    function: download
+  link-1:
+    url: https://www.dov.vlaanderen.be/geoserver/bodem/wfs?SERVICE=WFS&version=2.0.0&request=GetCapabilities
+    type: OGC:WFS-2.0.0-http-get-capabilities
+    name: bodem:bodemlocaties
+    description: WFS-capabilities Bodemlocaties
+    function: download
+  link-2:
+    url: https://www.dov.vlaanderen.be/geoserver/bodem/wms?SERVICE=WMS&version=1.3.0&request=GetCapabilities
+    type: OGC:WMS-1.3.0-http-get-capabilities
+    name: bodemlocaties
+    description: WMS-capabilities Bodemlocaties
+    function: null
+  link-3:
+    url: https://www.dov.vlaanderen.be/geoserver/bodem/wms/kml?layers=bodemlocaties
+    type: GLG:KML-2.0-http-get-map
+    name: bodemlocaties
+    description: KML Bodemlocaties
+    function: null
+  link-4:
+    url: https://www.dov.vlaanderen.be/geoserver/bodem/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    type: OGC:WMS-1.3.0-http-get-map
+    name: bodemlocaties
+    description: WMS-map Bodemlocaties
+    function: null
+  link-5:
+    url: https://www.dov.vlaanderen.be/geoserver/bodem/wms?
+    type: OGC:WMS
+    name: bodemlocaties
+    description: WMS-endpoint Bodemlocaties
+    function: null
+  link-6:
+    url: https://www.dov.vlaanderen.be/geoserver/bodem/wfs?SERVICE=WFS&version=2.0.0&request=GetFeature&count=1&typeName=bodemlocaties
+    type: OGC:WFS-2.0.0-http-get-feature
+    name: bodemlocaties
+    description: WFS-feature Bodemlocaties
+    function: download
+  link-7:
+    url: https://www.dov.vlaanderen.be/bodemverkenner
+    type: WWW:LINK-1.0-http--related
+    name: DOV bodemverkenner
+    description: Link naar DOV bodemverkenner applicatie
+    function: null

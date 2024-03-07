@@ -48,7 +48,7 @@ dataquality:
     level: dataset
   lineage:
     statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
-distribution: 
+distribution:
   invekos:
     url: https://info.bml.gv.at/themen/landwirtschaft/gemeinsame-agrarpolitik-foerderungen/gap-bis-2022/direktzahlungen-bis-2022/Invekos.html
     type: website

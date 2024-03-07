@@ -1,10 +1,10 @@
 mcf:
-  version: 1.0
+  version: '1.0'
 metadata:
-  identifier: Uitgevoerde-gemeentelijke-erosiebestrijdingswerken-(soil-erosion-control-measures)
+  identifier: 692a9efb-8509-4a6f-a3be-6887f969867d
   language: eng
   charset: utf8
-  datestamp: 2022-01-01
+  datestamp: '2023-11-08'
   hierarchylevel: dataset
   dataseturi: https://www.dov.vlaanderen.be/geonetwork/srv/metadata/692a9efb-8509-4a6f-a3be-6887f969867d
 spatial:
@@ -14,11 +14,20 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Uitgevoerde gemeentelijke erosiebestrijdingswerken (soil erosion control
-    measures)
-  abstract: ''
+  title: Kleinschalige erosiebestrijdingswerken
+  abstract: "De kaart met kleinschalige erosiebestrijdingswerken bevat de erosiebestrijdingswerken\
+    \ die gerealiseerd zijn of op korte termijn zullen gerealiseerd worden door (lokale)\
+    \ overheden. Deze datalaag omvat zowel de gemeentelijke erosiebestrijdingswerken\
+    \ die met subsidies van de Vlaamse Overheid (Departement Omgeving) in het kader\
+    \ van het Erosiebesluit zijn aangelegd als erosiebestrijdingswerken die via een\
+    \ ander financieringskanaal (gemeente, provincie, landinrichting, ruilverkaveling,...)\
+    \ werden gerealiseerd. De erosiebestrijdingswerken bestaan uit \xE9\xE9n of een\
+    \ combinatie van meerdere maatregelen, zoals aarden dammen, erosiepoelen, bufferbekkens,\
+    \ buffergrachten, grasstroken, graszones, houtige kleine landschapselementen,\
+    \ etc."
   dates:
-    creation: ''
+    creation: '2021-01-29'
+    publication: '2021-02-05'
   keywords:
     default:
       keywords:
@@ -29,22 +38,133 @@ identification:
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
+    keywords-0:
+      type: null
+      keywords:
+      - Bodem
+    keywords-1:
+      type: null
+      keywords:
+      - ondergrond
+      - bodemerosie
+      - erosiebeheersing
+    keywords-2:
+      type: null
+      keywords:
+      - DOV
+      - Vlaanderen
+      - Ondergrond
+      - Databank Ondergrond Vlaanderen
+      - Departement Omgeving
+    keywords-3:
+      type: theme
+      keywords:
+      - Regionaal
+    keywords-4:
+      type: theme
+      keywords:
+      - Herbruikbaar
+      - Kosteloos
+      - Vlaamse Open data
+      - Toegevoegd GDI-Vl
+      - Metadata GDI-Vl-conform
+      - Metadata INSPIRE-conform
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: ''
-  accessconstraints: No restrictions
+    - begin: '1970-01-01'
+      end: '1970-01-01'
+    spatial:
+    - bbox:
+      - 2.648069814444071
+      - 50.69987366824284
+      - 5.81644036461465
+      - 51.028726197265506
+  accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: null
+  status: onGoing
 contact:
   pointOfContact:
     organization: Vlaamse overheid, Departement Omgeving, Vlaams Planbureau voor Omgeving
       (VPO)
-    country: Belgium
+    country: "Belgi\xEB"
+    individualname: null
+    positionname: null
+    phone: null
+    fax: null
+    address: Koning Albert II-laan 20 bus 8
+    city: Brussel
+    administrativearea: null
+    postalcode: '1000'
+    email: vpo.omgeving@vlaanderen.be
+    url: https://www.omgevingvlaanderen.be
+  distributor:
+    organization: null
+    individualname: null
+    positionname: null
+    phone: +32 9 240 75 93
+    fax: null
+    address: Technologiepark-Zwijnaarde 68
+    city: Gent
+    administrativearea: null
+    postalcode: '9052'
+    country: "Belgi\xEB"
+    email: dov@vlaanderen.be
+    url: https://www.dov.vlaanderen.be
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: '. Mapping: terrain observations. Depth intervals: . Uncertainty quantification:
       NO'
+distribution:
+  link-0:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wfs?
+    type: OGC:WFS
+    name: erosiebestrijding_gemeente
+    description: WFS-endpoint Kleinschalige erosiebestrijdingswerken
+    function: download
+  link-1:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wfs?SERVICE=WFS&version=2.0.0&request=GetCapabilities
+    type: OGC:WFS-2.0.0-http-get-capabilities
+    name: erosie:erosiebestrijding_gemeente
+    description: WFS-capabilities Kleinschalige erosiebestrijdingswerken
+    function: download
+  link-2:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wms?SERVICE=WMS&version=1.3.0&request=GetCapabilities
+    type: OGC:WMS-1.3.0-http-get-capabilities
+    name: erosiebestrijding_gemeente
+    description: WMS-capabilities Kleinschalige erosiebestrijdingswerken
+    function: null
+  link-3:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wms/kml?layers=erosiebestrijding_gemeente
+    type: GLG:KML-2.0-http-get-map
+    name: erosiebestrijding_gemeente
+    description: KML Kleinschalige erosiebestrijdingswerken
+    function: null
+  link-4:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wms?SERVICE=WMS&version=1.3.0&request=GetMap
+    type: OGC:WMS-1.3.0-http-get-map
+    name: erosiebestrijding_gemeente
+    description: WMS-map Kleinschalige erosiebestrijdingswerken
+    function: null
+  link-5:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wms?
+    type: OGC:WMS
+    name: erosiebestrijding_gemeente
+    description: WMS-endpoint Kleinschalige erosiebestrijdingswerken
+    function: null
+  link-6:
+    url: https://www.dov.vlaanderen.be/geoserver/erosie/wfs?SERVICE=WFS&version=2.0.0&request=GetFeature&count=1&typeName=erosiebestrijding_gemeente
+    type: OGC:WFS-2.0.0-http-get-feature
+    name: erosiebestrijding_gemeente
+    description: WFS-feature Kleinschalige erosiebestrijdingswerken
+    function: download
+  link-7:
+    url: https://www.dov.vlaanderen.be/bodemverkenner
+    type: WWW:LINK-1.0-http--related
+    name: DOV bodemverkenner
+    description: Link naar DOV bodemverkenner applicatie
+    function: null

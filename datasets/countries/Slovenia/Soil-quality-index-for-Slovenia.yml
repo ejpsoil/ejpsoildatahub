@@ -15,10 +15,9 @@ identification:
   language: null
   charset: utf8
   title: Soil quality index for Slovenia
-  abstract: "Index of soil productivity evaluation, listed from 7-100 (7-88 for grassland).\
-    \ A higher number indicates the higher productive potential of the soil regardless\
-    \ of its present usage. The index is in digital form (map 1:25000) (parcel-specific,no).https://etla.kis.si/KIS-WebGIS/#config=eTLA_JAVNI.xml\
-    \ "
+  abstract: 'Index of soil productivity evaluation, listed from 7-100 (7-88 for grassland).
+    A higher number indicates the higher productive potential of the soil regardless
+    of its present usage. The index is in digital form (map 1:25000) (parcel-specific,no).https://etla.kis.si/KIS-WebGIS/#config=eTLA_JAVNI.xml '
   dates:
     creation: '2006'
   keywords:

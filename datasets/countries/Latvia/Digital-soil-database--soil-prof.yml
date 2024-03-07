@@ -14,7 +14,7 @@ identification:
   language: null
   charset: utf8
   title: Digital soil database ( soil profiles)
-  abstract: "profile sampling, samples from topsoil and subsoil "
+  abstract: 'profile sampling, samples from topsoil and subsoil '
   dates:
     creation: 1960-1991
   keywords:

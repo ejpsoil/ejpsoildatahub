@@ -14,7 +14,7 @@ identification:
   language: null
   charset: utf8
   title: The Crop Map of England
-  abstract: "Remote classification "
+  abstract: 'Remote classification '
   dates:
     creation: '2018'
   keywords:

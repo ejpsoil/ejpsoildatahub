@@ -13,9 +13,8 @@ identification:
   language: null
   charset: utf8
   title: Forest compartments in Slovenia
-  abstract: "Data are available for each separate forest compartment as query (HTML\
-    \ form), used for forest management planning. Data is in digital form (parcel-specific,no).\
-    \ "
+  abstract: 'Data are available for each separate forest compartment as query (HTML
+    form), used for forest management planning. Data is in digital form (parcel-specific,no). '
   dates:
     creation: 1970-1990 - 2017
   keywords:
