@@ -13,10 +13,24 @@ identification:
     data for 18,984 samples: pH (CaCl2 and H2O), organic carbon content, CaCO3, nitrogen,
     phosphorous, potassium, EC (Electrical conductivity), Oxalate extractable Fe and
     Al .
-
-    '
+    Soil dataset collected as part of the 2018 Land Use/Cover Area 
+    frame statistical Survey’ (generally referred to as LUCAS Soil Module). It presents an 
+    overview of the various laboratory analysis and describes the spatial variability of soil 
+    properties by land cover (LC) class and a comparative analysis of the soil properties for 
+    NUTS 2 regions.
+    The LUCAS Soil Module is the only mechanism that currently provides a harmonised and 
+    regular collection of soil data for the entire territory of the European Union, addressing all 
+    major land cover types simultaneously, in a single sampling period (April – October).
+    At the same time, the LUCAS Soil module can support further policy needs through a 
+    flexibility that permits both the collection of new field data, if required, from new sampling 
+    sites. In turn, this can be complemented with additional laboratory analysis (e.g. 
+    micronutrients, specific pollutants).'
+  fees: None
+  accessconstraints: otherRestrictions
+  license:
+      name: CC-BY-NC 4.0
   dates:
-    creation: 2022-01-01
+    creation: 2018-01-01
   keywords:
     default:
       keywords:
@@ -35,6 +49,14 @@ distribution:
     url: https://esdac.jrc.ec.europa.eu/node/80774
     type: metadata
     name: LUCAS 2018 TOPSOIL data
+  md2:
+    url: https://esdac.jrc.ec.europa.eu/public_path/shared_folder/dataset/75-LUCAS-SOIL-2018/readme_LUCAS-SOIL-2018-29_07_2022.docx
+    type: document
+    name: Metadata
+  md3:
+    url: https://esdac.jrc.ec.europa.eu/public_path/shared_folder/dataset/75-LUCAS-SOIL-2018/JRC_Report_2018%20LUCAS_Soil_Final-v2.pdf
+    type: document
+    name: Report
   thumbnail:
     url: https://esdac.jrc.ec.europa.eu/public_path//datainventoryitem_img/LUCAS2018.PNG
     type: image/PNG

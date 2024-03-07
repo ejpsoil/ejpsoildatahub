@@ -1,13 +1,12 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: "COS-2018,--2018-Land-Use-and-Soil-Occupation-Map-for-Portugal-(Carta-de-Uso-e-Ocupa\xE7\
-    \xE3o-do-Solo-para-2018)"
+  identifier: "Carta-de-Uso-e-Ocupado-do-Solo-para-2018"
   language: eng
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://snig.dgterritorio.gov.pt
+  dataseturi: https://www.dgterritorio.gov.pt/Carta-de-Uso-e-Ocupacao-do-Solo-para-2018
 spatial:
   resolution: "Minimum cartographic unit (1 ha) with distancebetween lines \u2265\
     \ 20 m; Positional accuracy  \u2265 5.5m  Thematic accuracy \u2265 85 %"
@@ -45,7 +44,8 @@ identification:
   maintenancefrequency: otherRestrictions
 contact:
   pointOfContact:
-    organization: "Dire\xE7\xE3o-Geral do Territ\xF3rio (DGT) (https://www.dgterritorio.gov.pt/Carta-de-Uso-e-Ocupacao-do-Solo-para-2018)"
+    organization: "Dire\xE7\xE3o-Geral do Territ\xF3rio (DGT)"
+    url: https://www.dgterritorio.gov.pt/Carta-de-Uso-e-Ocupacao-do-Solo-para-2018
     country: Portugal
 dataquality:
   scope:
