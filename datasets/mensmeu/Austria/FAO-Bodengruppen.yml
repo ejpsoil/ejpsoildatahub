@@ -13,7 +13,7 @@ spatial:
 identification:
   language: ger
   charset: utf8
-  title: FAO Bodengruppen
+  title: Soil Map Austria (national soil classification 1969)
   abstract: 'Soil systematic of Austria 1969'
   dates:
     creation: 01-01-1989

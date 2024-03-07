@@ -6,7 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://www.baw.at/en/wasser-boden-en/projekte.html
+  dataseturi: https://www.baw.at/en/water-and-soil/projects.html
 spatial:
   resolution: 1000 points over the whole country;
   datatype: POINT

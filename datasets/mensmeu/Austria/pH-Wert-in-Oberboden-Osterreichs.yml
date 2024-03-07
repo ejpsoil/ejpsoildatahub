@@ -42,7 +42,7 @@ identification:
     - end: ''
   accessconstraints: null
   rights: filled online order form
-  url: https://boris.umweltbundesamt.at/borisdaten/alias.xhtml?alias=Login
+  url: https://www.umweltbundesamt.at/umweltthemen/boden/boris/boris-datenzugang
   status: onGoing
   maintenancefrequency: continual
 contact:
@@ -54,11 +54,11 @@ contact:
     contactinstructions: email
 distribution:
   xls:
-    url: https://www.umweltbundesamt.at/umweltsituation/boden/boris/boris_datenzugang/
+    url: https://www.umweltbundesamt.at/umweltthemen/boden/boris/boris-datenzugang
     type: application/xls
     name: XLS
   PDF:
-    url: https://www.umweltbundesamt.at/fileadmin/site/umweltthemen/boden/BORIS/pH_Wert_Referenzwerteband.pdf
+    url: https://www.umweltbundesamt.at/fileadmin/site/themen/boden/boris/pH_wert_referenzwerteband.pdf
     type: application/pdf
     name: PDF
 dataquality:

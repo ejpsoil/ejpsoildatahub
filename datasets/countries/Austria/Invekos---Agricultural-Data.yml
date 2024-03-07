@@ -6,7 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://www.bmlrt.gv.at/land/direktzahlungen/Invekos.html
+  dataseturi: https://info.bml.gv.at/themen/landwirtschaft/gemeinsame-agrarpolitik-foerderungen/gap-bis-2022/direktzahlungen-bis-2022/Invekos.html
 spatial:
   resolution: pixel size 20m to 20cm;
   datatype: null
@@ -48,3 +48,7 @@ dataquality:
     level: dataset
   lineage:
     statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution: 
+  invekos:
+    url: https://info.bml.gv.at/themen/landwirtschaft/gemeinsame-agrarpolitik-foerderungen/gap-bis-2022/direktzahlungen-bis-2022/Invekos.html
+    type: website

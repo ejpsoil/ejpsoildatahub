@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: General-Soil-Map-(Austria)
   language: ger
-  
+  dataseturi: https://ehao.boku.ac.at/
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2005-01-01
