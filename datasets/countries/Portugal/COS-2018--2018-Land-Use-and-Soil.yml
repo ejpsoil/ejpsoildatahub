@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: "Carta-de-Uso-e-Ocupado-do-Solo-para-2018"
+  identifier: Carta-de-Uso-e-Ocupado-do-Solo-para-2018
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -52,3 +52,4 @@ dataquality:
     level: dataset
   lineage:
     statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution: {}

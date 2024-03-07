@@ -1,10 +1,10 @@
 mcf:
-  version: 1.0
+  version: '1.0'
 metadata:
-  identifier: INFOSOLO---Database-of-Soil-Profile-Data-for-Portugal
+  identifier: 25d0cf4d-1865-4d2a-be32-40a1b2483936
   language: eng
   charset: utf8
-  datestamp: 2022-01-01
+  datestamp: '2021-11-18T15:06:44'
   hierarchylevel: dataset
   dataseturi: https://data.isric.org/geonetwork/srv/metadata/25d0cf4d-1865-4d2a-be32-40a1b2483936
 spatial:
@@ -13,13 +13,19 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: INFOSOLO - Database of Soil Profile Data for Portugal
-  abstract: 'soil profile sampling Mainly, the depths  intervals are genetic based.
-    But there are cases that are depth intervals based
-
-    '
+  title: INFOSOLO - Soil Profile Data for Portugal
+  abstract: The INFOSOLO legacy database is the first effort to develop a soil information
+    system in Portugal, suitable to compile soil data produced in the country, and
+    to support stakeholders and land managers in decision-making. The current version
+    includes soil data from a set of 9934 horizons/layers studied in 3461 soil profiles
+    across the country between 1966 and 2014. Data was extracted from scattered soil
+    surveys, research projects, and academic studies carried out by public Portuguese
+    and other European institutions. As the level of detail of soil information varied
+    between datasets, a series of validation tests and harmonization procedures were
+    implemented in order to access and improve the quality of the data
   dates:
     creation: '2014'
+    publication: '2006-11-01'
   keywords:
     default:
       keywords:
@@ -30,21 +36,85 @@ identification:
       vocabulary:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
+    keywords-0:
+      type: theme
+      keywords:
+      - calcium
+      - calcium carbonate
+      - phosphorus
+      - cation exchange capacity
+      - magnesium
+      - nitrogen
+      - organic carbon
+      - potassium
+      - sodium
+      - bulk density
+      - soil depth
+      - pH
+      - texture
+      - water holding capacity
+      - soil profiles
+      - nutrients
+    keywords-1:
+      type: stratum
+      keywords:
+      - Soil science
+    keywords-2:
+      type: place
+      keywords:
+      - Europe
+      - Portugal
   topiccategory:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: '2014'
-  accessconstraints: No restrictions
+    - begin: '1966-01-01'
+      end: '2014-12-12'
+    spatial:
+    - bbox:
+      - -9.8
+      - 36.8
+      - -6.1
+      - 42.2
+  accessconstraints: license
   rights: ''
   maintenancefrequency: it was a single survey
+  status: Completed
 contact:
   pointOfContact:
-    organization: INIAV
+    organization: ISRIC - World Soil Information
     country: Portugal
+    individualname: Ulan Turdukulov
+    positionname: null
+    phone: null
+    fax: null
+    address: null
+    city: null
+    administrativearea: null
+    postalcode: null
+    email: ulan.turdukulov@isric.org
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: ' soil profile sampling. Mapping: . Depth intervals: Genetic-based
       horizons (A, Ap, B, C etc). Uncertainty quantification: NO'
+distribution:
+  link-0:
+    url: https://maps.isric.org/mapserv?map=/map/external.map
+    type: OGC:WFS
+    name: pt_infosolo
+    description: null
+    function: download
+  link-1:
+    url: https://doi.org/10.1016/j.catena.2017.07.020
+    type: WWW:LINK-1.0-http--related
+    name: Scientific paper
+    description: null
+    function: information
+  link-2:
+    url: https://files.isric.org/public/external/PT-INFOSOLO.zip
+    type: WWW:LINK-1.0-http--related
+    name: Download zip
+    description: null
+    function: information
