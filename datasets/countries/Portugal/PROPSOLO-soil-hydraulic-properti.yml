@@ -1,15 +1,12 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: PROPSOLO-soil-hydraulic-properties-of-portuguese-soils
+  identifier: 10.2788-5936
   language: eng
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: "Gon\xE7alves, M. C., Ramos, T. B., Martins, J. C. 2013. Soil data from\
-    \ Portugal. In,Weynants et al. (eds.), European Hydropedological Data Inventory\
-    \ (EU-HYDI). 08/2013, Publisher,Publications Office of the European Union, pp\
-    \ 57-62, ISBN,978-92-79-32355-3 http://dx.doi.org/10.2788/5936"
+  dataseturi: http://dx.doi.org/10.2788/5936
 spatial:
   resolution: null
   datatype: POINT
