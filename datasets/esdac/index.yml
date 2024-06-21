@@ -15,7 +15,7 @@ identification:
         url: https://inspire.ec.europa.eu/metadata-codelist/SpatialScope
     source:
       keywords:
-      - EJP Soil stocktake
+      - ESDAC
       vocabulary:
         name: Source
         url: 
