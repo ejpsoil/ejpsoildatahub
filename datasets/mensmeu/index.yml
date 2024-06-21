@@ -1,0 +1,9 @@
+identification:
+  keywords:
+    spatialscope:
+      keywords:
+      - National
+      vocabulary:
+        name: Spatial scope
+        url: https://inspire.ec.europa.eu/metadata-codelist/SpatialScope
+    
