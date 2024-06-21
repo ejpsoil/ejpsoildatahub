@@ -6,3 +6,16 @@ identification:
     spatial:
       - bbox: [-26.542969,37.553456,39.726563,70.553961]
         crs: 4326
+  keywords:
+    spatialscope:
+      keywords:
+      - European
+      vocabulary:
+        name: Spatial scope
+        url: https://inspire.ec.europa.eu/metadata-codelist/SpatialScope
+    source:
+      keywords:
+      - EJP Soil
+      vocabulary:
+        name: Source
+        url: 
