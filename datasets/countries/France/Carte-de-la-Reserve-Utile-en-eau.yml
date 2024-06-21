@@ -49,7 +49,6 @@ contact:
     individualname: Le Bas, Christine
     role: ContactPerson
     organization: (INRA - Institut National de la Recherche Agronomique)
-    url: ''
 dataquality:
   scope:
     level: dataset

@@ -27,7 +27,6 @@ contact:
     email: ec-esdac@ec.europe.eu
 distribution:
   md:
-    url: ''
     type: metadata
     name: 'ECALP: Ecopedological Map of the Alps'
   thumbnail:

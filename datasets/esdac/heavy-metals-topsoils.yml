@@ -33,7 +33,6 @@ contact:
     email: ec-esdac@ec.europe.eu
 distribution:
   md:
-    url: ''
     type: metadata
     name: Heavy Metals in topsoils
   thumbnail:

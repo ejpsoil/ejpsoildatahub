@@ -43,26 +43,19 @@ distribution:
 contact:
   Blanchy-Guillaume:
     individualname: Blanchy, Guillaume
-    role: ''
     organization: Flanders Research Institute for Agriculture, Fisheries and Food,
       Belgium
-    url: ''
   D'Hose-Tommy:
     individualname: "D\u2019Hose, Tommy"
-    role: ''
     organization: Flanders Research Institute for Agriculture, Fisheries and Food,
       Belgium
-    url: ''
   Klumpp-Katja:
     individualname: Klumpp, Katja
-    role: ''
     organization: Institut National de la Recherche Agronomique (INRA), France
-    url: ''
   Tommy-D'Hose:
     individualname: "Tommy D\u2019Hose"
     role: ProjectLeader
     organization: Flanders Research Institute for Agriculture, Fisheries and Food,
       Belgium
-    url: ''
 spatial:
   type: Table

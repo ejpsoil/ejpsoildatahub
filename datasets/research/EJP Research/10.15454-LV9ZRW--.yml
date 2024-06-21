@@ -122,7 +122,6 @@ distribution:
 contact:
   Launay-Camille:
     individualname: Launay, Camille
-    role: ''
     organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
       et l'Environnement)
     url: https://orcid.org/0000-0002-2362-7071
@@ -131,36 +130,26 @@ contact:
     role: ContactPerson
     organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
       et l'Environnement)
-    url: ''
   Raynal-Helene:
     individualname: "Raynal, H\xE9l\xE8ne"
-    role: ''
     organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
       et l'Environnement)
-    url: ''
   Casellas-Eric:
     individualname: Casellas, Eric
-    role: ''
     organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
       et l'Environnement)
-    url: ''
   Mary-Bruno:
     individualname: Mary, Bruno
-    role: ''
     organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
       et l'Environnement)
-    url: ''
   Pellerin-Sylvain:
     individualname: Pellerin, Sylvain
     role: ContactPerson
     organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
       et l'Environnement)
-    url: ''
   Therond-Olivier:
     individualname: Therond, Olivier
-    role: ''
     organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
       et l'Environnement)
-    url: ''
 spatial:
   type: ''

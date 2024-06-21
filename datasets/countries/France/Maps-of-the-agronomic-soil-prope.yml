@@ -75,54 +75,37 @@ contact:
     country: France
   Saby-Nicolas-P.A.:
     individualname: Saby, Nicolas P.A.
-    role: ''
     organization: (INRA - Institut National de la Recherche Agronomique)
     url: https://orcid.org/0000-0001-8964-1194
   Lemercier-Blandine:
     individualname: Lemercier, Blandine
-    role: ''
     organization: (AgroCampus Ouest)
-    url: ''
   Arrouays-Dominique:
     individualname: Arrouays, Dominique
-    role: ''
     organization: (INRA - Institut National de la Recherche Agronomique)
-    url: ''
   Walter-Christian:
     individualname: Walter, Christian
-    role: ''
     organization: (AgroCampus Ouest)
-    url: ''
   Gouny-Laetitia:
     individualname: Gouny, Laetitia
-    role: ''
     organization: (INRA - Institut National de la Recherche Agronomique)
-    url: ''
   Swidersky-Chloe:
     individualname: "Swidersky, Chlo\xE9"
-    role: ''
     organization: (INRA - Institut National de la Recherche Agronomique)
-    url: ''
   Toutain-Benoit:
     individualname: "Toutain, Beno\xEEt"
-    role: ''
     organization: (INRA - Institut National de la Recherche Agronomique)
-    url: ''
   Bispo-Antonio:
     individualname: Bispo, Antonio
-    role: ''
     organization: (INRA - Institut National de la Recherche Agronomique)
-    url: ''
   Saby-Nicolas:
     individualname: Saby, Nicolas
     role: ContactPerson
     organization: (INRA - Institut National de la Recherche Agronomique)
-    url: ''
   Infosol:
     individualname: Infosol
     role: Producer
     organization: (INRA)
-    url: ''
 dataquality:
   scope:
     level: dataset

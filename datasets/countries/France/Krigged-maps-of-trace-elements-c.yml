@@ -48,39 +48,30 @@ contact:
     country: France
   Saby-P.A.-Nicolas:
     individualname: Saby, P.A. Nicolas
-    role: ''
     organization: (INRA - Institut National de la Recherche Agronomique)
     url: https://orcid.org/0000-0001-8964-1194
   Marchant-Ben-.P:
     individualname: Marchant, Ben .P
-    role: ''
     organization: (British Geological Survey)
-    url: ''
   Arrouays-Dominique:
     individualname: Arrouays, Dominique
-    role: ''
     organization: (INRA)
     url: https://orcid.org/0000-0002-6878-6498
   Jolivet-Claudy:
     individualname: Jolivet, Claudy
-    role: ''
     organization: (INRA)
-    url: ''
   Saby-Nicolas:
     individualname: Saby, Nicolas
     role: ContactPerson
     organization: (INRA - Institut National de la Recherche Agronomique)
-    url: ''
   Infosol:
     individualname: Infosol
     role: ContactPerson
     organization: (INRA)
-    url: ''
   Groupement-D'interet-Scientifique-Sur-Les-Sols:
     individualname: "Groupement D'int\xE9r\xEAt Scientifique Sur Les Sols"
     role: Producer
     organization: ''
-    url: ''
 dataquality:
   scope:
     level: dataset

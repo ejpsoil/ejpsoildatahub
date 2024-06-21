@@ -33,7 +33,6 @@ contact:
     email: ec-esdac@ec.europe.eu
 distribution:
   md:
-    url: ''
     type: metadata
     name: Post-fire soil erosion map for Portugal
   thumbnail:

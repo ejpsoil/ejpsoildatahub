@@ -32,7 +32,6 @@ contact:
     email: ec-esdac@ec.europe.eu
 distribution:
   md:
-    url: ''
     type: metadata
     name: Biochar Meta-analysis Database
   thumbnail:

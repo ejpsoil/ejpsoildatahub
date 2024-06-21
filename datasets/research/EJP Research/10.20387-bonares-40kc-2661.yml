@@ -34,46 +34,31 @@ distribution:
 contact:
   Donmez-Cenk:
     individualname: "D\xF6nmez, Cenk"
-    role: ''
     organization: Leibniz Center for Agricultural Landscape Research (ZALF)
-    url: ''
   Blanchy-Guillaume:
     individualname: Blanchy, Guillaume
-    role: ''
     organization: Flanders Research Institute for Agriculture, Fisheries and Food
       (ILVO)
-    url: ''
   Svoboda-Nikolai:
     individualname: Svoboda, Nikolai
-    role: ''
     organization: Leibniz Center for Agricultural Landscape Research (ZALF)
-    url: ''
   D'Hose-Tommy:
     individualname: D'Hose, Tommy
-    role: ''
     organization: Flanders Research Institute for Agriculture, Fisheries and Food
       (ILVO)
-    url: ''
   Hoffmann-Carsten:
     individualname: Hoffmann, Carsten
-    role: ''
     organization: Leibniz Center for Agricultural Landscape Research (ZALF)
-    url: ''
   Hierold-Wilfried:
     individualname: Hierold, Wilfried
-    role: ''
     organization: Leibniz Center for Agricultural Landscape Research (ZALF)
-    url: ''
   Klummp-Katja:
     individualname: Klummp, Katja
-    role: ''
     organization: "Institut national de recherche pour l\u2019agriculture, l\u2019\
       alimentation et l\u2019environnement (INRAE)"
-    url: ''
   '|':
     individualname: '|'
     role: ProjectLeader
     organization: '|'
-    url: ''
 spatial:
   type: Table

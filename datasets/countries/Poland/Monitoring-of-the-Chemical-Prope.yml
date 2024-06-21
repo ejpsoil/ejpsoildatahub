@@ -43,9 +43,7 @@ contact:
     country: Poland
   Grzegorz-Siebielec:
     individualname: Grzegorz Siebielec
-    role: ''
     organization: ''
-    url: ''
 dataquality:
   scope:
     level: dataset

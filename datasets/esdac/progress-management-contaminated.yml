@@ -33,7 +33,6 @@ contact:
     email: ec-esdac@ec.europe.eu
 distribution:
   md:
-    url: ''
     type: metadata
     name: Progress in the management of contaminated sites in Europe
   thumbnail:
