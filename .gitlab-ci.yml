@@ -20,7 +20,7 @@ metadata:
     - poetry run crawl-metadata --dir=$CI_PROJECT_DIR/datasets --mode=export --dir-out=/tmp
     # upload iso to pycsw (remove first, only changed?)
     - pycsw-admin.py delete-records --config=$CI_PROJECT_DIR/pycsw.cfg -y
-    - pycsw-admin.py load-records --config=$CI_PROJECT_DIR/pycsw.cfg  --path=/tmp
+    #- pycsw-admin.py load-records --config=$CI_PROJECT_DIR/pycsw.cfg  --path=/tmp
     # load also other xml files
     - pycsw-admin.py load-records --config=$CI_PROJECT_DIR/pycsw.cfg  --path=$CI_PROJECT_DIR/datasets -r
   when: on_success
