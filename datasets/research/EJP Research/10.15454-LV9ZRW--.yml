@@ -7,7 +7,7 @@ metadata:
 identification:
   keywords:
     default:
-      keywords: -'EJPSoil'
+      keywords: ['EJPSoil']
   title: "Etude 4pour1000 : Donn\xE9es mod\xE8le STICS"
   abstract: "Donn\xE9es issues des simulations g\xE9n\xE9r\xE9es par le mod\xE8le\
     \ STICS dans le cadre de l'\xE9tude 4p1000."

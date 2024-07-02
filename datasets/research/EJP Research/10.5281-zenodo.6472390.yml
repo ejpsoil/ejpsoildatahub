@@ -7,7 +7,7 @@ metadata:
 identification:
   keywords:
     default:
-      keywords: -'EJPSoil'
+      keywords: ['EJPSoil']
   title: Zonal and raster data for i-SoMPE WP1 R Project
   abstract: This data is necessary to run the i-SoMPE WP1 R Project available on GitLab
     (https://gitlab.com/heoi/i-sompe-wp1)

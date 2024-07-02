@@ -7,7 +7,7 @@ metadata:
 identification:
   keywords:
     default:
-      keywords: -'EJPSoil'
+      keywords: ['EJPSoil']
   title: 'Etude 4pour1000 : BANCO simulation data for publication of the article "A
     Marginal Abatement Cost Curve for Climate Change Mitigation by additional carbon
     storage in French agricultural land"'

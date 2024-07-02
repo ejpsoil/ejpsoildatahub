@@ -7,7 +7,7 @@ metadata:
 identification:
   keywords:
     default:
-      keywords: -'EJPSoil'
+      keywords: ['EJPSoil']
   title: Metadata of the data base of the inventory (A and B)
   abstract: 'Metadata of the data base of the inventory (A and B) : main questions
     and all variables'

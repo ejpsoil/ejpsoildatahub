@@ -8,7 +8,7 @@ metadata:
 identification:
   keywords:
     default:
-      keywords: -'EJPSoil'
+      keywords: ['EJPSoil']
   title: Evaluation of RUSLE and spatial assessment of agricultural soil erosion in
     Finland
   abstract: ''

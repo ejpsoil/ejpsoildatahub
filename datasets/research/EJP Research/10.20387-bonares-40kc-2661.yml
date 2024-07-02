@@ -7,7 +7,7 @@ metadata:
 identification:
   keywords:
     default:
-      keywords: -'EJPSoil'
+      keywords: ['EJPSoil']
   title: Provision of Metadata of European Agricultural Long-Term Experiments through
     BonaRes and EJP SOIL Collaboration
   abstract: 'The dataset includes the meta-information of 616 LTEs from 30 different

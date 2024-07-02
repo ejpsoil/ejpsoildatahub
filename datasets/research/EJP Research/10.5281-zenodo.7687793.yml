@@ -7,7 +7,7 @@ metadata:
 identification:
   keywords:
     default:
-      keywords: -'EJPSoil'
+      keywords: ['EJPSoil']
   title: 'climasoma/nlp: v1.0.0'
   abstract: First release
   dates:

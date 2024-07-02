@@ -8,7 +8,7 @@ metadata:
 identification:
   keywords:
     default:
-      keywords: -'EJPSoil'
+      keywords: ['EJPSoil']
   title: "TASOW \xE2\u20AC\u201C A tool for the automated selection of potential windbreaks"
   abstract: ''
   dates:

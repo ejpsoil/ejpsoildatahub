@@ -7,7 +7,7 @@ metadata:
 identification:
   keywords:
     default:
-      keywords: -'EJPSoil'
+      keywords: ['EJPSoil']
   title: 'climasoma/review-of-meta-analyses: v1.0.0'
   abstract: 'Release associated with the SOIL manuscript: "Soil and crop management
     practices and the water regulation functions of soils: a qualitative synthesis

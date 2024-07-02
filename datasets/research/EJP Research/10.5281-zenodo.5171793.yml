@@ -7,7 +7,7 @@ metadata:
 identification:
   keywords:
     default:
-      keywords: -'EJPSoil'
+      keywords: ['EJPSoil']
   title: 'FlorianSchne/reciprocalModelling: Article in press'
   abstract: R code version for article in press
   dates:

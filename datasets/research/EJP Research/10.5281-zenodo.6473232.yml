@@ -7,7 +7,7 @@ metadata:
 identification:
   keywords:
     default:
-      keywords: -'EJPSoil'
+      keywords: ['EJPSoil']
   title: Characterization of the Agroecological Zones of Europe
   abstract: 'This dataset was compiled in the i-SoMPE Project of EJP SOIL in 2021
     and 2022. This dataset contains information to characterize the agroecological
