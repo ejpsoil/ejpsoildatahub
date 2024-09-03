@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1016/j.dib.2022.108226
+  dataseturi: http://doi.org/10.1016/j.dib.2022.108226
+  language: eng
+  hierarchylevel: journal-article
+  datestamp: '2024-07-12T06:23:20Z'
+identification:
+  title: Provision of metadata of European agricultural long-term experiments through
+    BonaRes and EJP SOIL collaboration
+  abstract: ''
+  dates:
+    creation: '2022-04-28T21:36:25Z'
+    publication: 2022-6
+  language: en
+  license:
+    name: ''
+    url: https://www.elsevier.com/tdm/userlicense/1.0/
+  keywords:
+    default:
+      keywords:
+      - Data in Brief
+contact:
+  publisher:
+    role: publisher
+    organization: Elsevier BV
+  author1:
+    role: author
+    individualname: Cenk Donmez
+    organization: ''
+    url: ''
+  author2:
+    role: author
+    individualname: Guillaume Blanchy
+    organization: ''
+    url: ''
+  author3:
+    role: author
+    individualname: Nikolai Svoboda
+    organization: ''
+    url: ''
+  author4:
+    role: author
+    individualname: Tommy D'Hose
+    organization: ''
+    url: ''
+  author5:
+    role: author
+    individualname: Carsten Hoffmann
+    organization: ''
+    url: ''
+  author6:
+    role: author
+    individualname: Wilfried Hierold
+    organization: ''
+    url: ''
+  author7:
+    role: author
+    individualname: Katja Klumpp
+    organization: ''
+    url: ''
+distribution:
+  primary:
+    name: Provision of metadata of European agricultural long-term experiments through
+      BonaRes and EJP SOIL collaboration
+    type: application/pdf
+    url: https://linkinghub.elsevier.com/retrieve/pii/S2352340922004292

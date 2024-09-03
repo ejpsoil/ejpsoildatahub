@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5194/hess-27-2703-2023
+  dataseturi: http://doi.org/10.5194/hess-27-2703-2023
+  language: eng
+  hierarchylevel: journal-article
+  datestamp: '2024-07-29T09:11:34Z'
+identification:
+  title: 'Impacts of soil management and climate on saturated and near-saturated hydraulic
+    conductivity: analyses of the Open Tension-disk Infiltrometer Meta-database (OTIM)'
+  abstract: "<p>Abstract. Saturated and near-saturated soil hydraulic conductivities\_\
+    Kh (mm\u2009h\u22121) determine the partitioning of precipitation into surface\
+    \ runoff and infiltration and are fundamental to soils' susceptibility to preferential\
+    \ flow. Recent studies found indications that climate factors influence\_Kh, which\
+    \ is highly relevant in the face of climate change. In this study, we investigated\
+    \ relationships\nbetween pedoclimatic factors and\_Kh and also evaluated effects\
+    \ of land use and soil management. To this end, we collated the Open Tension-disk\
+    \ Infiltrometer Meta-database (OTIM), which contains 1297 individual data entries\
+    \ from 172\_different publication sources. We analysed a spectrum of saturated\
+    \ and near-saturated hydraulic conductivities at matric potentials between\_0\
+    \ and 100\u2009mm. We found that methodological details like the direction of\
+    \ the wetting sequence or the choice of method for calculating infiltration rates\
+    \ to hydraulic conductivities had a large impact on the results. We therefore\
+    \ restricted ourselves to a subset of\_466 of the 1297 data entries with similar\
+    \ methodological approaches. Correlations between\_Ks and\_Kh at higher supply\
+    \ tensions decreased especially close to saturation, indicating a different flow\
+    \ mechanism at and very close to saturation than towards the dry end of the investigated\
+    \ tension range. Climate factors were better correlated with topsoil near-saturated\
+    \ hydraulic conductivities at supply tensions \u2265\u200930\u2009mm than soil\
+    \ texture, bulk density and organic carbon content. We find it most likely that\
+    \ the climate variables are proxies for soil macropore networks created by the\
+    \ respective biological activity, pedogenesis and climate-specific land use and\
+    \ management choices. Due to incomplete documentation in the source publications\
+    \ of OTIM, we were able to investigate only a few land use types and agricultural\
+    \ management practices. Land use, tillage system and soil compaction significantly\
+    \ influenced\_Kh, with effect sizes appearing comparable to the ones of soil texture\
+    \ and soil organic carbon. The data in OTIM show that experimental bias is present,\
+    \ introduced by the choice of measurement time relative to soil tillage, experimental\
+    \ design or data evaluation procedures. The establishment of best-practice rules\
+    \ for tension-disk infiltrometer measurements would therefore be helpful. Future\
+    \ studies are needed to investigate how climate shapes soil macropore networks\
+    \ and how land use and management can be adapted to improve soil hydraulic properties.\
+    \ Both tasks require large numbers of new measurement data with improved documentation\
+    \ on soil biology and land use and management history.\n                    </p>"
+  dates:
+    creation: '2023-07-21T07:58:39Z'
+    publication: 2023-7-21
+  language: en
+  license:
+    name: ''
+    url: https://creativecommons.org/licenses/by/4.0/
+  keywords:
+    default:
+      keywords:
+      - Hydrol. Earth Syst. Sci.
+contact:
+  publisher:
+    role: publisher
+    organization: Copernicus GmbH
+  author1:
+    role: author
+    individualname: Guillaume Blanchy
+    organization: ''
+    url: ''
+  author2:
+    role: author
+    individualname: Lukas Albrecht
+    organization: ''
+    url: ''
+  author3:
+    role: author
+    individualname: Gilberto Bragato
+    organization: ''
+    url: ''
+  author4:
+    role: author
+    individualname: "Sarah Garr\xE9"
+    organization: ''
+    url: ''
+  author5:
+    role: author
+    individualname: Nicholas Jarvis
+    organization: ''
+    url: ''
+  author6:
+    role: author
+    individualname: John Koestel
+    organization: ''
+    url: ''
+distribution:
+  primary:
+    name: 'Impacts of soil management and climate on saturated and near-saturated
+      hydraulic conductivity: analyses of the Open Tension-disk Infiltrometer Meta-database
+      (OTIM)'
+    type: application/pdf
+    url: https://hess.copernicus.org/articles/27/2703/2023/

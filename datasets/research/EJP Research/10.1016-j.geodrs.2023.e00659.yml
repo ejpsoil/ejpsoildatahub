@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1016/j.geodrs.2023.e00659
+  dataseturi: http://doi.org/10.1016/j.geodrs.2023.e00659
+  language: eng
+  hierarchylevel: journal-article
+  datestamp: '2024-07-12T05:37:50Z'
+identification:
+  title: Unmasking adaption of tree root structure in agroforestry Systems in Switzerland
+    using GPR
+  abstract: ''
+  dates:
+    creation: '2023-06-10T18:32:57Z'
+    publication: 2023-9
+  language: en
+  license:
+    name: ''
+    url: https://www.elsevier.com/tdm/userlicense/1.0/
+  keywords:
+    default:
+      keywords:
+      - Geoderma Regional
+contact:
+  publisher:
+    role: publisher
+    organization: Elsevier BV
+  author1:
+    role: author
+    individualname: Johannes Hugenschmidt
+    organization: ''
+    url: ''
+  author2:
+    role: author
+    individualname: Sonja Kay
+    organization: ''
+    url: ''
+distribution:
+  primary:
+    name: Unmasking adaption of tree root structure in agroforestry Systems in Switzerland
+      using GPR
+    type: application/pdf
+    url: https://linkinghub.elsevier.com/retrieve/pii/S235200942300055X

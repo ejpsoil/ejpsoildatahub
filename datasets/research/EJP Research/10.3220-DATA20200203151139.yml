@@ -1,41 +1,43 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Poeplau_Don_Flessa_2020
-  dataseturi: https://doi.org/10.3220/DATA20200203151139
-  hierarchylevel: dataset
-  datestamp: ''
+  identifier: 10.3220-DATA20200203151139
+  dataseturi: http://doi.org/10.3220/DATA20200203151139
+  hierarchylevel: computationalnotebook
 identification:
-  keywords:
-    default:
-      keywords: ['EJPSoil']
-  title: "Erste Bodenzustandserhebung Landwirtschaft \u2013 Kerndatensatz"
-  abstract: ''
-  status: ''
-  language: ''
+  title: The Legacy of LUC on SOC - Article in press
+  abstract: "The centennial legacy of land-use change on organic carbon stocks of\
+    \ German agricultural soils\n\nDavid Emde, Christopher Poeplau, Axel Don, Stefan\
+    \ Heilek, Florian SchneiderTh\xFCnen Institute of Climate Smart Agriculture\n\n\
+    Here you will find the scripts used to generate the figures and analysis for the\
+    \ titular manuscript. This repository is also available on GitHub (https://github.com/dsemde/LUC-legacy-SOC).\n\
+    \nData sources\n\nSite and laboratory data: Available on Open Agrar (https://doi.org/10.3220/DATA20200203151139).\n\
+    \n\_\n\nThe Profile Viewer accessed via the Bodenzustandserhebung Landwirtschaft\
+    \ (BZE-LW) website provides a graphical overview of much of this dataset (https://www.thuenen.de/en/institutes/climate-smart-agriculture/projects/agricultural-soil-inventory-bze-lw).\n\
+    \nContents\n\nFile names refer to the figure numbers in the manuscript. Code for\
+    \ the associated statistics for each figure is generally included within the figure\
+    \ script.\n\nDataset compilationc_to_g_data_compile.Rg_to_c_data_compile.Rsite_locations.R\n\
+    \nFigures and statsfig_2_lu_maps.Rfig_3_g_to_c_3_depths.Rfig_4_g_to_c_regression.Rfig_5_c_to_g_3_depths.Rfig_6_c_to_g_regression.Rfig_7_soc_maps.R"
+  license:
+    name: ''
   dates:
-    creation: ''
-  rights: ''
-  extents:
-    spatial:
-    - bbox: []
-      crs: '4326'
-distribution:
-  www:
-    name: "Erste Bodenzustandserhebung Landwirtschaft \u2013 Kerndatensatz"
-    url: https://doi.org/10.3220/DATA20200203151139
-    type: www
-spatial:
-  datatype: ''
-  geomtype: ''
+    issued: '2024-03-28'
+    publication: '2024'
+  rights: cc-by-4.0
 contact:
-  ? ''
-  : individualname: ''
-    role: creator
-  Poeplau-Christopher-and-Don-Axel-and-Flessa-Heinz:
-    individualname: Poeplau, Christopher and Don, Axel and Flessa, Heinz
-    role: author
-  Johann-Heinrich-von-Thunen-Institut:
-    individualname: "Johann Heinrich von Th\xFCnen-Institut"
-    role: publisher
-content_info: {}
+  Emde-David:
+    individualname: Emde, David
+    role: ''
+    organization: "Johann Heinrich von Th\xFCnen-Institut"
+    url: 0000-0002-7311-3159
+distribution:
+  contentUrl:
+    url: 10.3220/DATA20200203151139
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.10892435
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

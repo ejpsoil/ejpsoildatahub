@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.3390/su151511495
+  dataseturi: http://doi.org/10.3390/su151511495
+  language: eng
+  hierarchylevel: journal-article
+  datestamp: '2024-08-04T02:24:48Z'
+identification:
+  title: "The Response of Retisol\u2019s Carbon Storage Potential to Various Organic\
+    \ Matter Inputs"
+  abstract: "<p>Organic carbon sequestration and its quality in soil is a crucial\
+    \ aspect in maintaining the productivity of the soil and the whole ecosystem.\
+    \ The study examined the changes in soil organic carbon (SOC), its sequestration\
+    \ potential, and the mean effect size under various long-term organic matter inputs\
+    \ in acid soil (Dystric Retisol). Cattle manure (CM 60 t ha\u22121) and various\
+    \ plant residues were used for the fertilization of acid and limed soil. The following\
+    \ treatments were included in the experimental design: (1) natural Retisol; (2)\
+    \ natural Retisol + CM; (3) natural Retisol + various plant residues; (4) calcium\
+    \ carbonate (CaCO3) at a 1.0 rate every five years); (5) CaCO3 + CM; (6) CaCO3\
+    \ + various plant residues. The data demonstrated that the treatments including\
+    \ the use of organic material (CM and various plant residues) showed a greater\
+    \ SOC content accumulation with a storage of up to 0.2\u20130.6% more carbon in\
+    \ the topsoil. Alternative organic fertilizers had a detrimental impact when applied\
+    \ to unlimed soil, with a loss of 0.59 g kg\u22121 C per year. All the fertilization\
+    \ treatments significantly increased the SOC level with the mean effect size of\
+    \ 0.02\u20130.28, and the increase varied from 1.89% to 32.89%. This result suggested\
+    \ that liming, together with organic fertilizers, proved to be a relatively efficient\
+    \ approach to improving the soil\u2019s health and quality.</p>"
+  dates:
+    creation: '2023-07-26T04:45:02Z'
+    publication: 2023-7-25
+  language: en
+  license:
+    name: ''
+    url: https://creativecommons.org/licenses/by/4.0/
+  keywords:
+    default:
+      keywords:
+      - Sustainability
+contact:
+  publisher:
+    role: publisher
+    organization: MDPI AG
+  author1:
+    role: author
+    individualname: "Ieva Mockevi\u010Dien\u0117"
+    organization: ''
+    url: ''
+  author2:
+    role: author
+    individualname: "Danut\u0117 Kar\u010Dauskien\u0117"
+    organization: ''
+    url: ''
+  author3:
+    role: author
+    individualname: "Regina Rep\u0161ien\u0117"
+    organization: ''
+    url: ''
+distribution:
+  primary:
+    name: "The Response of Retisol\u2019s Carbon Storage Potential to Various Organic\
+      \ Matter Inputs"
+    type: application/pdf
+    url: https://www.mdpi.com/2071-1050/15/15/11495

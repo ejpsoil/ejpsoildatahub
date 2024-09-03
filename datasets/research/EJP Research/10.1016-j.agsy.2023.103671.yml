@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1016/j.agsy.2023.103671
+  dataseturi: http://doi.org/10.1016/j.agsy.2023.103671
+  language: eng
+  hierarchylevel: journal-article
+  datestamp: '2024-07-08T21:57:23Z'
+identification:
+  title: "Soil organic carbon sequestration potential for croplands in Finland over\
+    \ 2021\u20132040 under the interactive impacts of climate change and agricultural\
+    \ management"
+  abstract: ''
+  dates:
+    creation: '2023-05-04T10:53:21Z'
+    publication: 2023-6
+  language: en
+  license:
+    name: ''
+    url: https://www.elsevier.com/tdm/userlicense/1.0/
+  keywords:
+    default:
+      keywords:
+      - Agricultural Systems
+contact:
+  publisher:
+    role: publisher
+    organization: Elsevier BV
+  author1:
+    role: author
+    individualname: Fulu Tao
+    organization: ''
+    url: ''
+  author2:
+    role: author
+    individualname: Taru Palosuo
+    organization: ''
+    url: ''
+  author3:
+    role: author
+    individualname: Aleksi Lehtonen
+    organization: ''
+    url: ''
+  author4:
+    role: author
+    individualname: Jaakko Heikkinen
+    organization: ''
+    url: ''
+  author5:
+    role: author
+    individualname: "Raisa M\xE4kip\xE4\xE4"
+    organization: ''
+    url: ''
+distribution:
+  primary:
+    name: "Soil organic carbon sequestration potential for croplands in Finland over\
+      \ 2021\u20132040 under the interactive impacts of climate change and agricultural\
+      \ management"
+    type: application/pdf
+    url: https://linkinghub.elsevier.com/retrieve/pii/S0308521X23000768

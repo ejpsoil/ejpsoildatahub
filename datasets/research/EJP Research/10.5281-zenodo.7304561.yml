@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.7304561
+  dataseturi: http://doi.org/10.5281/zenodo.7304561
+  hierarchylevel: dataset
+identification:
+  title: 'Dataset to Schiedung et al (2023): Soil carbon losses due to priming moderated
+    by adaptation and legacy effects'
+  abstract: 'Data set to: Schiedung et al. (2023) Soil carbon losses due to priming
+    moderated by adaptation and legacy effects, Nature Geoscience
+
+
+
+    All file informations are presented in 0_Read_me_description.csv
+
+
+
+    All .csv files are separated by ",". All .xlsx files contain the isotopic excess
+    calculations condcuted in Microsoft Excel (Version 2301 Build 16.0.16026.20002).
+
+
+
+    This repository contains all data of the soils and sites, incubation and fractionation
+    presented in the above mentioned publication.
+
+
+
+    For further questions and requests contact Marcus Schiedung (marcusschiedung@gmail.com)'
+  license:
+    name: ''
+  dates:
+    issued: '2023-09-24'
+    publication: '2023'
+  rights: cc-by-4.0
+  keywords:
+    default:
+      keywords:
+        subject: Subsoils
+contact:
+  Schiedung-Marcus:
+    individualname: Schiedung, Marcus
+    role: ''
+    organization: University of Zurich
+    url: 0000-0002-0185-9867
+  Abiven-Samuel:
+    individualname: Abiven, Samuel
+    role: ''
+    organization: ENS Paris
+    url: 0000-0002-5663-0912
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.7304561
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1038/s41561-023-01275-3
+    type: WWW:LINK
+    title: IsSupplementTo
+  r1:
+    url: https://doi.org/10.5281/zenodo.7304562
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

@@ -3,7 +3,7 @@ mcf:
 
 identification:
   title: Soil data in Europe
-  abstract: A collection of Soil datasets in Europe, initally collected by JRC, and extended by the EJP Soil project
+  abstract: A collection of Soil datasets in Europe, initally collected by JRC, and extended by the EJPSoil project
 
 robot: 
   mdUrlPattern: https://catalogue.ejpsoil.eu/collections/metadata:main/items/{0}

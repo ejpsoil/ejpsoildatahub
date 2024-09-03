@@ -1,63 +1,58 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: R_s_nen_2023
-  dataseturi: https://doi.org/10.1016/j.geodrs.2023.e00610
-  hierarchylevel: dataset
-  datestamp: ''
+  identifier: 10.1016/j.geodrs.2023.e00610
+  dataseturi: http://doi.org/10.1016/j.geodrs.2023.e00610
+  language: eng
+  hierarchylevel: journal-article
+  datestamp: '2024-08-30T01:08:18Z'
 identification:
-  keywords:
-    default:
-      keywords: ['EJPSoil']
   title: Evaluation of RUSLE and spatial assessment of agricultural soil erosion in
     Finland
   abstract: ''
   dates:
-    creation: ''
-  status: ''
-  language: ''
-  rights: ''
-  extents:
-    spatial:
-    - bbox: []
-      crs: '4326'
+    creation: '2023-01-21T01:45:48Z'
+    publication: 2023-3
+  language: en
+  license:
+    name: ''
+    url: https://www.elsevier.com/tdm/userlicense/1.0/
+  keywords:
+    default:
+      keywords:
+      - Geoderma Regional
+contact:
+  publisher:
+    role: publisher
+    organization: Elsevier BV
+  author1:
+    role: author
+    individualname: "Timo A. R\xE4s\xE4nen"
+    organization: ''
+    url: ''
+  author2:
+    role: author
+    individualname: "Mika T\xE4htikarhu"
+    organization: ''
+    url: ''
+  author3:
+    role: author
+    individualname: "Jaana Uusi-K\xE4mpp\xE4"
+    organization: ''
+    url: ''
+  author4:
+    role: author
+    individualname: Sirpa Piirainen
+    organization: ''
+    url: ''
+  author5:
+    role: author
+    individualname: Eila Turtola
+    organization: ''
+    url: ''
 distribution:
-  contentUrl:
-    url: https://doi.org/10.1016/j.geodrs.2023.e00610
-    type: WWW:LINK
-    title: Link
-  www:
+  primary:
     name: Evaluation of RUSLE and spatial assessment of agricultural soil erosion
       in Finland
-    url: http://dx.doi.org/10.1016/j.geodrs.2023.e00610
-    type: www
-contact:
-  ? ''
-  : individualname: ''
-    role: creator
-  Rasanen-Timo-A.-and-Tahtikarhu-Mika-and-Uusi-Kamppa-Jaana-and-Piirainen-Sirpa-and-Turtola-Eila:
-    individualname: "R\xE4s\xE4nen, Timo A. and T\xE4htikarhu, Mika and Uusi-K\xE4\
-      mpp\xE4, Jaana and Piirainen, Sirpa and Turtola, Eila"
-    role: author
-  Elsevier-BV:
-    individualname: Elsevier BV
-    role: publisher
-  Rasanen-Timo-A.:
-    individualname: "R\xE4s\xE4nen, Timo A."
-    role: author
-  Tahtikarhu-Mika:
-    individualname: "T\xE4htikarhu, Mika"
-    role: author
-  Uusi-Kamppa-Jaana:
-    individualname: "Uusi-K\xE4mpp\xE4, Jaana"
-    role: author
-  Piirainen-Sirpa:
-    individualname: Piirainen, Sirpa
-    role: author
-  Turtola-Eila:
-    individualname: Turtola, Eila
-    role: author
-spatial:
-  datatype: ''
-  geomtype: ''
-content_info: {}
+    type: application/pdf
+    url: https://linkinghub.elsevier.com/retrieve/pii/S2352009423000068

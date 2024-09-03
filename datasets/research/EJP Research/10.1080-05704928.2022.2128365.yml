@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1080/05704928.2022.2128365
+  dataseturi: http://doi.org/10.1080/05704928.2022.2128365
+  language: eng
+  hierarchylevel: journal-article
+  datestamp: '2024-07-05T21:20:30Z'
+identification:
+  title: "Mathematical techniques to remove moisture effects from visible\u2013near-infrared\u2013\
+    shortwave-infrared soil spectra\u2014review\u202F"
+  abstract: ''
+  dates:
+    creation: '2022-10-03T21:30:31Z'
+    publication: 2022-10-3
+  language: en
+  license:
+    name: ''
+    url: ''
+  keywords:
+    default:
+      keywords:
+      - Applied Spectroscopy Reviews
+contact:
+  publisher:
+    role: publisher
+    organization: Informa UK Limited
+  author1:
+    role: author
+    individualname: Maria Knadel
+    organization: ''
+    url: ''
+  author2:
+    role: author
+    individualname: F. Castaldi
+    organization: ''
+    url: ''
+  author3:
+    role: author
+    individualname: R. Barbetti
+    organization: ''
+    url: ''
+  author4:
+    role: author
+    individualname: E. Ben-Dor
+    organization: ''
+    url: ''
+  author5:
+    role: author
+    individualname: A. Gholizadeh
+    organization: ''
+    url: ''
+  author6:
+    role: author
+    individualname: R. Lorenzetti
+    organization: ''
+    url: ''
+distribution:
+  primary:
+    name: "Mathematical techniques to remove moisture effects from visible\u2013near-infrared\u2013\
+      shortwave-infrared soil spectra\u2014review\u202F"
+    type: application/pdf
+    url: https://www.tandfonline.com/doi/full/10.1080/05704928.2022.2128365

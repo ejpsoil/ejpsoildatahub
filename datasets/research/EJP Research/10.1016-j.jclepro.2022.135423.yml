@@ -1,0 +1,138 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1016/j.jclepro.2022.135423
+  dataseturi: http://doi.org/10.1016/j.jclepro.2022.135423
+  language: eng
+  hierarchylevel: journal-article
+  datestamp: '2024-07-07T11:15:59Z'
+identification:
+  title: A marginal abatement cost curve for climate change mitigation by additional
+    carbon storage in French agricultural land
+  abstract: ''
+  dates:
+    creation: '2022-12-02T22:24:11Z'
+    publication: 2023-1
+  language: en
+  license:
+    name: ''
+    url: https://www.elsevier.com/tdm/userlicense/1.0/
+  keywords:
+    default:
+      keywords:
+      - Journal of Cleaner Production
+contact:
+  publisher:
+    role: publisher
+    organization: Elsevier BV
+  author1:
+    role: author
+    individualname: "L. Bami\xE8re"
+    organization: ''
+    url: ''
+  author2:
+    role: author
+    individualname: V. Bellassen
+    organization: ''
+    url: ''
+  author3:
+    role: author
+    individualname: D. Angers
+    organization: ''
+    url: ''
+  author4:
+    role: author
+    individualname: R. Cardinael
+    organization: ''
+    url: ''
+  author5:
+    role: author
+    individualname: E. Ceschia
+    organization: ''
+    url: ''
+  author6:
+    role: author
+    individualname: C. Chenu
+    organization: ''
+    url: ''
+  author7:
+    role: author
+    individualname: J. Constantin
+    organization: ''
+    url: ''
+  author8:
+    role: author
+    individualname: N. Delame
+    organization: ''
+    url: ''
+  author9:
+    role: author
+    individualname: A. Diallo
+    organization: ''
+    url: ''
+  author10:
+    role: author
+    individualname: A.-I. Graux
+    organization: ''
+    url: ''
+  author11:
+    role: author
+    individualname: S. Houot
+    organization: ''
+    url: ''
+  author12:
+    role: author
+    individualname: K. Klumpp
+    organization: ''
+    url: ''
+  author13:
+    role: author
+    individualname: C. Launay
+    organization: ''
+    url: ''
+  author14:
+    role: author
+    individualname: E. Letort
+    organization: ''
+    url: ''
+  author15:
+    role: author
+    individualname: R. Martin
+    organization: ''
+    url: ''
+  author16:
+    role: author
+    individualname: "D. M\xE9zi\xE8re"
+    organization: ''
+    url: ''
+  author17:
+    role: author
+    individualname: C. Mosnier
+    organization: ''
+    url: ''
+  author18:
+    role: author
+    individualname: "O. R\xE9chauch\xE8re"
+    organization: ''
+    url: ''
+  author19:
+    role: author
+    individualname: M. Schiavo
+    organization: ''
+    url: ''
+  author20:
+    role: author
+    individualname: "O. Th\xE9rond"
+    organization: ''
+    url: ''
+  author21:
+    role: author
+    individualname: S. Pellerin
+    organization: ''
+    url: ''
+distribution:
+  primary:
+    name: A marginal abatement cost curve for climate change mitigation by additional
+      carbon storage in French agricultural land
+    type: application/pdf
+    url: https://linkinghub.elsevier.com/retrieve/pii/S0959652622049976

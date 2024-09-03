@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1016/j.agee.2022.108182
+  dataseturi: http://doi.org/10.1016/j.agee.2022.108182
+  language: eng
+  hierarchylevel: journal-article
+  datestamp: '2024-09-03T04:35:23Z'
+identification:
+  title: 'Liming modifies greenhouse gas fluxes from soils: A meta-analysis of biological
+    drivers'
+  abstract: ''
+  dates:
+    creation: '2022-09-21T13:33:56Z'
+    publication: 2022-12
+  language: en
+  license:
+    name: ''
+    url: https://www.elsevier.com/tdm/userlicense/1.0/
+  keywords:
+    default:
+      keywords:
+      - Agriculture, Ecosystems &amp; Environment
+contact:
+  publisher:
+    role: publisher
+    organization: Elsevier BV
+  author1:
+    role: author
+    individualname: Hui-Min Zhang
+    organization: ''
+    url: ''
+  author2:
+    role: author
+    individualname: Zhi Liang
+    organization: ''
+    url: ''
+  author3:
+    role: author
+    individualname: Yong Li
+    organization: ''
+    url: ''
+  author4:
+    role: author
+    individualname: Zhao-Xiong Chen
+    organization: ''
+    url: ''
+  author5:
+    role: author
+    individualname: Jin-Bo Zhang
+    organization: ''
+    url: ''
+  author6:
+    role: author
+    individualname: Zu-Cong Cai
+    organization: ''
+    url: ''
+  author7:
+    role: author
+    individualname: Lars Elsgaard
+    organization: ''
+    url: ''
+  author8:
+    role: author
+    individualname: Yi Cheng
+    organization: ''
+    url: ''
+  author9:
+    role: author
+    individualname: Kees Jan van Groenigen
+    organization: ''
+    url: ''
+  author10:
+    role: author
+    individualname: Diego Abalos
+    organization: ''
+    url: ''
+distribution:
+  primary:
+    name: 'Liming modifies greenhouse gas fluxes from soils: A meta-analysis of biological
+      drivers'
+    type: application/pdf
+    url: https://linkinghub.elsevier.com/retrieve/pii/S0167880922003310

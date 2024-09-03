@@ -1,62 +1,56 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Scheper_2022
-  dataseturi: https://doi.org/10.1016/j.mex.2022.101826
-  hierarchylevel: dataset
-  datestamp: ''
+  identifier: 10.1016/j.mex.2022.101826
+  dataseturi: http://doi.org/10.1016/j.mex.2022.101826
+  language: eng
+  hierarchylevel: journal-article
+  datestamp: '2024-07-12T04:17:32Z'
 identification:
-  keywords:
-    default:
-      keywords: ['EJPSoil']
-  title: "TASOW \xE2\u20AC\u201C A tool for the automated selection of potential windbreaks"
+  title: "TASOW \u2013 A tool for the automated selection of potential windbreaks"
   abstract: ''
   dates:
-    creation: ''
-  status: ''
-  language: ''
-  rights: ''
-  extents:
-    spatial:
-    - bbox: []
-      crs: '4326'
-distribution:
-  contentUrl:
-    url: https://doi.org/10.1016/j.mex.2022.101826
-    type: WWW:LINK
-    title: Link
-  www:
-    name: "TASOW \xE2\u20AC\u201C A tool for the automated selection of potential\
-      \ windbreaks"
-    url: http://dx.doi.org/10.1016/j.mex.2022.101826
-    type: www
+    creation: '2022-08-23T23:49:53Z'
+    publication: '2022'
+  language: en
+  license:
+    name: ''
+    url: https://www.elsevier.com/tdm/userlicense/1.0/
+  keywords:
+    default:
+      keywords:
+      - MethodsX
 contact:
-  ? ''
-  : individualname: ''
-    role: creator
-  Scheper-Simon-and-Kitzler-Barbara-and-Weninger-Thomas-and-Strauss-Peter-and-Michel-Kerstin:
-    individualname: Scheper, Simon and Kitzler, Barbara and Weninger, Thomas and Strauss,
-      Peter and Michel, Kerstin
-    role: author
-  Elsevier-BV:
-    individualname: Elsevier BV
+  publisher:
     role: publisher
-  Scheper-Simon:
-    individualname: Scheper, Simon
+    organization: Elsevier BV
+  author1:
     role: author
-  Kitzler-Barbara:
-    individualname: Kitzler, Barbara
+    individualname: Simon Scheper
+    organization: ''
+    url: ''
+  author2:
     role: author
-  Weninger-Thomas:
-    individualname: Weninger, Thomas
+    individualname: Barbara Kitzler
+    organization: ''
+    url: ''
+  author3:
     role: author
-  Strauss-Peter:
-    individualname: Strauss, Peter
+    individualname: Thomas Weninger
+    organization: ''
+    url: ''
+  author4:
     role: author
-  Michel-Kerstin:
-    individualname: Michel, Kerstin
+    individualname: Peter Strauss
+    organization: ''
+    url: ''
+  author5:
     role: author
-spatial:
-  datatype: ''
-  geomtype: ''
-content_info: {}
+    individualname: Kerstin Michel
+    organization: ''
+    url: ''
+distribution:
+  primary:
+    name: "TASOW \u2013 A tool for the automated selection of potential windbreaks"
+    type: application/pdf
+    url: https://linkinghub.elsevier.com/retrieve/pii/S2215016122002060

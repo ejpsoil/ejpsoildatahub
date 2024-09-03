@@ -1,14 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: doi.org-10.5281-zenodo.7598122
+  identifier: 10.5281-zenodo.7598122
   dataseturi: http://doi.org/10.5281/zenodo.7598122
   hierarchylevel: software
 identification:
-  keywords:
-    default:
-      keywords:
-        subject: EJP MTE/LTE dataset
   title: EJP MTE/LTE metadataset v1.0.1
   abstract: "Initial release of the analysis on mid-term and long-term field experiments\
     \ collected within task 7.3 of EJP SOIL. Data was acquired and collected thanks\
@@ -36,78 +32,97 @@ identification:
     \ Sabina Braun), Turkey (Ibrahim Ortas) and UK (Catalina Estrada, Dario Fornara,\
     \ Jane Hawkins, Gareth Griffith, Marecia, Andy McDonald, Jonathan Millett, Robin\
     \ Pakeman, Raj Whitlock)."
+  license:
+    name: ''
   dates:
     issued: '2023-02-02'
     publication: '2023'
   rights: ''
-distribution:
-  contentUrl:
-    url: http://doi.org/10.5281/zenodo.7598122
-    type: WWW:LINK
-    title: Link
-  r1:
-    url: https://doi.org/10.5281/zenodo.7598121
-    type: WWW:LINK
-    title: IsVersionOf
+  keywords:
+    default:
+      keywords:
+        subject: EJP MTE/LTE dataset
 contact:
   Blanchy-Guillaume:
     individualname: Blanchy, Guillaume
+    role: ''
     organization: Flanders Research Institute for Agriculture, Fisheries and Food
       (ILVO), Belgium
     url: https://orcid.org/0000-0001-6341-5826
   D'Hose-Tommy:
     individualname: D'Hose, Tommy
+    role: ''
     organization: Flanders Research Institute for Agriculture, Fisheries and Food
       (ILVO), Belgium
     url: https://orcid.org/0000-0002-8705-5666
   Donmez-Cenk:
     individualname: Donmez, Cenk
+    role: ''
     organization: Leibniz Centre for Agricultural Landscape Research (ZALF), Muencheberg
       15374, Germany; Cukurova University, Landscape Architecture Department, Remote
       Sensing and GIS Lab, 01330 Adana, Turkey
     url: https://orcid.org/0000-0002-7788-3839
   Hoffmann-Carsten:
     individualname: Hoffmann, Carsten
+    role: ''
     organization: Leibniz Centre for Agricultural Landscape Research (ZALF), Muencheberg
       15374, Germany
     url: https://orcid.org/0000-0001-6457-4853
   Makoschitz-Lisa:
     individualname: Makoschitz, Lisa
+    role: ''
     organization: Department for Soil Health and Plant Nutrition, Austrian Agency
       for Health and Food Safety (AGES), Spargelfeldstrasse 191, 1220 Vienna, Austria
+    url: ''
   Murugan-Rajasekaran:
     individualname: Murugan, Rajasekaran
+    role: ''
     organization: Institute of Soil Research, Department of Forest and Soil Sciences,
       University of Natural Resources and Life Sciences (BOKU), 1190 Vienna, Austria
     url: https://orcid.org/0000-0001-6931-2756
   O'Sullivan-Lilian:
     individualname: O'Sullivan, Lilian
+    role: ''
     organization: Teagasc Crops, Environment and Land Use Programme, Johnstown Castle,
       Co. Wexford, Ireland
     url: https://orcid.org/0000-0002-5333-5758
   Sanden-Taru:
     individualname: "Sand\xE9n, Taru"
+    role: ''
     organization: Department for Soil Health and Plant Nutrition, Austrian Agency
       for Health and Food Safety (AGES), Spargelfeldstrasse 191, 1220 Vienna, Austria
     url: https://orcid.org/0000-0002-9542-0117
   Spiegel-Adelheid:
     individualname: Spiegel, Adelheid
+    role: ''
     organization: Department for Soil Health and Plant Nutrition, Austrian Agency
       for Health and Food Safety (AGES), Spargelfeldstrasse 191, 1220 Vienna, Austria
     url: https://orcid.org/0000-0003-1285-8509
   Svoboda-Nikolai:
     individualname: Svoboda, Nikolai
+    role: ''
     organization: Leibniz Centre for Agricultural Landscape Research (ZALF), Muencheberg
       15374, Germany
     url: https://orcid.org/0000-0003-3860-4400
   Zechmeister-Boltenstern-Sophie:
     individualname: Zechmeister-Boltenstern, Sophie
+    role: ''
     organization: Institute of Soil Research, Department of Forest and Soil Sciences,
       University of Natural Resources and Life Sciences (BOKU), 1190 Vienna, Austria
     url: https://orcid.org/0000-0001-5839-5904
   Klumpp-Katja:
     individualname: Klumpp, Katja
+    role: ''
     organization: Institut National de la Recherche Agronomique (INRA), France
     url: https://orcid.org/0000-0002-4799-5231
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.7598122
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.7598122
+    type: WWW:LINK
+    title: HasVersion
 spatial:
   type: ''

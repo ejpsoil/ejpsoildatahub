@@ -1,47 +1,54 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: doi.org-10.5281-zenodo.6510954
+  identifier: 10.5281-zenodo.6510954
   dataseturi: http://doi.org/10.5281/zenodo.6510954
   hierarchylevel: dataset
 identification:
-  keywords:
-    default:
-      keywords: ['EJPSoil']
-  title: Adoption rate of 58 innovative soil management practices (maps of inventory
-    A)
+  title: 'i-SoMPE Inventory A: Adoption rate of 58 innovative soil management practices'
   abstract: Adoption rate of 58 innovative soil management practices (maps of inventory
     A)
+  license:
+    name: ''
   dates:
     issued: '2022-05-02'
     publication: '2022'
-  rights: ''
+  rights: cc-by-4.0
+contact:
+  Frederic-Vanwindekens:
+    individualname: "Fr\xE9d\xE9ric Vanwindekens"
+    role: ''
+    organization: 'Centre wallon de Recherches agronomiques: Gembloux, Wallonie, BE'
+    url: 0000-0002-9117-7543
+  Olivier-Heller:
+    individualname: Olivier Heller
+    role: ''
+    organization: "Agroscope: Z\xFCrich, Z\xFCrich, CH"
+    url: 0000-0002-5918-4161
+  Claudia-Di-Bene:
+    individualname: Claudia Di Bene
+    role: ''
+    organization: 'Consiglio per la ricerca in agricoltura e l''analisi dell''economia
+      agraria: Roma, Lazio, IT'
+    url: 0000-0002-3830-251X
+  Pasquale-Nino:
+    individualname: Pasquale Nino
+    role: ''
+    organization: 'Consiglio per la ricerca e la sperimentazione in agricoltura e
+      l''analisi dell''economia agraria (CREA): Roma, Lazio, IT'
+    url: ''
 distribution:
   contentUrl:
-    url: http://doi.org/10.5281/zenodo.6510954
+    url: 10.5281/zenodo.6510954
     type: WWW:LINK
     title: Link
   r0:
-    url: https://doi.org/10.5281/zenodo.6510953
+    url: https://doi.org/10.5281/zenodo.10630668
     type: WWW:LINK
-    title: IsVersionOf
-contact:
-  Vanwindekens-Frederic:
-    individualname: "Vanwindekens, Fr\xE9d\xE9ric"
-    organization: 'Centre wallon de Recherches agronomiques: Gembloux, Wallonie, BE'
-    url: https://orcid.org/0000-0002-9117-7543
-  Heller-Olivier:
-    individualname: Heller, Olivier
-    organization: "Agroscope: Z\xFCrich, Z\xFCrich, CH"
-    url: https://orcid.org/0000-0002-5918-4161
-  Di-Bene-Claudia:
-    individualname: Di Bene, Claudia
-    organization: 'Consiglio per la ricerca in agricoltura e l''analisi dell''economia
-      agraria: Roma, Lazio, IT'
-    url: https://orcid.org/0000-0002-3830-251X
-  Nino-Pasquale:
-    individualname: Nino, Pasquale
-    organization: 'Consiglio per la ricerca e la sperimentazione in agricoltura e
-      l''analisi dell''economia agraria (CREA): Roma, Lazio, IT'
+    title: IsSourceOf
+  r1:
+    url: https://doi.org/10.5281/zenodo.6510954
+    type: WWW:LINK
+    title: HasVersion
 spatial:
   type: ''

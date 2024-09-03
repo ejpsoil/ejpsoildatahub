@@ -1,13 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: doi.org-10.20387-bonares-jwhj-z839
+  identifier: 10.20387-bonares-jwhj-z839
   dataseturi: http://doi.org/10.20387/bonares-jwhj-z839
   hierarchylevel: dataset
 identification:
-  keywords:
-    default:
-      keywords: ['EJPSoil']
   title: A catalog of meta-data about agricultural long-term field experiments in
     Europe (EJP SOIL 7.3) (Data collection, parent table)
   abstract: 'Long-term field experiments (LTEs) are crucial sources of knowledge on
@@ -29,33 +26,42 @@ identification:
 
 
     Dataset version 1.0'
+  license:
+    name: ''
   dates:
     available: '2022-01-31'
     issued: '2022-01-26'
     updated: '2022-01-26'
     publication: '2022'
   rights: cc-by-4.0
-distribution:
-  contentUrl:
-    url: http://doi.org/10.20387/bonares-jwhj-z839
-    type: WWW:LINK
-    title: Link
 contact:
   Blanchy-Guillaume:
     individualname: Blanchy, Guillaume
+    role: ''
     organization: Flanders Research Institute for Agriculture, Fisheries and Food,
       Belgium
+    url: ''
   D'Hose-Tommy:
     individualname: "D\u2019Hose, Tommy"
+    role: ''
     organization: Flanders Research Institute for Agriculture, Fisheries and Food,
       Belgium
+    url: ''
   Klumpp-Katja:
     individualname: Klumpp, Katja
+    role: ''
     organization: Institut National de la Recherche Agronomique (INRA), France
+    url: ''
   Tommy-D'Hose:
     individualname: "Tommy D\u2019Hose"
     role: ProjectLeader
     organization: Flanders Research Institute for Agriculture, Fisheries and Food,
       Belgium
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.20387/bonares-jwhj-z839
+    type: WWW:LINK
+    title: Link
 spatial:
   type: Table

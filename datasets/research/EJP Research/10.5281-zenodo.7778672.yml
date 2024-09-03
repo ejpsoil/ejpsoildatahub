@@ -1,0 +1,173 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.7778672
+  dataseturi: http://doi.org/10.5281/zenodo.7778672
+  hierarchylevel: other
+identification:
+  title: QBS-ar and QBS-ar_BF index toolbox for biodiversity assessment of microarthropods
+    community in soil
+  abstract: "This toolbox contains a proposal and detailed instructions for the standardization\
+    \ of the QBS-ar index procedure. The QBS-ar index (Parisi, 2001; Parisi et al.,\
+    \ 2005) is an index aimed at assessing soil-dwelling microarthropod communities\
+    \ in relation to their soil adaptation. The core of QBS-ar index principle is:\
+    \ the higher is soil quality, the higher will be the number of microarthropod\
+    \ groups well adapted to soil habitats living there. Soil quality here stands\
+    \ for good stability, high organic matter content, and good biodiversity level.\
+    \ Worth of notice, QBS-ar is not comprehensive of the whole soil biodiversity\
+    \ or whole soil quality. For each sample to be assessed with the QBS-ar method,\
+    \ three different samplings are performed 5-10 meters apart (Menta et al., 2018),\
+    \ obtaining three subsamples that are considered representative of an area homogeneous\
+    \ for slope and vegetation. 1-page guidelines for sampling and extraction were\
+    \ detailed in file <strong>\u20181.QBS-ar sampling and extraction guidelines.pdf\u2019\
+    </strong>. The functional characteristics for soil adaptation of microarthropods\
+    \ are the reduction of visual structures as microphthalmia or even anophthalmia,\
+    \ the reduction or loss of pigmentation and dehydration adaptations (thinner cuticle,\
+    \ shorter setas or chaeta loss), appendage reduction (as shorter and/or smaller\
+    \ antennae, legs, furca), miniaturization, streamlined body form. Starting from\
+    \ these principles, soil organisms could be divided into a discrete set of Biological\
+    \ Forms (BFs, eco-morpho-types) according to their morphological adaptation to\
+    \ soil (Menta et al., 2018); in the EXCALIBUR and EJP-Minotaur projects, CREA\
+    \ Research Centre for Agriculture and Environment, in collaboration with the National\
+    \ QBS-ar working group (D\u2019Avino et al., 2021), recognized no less than 54\
+    \ different BFs, 16 of which were classified as less frequent. Each BF is shortly\
+    \ described and associated with a score, the so-called Eco-Morphological Index\
+    \ (EMI), which ranges from 1 to 20 in proportion to the increasing degree of the\
+    \ soil adaptation of microarthropods. As reported by Parisi et al. (2005), some\
+    \ taxa show only one single EMI value because all species belonging to these taxa\
+    \ report the same adaptation level to the soil. Other groups show a range of EMIs\
+    \ in relation to the different adaptation levels of species to the soil. In general,\
+    \ eu-edaphic forms get EMI = 20, hemi-edaphic get an EMI rating proportionate\
+    \ to their degree of soil adaptation, while epedaphic (epigean) forms get EMI\
+    \ score = 1 (Menta et al., 2018). In QBS-ar whenever two eco-morphological forms\
+    \ are present in the same group, the final score is determined by the higher EMI.\
+    \ In other words, the most highly adapted microarthropods belonging to a group\
+    \ determine the overall EMI score for that group (Parisi et al 2005). This statement\
+    \ is not valid for the QBS-ar_BF proposed here, for which every biological form\
+    \ concurs to the calculation of QBS-ar_BF index, regardless of whether or not\
+    \ it belongs to the same group (i.e. class or order). Moreover, to assess variability\
+    \ between subsamples an index based on spectral analysis (D\u2019Avino, 2019)\
+    \ is proposed. The file <strong>\u20182.Sheet for QBS-ar record and calculation_v2.xlsx\u2019\
+    </strong> provides the selection of 54 most common BFs in European soils and should\
+    \ be used as a template for data registration during the microarthropods identification\
+    \ and count at the stereomicroscope. As outlined in the \u201CREADME\u201D sheet\
+    \ of the excel file, the user should register the abundance of each BF and other\
+    \ sampling-related information, and the template will automatically perform a\
+    \ series of calculations and will format several output sheets. In particular\
+    \ it calculates: mean abundance of microarthropods and relative class of abundance,\
+    \ QBS-ar, QBS-ar_BF, variability index community based on spectral analysis. One\
+    \ example of the compilated sheet is reported as file <strong>\u20182a.Filled_template_example_v2.pdf\u2019\
+    </strong>. The sampling was carried out during MINOTAUR project, the example was\
+    \ implemented starting from file <strong>\u20182. Sheet for QBS-ar record and\
+    \ calculation.xlsx\u2019</strong>. The collection, merging and organization of\
+    \ data from the precompiled sheet could be a cumbersome task, especially for surveys\
+    \ with many different samples. The user would need to copy-paste each row in the\
+    \ \u201CExport_Sample\u201D or \u201CExport_Subsample\u201D sheets (from file\
+    \ 2.) to a new file, to perform overall analysis; an error-prone operation. To\
+    \ ease this process, we have compiled a short R script that can be found in this\
+    \ submission as the third file <strong>\u20183.QBS-ar data merging_v2.R\u2019\
+    </strong>. By using the script, the user would automatically obtain three files\
+    \ (csv and/or xlsx, that will be stored in a \u201CResults\u201D folder) resulting\
+    \ from the merging of any number of QBS precompiled templates collected in a folder:\
+    \ 1. The result of the merge of \u201CExport_Sample\u201D sheets 2. The result\
+    \ of the merge of \u201CExport_Subsample\u201D sheets 3. The result of the merge\
+    \ of \"Export_MINOTAUR\" sheets Cited reference D\u2019Avino, L., Menta, C., Jacomini,\
+    \ C., Cassi, F., L\u2019Abate, G., La Terza, A., Staffilani, F., Pocaterra, F.,\
+    \ Piazzi, M., Parisi, V. (2021). The Italian skill network of Soil Biological\
+    \ Quality assessed by microarthropods\u2019 community, in: FAO. 2021. Keep soil\
+    \ alive, protect soil biodiversity \u2013Global Symposium on Soil Biodiversity\
+    \ 19\u201322 April 2021. Proceedings. Rome. ISBN [978-92-5-135218-2] pages 182-188.\
+    \ Available at https://doi.org/10.4060/cb7374en (accessed 01/09/2022) D\u2019\
+    Avino 2019. Soil mesofauna QBS-ar index in: Malusa et al. Common guidelines for\
+    \ analytical methods. https://cordis.europa.eu/project/id/817946/results/it (Accessed\
+    \ 28/03/2023) Menta, C., Conti, F. D., Pinto, S., Bodini, A. (2018). Soil Biological\
+    \ Quality index (QBS-ar): 15 years of application at global scale. Ecological\
+    \ Indicators, 85, 773-780. Parisi V. (2001). La qualit\xE0 biologica del suolo.\
+    \ Un metodo basato sui microartropodi [In Italian] Acta Naturalia de L\u2019Ateneo\
+    \ Parmense 37, 97-106. Parisi, V., Menta, C., Gardi, C., Jacomini, C., Mozzanica,\
+    \ E. (2005). Microarthropod communities as a tool to assess soil quality and biodiversity:\
+    \ a new approach in Italy. Agriculture, Ecosystems &amp; Environment, 105 (12),\
+    \ 323-333."
+  license:
+    name: ''
+  dates:
+    issued: '2023-03-22'
+    publication: '2023'
+  rights: ''
+  keywords:
+    default:
+      keywords:
+        subject: Data manipulation
+contact:
+  D'Avino-Lorenzo:
+    individualname: D'Avino, Lorenzo
+    role: ''
+    organization: CREA Research Centre for Agriculture and Environment
+    url: https://orcid.org/0000-0002-3454-129X
+  Bigiotti-Gaia:
+    individualname: Bigiotti, Gaia
+    role: ''
+    organization: CREA Research Centre for Agriculture and Environment
+    url: https://orcid.org/0000-0002-4902-6987
+  Vitali-Francesco:
+    individualname: Vitali, Francesco
+    role: ''
+    organization: CREA Research Centre for Agriculture and Environment
+    url: https://orcid.org/0000-0001-9125-4337
+  Tondini-Elena:
+    individualname: Tondini, Elena
+    role: ''
+    organization: CREA Research Centre for Agriculture and Environment
+    url: https://orcid.org/0000-0003-4701-5798
+  L'Abate-Giovanni:
+    individualname: L'Abate, Giovanni
+    role: ''
+    organization: CREA Research Centre for Agriculture and Environment
+    url: https://orcid.org/0000-0003-4018-7570
+  Jacomini-Carlo:
+    individualname: Jacomini, Carlo
+    role: ''
+    organization: National Institute for Environmental Protection and Research - National
+      System for Environmental Protection, National Centre for the Italian Network
+      of Laboratories - Biology Area - Soil & Land Ecology Laboratory
+    url: https://orcid.org/0000-0002-9983-830X
+  Cassi-Fabrizio:
+    individualname: Cassi, Fabrizio
+    role: ''
+    organization: TIMESIS
+    url: ''
+  Menta-Cristina:
+    individualname: Menta, Cristina
+    role: ''
+    organization: University of Parma
+    url: https://orcid.org/0000-0002-6680-6424
+  QBS-Ar-SISS-Working-Group:
+    individualname: QBS-Ar SISS Working Group
+    role: ''
+    organization: ''
+    url: ''
+  CRSA_CREA-AA_Firenze:
+    individualname: CRSA_CREA-AA_Firenze
+    role: RightsHolder
+    organization: CREA Consiglio per la ricerca in agricoltura e l'analisi dell'economia
+      agraria
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.7778672
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.3030/817946
+    type: WWW:LINK
+    title: IsDocumentedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.7041394
+    type: WWW:LINK
+    title: HasVersion
+  r2:
+    url: https://doi.org/10.5281/zenodo.7778672
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

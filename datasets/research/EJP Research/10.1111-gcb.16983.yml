@@ -1,0 +1,101 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1111/gcb.16983
+  dataseturi: http://doi.org/10.1111/gcb.16983
+  language: eng
+  hierarchylevel: journal-article
+  datestamp: '2024-09-02T08:35:32Z'
+identification:
+  title: "Carbon sequestration in soils and climate change mitigation\u2014Definitions\
+    \ and pitfalls"
+  abstract: "<title>Abstract</title><p>The term <italic>carbon (C) sequestration</italic>\
+    \ has not just become a buzzword but is something of a siren's call to scientific\
+    \ communicators and media outlets. <italic>Carbon sequestration</italic> is the\
+    \ removal of C from the atmosphere and the storage, for example, in soil. It has\
+    \ the potential to partially compensate for anthropogenic greenhouse gas emissions\
+    \ and is, therefore, an important piece in the global climate change mitigation\
+    \ puzzle. However, the term <italic>C sequestration</italic> is often used misleadingly\
+    \ and, while likely unintentional, can lead to the perpetuation of biased conclusions\
+    \ and exaggerated expectations about its contribution to climate change mitigation\
+    \ efforts. Soils have considerable potential to take up C but many are also in\
+    \ a state of continuous loss. In such soils, measures to build up soil C may only\
+    \ lead to a reduction in C losses (C loss mitigation) rather than result in real\
+    \ C sequestration and negative emissions. In an examination of 100 recent peer\u2010\
+    reviewed papers on topics surrounding soil C, only 4% were found to have used\
+    \ the term <italic>C sequestration</italic> correctly. Furthermore, 13% of the\
+    \ papers equated C sequestration with C stocks. The review, further, revealed\
+    \ that measures leading to C sequestration will not always result in climate change\
+    \ mitigation when non\u2010CO<sub>2</sub> greenhouse gases and leakage are taken\
+    \ into consideration. This paper highlights potential pitfalls when using the\
+    \ term <italic>C sequestration</italic> incorrectly and calls for accurate usage\
+    \ of this term going forward. Revised and new terms are suggested to distinguish\
+    \ clearly between C sequestration in soils, SOC loss mitigation, negative emissions,\
+    \ climate change mitigation, SOC storage, and SOC accrual to avoid miscommunication\
+    \ among scientists and stakeholder groups in future.</p>"
+  dates:
+    creation: '2023-10-31T09:02:21Z'
+    publication: '2023-10-31'
+  language: en
+  license:
+    name: ''
+    url: http://creativecommons.org/licenses/by/4.0/
+  keywords:
+    default:
+      keywords:
+      - Global Change Biology
+contact:
+  publisher:
+    role: publisher
+    organization: Wiley
+  author1:
+    role: author
+    individualname: Axel Don
+    organization: ''
+    url: ''
+  author2:
+    role: author
+    individualname: Felix Seidel
+    organization: ''
+    url: ''
+  author3:
+    role: author
+    individualname: Jens Leifeld
+    organization: ''
+    url: ''
+  author4:
+    role: author
+    individualname: "Thomas K\xE4tterer"
+    organization: ''
+    url: ''
+  author5:
+    role: author
+    individualname: Manuel Martin
+    organization: ''
+    url: ''
+  author6:
+    role: author
+    individualname: Sylvain Pellerin
+    organization: ''
+    url: ''
+  author7:
+    role: author
+    individualname: David Emde
+    organization: ''
+    url: ''
+  author8:
+    role: author
+    individualname: Daria Seitz
+    organization: ''
+    url: ''
+  author9:
+    role: author
+    individualname: Claire Chenu
+    organization: ''
+    url: ''
+distribution:
+  primary:
+    name: "Carbon sequestration in soils and climate change mitigation\u2014Definitions\
+      \ and pitfalls"
+    type: application/pdf
+    url: https://onlinelibrary.wiley.com/doi/10.1111/gcb.16983

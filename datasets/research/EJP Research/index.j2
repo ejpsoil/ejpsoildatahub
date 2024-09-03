@@ -2,73 +2,8 @@ mcf:
     version: 1.0
 
 metadata:
-    identifier: {{ md['Identification'].split('doi.org/') | last | replace('/','-') }} 
-    language: eng
-    charset: utf8
-    hierarchylevel: dataset
-    datestamp: {{ md['Modification date'] }}
-
-spatial:
-    datatype: grid
-    geomtype: grid
-    resolution: {{ md['Spatial resolution'] }}
-    crs: {{ md['Reference system'] }}
+    identifier: {{ md['id'].split('doi.org/') | last | replace('/','-') }} 
+    dataseturi: {{ md['id'] }}    
 
 identification:
-    language: {{ md['Language'] }}
-    charset: utf8
-    title: "{{ md['Title'] }}"
-    abstract: >
-        {{ md['Abstract'] | replace(':',';') }}
-    dates:
-        modification: {{ md['Modification date'] }}
-    keywords:
-        default:
-            keywords: 
-                -'EJP Soil'
-                - {{ md['Keywords'] }}
-        country:
-            keywords: 
-                - European
-            vocabulary:
-                    name: Spatial Scope
-                    url: https://inspire.ec.europa.eu/metadata-codelist/SpatialScope
-    topiccategory:
-        - geoscientificInformation
-    extents:
-        spatial:
-            - {{ md['Extent (geographic)'] }}
-        temporal:
-            - begin: "{{ md['Reference period - Start'] }}"
-            - end: "{{ md['Reference period - End'] }}"
-    accessconstraints: "{{ md['Access constraints'] }}"
-    rights: "{{ md['Usage constraints'] }}"
-    status: {{ md['Status'] }}
-    maintenancefrequency: {{ md['Maintenenance frequency'] }}
-
-contact:
-    pointOfContact: 
-        organization: "{{ md['name of organisation'] }}"
-        email: {{ md['Contact'] }}
-        contactinstructions: email
-
-distribution:
-    {{md['Format'] | lower or 'dl1'}}:
-        url: {{ md['File / service Location'] }}
-        type: {% if md['Format'].upper() in ['WMS','WFS','WCS'] 
-                %}ogc:{% elif md['Format'].upper() in ['HTML'] 
-                %}text/{% elif md['Format'].upper() in ['PNG','TIF','JPG'] 
-                %}image/{% else %}application/{% endif %}{{ md['Format'] | lower }}
-        name: {{ md['Format']}}
-    citation:
-        description: >
-            {{ md['Citation']}}
-dataquality:
-    scope:
-        level: dataset
-    lineage:
-        statement: >
-            {{ md['Quality statement'] }} {{ md['Source'] }} {{ md['Lineage'] }} {{ md['Processing steps'] }}
-
-
-
+    title: ''

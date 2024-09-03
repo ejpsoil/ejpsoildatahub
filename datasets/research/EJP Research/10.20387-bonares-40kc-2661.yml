@@ -1,64 +1,58 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: doi.org-10.20387-bonares-40kc-2661
-  dataseturi: http://doi.org/10.20387/bonares-40kc-2661
-  hierarchylevel: dataset
+  identifier: https---doi.org-10.20387-bonares-40kc-2661
+  dataseturi: https---doi.org-10.20387-bonares-40kc-2661
+  datestamp: ''
 identification:
-  keywords:
-    default:
-      keywords: ['EJPSoil']
   title: Provision of Metadata of European Agricultural Long-Term Experiments through
     BonaRes and EJP SOIL Collaboration
-  abstract: 'The dataset includes the meta-information of 616 LTEs from 30 different
-    countries across Europe with a minimum duration of typically 20 years, including
-    clustered information of the European LTEs in different categories (management
-    operations, land use, duration, status, etc.). It consists of the updated version
-    of the dataset published by Grosse et al., 2020 (https://doi.org/10.20387/BonaRes-3TR6-MG8R)
-    but is extended by further LTE metadata, categories and research themes within
-    a collaboration of BonaRes and EJP SOIL.
-
-
-    Research domain: Soil Sciences'
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: en
   dates:
-    available: '2022-03-25'
-    issued: '2022-03-15'
-    updated: '2022-03-15'
-    publication: '2022'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+spatial:
+  datatype: ''
+  geomtype: ''
 distribution:
-  contentUrl:
-    url: http://doi.org/10.20387/bonares-40kc-2661
-    type: WWW:LINK
-    title: Link
+  www:
+    name: Provision of Metadata of European Agricultural Long-Term Experiments through
+      BonaRes and EJP SOIL Collaboration
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=f5ad7822-0b5f-4f74-9d87-b965dea4936c
+    type: www
 contact:
   Donmez-Cenk:
     individualname: "D\xF6nmez, Cenk"
-    organization: Leibniz Center for Agricultural Landscape Research (ZALF)
+    role: creator
   Blanchy-Guillaume:
     individualname: Blanchy, Guillaume
-    organization: Flanders Research Institute for Agriculture, Fisheries and Food
-      (ILVO)
+    role: creator
   Svoboda-Nikolai:
     individualname: Svoboda, Nikolai
-    organization: Leibniz Center for Agricultural Landscape Research (ZALF)
+    role: creator
   D'Hose-Tommy:
     individualname: D'Hose, Tommy
-    organization: Flanders Research Institute for Agriculture, Fisheries and Food
-      (ILVO)
+    role: creator
   Hoffmann-Carsten:
     individualname: Hoffmann, Carsten
-    organization: Leibniz Center for Agricultural Landscape Research (ZALF)
+    role: creator
   Hierold-Wilfried:
     individualname: Hierold, Wilfried
-    organization: Leibniz Center for Agricultural Landscape Research (ZALF)
+    role: creator
   Klummp-Katja:
     individualname: Klummp, Katja
-    organization: "Institut national de recherche pour l\u2019agriculture, l\u2019\
-      alimentation et l\u2019environnement (INRAE)"
-  '|':
-    individualname: '|'
-    role: ProjectLeader
-    organization: '|'
-spatial:
-  type: Table
+    role: creator
+  BonaRes-Data-Centre-Leibniz-Centre-for-Agricultural-Landscape-Research-ZALF:
+    individualname: BonaRes Data Centre (Leibniz Centre for Agricultural Landscape
+      Research (ZALF))
+    role: creator
+content_info: {}

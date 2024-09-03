@@ -1,48 +1,51 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: doi.org-10.5281-zenodo.7687793
-  dataseturi: https://doi.org/10.5281/zenodo.7687793
+  identifier: 10.5281-zenodo.7687793
+  dataseturi: http://doi.org/10.5281/zenodo.7687793
   hierarchylevel: software
 identification:
-  keywords:
-    default:
-      keywords: ['EJPSoil']
   title: 'climasoma/nlp: v1.0.0'
   abstract: First release
+  license:
+    name: ''
   dates:
     issued: '2023-03-01'
     publication: '2023'
   rights: ''
-distribution:
-  contentUrl:
-    url: https://doi.org/10.5281/zenodo.7687793
-    type: WWW:LINK
-    title: Link
-  r1:
-    url: https://doi.org/10.5281/zenodo.7687794
-    type: WWW:LINK
-    title: HasVersion
 contact:
   Blanchy-Guillaume:
     individualname: Blanchy, Guillaume
+    role: ''
     organization: Flanders Research Institute for Agriculture, Fisheries and Food
       (ILVO), Melle, Belgium
     url: https://orcid.org/0000-0001-6341-5826
   Albrecht-Lukas:
     individualname: Albrecht, Lukas
+    role: ''
     organization: "Agroscope, Reckenholzstrasse 191, 8046 Z\xFCrich, Switzerland"
     url: https://orcid.org/0000-0002-2466-8369
   Koestel-John:
     individualname: Koestel, John
+    role: ''
     organization: "Institute for Soil and Environment, Swedish University of Agricultural\
       \ Sciences, Box 7014, 75007 Uppsala, Sweden; Agroscope, Reckenholzstrasse 191,\
       \ 8046 Z\xFCrich, Switzerland"
     url: https://orcid.org/0000-0002-3230-5699
   Garre-Sarah:
     individualname: "Garr\xE9, Sarah"
+    role: ''
     organization: Flanders Research Institute for Agriculture, Fisheries and Food
       (ILVO), Melle, Belgium
     url: https://orcid.org/0000-0001-9025-5282
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.7687793
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.7687794
+    type: WWW:LINK
+    title: HasVersion
 spatial:
   type: ''

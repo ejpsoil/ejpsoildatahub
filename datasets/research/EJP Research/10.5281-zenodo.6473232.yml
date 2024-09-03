@@ -1,41 +1,78 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: doi.org-10.5281-zenodo.6473232
+  identifier: 10.5281-zenodo.6473232
   dataseturi: http://doi.org/10.5281/zenodo.6473232
   hierarchylevel: dataset
 identification:
-  keywords:
-    default:
-      keywords: ['EJPSoil']
   title: Characterization of the Agroecological Zones of Europe
   abstract: 'This dataset was compiled in the i-SoMPE Project of EJP SOIL in 2021
-    and 2022. This dataset contains information to characterize the agroecological
-    zones (AEZ) of Europe on 4 spatial levels. The data was calculated by an R project
-    available on GitLab (https://gitlab.com/heoi/i-sompe-wp1 and https://gitlab.com/heoi/i-SoMPE-WP1-Agri4Cast)
-    using various data on land use, cliamate, soil characteristics and slope. More
-    information on the data can be found in the report of the i-SoMPE project. The
-    dataset contains the following files: 1 XLSX file with information on all 4 spatial
-    levels 4 CSV files with information on 1 of 4 spatial levels 1 XLSX file that
-    contains information on the attributes described in the dataset 1 ZIP-Folder with
-    a shapefile of the AEZs used in i-SoMPE and described in the dataset'
+    and 2022.
+
+
+    This dataset contains information to characterize the agroecological zones (AEZ)
+    of Europe on 4 spatial levels. The data was calculated by an R project (available
+    on Zenodo and GitLab) using publicly available data on land use, climate, soil
+    characteristics and slope. More information on the data can be found in the report
+    of the i-SoMPE project.
+
+
+    The dataset contains the following files:
+
+
+
+
+    4 CSV files with information on 1 of 4 spatial levels
+
+
+    1 CSV file with information on cover crop suitability on one spatial level (L4)
+
+
+    1 XLSX file that contains information on the attributes described in the dataset
+
+
+    1 ZIP-Folder with a shapefile of the AEZs used in i-SoMPE and described in the
+    dataset'
+  license:
+    name: ''
   dates:
-    issued: '2022-04-20'
-    publication: '2022'
-  rights: ''
+    issued: '2023-08-08'
+    publication: '2023'
+  rights: cc-by-4.0
+contact:
+  Olivier-Heller:
+    individualname: Olivier Heller
+    role: ''
+    organization: Agroscope
+    url: 0000-0002-5918-4161
 distribution:
   contentUrl:
-    url: http://doi.org/10.5281/zenodo.6473232
+    url: 10.5281/zenodo.6473232
     type: WWW:LINK
     title: Link
   r0:
-    url: https://doi.org/10.5281/zenodo.6473231
+    url: https://doi.org/10.5281/zenodo.11046223
     type: WWW:LINK
-    title: IsVersionOf
-contact:
-  Heller-Olivier:
-    individualname: Heller, Olivier
-    organization: Agroscope
-    url: https://orcid.org/0000-0002-5918-4161
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.11046138
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r2:
+    url: https://doi.org/10.5281/zenodo.8218882
+    type: WWW:LINK
+    title: Requires
+  r3:
+    url: https://doi.org/10.5281/zenodo.6473232
+    type: WWW:LINK
+    title: HasVersion
+  r4:
+    url: https://doi.org/10.5281/zenodo.8217490
+    type: WWW:LINK
+    title: HasVersion
+  r5:
+    url: https://doi.org/10.5281/zenodo.8224594
+    type: WWW:LINK
+    title: HasVersion
 spatial:
   type: ''

@@ -1,0 +1,135 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1111/gcb.15897
+  dataseturi: http://doi.org/10.1111/gcb.15897
+  language: eng
+  hierarchylevel: journal-article
+  datestamp: '2024-08-25T15:26:06Z'
+identification:
+  title: "Achievable agricultural soil carbon sequestration across Europe from country\u2010\
+    specific estimates"
+  abstract: "<title>Abstract</title><p>The role of soils in the global carbon cycle\
+    \ and in reducing GHG emissions from agriculture has been increasingly acknowledged.\
+    \ The \u20184 per 1000\u2019 (4p1000) initiative has become a prominent action\
+    \ plan for climate change mitigation and achieve food security through an annual\
+    \ increase in soil organic carbon (SOC) stocks by 0.4%, (i.e. 4\u2030 per year).\
+    \ However, the feasibility of the 4p1000 scenario and, more generally, the capacity\
+    \ of individual countries to implement soil carbon sequestration (SCS) measures\
+    \ remain highly uncertain. Here, we evaluated country\u2010specific SCS potentials\
+    \ of agricultural land for 24 countries in Europe. Based on a detailed survey\
+    \ of available literature, we estimate that between 0.1% and 27% of the agricultural\
+    \ greenhouse gas (GHG) emissions can potentially be compensated by SCS annually\
+    \ within the next decades. Measures varied widely across countries, indicating\
+    \ differences in country\u2010specific environmental conditions and agricultural\
+    \ practices. None of the countries' SCS potential reached the aspirational goal\
+    \ of the 4p1000 initiative, suggesting that in order to achieve this goal, a wider\
+    \ range of measures and implementation pathways need to be explored. Yet, SCS\
+    \ potentials exceeded those from previous pan\u2010European modelling scenarios,\
+    \ underpinning the general need to include national/regional knowledge and expertise\
+    \ to improve estimates of SCS potentials. The complexity of the chosen SCS measurement\
+    \ approaches between countries ranked from tier 1 to tier 3 and included the effect\
+    \ of different controlling factors, suggesting that methodological improvements\
+    \ and standardization of SCS accounting are urgently required. Standardization\
+    \ should include the assessment of key controlling factors such as realistic areas,\
+    \ technical and practical feasibility, trade\u2010offs with other GHG and climate\
+    \ change. Our analysis suggests that country\u2010specific knowledge and SCS estimates\
+    \ together with improved data sharing and harmonization are crucial to better\
+    \ quantify the role of soils in offsetting anthropogenic GHG emissions at global\
+    \ level.</p>"
+  dates:
+    creation: '2021-09-20T17:06:32Z'
+    publication: 2021-10-6
+  language: en
+  license:
+    name: ''
+    url: http://creativecommons.org/licenses/by/4.0/
+  keywords:
+    default:
+      keywords:
+      - Global Change Biology
+contact:
+  publisher:
+    role: publisher
+    organization: Wiley
+  author1:
+    role: author
+    individualname: Leonor Rodrigues
+    organization: ''
+    url: ''
+  author2:
+    role: author
+    individualname: Brieuc Hardy
+    organization: ''
+    url: ''
+  author3:
+    role: author
+    individualname: Bruno Huyghebeart
+    organization: ''
+    url: ''
+  author4:
+    role: author
+    individualname: Julia Fohrafellner
+    organization: ''
+    url: ''
+  author5:
+    role: author
+    individualname: Dario Fornara
+    organization: ''
+    url: ''
+  author6:
+    role: author
+    individualname: "Gabriela Baran\u010D\xEDkov\xE1"
+    organization: ''
+    url: ''
+  author7:
+    role: author
+    individualname: "Teresa G. B\xE1rcena"
+    organization: ''
+    url: ''
+  author8:
+    role: author
+    individualname: Maarten De Boever
+    organization: ''
+    url: ''
+  author9:
+    role: author
+    individualname: Claudia Di Bene
+    organization: ''
+    url: ''
+  author10:
+    role: author
+    individualname: "Dalia Feizien\u0117"
+    organization: ''
+    url: ''
+  author11:
+    role: author
+    individualname: "Thomas K\xE4tterer"
+    organization: ''
+    url: ''
+  author12:
+    role: author
+    individualname: Peter Laszlo
+    organization: ''
+    url: ''
+  author13:
+    role: author
+    individualname: "Lilian O\u2019Sullivan"
+    organization: ''
+    url: ''
+  author14:
+    role: author
+    individualname: Daria Seitz
+    organization: ''
+    url: ''
+  author15:
+    role: author
+    individualname: Jens Leifeld
+    organization: ''
+    url: ''
+distribution:
+  primary:
+    name: "Achievable agricultural soil carbon sequestration across Europe from country\u2010\
+      specific estimates"
+    type: application/pdf
+    url: https://onlinelibrary.wiley.com/doi/10.1111/gcb.15897
