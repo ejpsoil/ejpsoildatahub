@@ -1,12 +1,13 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Global-Soil-Organic-Carbon-Map.
+  identifier: ELABORATION OF THE ITALIAN PORTION OF THE GLOBAL SOIL ORGANIC CARBON MAP (GSOCMAP)
   language: eng
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: http://54.229.242.119/GSOCmap/
+  dataseturi: https://zenodo.org/record/7746495 
+
 spatial:
   resolution: 1000 M pixel/6748 total points used
   datatype: GRID
