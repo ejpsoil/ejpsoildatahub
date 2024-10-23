@@ -45,6 +45,6 @@ dataquality:
   scope:
     level: dataset
   lineage:
-    statement: 'research sites till 0.9 m (for Nmin); famers, top soil (arable land);
+    statement: 'research sites, till 0.9 m (for Nmin); famers, top soil (arable land);
       top and sub-soil (vine yards). Mapping: . Depth intervals: . Uncertainty quantification: '
 distribution: {}
