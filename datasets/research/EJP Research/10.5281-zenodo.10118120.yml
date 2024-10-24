@@ -56,7 +56,7 @@ contact:
     url: 0009-0004-3090-6935
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.10118120
+    url: https://doi.org/10.5281/zenodo.10118120
     type: WWW:LINK
     title: Link
   r0:
