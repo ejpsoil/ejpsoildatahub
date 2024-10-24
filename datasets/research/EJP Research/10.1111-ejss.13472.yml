@@ -57,7 +57,7 @@ contact:
     url: ''
 distribution:
   contentUrl:
-    url: 10.1111/ejss.13472
+    url: https://doi.org/10.1111/ejss.13472
     type: WWW:LINK
     title: Link
   r0:
