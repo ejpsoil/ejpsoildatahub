@@ -56,7 +56,7 @@ contact:
     url: ''
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.10091483
+    url: https://doi.org/10.5281/zenodo.10091483
     type: WWW:LINK
     title: Link
   r0:

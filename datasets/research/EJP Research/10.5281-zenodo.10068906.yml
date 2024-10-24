@@ -30,7 +30,7 @@ contact:
     url: 0000-0002-1951-1041
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.10068906
+    url: https://doi.org/10.5281/zenodo.10068906
     type: WWW:LINK
     title: Link
   r0:
