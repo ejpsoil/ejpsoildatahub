@@ -42,12 +42,12 @@ contact:
     individualname: Schiedung, Marcus
     role: ''
     organization: University of Zurich
-    url: 0000-0002-0185-9867
+    url: https://orcid.org/0000-0002-0185-9867
   Abiven-Samuel:
     individualname: Abiven, Samuel
     role: ''
     organization: ENS Paris
-    url: 0000-0002-5663-0912
+    url: https://orcid.org/0000-0002-5663-0912
 distribution:
   contentUrl:
     url: https://doi.org/10.5281/zenodo.7304562
