@@ -15,8 +15,8 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Carbiosol map
-  abstract: 'Top soil measurement '
+  title: Total Organic Carbon (TOC) in agricultural soils in Wallonia
+  abstract: 'This series of data layers brings together all the information relating to the mapping of Total Organic Carbon (TOC) contents and stocks in agricultural soils in Wallonia.'
   dates:
     creation: 1949-1972 and 2004-2014
   keywords:
