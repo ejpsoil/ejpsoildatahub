@@ -4,4 +4,7 @@ metadata:
   identifier: 10.5281-zenodo.8399180
   dataseturi: http://doi.org/10.5281/zenodo.8399180
 identification:
-  title: ''
+  title: EJPSOIL CarboSeq agrometeorological datasets
+  abstract: The gridded dataset includes the monthly time series of the precipitation, temperature and reference evapotranspiration variables derived from AgERA5 daily and AgERA_ET0 monthly data, with a spatial resolution of 10 kilometers, covering the area interested by the project, for the period 1979-2022.
+  dates:
+    creation: 1979-2022
