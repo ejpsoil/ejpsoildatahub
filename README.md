@@ -1,5 +1,8 @@
 # EJPSoil Datahub
 
+<a href="https://doi.org/10.5281/zenodo.13972270" target="_blank">
+<img id="record-doi-badge" data-target="[data-modal='10.5281/zenodo.13972270']" src="/badge/DOI/10.5281/zenodo.13972270.svg" alt="10.5281/zenodo.13972270"></a>
+
 This repository is a participative effort to collect and maintain a series of descriptions of soil datasets (metadata) in the EU to facilitate discovery of these resources. As a soil scientist or practitioner you are very much invited to contribute to this effort by creating [issues](../../issues) or [pull requests](../../pulls) with improvement suggestions and/or flagging incomplete content.
 
 If a dataset is already described elsewhere ([INSPIRE](https://inspire-geoportal.ec.europa.eu/overview.html?view=themeOverview&theme=so), [OpenAire](https://explore.openaire.eu/search/find/dataproviders?fv0=soil&f0=q), ...) a reference should be made to the external source, so the metadata can be automatically synchronised. Use the metadata:dataseturi property to capture a reference to the remote document. For now we support either a DOI or a iso19139:2007 document.
