@@ -1,7 +1,7 @@
 # EJPSoil Datahub
 
 <a href="https://doi.org/10.5281/zenodo.13972270" target="_blank">
-<img id="record-doi-badge" data-target="[data-modal='10.5281/zenodo.13972270']" src="/badge/DOI/10.5281/zenodo.13972270.svg" alt="10.5281/zenodo.13972270"></a>
+<img id="record-doi-badge" src="https://zenodo.org/badge/DOI/10.5281/zenodo.13972270.svg" alt="10.5281/zenodo.13972270"></a>
 
 This repository is a participative effort to collect and maintain a series of descriptions of soil datasets (metadata) in the EU to facilitate discovery of these resources. As a soil scientist or practitioner you are very much invited to contribute to this effort by creating [issues](../../issues) or [pull requests](../../pulls) with improvement suggestions and/or flagging incomplete content.
 
