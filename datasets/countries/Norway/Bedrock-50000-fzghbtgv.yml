@@ -6,15 +6,14 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://kartkatalog.geonorge.no/metadata/bedrock-scale-150000/a5c76d05-33bd-4a1d-b28b-81575092e468
 spatial:
   resolution: 50 000
   datatype: NATURAL_POLYGONs, polygons with natural boundaries
 identification:
   language: null
   charset: utf8
-  title: Bedrock, 50,000
-  abstract: ''
+  title: Norwegian bedrock geological map series scale 1:50,000
+  abstract: NGU's bedrock data shows the distribution of rock types and rock structures on the earth's surface. The map data is mainly based on the printed bedrock geological map series at a scale of 1:50,000, but also includes maps at the same scale from project-defined areas.
   dates:
     creation: 2004-2020
   keywords:
@@ -44,4 +43,6 @@ dataquality:
     level: dataset
   lineage:
     statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
-distribution: {}
+distribution:
+  link:
+    url: https://kartkatalog.geonorge.no/metadata/bedrock-scale-150000/a5c76d05-33bd-4a1d-b28b-81575092e468
