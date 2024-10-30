@@ -13,11 +13,8 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Soil test database
-  abstract: 'bluk samples only, soil test sampling strategy eg farmer''s decision
-    top soil
-
-    '
+  title: French soil test database
+  abstract: 'bluk samples only, soil test sampling strategy eg farmer''s decision top soil'
   dates:
     creation: '2013'
   keywords:
