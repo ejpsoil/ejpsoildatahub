@@ -14,9 +14,8 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Digital soil database (soil polygons )
-  abstract: 'profile sampling (samples from topsoil and subsoil), soil sampling with
-    augers.  '
+  title: Latvian Territory Development Planning Information System (Teritorijas attīstības plānošanas informācijas sistēma - TAPIS)
+  abstract: 'On the GeoLatvija.lv portal, society - residents and businessmen can conveniently search for and receive the necessary text and graphic information about territorial development planning, including participating in the public consultation of the planning document by submitting proposals electronically, as well as receiving notifications about the development of documents of interest. On the Latvija.lv portal, you can receive electronic services prepared by TAPIS in the form of statements.'
   dates:
     creation: 1960-1991
   keywords:
