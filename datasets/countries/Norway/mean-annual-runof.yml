@@ -13,7 +13,7 @@ spatial:
 identification:
   language: Norwegian
   charset: utf8
-  title: Mean annual runof 1961-1990 Norway
+  title: Mean annual runoff 1961-1990 Norway
   abstract: 'Base with the dot theme showing average annual runoff (mm/year) for the period 1961-1990. The base model has a resolution of 1kmx1km. Uncertainty in the values: ±20%.'
   dates:
     creation: 1961-1990
