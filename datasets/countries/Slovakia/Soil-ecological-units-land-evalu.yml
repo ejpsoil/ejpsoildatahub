@@ -11,13 +11,16 @@ spatial:
   resolution: 3,513888889
   datatype: DERIVED Soil Profiles linked to the polygons
 identification:
-  language: null
+  language: Slovak
   charset: utf8
-  title: Soil ecological units (land evaluation system)
-  abstract: 'class area polygon maps based on soil profile observations Fisrst data
-    were colected 1971-1976. Continuous update on request
-
-    '
+  title: "Bonified soil-ecological units in Slovakia"
+  abstract: 'The concept of credit rating of agricultural land basically follows the traditional principles\
+    \ of credit rating in our country. Each plot is characterized by parameters of soil - ecological properties\
+    \ expressed by the so-called "bonified soil-ecological units" (BPEJ).  The database contains data on the X,Y\
+    \ coordinates of polygons describing the boundaries of individual areas of the BPEJ and other area units:\
+    \ forests, water bodies, other areas (barren lands), urban areas and other built-up areas.\
+    \ The database was created by digitizing the professional content from the original BPEJ maps developed on the basis of the State Map derived 1:5000.\
+    \ Fisrst data were colected 1971-1976. Continuous update on request.'
   dates:
     creation: 1971-2019
   keywords:

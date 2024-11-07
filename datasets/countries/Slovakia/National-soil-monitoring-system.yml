@@ -11,14 +11,12 @@ spatial:
   resolution: totaly 318 monitoring sites
   datatype: POINT
 identification:
-  language: null
+  language: Slovak
   charset: utf8
-  title: National soil monitoring system
+  title: National Soil Monitoring System in Slovakia
   abstract: 'borehole/profile, chemical properties-disturbed samples, physical properties
     - undisturbed samples frequency of data collection - repetition 5 years, selected
-    sites every year, depth intervals - (0-10, 20-30, 35-45 cm)
-
-    '
+    sites every year, depth intervals - (0-10, 20-30, 35-45 cm)'
   dates:
     creation: 1993-2018
   keywords:
@@ -50,3 +48,8 @@ dataquality:
     statement: 'borehole/profile, chemical properties-disturbed samples, physical
       properties - undisturbed samples. Mapping: conventional mapping. Depth intervals:
       Other  depth intervals (specify in comments). Uncertainty quantification: NO'
+distribution:
+  link:
+    url: https://gsaa.mpsr.sk/
+    type: WWW:LINK
+    name: Geospatial Support Request application
