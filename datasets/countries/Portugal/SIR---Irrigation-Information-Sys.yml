@@ -10,11 +10,10 @@ spatial:
   resolution: 2.400.000
   datatype: POINT
 identification:
-  language: null
+  language: Portuguese
   charset: utf8
-  title: SIR - Irrigation Information System
-  abstract: 'Map with public irrigated areas 2018 and Nitrate vulnerable zones, and
-    Database of the amount of water used per crop in each irrigation dystrict (http://sir.dgadr.gov.pt/images/conteudos/regadios/cartografia/reg_Exploracao/AH_PaisConcretizados.pdf)'
+  title: SIR - Irrigation Information System - Portugal
+  abstract: 'Map with public irrigated areas 2018 and Nitrate vulnerable zones, and database of the amount of water used per crop in each irrigation dystrict'
   dates:
     creation: '2018'
   keywords:
@@ -46,6 +45,10 @@ distribution:
     url: http://sir.dgadr.gov.pt/images/conteudos/regadios/cartografia/reg_Exploracao/AH_PaisConcretizados.pdf
     type: application/pdf
     name: APROVEITAMENTOS HIDROAGRÍCOLAS - 2018
+  link:
+    url: https://sir.dgadr.gov.pt/
+    type: WWW:LINK
+    name: SIR - Sistema de Informação de Regadio
 dataquality:
   scope:
     level: dataset
