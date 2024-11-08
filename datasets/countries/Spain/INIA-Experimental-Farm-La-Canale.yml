@@ -39,9 +39,7 @@ identification:
   extents:
     temporal:
     - begin: 2005-2020
-    spatial:
-    - bbox: []
-      crs: '4326'
+
   accessconstraints: Restricted
   rights: ''
   maintenancefrequency: regular monitoring, yearly

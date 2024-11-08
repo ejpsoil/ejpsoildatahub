@@ -39,9 +39,6 @@ identification:
   extents:
     temporal:
     - begin: '1984'
-    spatial:
-    - bbox: []
-      crs: '4326'
   accessconstraints: Restricted
   rights: ''
   maintenancefrequency: it was a single survey
