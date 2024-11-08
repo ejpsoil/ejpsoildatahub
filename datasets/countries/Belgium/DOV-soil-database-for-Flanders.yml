@@ -116,6 +116,7 @@ identification:
       - 50.52784590072332
       - 5.869300470014372
       - 51.452751829458414
+      crs: '4326'
   accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: otherRestrictions

@@ -81,6 +81,7 @@ identification:
       - 50.70430970868123
       - 4.238768886243037
       - 50.929786634077765
+      crs: '4326'
   accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: it was a single survey
