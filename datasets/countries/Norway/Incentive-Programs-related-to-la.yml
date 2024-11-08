@@ -11,10 +11,14 @@ spatial:
   resolution: 5000
   datatype: POINT
 identification:
-  language: null
+  language: Norwegian
   charset: utf8
-  title: Incentive Programs related to land use and animal husbandry
-  abstract: 'Application forms '
+  title: Incentive programs related to land use and animal husbandry in Norwway
+  abstract: 'Data set that contains information from applications for and payment of production grants to agricultural enterprises in the 2020 application round. It consists of two parts: \ 
+           \ • Part 1 – March: o Contains application information about the number of animals on the count date of 1 March.\ 
+           \ • Part 2 – October: o Contains application information on the number of animals on the count date of 1 October (including livestock breeds worthy of conservation),\ 
+           \ animals on pasture, vegetable and potato production as well as designated areas and which crops are grown on the areas.\
+           \ The data set also contains information from slaughterhouses on the number of fattening pigs, broiler chickens, geese, turkeys and ducks slaughtered during the application year.'
   dates:
     creation: 1999-2020
   keywords:
@@ -44,3 +48,8 @@ dataquality:
     level: dataset
   lineage:
     statement: 'Application forms. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution:
+ link:
+    url: https://github.com/LandbruksdirektoratetGIT/opendata/tree/main/datasets/produksjon-og-avlosertilskudd/2020
+    type: WWW:LINK
+    name: Datasett: Produksjons- og avløsertilskudd til jordbruksforetak – søknadsomgang 2020 del 1

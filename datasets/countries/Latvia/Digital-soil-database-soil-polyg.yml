@@ -6,11 +6,10 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://geolatvija.lv/geo/p/317
+  dataseturi: https://geolatvija.lv/main
 spatial:
   resolution: 1:10 000
-  datatype: AGRI_PARCEL LPI,POLYGON WITH Land Parcel Identification (LPI) is  available
-    for agricultural parcel
+  datatype: AGRI_PARCEL LPI, POLYGON WITH Land Parcel Identification (LPI) is available for agricultural parcel
 identification:
   language: null
   charset: utf8
