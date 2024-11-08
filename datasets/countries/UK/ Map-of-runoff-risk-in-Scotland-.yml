@@ -56,7 +56,7 @@ identification:
       - 54.6
       - -1.7
       - 58.7
-      crs: '4326'
+      crs: 4326
   accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: it was a single survey

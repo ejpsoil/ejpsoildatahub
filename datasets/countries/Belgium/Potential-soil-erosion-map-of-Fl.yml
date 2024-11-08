@@ -98,7 +98,7 @@ identification:
       - 50.67420802910721
       - 5.932738352491076
       - 51.50571453444454
-      crs: '4326'
+      crs: 4326
   accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: regular monitoring, yearly
