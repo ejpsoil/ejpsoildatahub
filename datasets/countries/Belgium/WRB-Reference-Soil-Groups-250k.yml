@@ -70,8 +70,6 @@ identification:
   topiccategory:
   - geoscientificInformation
   extents:
-    temporal:
-    - {}
     spatial:
     - bbox:
       - 2.5294427620720183
