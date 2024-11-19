@@ -6,20 +6,15 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: FAO (2018) Global Soil Organic Carbon Map (GSOCmap) Technical Report.
-    FAO, Rome, Italy - See Slovenia
+  dataseturi: FAO (2018) Global Soil Organic Carbon Map (GSOCmap) Technical Report. FAO, Rome, Italy - See Slovenia.
 spatial:
-  resolution: 01:25,0
+  resolution: 1km
   datatype: NATURAL_POLYGONs, polygons with natural boundaries
 identification:
   language: null
   charset: utf8
-  title: Soil organic matter in Slovenia
-  abstract: 'Evaluation of soil organic matter from the available data sources (extrapolated
-    and correlated). Unofficial data in digital form (parcel-specific,no). regular
-    monitoring
-
-    '
+  title: Global Soil Organic Carbon Map (GSOCmap) in Slovenia
+  abstract: 'Evaluation of soil organic matter from the available data sources (extrapolated and correlated). Unofficial data in digital form (parcel-specific, no). Regular monitoring'
   dates:
     creation: 1999 - 2014
   keywords:
@@ -42,7 +37,9 @@ identification:
   maintenancefrequency: null
 contact:
   pointOfContact:
-    organization: ' Agricultural institute of Slovenia'
+    organization: 'Agricultural institute of Slovenia'
+    individualname: Borut Vrscaj
+    email: borut.vrscaj@kis.si
     country: Slovenia
 dataquality:
   scope:
@@ -52,3 +49,12 @@ dataquality:
       (extrapolated and correlated). Unofficial data in digital form (parcel-specific,no)..
       Mapping: . Depth intervals: Genetic-based horizons (A, Ap, B, C etc). Uncertainty
       quantification: '
+distribution:
+  link-1: 
+    url: https://openknowledge.fao.org/server/api/core/bitstreams/c3ccec0d-fe75-49b7-9a4c-ee0a8777fed9/content
+    type: WWW:LINK
+    name: Global Soil Organic Carbon Map - Technical report - 2018
+  link-2:
+    url: https://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/global-soil-organic-carbon-map-gsocmap/en/
+    type: WWW:LINK
+    name: FAO SOILS PORTAL - Data Hub - Global Soil Organic Carbon Map (GSOCmap)
