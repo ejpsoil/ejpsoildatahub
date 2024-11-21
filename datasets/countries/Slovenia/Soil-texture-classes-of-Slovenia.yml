@@ -49,3 +49,9 @@ dataquality:
       classification system (after Plaster, 1992), in Digital form (parcel-specific,no)..
       Mapping: . Depth intervals: Genetic-based horizons (A, Ap, B, C etc). Uncertainty
       quantification: YES'
+        NO'
+distribution:
+  link:
+    url: https://www.nrcs.usda.gov/sites/default/files/2022-06/Soil%20Taxonomy.pdf
+    type: WWW:LINK
+    name: Soil Taxonomy: A Basic System of Soil Classification for Making and Interpreting Soil Surveys (1999)
