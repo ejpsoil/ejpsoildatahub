@@ -33,7 +33,13 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 1949-1972 and 2004-2014
+    - begin: 1949
+      end: 1972 
+    - begin: 2004
+      end: 2014
+    spatial:
+    - bbox: [2.791999,49.465224,6.484967,50.839076]
+      crs: 4326
   accessconstraints: Restricted
   rights: ' Downloadable on demand (owner) ; online visualization (http://geoportail.wallonie.be/catalogue/47e4ea34-fe00-4712-b795-4a85fdab7dd7.html) '
   maintenancefrequency: it was a single survey
@@ -48,3 +54,11 @@ dataquality:
     statement: 'Top soil measurement. Mapping: Digital Soil Mapping and geostatistic.
       Depth intervals: defined as  topsoil/subsoil  only, without any other desription.
       Uncertainty quantification: YES'
+distribution:
+  metadata:
+    url: http://geoportail.wallonie.be/catalogue/47e4ea34-fe00-4712-b795-4a85fdab7dd7.html
+    type: metadata
+  wms:
+    url: https://geoservices.wallonie.be/arcgis/services/SOL_SOUS_SOL/CARBIOSOL/MapServer/WMSServer?request=GetCapabilities&service=WMS
+    name: "1"
+    type: OGC:WMS
