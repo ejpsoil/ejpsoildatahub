@@ -60,13 +60,15 @@ distribution:
     url: https://apps.sgu.se/sgumapviewer/kartvisare-stranders-jordart-eroderbarhet.html
     type: web
     name: Web application
-  wms:
+  JORDART:
     url: https://maps3.sgu.se/geoserver/jord/wms
     type: "OGC:WMS"
+    description: "JORDART"
     name: "jord:SE.GOV.SGU.JORD.GRUNDLAGER.STRAND_JORDART.25K"
-  wms:
+  ERODERBARHET:
     url: https://maps3.sgu.se/geoserver/jord/wms
     type: "OGC:WMS"
+    description: "ERODERBARHET"
     name: "jord:SE.GOV.SGU.JORD.GRUNDLAGER.STRAND_ERODERBARHET.25K"
 dataquality:
   scope:
