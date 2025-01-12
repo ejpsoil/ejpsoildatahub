@@ -14,10 +14,10 @@ identification:
   language: null
   charset: utf8
   title: eBOD - Digital Soil Map of Austria
-  abstract: 'depth of sampling, depends on number, depth and thickness of genetic
-    horizons and soil depth, generally 1 m
-
-    '
+  abstract: 'Die Daten der Bodenkarte werden als Vektortile-Kachelset (oft auch Vector Tile Cache genannt) in einem Format nach der Mapbox Style Spezifikation zur Verfugung gestellt. 
+  Dadurch konnen diese Daten auch in Applikationen, wie QGIS, OpenLayers oder Mapbox GL JS, eingebunden werden. Die Vektorkacheln der Bodenkarte sind im TileJSON Format beschrieben und 
+  unter https://bodenkarte.at/data/bodenkarte-tiles.json abrufbar. Die thematischen Layer der Bodenkarte sind im Mapbox GL Style Format beschrieben. Folgende Layer sind verfugbar. Properties:
+  depth of sampling, depends on number, depth and thickness of genetic horizons and soil depth, generally 1 m'
   dates:
     creation: 1950
   keywords:
@@ -49,3 +49,17 @@ dataquality:
   lineage:
     statement: '. Mapping: . Depth intervals: Genetic-based horizons (A, Ap, B, C
       etc). Uncertainty quantification: '
+distribution:
+  pbf:
+    url: https://bodenkarte.at/data/bodenkarte-tiles.json
+    type: pbf
+    name: Vector tiles
+  app:
+    url: https://bodenkarte.at/
+    type: Application
+    name: Bodenkarte Austria
+  docs:
+    url: https://bodenkarte.at/data/content/bfw/datenzugang.html
+    type: www
+    Name: Documentation
+
