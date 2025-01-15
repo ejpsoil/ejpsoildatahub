@@ -58,14 +58,10 @@ distribution:
   contentUrl:
     url: https://doi.org/10.5281/zenodo.10091784
     type: WWW:LINK
-    title: Link
+    title: Database of collected knowledge on the impacts of agricultural soil management practices in Europe
   r0:
     url: https://doi.org/10.5281/zenodo.10091483
     type: WWW:LINK
-    title: IsMetadataFor
-  r1:
-    url: https://doi.org/10.5281/zenodo.10091784
-    type: WWW:LINK
-    title: HasVersion
+    title: Synthesis of the impact of sustainable soil management practices in Europe
 spatial:
   type: ''
