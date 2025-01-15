@@ -14,7 +14,10 @@ identification:
   language: cze
   charset: utf8
   title: "Evidovan\xE1 kontaminovan\xE1 m\xEDsta (11/2010)"
-  abstract: 'Reference points and names of contaminated sites already registered'
+  abstract: "Referen\u010Dn\xED body a n\xE1zvy ji\u017E evidovan\xFDch kontaminovan\xFD\
+    ch m\xEDst (star\xFDch ekologick\xFDch z\xE1t\u011B\u017E\xED), stav kontaminovan\xFD\
+    ch m\xEDst z datab\xE1ze SEKM k listopadu 2010. Aktu\xE1ln\xED data jsou dostupn\xE1\
+    \ v Syst\xE9mu evidence kontaminovan\xFDch m\xEDst (SEKM) na adrese http://www.sekm.cz."
   dates:
     creation: 30-11-2010
   keywords:
@@ -53,10 +56,9 @@ contact:
     email: geoportal@cenia.cz
     contactinstructions: email
 distribution:
-  wms:
-    url: http://geoportal.gov.cz/arcgis/services/projekty/NIKM/MapServer/WmsServer?SERVICE=WMS&REQUEST=GetCapabilities
-    type: ogc:wms
-    name: 0,1,4
+  link-1:
+    url: http://kontaminace.cenia.cz
+    function: information
 dataquality:
   scope:
     level: dataset

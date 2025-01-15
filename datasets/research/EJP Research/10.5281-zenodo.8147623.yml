@@ -11,13 +11,13 @@ identification:
         subject: https://www.eea.europa.eu/data-and-maps/indicators/water-retention-3/allen-et-al-1998
         subjectScheme: url
   title: EJPSOIL CarboSeq agrometeorological datasets
-  abstract: '<strong>Abstract</strong> The <strong>gridded dataset</strong> includes
-    the monthly time series of the <strong>precipitation, temperature </strong>and
-    <strong>reference evapotranspiration </strong>variables derived from AgERA5 daily
+  abstract: 'The gridded dataset includes
+    the monthly time series of the precipitation, temperature and
+    reference evapotranspiration variables derived from AgERA5 daily
     and AgERA_ET0 monthly data, with a spatial resolution of 10 kilometers, covering
-    the area interested by the project, for the period <strong>1979-2022</strong>.
+    the area interested by the project, for the period 1979-2022.
     Data is provided as .tif files with their corresponding .rts files (SpatRasterTS
-    object in R). <strong>Attached content</strong> The following ZIP archives containing
+    object in R). The following ZIP archives containing
     the spatial raster time series are provided: ag5_2m_temperature_rts_monthly_19792022_EPSG3035.zip
     ag5_precipitation_flux_rts_monthly_19792022_EPSG3035.zip ag5_et0_rts_monthly_19792022_EPSG3035.zip
     In addition a document with a short description of data processing is provided.'

@@ -16,9 +16,9 @@ identification:
     publication: '2021'
 distribution:
   contentUrl:
-    url: https://doi.org/10.15454/LV9ZRW
+    url: https://entrepot.recherche.data.gouv.fr/citation?persistentId=doi:10.15454/LV9ZRW
     type: WWW:LINK
-    title: Link
+    title: "Etude 4pour1000 : Donn\xE9es mod\xE8le STICS"
   r0:
     url: https://doi.org/10.15454/lv9zrw/cyqhcn
     type: WWW:LINK
