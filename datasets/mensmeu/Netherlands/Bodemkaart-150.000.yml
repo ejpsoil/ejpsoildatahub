@@ -49,9 +49,9 @@ identification:
 contact:
   pointOfContact:
     organization: Wageningen Environmental Research (Alterra)
-    individualname: Fokke Brouwer
+    individualname: Kees Teuling
     country: Netherlands
-    email: info.alterra@wur.nl
+    email: broservicedesk.wenr@wur.nl
     contactinstructions: email
 distribution:
   wfs:
