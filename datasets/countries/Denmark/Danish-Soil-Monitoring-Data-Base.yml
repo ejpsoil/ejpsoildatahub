@@ -26,9 +26,7 @@ identification:
   keywords:
     default:
       keywords:
-      - ''
-      - ''
-      - ''
+      - carbon stock
     country:
       keywords:
       - Denmark
@@ -40,9 +38,7 @@ identification:
   extents:
     temporal:
     - begin: '2019'
-    spatial:
-    - bbox: []
-      crs: '4326'
+
   accessconstraints: Restricted
   rights: ''
   maintenancefrequency: regular monitoring 5-10 years

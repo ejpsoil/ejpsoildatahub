@@ -13,7 +13,7 @@ identification:
   language: null
   charset: utf8
   title: Bodemfysische datasets BIS
-  abstract: ''
+  abstract: 'Hydrophysical measurements on soil samples taken in the Netherlands'
   dates:
     creation: 2012-2018
   keywords:
@@ -34,9 +34,9 @@ identification:
   accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: null
-contact:
-  pointOfContact:
-    organization: WENR
+contact: Gerben Bakker
+  pointOfContact: broservicedesk.wenr@wur.nl
+    organization: Wageningen Environmental Reseach (WENR)
     country: Netherlands
 dataquality:
   scope:

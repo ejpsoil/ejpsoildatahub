@@ -13,12 +13,8 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Basisregistratie Ondergrond - Soil map
-  abstract: 'borehole and soil face descriptions, geological bore hole description,
-    Digital soil mapping (different covariates) Spatial entity,POLYGON, without LPI
-    (Land Parcel Identification)
-
-    '
+  title: Soil Map of the Netherlands
+  abstract: 'The Soil Map describes the soil of the Netherlands up to a depth of 1.2 meters, made for a scale of 1:50,000. This model provides information about the spatial distribution of soil types and important characteristics of the soil structure (the soil profile.)'
   dates:
     creation: 1970-present
   keywords:

@@ -32,7 +32,7 @@ contact:
     individualname: "Koco, \u0160tefan"
     role: ''
     organization: University of Presov
-    url: 0000-0003-4352-0295
+    url: https://orcid.org/0000-0003-4352-0295
   Barancikova-Gabriela:
     individualname: "Baran\u010D\xEDkova, Gabriela"
     role: ''
@@ -50,7 +50,7 @@ contact:
     url: ''
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.10559244
+    url: https://doi.org/10.5281/zenodo.10559244
     type: WWW:LINK
     title: Link
   r0:

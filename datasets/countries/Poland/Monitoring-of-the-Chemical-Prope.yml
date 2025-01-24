@@ -12,10 +12,10 @@ spatial:
   datatype: POINT
   type: ''
 identification:
-  language: null
+  language: Polish
   charset: utf8
-  title: "Sta\u0142y monitoring gleb u\u017Cytk\xF3w rolnych Polski"
-  abstract: 'topsoil layer '
+  title: "Monitoring of agricultural land soils in Poland"
+  abstract: 'Soil chemistry monitoring uses a network of 216 permanent measurement and control points (soil profiles), located on agriculturally used soils throughout the country. In previous years, measurement and control points were located using situational sketches created during the first monitoring cycle, soil maps on a scale of 1:5000 and military topographic maps. Since the coordinates of the measurement and control points in the database were of an approximate nature (they were originally read manually from topographic maps) and were characterized by a certain inaccuracy, they were updated and digitized in the 2010-2012 edition of Monitoring.'
   dates:
     creation: 1995-2015
     publication: '2017'

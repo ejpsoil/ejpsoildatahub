@@ -1,32 +1,22 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.5281-zenodo.7687793
-  dataseturi: https---doi.org-10.5281-zenodo.7687793
+  identifier: 10.5281/zenodo.7687793
+  dataseturi: https://doi.org/10.5281/zenodo.7687793
   datestamp: ''
 identification:
   title: 'climasoma/nlp: v1.0.0'
   abstract: ''
   keywords:
     default:
-      keywords: []
+      keywords:
+         - climasoma
+         - nlp
   status: ''
-  language: ''
+  language: eng
   dates:
     creation: ''
   rights: Open Access
-  extents:
-    spatial:
-    - bbox: []
-      crs: '4326'
-spatial:
-  datatype: ''
-  geomtype: ''
-distribution:
-  www:
-    name: 'climasoma/nlp: v1.0.0'
-    url: https://zenodo.org/record/7687793
-    type: www
 contact:
   Blanchy-Guillaume:
     individualname: Blanchy, Guillaume
@@ -40,8 +30,16 @@ contact:
   Garre-Sarah:
     individualname: "Garr\xE9, Sarah"
     role: creator
-  Zenodo:
-    individualname: Zenodo
-    role: creator
-content_info:
-  type: misc
+    organization: Flanders Research Institute for Agriculture, Fisheries and Food
+      (ILVO), Melle, Belgium
+    url: https://orcid.org/0000-0001-9025-5282
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7687793
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.7687794
+    type: WWW:LINK
+    title: HasVersion
+

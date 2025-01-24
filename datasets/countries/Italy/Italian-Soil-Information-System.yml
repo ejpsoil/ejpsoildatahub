@@ -21,9 +21,7 @@ identification:
   keywords:
     default:
       keywords:
-      - ''
-      - ''
-      - ''
+      - derived Soil Profiles
     country:
       keywords:
       - Italy
@@ -35,9 +33,7 @@ identification:
   extents:
     temporal:
     - begin: '2013'
-    spatial:
-    - bbox: []
-      crs: '4326'
+
   accessconstraints: No restrictions
   rights: ''
   maintenancefrequency: null

@@ -22,15 +22,15 @@ contact:
     individualname: Turek, Maria Eliza
     role: ''
     organization: Oeschger Centre for Climate Change Research
-    url: 0000-0002-3616-8695
+    url: https://orcid.org/0000-0002-3616-8695
   Holzkamper-Annelie:
     individualname: "Holzk\xE4mper, Annelie"
     role: ''
     organization: Oeschger Centre for Climate Change Research
-    url: 0000-0002-1951-1041
+    url: https://orcid.org/0000-0002-1951-1041
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.10068907
+    url: https://doi.org/10.5281/zenodo.10068907
     type: WWW:LINK
     title: Link
   r0:

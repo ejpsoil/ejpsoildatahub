@@ -6,14 +6,14 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://basisregistratieondergrond.nl/inhoud-bro/registratieobjecten/bodem-grondonderzoek/booronderzoek-bhr/bodemkundige-bhr/
+  dataseturi: https://basisregistratieondergrond.nl/inhoud-bro/registratieobjecten/bodem-grondonderzoek/booronderzoek-bhr/bodemkundig-booronderzoek-bhr/
 spatial:
   resolution: null
   datatype: POINT
 identification:
   language: null
   charset: utf8
-  title: Basisregistratie Ondergrond - Borehole research - profile descriptions
+  title: Basisregistratie Ondergrond - Borehole research - profile descriptions - Netherlands
   abstract: 'borehole description '
   dates:
     creation: 1985-present
@@ -40,6 +40,15 @@ contact:
   pointOfContact:
     organization: Ministry of the Interior and Kingdom Relations
     country: Netherlands
+distribution:
+  wms: 
+    url: https://service.pdok.nl/bzk/brobhrpkenset/wms/v1_0?request=GetCapabilities&service=WMS
+    name: bhr_kenset
+    type: OGC:WMS
+  geopackage:
+    url: https://service.pdok.nl/bzk/brobhrpvolledigeset/atom/v1_1/index.xml
+    name: download
+    type: application/geopackage+sqlite3
 dataquality:
   scope:
     level: dataset

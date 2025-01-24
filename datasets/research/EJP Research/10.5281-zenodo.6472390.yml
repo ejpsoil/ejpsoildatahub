@@ -1,32 +1,30 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.5281-zenodo.6472390
-  dataseturi: https---doi.org-10.5281-zenodo.6472390
+  identifier: 10.5281/zenodo.6472390
+  dataseturi: https://doi.org/10.5281/zenodo.6472390
   datestamp: ''
 identification:
   title: Zonal and raster data for i-SoMPE WP1 R Project
-  abstract: ''
+  abstract: This data is necessary to run the i-SoMPE WP1 R Project available on GitLab (https://gitlab.com/heoi/i-sompe-wp1)
   keywords:
     default:
-      keywords: []
-  status: ''
-  language: ''
+      keywords:
+         - git
+  status: available
+  language: eng
   dates:
     creation: ''
   rights: Creative Commons Attribution 4.0 International
-  extents:
-    spatial:
-    - bbox: []
-      crs: '4326'
-spatial:
-  datatype: ''
-  geomtype: ''
 distribution:
   www:
     name: Zonal and raster data for i-SoMPE WP1 R Project
     url: https://zenodo.org/record/6472390
     type: www
+  git:
+    name: gitlab repository
+    url: https://gitlab.com/heoi/i-sompe-wp1
+    type: git
 contact:
   Heller-Olivier:
     individualname: Heller, Olivier

@@ -1,8 +1,8 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.5281-zenodo.14527915
-  dataseturi: https---doi.org-10.5281-zenodo.14527915
+  identifier: 10.5281/zenodo.14527915
+  dataseturi: https://doi.org/10.5281/zenodo.14527915
   datestamp: ''
 identification:
   title: "Dataset to Schiedung et al. (2025): Separating fast from slow cycling soil\

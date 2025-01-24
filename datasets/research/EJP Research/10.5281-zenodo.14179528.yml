@@ -1,8 +1,8 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.5281-zenodo.14179528
-  dataseturi: https---doi.org-10.5281-zenodo.14179528
+  identifier: 10.5281/zenodo.14179528
+  dataseturi: https://doi.org/10.5281/zenodo.14179528
   datestamp: ''
 identification:
   title: STICS model dataset

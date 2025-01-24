@@ -13,7 +13,7 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Gekarteerde grondverschuivingen
+  title: Mapped landslides, west of Brussels
   abstract: "De kaart bevat een zo volledig mogelijke inventaris van in het landschap\
     \ waarneembare grondverschuivingen in een studiegebied gelegen ten westen van\
     \ Brussel, in het zuiden van de provincies West-Vlaanderen, Oost-Vlaanderen en\
@@ -81,6 +81,7 @@ identification:
       - 50.70430970868123
       - 4.238768886243037
       - 50.929786634077765
+      crs: 4326
   accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: it was a single survey

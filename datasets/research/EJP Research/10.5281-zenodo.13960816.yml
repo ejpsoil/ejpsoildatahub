@@ -1,8 +1,8 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.5281-zenodo.13960816
-  dataseturi: https---doi.org-10.5281-zenodo.13960816
+  identifier: 10.5281/zenodo.13960816
+  dataseturi: https://doi.org/10.5281/zenodo.13960816
   datestamp: ''
 identification:
   title: SERENA EJPSOIL NL GHG NEP

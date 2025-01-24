@@ -6,7 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://www.wur.nl/nl/show/Bodemfysische-Eenhedenkaart-BOFEK2012.htm
+  dataseturi: https://www.wur.nl/nl/show/bodemfysische-eenhedenkaart-bofek2020.htm
 spatial:
   resolution: null
   datatype: null
@@ -14,9 +14,9 @@ identification:
   language: null
   charset: utf8
   title: Bodemfysische eenheden kaart
-  abstract: ''
+  abstract: Soil physical map of the Netherlands containing clustered areas with comparable soil profiles and hydrological behaviour.
   dates:
-    creation: '2012'
+    creation: '2020'
   keywords:
     default:
       keywords:
@@ -35,9 +35,9 @@ identification:
   accessconstraints: No restrictions
   rights: ''
   maintenancefrequency: null
-contact:
-  pointOfContact:
-    organization: ''
+contact: Marius Heinen
+  pointOfContact: marius.heinen@wur.nl
+    organization: Wageningen Environmental Research (WENR)
     country: Netherlands
 dataquality:
   scope:

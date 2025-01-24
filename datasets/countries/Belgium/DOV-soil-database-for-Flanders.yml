@@ -13,7 +13,7 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Bodemlocaties
+  title: Soil profiles and soil drillings in Flanders, Belgium
   abstract: "Een bodemlocatie is ofwel een profielput of een boring. Een boring is\
     \ altijd \xE9\xE9n puntlocatie (x,y,z) en een profielput heeft minimum \xE9\xE9\
     n en maximum twee puntlocaties (begin- en eindpunt van de profielput). \nEen profielput\
@@ -116,6 +116,7 @@ identification:
       - 50.52784590072332
       - 5.869300470014372
       - 51.452751829458414
+      crs: 4326
   accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: otherRestrictions

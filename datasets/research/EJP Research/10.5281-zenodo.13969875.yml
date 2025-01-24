@@ -1,8 +1,8 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.5281-zenodo.13969875
-  dataseturi: https---doi.org-10.5281-zenodo.13969875
+  identifier: 10.5281/zenodo.13969875
+  dataseturi: https://doi.org/10.5281/zenodo.13969875
   datestamp: ''
 identification:
   title: SERENA_EJPSOIL_AT_SOILSEALING_SEALINGDEGREE

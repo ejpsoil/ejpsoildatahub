@@ -68,3 +68,8 @@ dataquality:
       soil parameters such as soil pH, soil texture parameters, phosphorus, potassium,
       organic matter, and organic content, nitrogen, C/N ratio, CEC (cation exchange
       capacity).. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution:
+  link-1:
+    url: https://esdac.jrc.ec.europa.eu/ESDB_Archive/eusoils_docs/esb_rr/n09_EUR20559.pdf
+    type: WWW:LINK
+    name: Soil Resources of Europe (2005)

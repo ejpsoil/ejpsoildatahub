@@ -31,9 +31,7 @@ identification:
   keywords:
     default:
       keywords:
-      - ''
-      - ''
-      - ''
+      - organic carbon stock
     country:
       keywords:
       - Germany
@@ -45,9 +43,7 @@ identification:
   extents:
     temporal:
     - begin: 2012-2018
-    spatial:
-    - bbox: []
-      crs: '4326'
+
   accessconstraints: otherRestrictions
   rights: Soil data is freely avaiable. Associated management data only with special
     permission

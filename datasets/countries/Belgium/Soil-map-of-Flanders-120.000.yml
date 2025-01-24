@@ -13,7 +13,7 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: 'Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
+  title: 'Digital soil map of the Flemish Region: soil types'
   abstract: "https://www.dov.vlaanderen.be/page/bodemkaarten\nDigitale vectori\xEB\
     le dataset van de analoge Bodemkaart van Belgi\xEB voor het grondgebied van Vlaanderen.\n\
     Alle kaartelementen van de analoge kaarten (gepubliceerd op kaartschaal 1: 20\
@@ -98,6 +98,7 @@ identification:
       - 50.67418381701256
       - 5.936427854719221
       - 51.50573447999966
+      crs: 4326
   accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: it was a single survey

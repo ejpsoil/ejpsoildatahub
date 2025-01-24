@@ -21,9 +21,7 @@ identification:
   keywords:
     default:
       keywords:
-      - ''
-      - ''
-      - ''
+      - Climate
     country:
       keywords:
       - Italy
@@ -34,10 +32,9 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 1960-2008
-    spatial:
-    - bbox: []
-      crs: '4326'
+    - begin: 1960
+      end: 2008
+
   accessconstraints: No restrictions
   rights: ''
   maintenancefrequency: null

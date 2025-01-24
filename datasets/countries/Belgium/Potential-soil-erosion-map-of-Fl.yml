@@ -14,7 +14,7 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: "Potenti\xEBle bodemerosiekaart per perceel (2020)"
+  title: "Potential soil erosion map per parcel (2020) Belgium"
   abstract: "De potenti\xEBle bodemerosiekaart per perceel (2020) geeft aan de hand\
     \ van een klasse-indeling de totale potenti\xEBle erosie van een bepaald landbouwperceel\
     \ weer. De totale potenti\xEBle erosie houdt geen rekening met het huidige landgebruik\
@@ -98,6 +98,7 @@ identification:
       - 50.67420802910721
       - 5.932738352491076
       - 51.50571453444454
+      crs: 4326
   accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: regular monitoring, yearly

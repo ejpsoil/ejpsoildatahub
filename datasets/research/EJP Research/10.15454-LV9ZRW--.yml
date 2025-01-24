@@ -1,66 +1,24 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.15454-lv9zrw
-  dataseturi: https://doi.org/10.15454/lv9zrw
+  identifier: doi.org-10.15454-LV9ZRW
+  dataseturi: https://doi.org/10.15454/LV9ZRW
   hierarchylevel: dataset
 identification:
+  keywords:
+    default:
+      keywords: ['EJPSoil']
   title: "Etude 4pour1000 : Donn\xE9es mod\xE8le STICS"
   abstract: "Donn\xE9es issues des simulations g\xE9n\xE9r\xE9es par le mod\xE8le\
     \ STICS dans le cadre de l'\xE9tude 4p1000."
-  license:
-    name: ''
   dates:
     issued: '2021'
     publication: '2021'
-contact:
-  Launay-Camille:
-    individualname: Launay, Camille
-    role: ''
-    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
-      et l'Environnement)
-    url: https://orcid.org/0000-0002-2362-7071
-  Constantin-Julie:
-    individualname: Constantin, Julie
-    role: ContactPerson
-    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
-      et l'Environnement)
-    url: ''
-  Raynal-Helene:
-    individualname: "Raynal, H\xE9l\xE8ne"
-    role: ''
-    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
-      et l'Environnement)
-    url: ''
-  Casellas-Eric:
-    individualname: Casellas, Eric
-    role: ''
-    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
-      et l'Environnement)
-    url: ''
-  Mary-Bruno:
-    individualname: Mary, Bruno
-    role: ''
-    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
-      et l'Environnement)
-    url: ''
-  Pellerin-Sylvain:
-    individualname: Pellerin, Sylvain
-    role: ContactPerson
-    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
-      et l'Environnement)
-    url: ''
-  Therond-Olivier:
-    individualname: Therond, Olivier
-    role: ''
-    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
-      et l'Environnement)
-    url: ''
 distribution:
   contentUrl:
-    url: 10.15454/lv9zrw
+    url: https://entrepot.recherche.data.gouv.fr/citation?persistentId=doi:10.15454/LV9ZRW
     type: WWW:LINK
-    title: Link
+    title: "Etude 4pour1000 : Donn\xE9es mod\xE8le STICS"
   r0:
     url: https://doi.org/10.15454/lv9zrw/cyqhcn
     type: WWW:LINK
@@ -161,5 +119,37 @@ distribution:
     url: https://doi.org/10.57745/mxn0ac
     type: WWW:LINK
     title: HasPart
+contact:
+  Launay-Camille:
+    individualname: Launay, Camille
+    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement)
+    url: https://orcid.org/0000-0002-2362-7071
+  Constantin-Julie:
+    individualname: Constantin, Julie
+    role: ContactPerson
+    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement)
+  Raynal-Helene:
+    individualname: "Raynal, H\xE9l\xE8ne"
+    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement)
+  Casellas-Eric:
+    individualname: Casellas, Eric
+    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement)
+  Mary-Bruno:
+    individualname: Mary, Bruno
+    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement)
+  Pellerin-Sylvain:
+    individualname: Pellerin, Sylvain
+    role: ContactPerson
+    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement)
+  Therond-Olivier:
+    individualname: Therond, Olivier
+    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement)
 spatial:
   type: ''

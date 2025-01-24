@@ -57,9 +57,9 @@ contact:
     url: ''
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.10091784
+    url: https://doi.org/10.5281/zenodo.10091784
     type: WWW:LINK
-    title: Link
+    title: Database of collected knowledge on the impacts of agricultural soil management practices in Europe
   r0:
     url: https://doi.org/10.5281/zenodo.10091483
     type: WWW:LINK
@@ -72,5 +72,4 @@ distribution:
     url: https://doi.org/10.5281/zenodo.14679846
     type: WWW:LINK
     title: HasVersion
-spatial:
-  type: ''
+

@@ -52,12 +52,16 @@ contact:
     url: https://orcid.org/0000-0002-8337-8070
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.7404591
+    url: https://doi.org/10.5281/zenodo.7404591
     type: WWW:LINK
     title: Link
   r0:
     url: https://doi.org/10.5281/zenodo.7404592
     type: WWW:LINK
     title: HasVersion
+  r1:
+    url: https://doi.org/10.1111/ejss.13338
+    type: WWW:LINK
+    title: Article
 spatial:
   type: ''

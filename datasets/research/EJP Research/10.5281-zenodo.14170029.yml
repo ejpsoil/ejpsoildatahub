@@ -1,8 +1,8 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.5281-zenodo.14170029
-  dataseturi: https---doi.org-10.5281-zenodo.14170029
+  identifier: 10.5281/zenodo.14170029
+  dataseturi: https://doi.org/10.5281/zenodo.14170029
   datestamp: ''
 identification:
   title: 'DatabaseNH3 : EOM ammonia emission factor measured with INRAE Caract''Air

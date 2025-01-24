@@ -13,11 +13,8 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Soil Quality Assessment Research Project
-  abstract: 'mainly based on profile sampling The data is point data at selected sites
-    across the country to capture the main agroclimatic zones in Ireland. The data
-    have not been extrapolated but contains detailed survey information - soil and
-    management. '
+  title: Irish Soil Information System
+  abstract: 'The Irish Soil Information System project has developed a national association soil map for Ireland at a scale of 1:250,000, together with an associated digital soil information system, providing both spatial and quantitative information on soil types and properties across the country. Both the map and the information system are made freely available to the public through this website. This major project began in 2008 with Phase 1 ending in 2014. Phase 2 continues into 2015 with the aim of producing derivative soil attribute maps for inclusion within the system.'
   dates:
     creation: 2014-2015
   keywords:
@@ -47,5 +44,9 @@ dataquality:
     level: dataset
   lineage:
     statement: 'mainly based on profile sampling. Mapping: Conventional mapping,http://gis.teagasc.ie/soils/.
-      Depth intervals: Genetic-based horizons (A, Ap, B, C etc). Uncertainty quantification:
-      NO'
+      Depth intervals: Genetic-based horizons (A, Ap, B, C etc). Uncertainty quantification: NO'
+distribution:
+  contentUrl:
+    url: http://gis.teagasc.ie/soils/
+    type: WWW:LINK
+    title: Link

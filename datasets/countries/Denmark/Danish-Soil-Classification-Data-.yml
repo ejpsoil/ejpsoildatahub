@@ -53,3 +53,8 @@ dataquality:
       spaced intervals within a 5000 m^2 area with a 15 mm auger.. Mapping: Conventional.
       Depth intervals: Other  depth intervals (specify in comments). Uncertainty quantification:
       NO'
+distribution:
+   book:
+      url: https://rdgs.dk/publikationer/atlas-of-denmark-serie-1-bind-3_-danish-soil-classification.pdf
+      type: application/pdf
+      name: Atlas of Denmark

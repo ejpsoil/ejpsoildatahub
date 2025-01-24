@@ -14,10 +14,8 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Landbouwgebruikspercelen (Land parcel identification)
-  abstract: 'Based on input by farmers but checks with remote sensing
-
-    '
+  title: Landbouwgebruikspercelen Vlaams Gewest (Land parcel identification Flemish Region)
+  abstract: 'Overview of the plots in agricultural use on the final date for submitting the collective application that year. The inventory also includes ponds, wooded areas and agricultural production facilities (yards with stables and buildings). Based on input by farmers but checks with remote sensing.'
   dates:
     creation: '2008'
   keywords:

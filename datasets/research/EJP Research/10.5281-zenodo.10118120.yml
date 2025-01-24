@@ -41,22 +41,22 @@ contact:
     role: ''
     organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
       ria"
-    url: 0000-0001-7276-8447
+    url: https://orcid.org/0000-0001-7276-8447
   Farzamian-M.:
     individualname: Farzamian, M.
     role: ''
     organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
       ria"
-    url: 0000-0001-9549-7344
+    url: https://orcid.org/0000-0001-9549-7344
   Antunes-Joao:
     individualname: "Antunes, Jo\xE3o"
     role: ''
     organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
       ria"
-    url: 0009-0004-3090-6935
+    url: https://orcid.org/0009-0004-3090-6935
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.10118120
+    url: https://doi.org/10.5281/zenodo.10118120
     type: WWW:LINK
     title: Link
   r0:

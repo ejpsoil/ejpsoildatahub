@@ -1,8 +1,8 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.5281-zenodo.14178369
-  dataseturi: https---doi.org-10.5281-zenodo.14178369
+  identifier: 10.5281/zenodo.14178369
+  dataseturi: https://doi.org/10.5281/zenodo.14178369
   datestamp: ''
 identification:
   title: Dataset on laboratory soil greenhouse gas fluxes and soil microbial parameters

@@ -26,9 +26,7 @@ identification:
   keywords:
     default:
       keywords:
-      - ''
-      - ''
-      - ''
+      - Peat coverage
     country:
       keywords:
       - Denmark
@@ -40,9 +38,7 @@ identification:
   extents:
     temporal:
     - begin: '2010'
-    spatial:
-    - bbox: []
-      crs: '4326'
+
   accessconstraints: Restricted
   rights: ''
   maintenancefrequency: it was a single survey

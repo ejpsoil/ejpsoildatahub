@@ -25,9 +25,7 @@ identification:
   keywords:
     default:
       keywords:
-      - ''
-      - ''
-      - ''
+      - Pedological Soil Data Bases
     country:
       keywords:
       - Denmark
@@ -39,9 +37,7 @@ identification:
   extents:
     temporal:
     - begin: '2012'
-    spatial:
-    - bbox: []
-      crs: '4326'
+
   accessconstraints: Restricted
   rights: ''
   maintenancefrequency: otherRestrictions

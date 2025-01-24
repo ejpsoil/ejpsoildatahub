@@ -13,7 +13,7 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Gevoeligheid voor grondverschuivingen
+  title: Susceptibility to landslides Belgium
   abstract: "De gevoeligheidskaart voor grondverschuivingen geeft een eerste indicatie\
     \ van de gevoeligheid voor grondverschuivingen op zeer lokaal niveau in een studiegebied\
     \ gelegen ten westen van Brussel, in het zuiden van de provincies West-Vlaanderen,\
@@ -88,6 +88,7 @@ identification:
       - 50.675017413690746
       - 4.30733176637936
       - 51.05388993253415
+      crs: 4326
   accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: it was a single survey

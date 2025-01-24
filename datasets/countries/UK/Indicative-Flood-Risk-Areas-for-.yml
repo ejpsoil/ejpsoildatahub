@@ -68,6 +68,7 @@ identification:
       - 49.943
       - 2.072
       - 55.816
+      crs: 4326
   accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: regular monitoring, yearly

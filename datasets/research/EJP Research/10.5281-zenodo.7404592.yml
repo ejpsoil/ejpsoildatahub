@@ -1,8 +1,8 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.5281-zenodo.7404592
-  dataseturi: https---doi.org-10.5281-zenodo.7404592
+  identifier: 10.5281/zenodo.7404592
+  dataseturi: https://doi.org/10.5281/zenodo.7404592
   datestamp: ''
 identification:
   title: 'Databases to: Soil Organic Carbon Under Conservation Agriculture In Mediterranean

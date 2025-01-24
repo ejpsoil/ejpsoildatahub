@@ -1,8 +1,8 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.5281-zenodo.7598122
-  dataseturi: https---doi.org-10.5281-zenodo.7598122
+  identifier: 10.5281/zenodo.7598122
+  dataseturi: https://doi.org/10.5281/zenodo.7598122
   datestamp: ''
 identification:
   title: EJP MTE/LTE metadataset v1.0.1
@@ -24,14 +24,7 @@ identification:
     spatial:
     - bbox: []
       crs: '4326'
-spatial:
-  datatype: ''
-  geomtype: ''
-distribution:
-  www:
-    name: EJP MTE/LTE metadataset v1.0.1
-    url: https://zenodo.org/record/7598122
-    type: www
+
 contact:
   Blanchy-Guillaume:
     individualname: Blanchy, Guillaume
@@ -69,8 +62,16 @@ contact:
   Klumpp-Katja:
     individualname: Klumpp, Katja
     role: creator
-  Zenodo:
-    individualname: Zenodo
-    role: creator
-content_info:
-  type: misc
+    organization: Institut National de la Recherche Agronomique (INRA), France
+    url: https://orcid.org/0000-0002-4799-5231
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7598122
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.7598122
+    type: WWW:LINK
+    title: HasVersion
+
+

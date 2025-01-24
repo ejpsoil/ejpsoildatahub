@@ -37,15 +37,15 @@ contact:
     individualname: "Vanwindekens, Fr\xE9d\xE9ric"
     role: ''
     organization: Walloon Agricultural Research Centre
-    url: 0000-0002-9117-7543
+    url: https://orcid.org/0000-0002-9117-7543
   Heller-Olivier:
     individualname: Heller, Olivier
     role: ''
     organization: Agroscope
-    url: 0000-0002-5918-4161
+    url: https://orcid.org/0000-0002-5918-4161
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.6511370
+    url: https://isompe.gitlab.io/blog/about/
     type: WWW:LINK
     title: Link
   r0:

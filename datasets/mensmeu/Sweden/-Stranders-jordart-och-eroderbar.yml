@@ -53,9 +53,23 @@ contact:
     contactinstructions: email
 distribution:
   pdf:
-    url: https://apps.sgu.se/sgumapviewer/tmpout/sgupdf4655067861233082055.pdf
+    url: https://resource.sgu.se/dokument/produkter/produktblad/strandernas-jordart-och-eroderbarhet.pdf
     type: application/pdf
     name: PDF
+  web:
+    url: https://apps.sgu.se/sgumapviewer/kartvisare-stranders-jordart-eroderbarhet.html
+    type: web
+    name: Web application
+  JORDART:
+    url: https://maps3.sgu.se/geoserver/jord/wms
+    type: "OGC:WMS"
+    description: "JORDART"
+    name: "jord:SE.GOV.SGU.JORD.GRUNDLAGER.STRAND_JORDART.25K"
+  ERODERBARHET:
+    url: https://maps3.sgu.se/geoserver/jord/wms
+    type: "OGC:WMS"
+    description: "ERODERBARHET"
+    name: "jord:SE.GOV.SGU.JORD.GRUNDLAGER.STRAND_ERODERBARHET.25K"
 dataquality:
   scope:
     level: dataset

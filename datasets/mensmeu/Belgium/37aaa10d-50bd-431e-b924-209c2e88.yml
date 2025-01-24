@@ -72,11 +72,11 @@ identification:
   extents:
     spatial:
     - bbox:
-      - 2.53862
-      - 49.48526
-      - 6.40387
-      - 51.50544
-      crs: '4326'
+      - 2.4846222535102074
+      - 48.49291304727594
+      - 6.497545304122984
+      - 52.50583609788872
+      crs: 4326
     temporal:
     - begin: an interval of dates
     - end: ''

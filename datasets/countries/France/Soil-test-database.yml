@@ -11,13 +11,22 @@ spatial:
   resolution: very heterogeneous from 1 soil test/10 ha to 1/100 ha in average
   datatype: NATURAL_POLYGONs,polygons with natural boundaries
 identification:
-  language: null
+  language: French
   charset: utf8
-  title: Soil test database
-  abstract: 'bluk samples only, soil test sampling strategy eg farmer''s decision
-    top soil
-
-    '
+  title: Geosol: Soil Properties Statistics Viewer in France
+  abstract: "We have included the statistical processing chain from The Earth Analysis Database (BDAT) program\ 
+  \ in the broader context of the decision-making architecture of the soils information system. The first type\
+  \ of information produced corresponds to the mapping of the statistical distributions of soil properties.\
+  \ To do this, the analysis results are aggregated at the spatial and temporal levels by grouping them at a\
+  \ coarser grain than the municipality (regions, departments, cantons and small agricultural regions) and\
+  \ according to a calculation time period that is set at 5 years for time-varying parameters such as organic carbon,\
+  \ and 20 years for more stable parameters such as clay content. A set of statistical parameters on the distribution\ 
+  \ of soil properties within the spatio-temporal unit is calculated on these sub-populations: number of determinations,\
+  \ mean, standard deviation, deciles for ordinal properties, values ​​of the dominant and secondary class for cardinal\
+  \ properties. The second type of information stored corresponds to the temporal comparison of the sub-populations\ 
+  \ of the spatio-temporal units. The warehouse allows the implementation of calculations on raw analytical results\ 
+  \ (pH, carbon, phosphorus, etc.), but also on attributes resulting from a calculation, such as the fine silt to\
+  \ coarse silt ratio, the agronomic interpretation of phosphorus, the soil saturation rate."
   dates:
     creation: '2013'
   keywords:
@@ -42,10 +51,15 @@ contact:
   pointOfContact:
     organization: "Groupement d'Int\xE9r\xEAt Scientifique SOL and INRAE"
     country: France
+distribution:
+  html:
+    url: https://www.gissol.fr/outils/bdat-346
+    type: text/html
+    name: Visualiser les statistiques sur les analyses de sol de la BDAT: Geosol
 dataquality:
   scope:
     level: dataset
   lineage:
-    statement: 'bluk samples only, soil test sampling strategy eg farmer''s decision.
+    statement: 'Bulk samples only, soil test sampling strategy eg farmer''s decision.
       Mapping: spatial statistics. Depth intervals: Other  depth intervals (specify
       in comments). Uncertainty quantification: NO'

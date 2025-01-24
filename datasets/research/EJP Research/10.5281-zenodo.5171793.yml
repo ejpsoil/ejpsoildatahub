@@ -1,12 +1,12 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.5281-zenodo.5171793
-  dataseturi: https---doi.org-10.5281-zenodo.5171793
+  identifier: 10.5281/zenodo.5171793
+  dataseturi: https://doi.org/10.5281/zenodo.5171793
   datestamp: ''
 identification:
   title: 'FlorianSchne/reciprocalModelling: Article in press'
-  abstract: ''
+  abstract: R code version for article in press
   keywords:
     default:
       keywords: []
@@ -15,13 +15,6 @@ identification:
   dates:
     creation: ''
   rights: Open Access
-  extents:
-    spatial:
-    - bbox: []
-      crs: '4326'
-spatial:
-  datatype: ''
-  geomtype: ''
 distribution:
   www:
     name: 'FlorianSchne/reciprocalModelling: Article in press'
@@ -31,8 +24,4 @@ contact:
   Schneider-Florian:
     individualname: Schneider, Florian
     role: creator
-  Zenodo:
-    individualname: Zenodo
-    role: creator
-content_info:
-  type: misc
+

@@ -48,3 +48,8 @@ dataquality:
     statement: '6 levels of landslide probability, calculated from lithological and
       geographical data and land use types, in digital form (parcel-specific,no)..
       Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution:
+  link:
+    url: https://typeset.io/pdf/probability-modelling-of-landslide-hazard-5de0frvxc8.pdf
+    type: WWW:LINK
+    name: PROBABILITY MODELLING OF LANDSLIDE HAZARD

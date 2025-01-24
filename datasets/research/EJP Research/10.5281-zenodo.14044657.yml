@@ -1,8 +1,8 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.5281-zenodo.14044657
-  dataseturi: https---doi.org-10.5281-zenodo.14044657
+  identifier: 10.5281/zenodo.14044657
+  dataseturi: https://doi.org/10.5281/zenodo.14044657
   datestamp: ''
 identification:
   title: SERENA EJPSOIL BE Flanders soil sealing cookbook

@@ -1,8 +1,8 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.5281-zenodo.10907111
-  dataseturi: https---doi.org-10.5281-zenodo.10907111
+  identifier: 10.5281/zenodo.10907111
+  dataseturi: https://doi.org/10.5281/zenodo.10907111
   datestamp: ''
 identification:
   title: 'Database to: Effectiveness of soil management strategies for mitigation
@@ -41,23 +41,32 @@ contact:
   Valkama-Elena:
     individualname: Valkama, Elena
     role: creator
+    organization: Natural Resources Institute Finland
+    url: https://orcid.org/0000-0002-8337-8070
   Tzemi-Domna:
     individualname: Tzemi, Domna
     role: creator
+    organization: Natural Resources Institute Finland
+    url: https://orcid.org/0000-0002-7008-9982
   Esparza-Robles-Ulises-Ramon:
     individualname: Esparza-Robles, Ulises Ramon
     role: creator
+    organization: University of Natural Resources and Life Sciences, Vienna
+    url: https://orcid.org/0000-0001-5776-1626
   Syp-Alina:
     individualname: Syp, Alina
     role: creator
+    organization: Institute of Soil Science and Plant Cultivation
+    url: https://orcid.org/0000-0002-0190-9350
   O'Toole-Adam:
     individualname: O'Toole, Adam
     role: creator
+    organization: Norwegian Institute of Bioeconomy Research
+    url: https://orcid.org/0000-0003-4791-6975
   Maenhout-Peter:
     individualname: Maenhout, Peter
     role: creator
-  Zenodo:
-    individualname: Zenodo
-    role: creator
-content_info:
-  type: misc
+    organization: Flanders Research Institute for Agriculture, Fisheries and Food
+      (ILVO)
+    url: https://orcid.org/0000-0001-6596-9697
+

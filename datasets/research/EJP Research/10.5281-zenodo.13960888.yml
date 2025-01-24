@@ -1,8 +1,8 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.5281-zenodo.13960888
-  dataseturi: https---doi.org-10.5281-zenodo.13960888
+  identifier: 10.5281/zenodo.13960888
+  dataseturi: https://doi.org/10.5281/zenodo.13960888
   datestamp: ''
 identification:
   title: SERENA EJPSOIL NL SOILSEALING SEALINGDEGREE
