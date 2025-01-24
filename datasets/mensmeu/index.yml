@@ -6,4 +6,9 @@ identification:
       vocabulary:
         name: Spatial scope
         url: https://inspire.ec.europa.eu/metadata-codelist/SpatialScope
-    
+    source:
+      keywords:
+      - MensMeu
+      vocabulary:
+        name: Source
+        url: 
