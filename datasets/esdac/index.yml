@@ -2,12 +2,13 @@ mcf:
   version: 1.0
 
 identification:
-  license: >
-    The data are the result of JRC research activities and are primarily made available for further research. The JRC does not accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The JRC agrees to provide the data free of charge but is not bound to justify the content and values contained in the databases.
-    The permission to use the data specified above is granted on condition that, under NO CIRCUMSTANCES are these data passed to third parties. They can be used for any purpose, including commercial gain.
-    The user agrees to:
-      a) Make proper reference to the source of the data when disseminating the results to which this agreement relates;
-      b) Participate in the verification of the data (e.g. by noting and reporting any errors or omissions discovered to the JRC).
+  license: 
+    name: >
+      The data are the result of JRC research activities and are primarily made available for further research. The JRC does not accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The JRC agrees to provide the data free of charge but is not bound to justify the content and values contained in the databases.
+      The permission to use the data specified above is granted on condition that, under NO CIRCUMSTANCES are these data passed to third parties. They can be used for any purpose, including commercial gain.
+      The user agrees to:
+        a) Make proper reference to the source of the data when disseminating the results to which this agreement relates;
+        b) Participate in the verification of the data (e.g. by noting and reporting any errors or omissions discovered to the JRC).
   extents:
     spatial:
       - bbox: [-26.542969,37.553456,39.726563,70.553961]
