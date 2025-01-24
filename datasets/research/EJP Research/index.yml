@@ -9,7 +9,7 @@ identification:
   keywords:
     spatialscope:
       keywords:
-      - European
+      - Project
       vocabulary:
         name: Spatial scope
         url: https://inspire.ec.europa.eu/metadata-codelist/SpatialScope
