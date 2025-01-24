@@ -2,7 +2,7 @@ mcf:
   version: 1.0
 metadata:
   identifier: 10.5281-zenodo.7304561
-  dataseturi: http://doi.org/10.5281/zenodo.7304561
+  dataseturi: https://doi.org/10.5281/zenodo.7304561
   hierarchylevel: dataset
 identification:
   title: 'Dataset to Schiedung et al (2023): Soil carbon losses due to priming moderated

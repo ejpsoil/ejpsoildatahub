@@ -1,0 +1,112 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https---doi.org-10.5281-zenodo.14178369
+  dataseturi: https---doi.org-10.5281-zenodo.14178369
+  datestamp: ''
+identification:
+  title: Dataset on laboratory soil greenhouse gas fluxes and soil microbial parameters
+    as affected by soil management strategies in SOMMIT long term experiments
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Dataset on laboratory soil greenhouse gas fluxes and soil microbial parameters
+      as affected by soil management strategies in SOMMIT long term experiments
+    url: https://zenodo.org/doi/10.5281/zenodo.14178369
+    type: www
+contact:
+  Esparza-Robles-Ulises-Ramon:
+    individualname: Esparza-Robles, Ulises Ramon
+    role: creator
+  Alvaro-Fuentes-Jorge:
+    individualname: "\xC1lvaro-Fuentes, Jorge"
+    role: creator
+  Bastida-Felipe:
+    individualname: Bastida, Felipe
+    role: creator
+  Bojarszczuk-Jolanta:
+    individualname: Bojarszczuk, Jolanta
+    role: creator
+  Eler-Klemen:
+    individualname: Eler, Klemen
+    role: creator
+  FERCHAUD-Fabien:
+    individualname: FERCHAUD, Fabien
+    role: creator
+  Garcia-Palacios-Pablo:
+    individualname: "Garc\xEDa-Palacios, Pablo"
+    role: creator
+  Garofalo-Pasquale:
+    individualname: Garofalo, Pasquale
+    role: creator
+  Govednik-Anton:
+    individualname: Govednik, Anton
+    role: creator
+  Keuper-Frida:
+    individualname: Keuper, Frida
+    role: creator
+  Lemola-Riitta:
+    individualname: Lemola, Riitta
+    role: creator
+  Leonard-Joel:
+    individualname: "L\xE9onard, Jo\xEBl"
+    role: creator
+  Mihelic-Rok:
+    individualname: "Miheli\u010D, Rok"
+    role: creator
+  Patino-Maria:
+    individualname: "Pati\xF1o, Maria"
+    role: creator
+  Sanden-Taru:
+    individualname: "Sand\xE9n, Taru"
+    role: creator
+  Schwarzmann-Ana:
+    individualname: Schwarzmann, Ana
+    role: creator
+  Spiegel-Heide:
+    individualname: Spiegel, Heide
+    role: creator
+  Suhadolc-Marjetka:
+    individualname: Suhadolc, Marjetka
+    role: creator
+  Syp-Alina:
+    individualname: Syp, Alina
+    role: creator
+  Valkama-Elena:
+    individualname: Valkama, Elena
+    role: creator
+  Ventrella-Domenico:
+    individualname: Ventrella, Domenico
+    role: creator
+  Vitte-Guillaume:
+    individualname: Vitte, Guillaume
+    role: creator
+  Zylowski-Tomasz:
+    individualname: "\u017By\u0142owski, Tomasz"
+    role: creator
+  Lagomarsino-Alessandra:
+    individualname: Lagomarsino, Alessandra
+    role: creator
+  Diaz-Pines-Eugenio:
+    individualname: Diaz-Pines, Eugenio
+    role: creator
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+content_info:
+  type: misc

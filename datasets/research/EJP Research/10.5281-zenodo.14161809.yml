@@ -1,0 +1,104 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14161809
+  dataseturi: https://doi.org/10.5281/zenodo.14161809
+  hierarchylevel: dataset
+identification:
+  title: SensRes dataset for downscaling soil maps
+  abstract: "This dataset contains soil information and sensor data from agricultural\
+    \ fields in Denmark, Lithuania, Northern Ireland, the Netherlands, and Turkey\
+    \ to downscale coarse-resolution maps to high resolution in the SensRes project\
+    \ (EJP SOIL).\n\n\_It includes 1455 soil samples with data on soil organic carbon\
+    \ and soil texture fractions (clay, silt, and sand). For each sampling site, the\
+    \ dataset also contains rasters of Sentinel-2 bare soil images, aerial images\
+    \ (RGB), and maps from Electromagnetic Induction and Gamma sensors. The soil data\
+    \ is provided in .txt file format, while the sensor data is available in .tif\
+    \ format. There are also shapefiles from each field in .shp format.\_\n\nThe SensRes\
+    \ project developed a framework for downscaling soil maps, which was published\
+    \ as an R package (https://github.com/anbm-dk/soilscaler/tree/main), and this\
+    \ dataset contains the required local inputs to apply the downscaling process.\
+    \ Part of the soil information present in this dataset has also been used in the\
+    \ STEROPES EJP SOIL project.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-14'
+    publication: '2024'
+  rights: cc-by-4.0
+  keywords:
+    default:
+      keywords:
+        subject: High resolution maps
+contact:
+  Carvalho-Gomes-Lucas:
+    individualname: Carvalho Gomes, Lucas
+    role: ''
+    organization: ''
+    url: 0000-0002-2105-2470
+  Moller-Anders:
+    individualname: "M\xF8ller, Anders"
+    role: ''
+    organization: Aarhus University
+    url: ''
+  Koganti-Triven:
+    individualname: Koganti, Triven
+    role: ''
+    organization: ''
+    url: 0000-0001-9971-8095
+  Higgins-Suzanne:
+    individualname: Higgins, Suzanne
+    role: ''
+    organization: ''
+    url: 0000-0001-6116-4410
+  Zydelis-Renaldas:
+    individualname: "\u017Dydelis, Renaldas"
+    role: ''
+    organization: ''
+    url: ''
+  Volungevicius-Jonas:
+    individualname: "Volungevi\u010Dius, Jonas"
+    role: ''
+    organization: ''
+    url: ''
+  Kavaliauskas-Ardas:
+    individualname: Kavaliauskas, Ardas
+    role: ''
+    organization: ''
+    url: ''
+  van-Egmond-Fenny:
+    individualname: van Egmond, Fenny
+    role: ''
+    organization: ''
+    url: ''
+  Kramer-Henk:
+    individualname: Kramer, Henk
+    role: ''
+    organization: ''
+    url: ''
+  Teuling-Kees:
+    individualname: Teuling, Kees
+    role: ''
+    organization: ''
+    url: ''
+  Cinkaya-Ismail:
+    individualname: "\xC7inkaya, \u0130smail"
+    role: ''
+    organization: ''
+    url: ''
+  Greve-Mogens-H:
+    individualname: Greve, Mogens H
+    role: ''
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14161809
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14161809
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

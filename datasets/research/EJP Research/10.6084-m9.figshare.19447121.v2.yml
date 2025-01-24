@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https---doi.org-10.6084-m9.figshare.19447121.v2
+  dataseturi: https---doi.org-10.6084-m9.figshare.19447121.v2
+  datestamp: ''
+identification:
+  title: 'Supplementary material to: Quality Assessment of Meta-Analyses on Soil Organic
+    Carbon'
+  abstract: ''
+  keywords:
+    default:
+      keywords:
+      - Soil sciences not elsewhere classified
+      - Agricultural land management
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 'Supplementary material to: Quality Assessment of Meta-Analyses on Soil
+      Organic Carbon'
+    url: https://figshare.com/articles/dataset/Supplementary_material_v1/19447121/2
+    type: www
+contact:
+  Fohrafellner-Julia:
+    individualname: Fohrafellner, Julia
+    role: creator
+  Zechmeister-Boltenstern-Sophie:
+    individualname: Zechmeister-Boltenstern, Sophie
+    role: creator
+  Murugan-Rajasekaran:
+    individualname: Murugan, Rajasekaran
+    role: creator
+  Valkama-Elena:
+    individualname: Valkama, Elena
+    role: creator
+  figshare:
+    individualname: figshare
+    role: creator
+content_info:
+  type: misc

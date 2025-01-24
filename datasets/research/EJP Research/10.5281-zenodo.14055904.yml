@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14055904
+  dataseturi: https://doi.org/10.5281/zenodo.14055904
+  hierarchylevel: text
+identification:
+  title: Modelling CO2 emissions of cultivated and rewetted peat soils with SWAP-ANIMO
+  abstract: This document is deliverable 6 from the INSURE project (Indicators for
+    successful carbon sequestration and greenhouse gas mitigation by rewetting cultivated
+    peat soils), which is part of the EJP Soil programme. It describes the application
+    of the SWAP-ANIMO model to sites with peat soils in three locations in Europe
+    (wet river valley (Denmark), coastal peatland (The Netherlands) and broad river
+    floodplain (Switzerland)) for which two to three years of measurements of hydrological
+    variables and CO2 exchange fluxes were available for some period between 2015
+    and 2023. The hydrology, grass growth and CO2 fluxes of these sites were modelled
+    with the SWAP-ANIMO model using the available measurement period for model input
+    and calibration. Model simulations were used to improve the understanding of the
+    hydrological drivers of each site and to obtain estimates of the different pools
+    contributing to the measured CO2 fluxes using a period of 10 years (2014-2023).
+    Rewetting was considered either by calibration on direct measurements of an actual
+    rewetting measure (Denmark, The Netherlands) or extrapolation of the reference
+    simulation (Switzerland). Also, the potential impact of climate change on the
+    rate of peat oxidation was modelled for these sites for both the reference and
+    rewetting measure.
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-05'
+    publication: '2024'
+  rights: cc-by-4.0
+  keywords:
+    default:
+      keywords:
+        subject: SWAP-ANIMO
+contact:
+  van-de-Craats-Daniel:
+    individualname: van de Craats, Daniel
+    role: ''
+    organization: Wageningen University & Research
+    url: 0000-0001-8528-3596
+  Hessel-Rudi:
+    individualname: Hessel, Rudi
+    role: ''
+    organization: Wageningen University & Research
+    url: 0000-0002-1859-309X
+  Dik-Pim:
+    individualname: Dik, Pim
+    role: Researcher
+    organization: Wageningen University & Research
+    url: ''
+  Paul-Sonja:
+    individualname: Paul, Sonja
+    role: Researcher
+    organization: Agroscope
+    url: 0000-0001-6903-7539
+  Leifeld-Jens:
+    individualname: Leifeld, Jens
+    role: Researcher
+    organization: Agroscope
+    url: 0000-0002-7245-9852
+  Laerke-Poul-Erik:
+    individualname: Laerke, Poul Erik
+    role: Researcher
+    organization: Aarhus University
+    url: 0000-0002-2224-3893
+  Petersen-Rasmus-Jes:
+    individualname: Petersen, Rasmus Jes
+    role: Researcher
+    organization: Aarhus University
+    url: 0000-0001-9930-620X
+  Pullens-Johannes-Wilhelmus-Maria:
+    individualname: Pullens, Johannes Wilhelmus Maria
+    role: Researcher
+    organization: Aarhus University
+    url: 0000-0003-4581-6444
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14055904
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14055904
+    type: WWW:LINK
+    title: Describes
+  r1:
+    url: https://doi.org/10.5281/zenodo.14041243
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

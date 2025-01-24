@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https---doi.org-10.5281-zenodo.13951152
+  dataseturi: https---doi.org-10.5281-zenodo.13951152
+  datestamp: ''
+identification:
+  title: SERENA EJPSoil Soil loss by water erosion of Tuscany (Italy)
+  abstract: ''
+  keywords:
+    default:
+      keywords:
+      - SERENA Project
+      - EJP soil
+      - Grant n. 862695
+      - Italy
+      - Tuscany
+      - Soil Threat
+      - Soil Erosion
+      - RUSLE
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: SERENA EJPSoil Soil loss by water erosion of Tuscany (Italy)
+    url: https://zenodo.org/doi/10.5281/zenodo.13951152
+    type: www
+contact:
+  Gardin-Lorenzo:
+    individualname: Gardin, Lorenzo
+    role: creator
+  Lorenzetti-Romina:
+    individualname: Lorenzetti, Romina
+    role: creator
+  Medina-Roldan-Eduardo:
+    individualname: Medina-Roldan, Eduardo
+    role: creator
+  Buttafuoco-Gabriele:
+    individualname: Buttafuoco, Gabriele
+    role: creator
+  Ungaro-Fabrizio:
+    individualname: Ungaro, Fabrizio
+    role: creator
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+content_info:
+  type: misc

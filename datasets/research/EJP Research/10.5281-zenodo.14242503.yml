@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14242503
+  dataseturi: https://doi.org/10.5281/zenodo.14242503
+  hierarchylevel: dataset
+identification:
+  title: Deliverable 6.4 Report on microbial CUE across a soil profile gradient
+  abstract: This deliverable describes experimental data obtained from the Annex 2.
+    EnergyLink Proposal - Addendum submitted on 8th of December 2022. The tasks in
+    WP3, WP4 and WP5 were extended to include sub-soil samples. Specifically, annex
+    2 focused on exploring whether aboveground diversification affected the microbiome
+    and microbial carbon cycling in top- and subsoil differently. Therefore, in this
+    task, the Clever Cover Cropping experiment (the Netherlands) was sampled at 0-30
+    cm and 30-60 cm.
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-29'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Meisner-Annelein:
+    individualname: Meisner, Annelein
+    role: ''
+    organization: Wageningen University & Research
+    url: 0000-0002-8053-5712
+  Hanegraaf-Marjoleine:
+    individualname: Hanegraaf, Marjoleine
+    role: ''
+    organization: Wageningen University & Research
+    url: 0000-0002-4226-0017
+  Dekkers-Maria-Franca:
+    individualname: Dekkers, Maria-Franca
+    role: ''
+    organization: Wageningen University & Research
+    url: 0009-0009-2956-6036
+  Valverde-Angel:
+    individualname: Valverde, Angel
+    role: ''
+    organization: "Consejo Superior de Investigaciones Cient\xEDficas (CSIC), Instituto\
+      \ de recursos naturales y agrobiolog\xEDa de Salamanca (IRNASA), Spain"
+    url: 0000-0003-0439-9605
+  Schroeder-Julia:
+    individualname: Schroeder, Julia
+    role: ''
+    organization: "Th\xFCnen Institute of Climate-Smart Agriculture,"
+    url: 0000-0003-3625-104X
+  Hermann-Anke-Marianne:
+    individualname: Hermann, Anke Marianne
+    role: ''
+    organization: Swedish University of Agricultural Sciences
+    url: 0000-0002-6273-1234
+  Nunan-Naoise:
+    individualname: Nunan, Naoise
+    role: ''
+    organization: Swedish University of Agricultural Sciences
+    url: 0000-0003-3448-7171
+  Lumini-Erica:
+    individualname: Lumini, Erica
+    role: ''
+    organization: National Research Council of Italy (CNR), Institute for Sustainable
+      Plant Protection, Turin, Italy
+    url: 0000-0001-5864-8561
+  Konig-Alexander:
+    individualname: "K\xF6nig, Alexander"
+    role: ''
+    organization: University of Natural Resources and Life Sciences, Vienna
+    url: 0000-0002-0539-8842
+  Voyron-Samuele:
+    individualname: Voyron, Samuele
+    role: ''
+    organization: National Research Council of Italy (CNR), Institute for Sustainable
+      Plant Protection, Turin, Italy
+    url: 0000-0001-6921-9519
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14242503
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14242503
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

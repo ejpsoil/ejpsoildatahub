@@ -1,0 +1,105 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14162367
+  dataseturi: https://doi.org/10.5281/zenodo.14162367
+  hierarchylevel: dataset
+identification:
+  title: TRACE-Soils, Dynamics and kinetics of phosphatase activity in European agricultural
+    soils under long-term tillage reduction practices
+  abstract: "This dataset contains information of chemical, physical and biological\
+    \ soil parameters including phosphatase activities and kinetics from seven long\
+    \ term agricultural fields throughout Europe under different tillage practices\
+    \ (no-tillage, reduced tillage and standard tillage) at two sampling depths (0\
+    \ - 10 and 10 - 20 cm).\_ This dataset is linked to the publication Tamara G\xF3\
+    mez-Gallego et al. ? in Soil Biology and Biochemistry (under review)."
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-14'
+    publication: '2024'
+  rights: cc-by-4.0
+  keywords:
+    default:
+      keywords:
+        subject: Sustainable agriculture
+        subjectScheme: EuroSciVoc
+contact:
+  Gomez-Gallego-Tamara:
+    individualname: "G\xF3mez-Gallego, Tamara"
+    role: ''
+    organization: "Estaci\xF3n Experimental del Zaid\xEDn"
+    url: ''
+  Ros-Mart:
+    individualname: Ros, Mart
+    role: ''
+    organization: Wageningen University & Research
+    url: ''
+  Sanchez-Moreno-Sara:
+    individualname: "S\xE1nchez-Moreno, Sara"
+    role: ''
+    organization: "Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+      \ y Alimentaria"
+    url: ''
+  Feiziene-Dalia:
+    individualname: Feiziene, Dalia
+    role: ''
+    organization: Lithuanian Research Centre for Agriculture and Forestry
+    url: ''
+  Velthof-Gerard:
+    individualname: Velthof, Gerard
+    role: ''
+    organization: Wageningen University & Research
+    url: ''
+  Petersen-Soren:
+    individualname: "Petersen, S\xF8ren"
+    role: ''
+    organization: Aarhus University
+    url: ''
+  Munkholm-Lars:
+    individualname: Munkholm, Lars
+    role: ''
+    organization: Aarhus University
+    url: ''
+  Philippot-Laurent:
+    individualname: Philippot, Laurent
+    role: ''
+    organization: National Research Institute for Agriculture, Food and Environment
+    url: ''
+  Bragazza-Luca:
+    individualname: Bragazza, Luca
+    role: ''
+    organization: Agroscope
+    url: ''
+  van-der-Heijden-Marcel:
+    individualname: van der Heijden, Marcel
+    role: ''
+    organization: Agroscope
+    url: ''
+  Hallin-Sara:
+    individualname: Hallin, Sara
+    role: ''
+    organization: Swedish University of Agricultural Sciences
+    url: ''
+  Goberna-Marta:
+    individualname: Goberna, Marta
+    role: ''
+    organization: "Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+      \ y Alimentaria"
+    url: ''
+  Ramos-Juan-Luis:
+    individualname: Ramos, Juan Luis
+    role: ''
+    organization: "Estaci\xF3n Experimental del Zaid\xEDn"
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14162367
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14162367
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

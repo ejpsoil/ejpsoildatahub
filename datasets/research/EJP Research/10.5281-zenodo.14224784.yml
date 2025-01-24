@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https---doi.org-10.5281-zenodo.14224784
+  dataseturi: https---doi.org-10.5281-zenodo.14224784
+  datestamp: ''
+identification:
+  title: D.2.4_ProbeField_Field Measurements Examples Over 5 Case Studies_V1
+  abstract: ''
+  keywords:
+    default:
+      keywords:
+      - Soil reflectance
+      - SoilPRO
+      - Field measurements
+      - Soil surface properties
+      - EJP SOIL
+      - ProbeField
+  status: ''
+  language: en
+  dates:
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: D.2.4_ProbeField_Field Measurements Examples Over 5 Case Studies_V1
+    url: https://zenodo.org/doi/10.5281/zenodo.14224784
+    type: www
+contact:
+  Ben-Dor-Eyal:
+    individualname: Ben Dor, Eyal
+    role: creator
+  Granot-Amihai:
+    individualname: Granot, Amihai
+    role: creator
+  Rony-Wallach:
+    individualname: Rony, Wallach
+    role: creator
+  Francos-Nicolas:
+    individualname: Francos, Nicolas
+    role: creator
+  Heller-Pearlstein-Daniela:
+    individualname: Heller Pearlstein, Daniela
+    role: creator
+  Efrati-Bar:
+    individualname: Efrati, Bar
+    role: creator
+  Boruvka-Lubos:
+    individualname: "Bor\u016Fvka, Lubo\u0161"
+    role: creator
+  Gholizadeh-Asa:
+    individualname: Gholizadeh, Asa
+    role: creator
+  Schmid-Thomas:
+    individualname: Schmid, Thomas
+    role: creator
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+content_info:
+  type: misc

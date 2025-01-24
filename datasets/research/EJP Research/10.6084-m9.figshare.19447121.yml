@@ -1,53 +1,71 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: doi.org-10.6084-m9.figshare.19447121
+  identifier: 10.6084-m9.figshare.19447121
   dataseturi: http://doi.org/10.6084/m9.figshare.19447121
   hierarchylevel: dataset
 identification:
+  title: Supplementary material_v1
+  abstract: '<strong>Supplementary material</strong> including: <br> <strong>Table
+    S1:</strong> List of resources for assessing the quality of, reporting or creating
+    meta-analyses in several disciplines. <strong>Table S2:</strong> 31 soil organic
+    carbon meta-analyses and their individual scores per (sub)-criterium. <strong>Table
+    S3:</strong> Information on where, when and how literature was collected and treated.
+    <strong>Table S4:</strong> Information on screening process. List of all retrieved
+    articles, screening decisions included. <strong>Table S5:</strong> Results for
+    all meta-analyses per group and (sub)-criterium. Number of meta-analyses and percentages
+    of meta-analyses which fulfilled the criteria; results for number and percentages
+    of meta-analyses that fulfilled cut-off. <strong>Table S6:</strong> Quick quality
+    assessment of meta-analyses in IPCC report with the help of "cut-off" criteria.
+    Quality assessment of meta-analyses in IPCC report. <strong>Table S7:</strong>
+    Results for criteria 9-17 from meta-analyses that passed the three cut-off criteria.
+    Scores and percentage results for criteria 9-17 for only meta-analyses that passed
+    the cut-off criteria. <strong>Table S8:</strong> Template for the quality assessment
+    of meta-analyses. <br> <strong>Corresponding article:</strong> <br> Fohrafellner,
+    J., Zechmeister-Boltenstern, S., Murugan, R., and Valkama, E.: Quality Assessment
+    of Meta-Analyses on Soil Organic Carbon, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2022-488,
+    2022. <br>'
+  license:
+    name: ''
+  dates:
+    created: '2022-06-09'
+    updated: '2023-02-24'
+    issued: '2022'
+    publication: '2022'
+  rights: cc-by-4.0
   keywords:
     default:
       keywords:
         subject: Agricultural land management
-  title: 'Supplementary material to: Quality Assessment of Meta-Analyses on Soil Organic
-    Carbon'
-  abstract: "Table S1: List of resources for assessing the quality of, reporting or\
-    \ creating meta-analyses in several disciplines Table S2: 31 soil organic carbon\
-    \ meta-analyses and their individual scores per (sub)-criterium Table S3: Literature\
-    \ gathering Table S4: Information on screening process Table S5: Results for all\
-    \ meta-analyses per group and (sub)-criterium Table S6: Quick quality assessment\
-    \ of meta-analyses in IPCC report with the help of \"cut-off\" criteria Table\
-    \ S7: Results for criteria 1-5 and 9-17 from meta-analyses that passed and did\
-    \ not pass the \"cut-off\" criteria Table S8: Template for quality assessment\
-    \ <br> <strong>Corresponding article:</strong> <br> Fohrafellner, J., Zechmeister-Boltenstern,\
-    \ S., Murugan, R., and Valkama, E.: Quality assessment of meta-analyses on soil\
-    \ organic carbon, SOIL, 9, 117\u2013140, https://doi.org/10.5194/soil-9-117-2023,\
-    \ 2023."
-  dates:
-    created: '2023-02-24'
-    updated: '2023-02-24'
-    issued: '2023'
-    publication: '2023'
-  rights: cc-by-4.0
-distribution:
-  contentUrl:
-    url: http://doi.org/10.6084/m9.figshare.19447121
-    type: WWW:LINK
-    title: Link
 contact:
   Fohrafellner-Julia:
     individualname: Fohrafellner, Julia
+    role: ''
     organization: ''
     url: https://orcid.org/0000-0001-5734-7353
   Zechmeister-Boltenstern-Sophie:
     individualname: Zechmeister-Boltenstern, Sophie
+    role: ''
     organization: ''
+    url: ''
   Murugan-Rajasekaran:
     individualname: Murugan, Rajasekaran
+    role: ''
     organization: ''
+    url: ''
   Valkama-Elena:
     individualname: Valkama, Elena
+    role: ''
     organization: ''
     url: https://orcid.org/0000-0002-8337-8070
+distribution:
+  contentUrl:
+    url: 10.6084/m9.figshare.19447121
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.6084/m9.figshare.19447121
+    type: WWW:LINK
+    title: IsPreviousVersionOf
 spatial:
   type: Dataset

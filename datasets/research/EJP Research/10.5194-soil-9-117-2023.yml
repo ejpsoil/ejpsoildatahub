@@ -57,5 +57,9 @@ distribution:
     url: 10.5194/soil-9-117-2023
     type: WWW:LINK
     title: Link
+  r0:
+    url: https://doi.org/10.6084/m9.figshare.19447121
+    type: WWW:LINK
+    title: IsIdenticalTo
 spatial:
   type: Dataset

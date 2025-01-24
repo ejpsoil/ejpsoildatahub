@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14258149
+  dataseturi: https://doi.org/10.5281/zenodo.14258149
+  hierarchylevel: dataset
+identification:
+  title: Database of field experiments on the effect of organic farming on yield and
+    yield stability in European arable land
+  abstract: "The database consists of 50 field experiments located in 45 sites with\
+    \ mostly loamy soil texture across 15 European countries, covering European climate\
+    \ zones, from Boreal to Mediterranean South. Mean annual precipitation and mean\
+    \ annual temperature measured at the experimental sites included in this meta-analysis\
+    \ ranged from 360 mm to 1,050 mm and from 3.4 \xB0C to 16.3 \xB0C, respectively.A\
+    \ total of 7 studies each from Sweden and Poland were included, 6 from Italy and\
+    \ Spain, 4 from Denmark and Estonia, 3 from Germany, 2 from Finland, Latvia, Norway,\
+    \ Switzerland and the UK, and 1 from Austria, the Netherlands and France. In organic\
+    \ systems, animal-based fertilizers (manure, slurry, manure compost) was applied\
+    \ in 11 studies, plant-based fertilizers (legumes and mixed green manure) in 24\
+    \ studies, and both types of organic fertilizers in 13 studies. N input in organic\
+    \ systems was less than in conventional systems in 24 studies, equal in 3 studies,\
+    \ higher in 4 studies, and not reported in 19 studies. In most studies, fields\
+    \ were conventionally tilled and not irrigated. The duration of cereal-based organic\
+    \ systems ranges from 3 to 35 years. Yields of winter wheat, winter rye, spring\
+    \ barley, spring wheat, or oats were measured from 3 to 30 years, and the duration\
+    \ of organic rotations varied from two to eight years.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-12-02'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Valkama-Elena:
+    individualname: Valkama, Elena
+    role: ''
+    organization: LUKE
+    url: 0000-0002-8337-8070
+  Fohrafellner-Julia:
+    individualname: Fohrafellner, Julia
+    role: ''
+    organization: BOKU
+    url: 0000-0001-5734-7353
+  Jarosch-Klaus-Alexander:
+    individualname: Jarosch, Klaus Alexander
+    role: ''
+    organization: Agroscope
+    url: 0000-0003-4012-7201
+  Weiss-Lena:
+    individualname: Weiss, Lena
+    role: ''
+    organization: Agroscope
+    url: ''
+  Baratella-Valentina:
+    individualname: Baratella, Valentina
+    role: ''
+    organization: CREA
+    url: ''
+  Di-Bene-Claudia:
+    individualname: Di Bene, Claudia
+    role: ''
+    organization: CREA
+    url: ''
+  Eischeid-Isabell:
+    individualname: Eischeid, Isabell
+    role: ''
+    organization: NIBIO
+    url: ''
+  Lemola-Riitta:
+    individualname: Lemola, Riitta
+    role: ''
+    organization: LUKE
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14258149
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14024867
+    type: WWW:LINK
+    title: IsSupplementTo
+  r1:
+    url: https://doi.org/10.5281/zenodo.14258149
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

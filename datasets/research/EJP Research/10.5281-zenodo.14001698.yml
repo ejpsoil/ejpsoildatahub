@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14001698
+  dataseturi: https://doi.org/10.5281/zenodo.14001698
+  hierarchylevel: dataset
+identification:
+  title: 'SERENA EJP Soil: Bundles Application Emilia-Romagna, Italy'
+  abstract: The internal EJP SOIL project SERENA contributed to the evaluation of
+    soil multifunctionality aiming at providing assessment tools for land planning
+    and soil policies at different scales. By co-working with relevant stakeholders,
+    the project provided co-developed indicators and associated cookbooks to assess
+    and map them, to report both on soil degradation, soil-based ecosystem services
+    and their bundles, under actual conditions and for climate and land-use changes,
+    at the regional, national, and European scales.
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-28'
+    publication: '2024'
+  rights: cc-by-4.0
+  keywords:
+    default:
+      keywords:
+        subject: Emilia-Romagna
+contact:
+  Medina-Roldan-Eduardo:
+    individualname: Medina-Roldan, Eduardo
+    role: ''
+    organization: National Research Council
+    url: 0000-0001-6703-9645
+  Lorenzetti-Romina:
+    individualname: Lorenzetti, Romina
+    role: ''
+    organization: National Research Council
+    url: 0000-0003-3346-0874
+  Ungaro-Fabrizio:
+    individualname: Ungaro, Fabrizio
+    role: ''
+    organization: National Research Council
+    url: 0000-0003-0116-6611
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14001698
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13951142
+    type: WWW:LINK
+    title: IsSourceOf
+  r1:
+    url: https://doi.org/10.1016/j.geoderma.2024.116962
+    type: WWW:LINK
+    title: IsPublishedIn
+  r2:
+    url: https://doi.org/10.5281/zenodo.14001698
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

@@ -1,0 +1,39 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.12771391
+  dataseturi: https://doi.org/10.5281/zenodo.12771391
+  hierarchylevel: dataset
+identification:
+  title: EJP SensRes bi-directional reflectance of soils
+  abstract: "Repository of the database of bi-directional soil spectral reflectance\
+    \ measurements and the corresponding physico-chemical variables for soil carbon\
+    \ estimation.\_\n\n\n\n\nSoil samples from the chemistry laboratory were prepared\
+    \ for the spectral measurements that were carried out using a full-range PSR-3500\
+    \ spectrometer in the range 350-2500 nm. The spectral sensor was mounted on a\
+    \ robotic arm to perform a regular sampling strategy involving multiple viewing\
+    \ angles and different soil water contents.\_\_\n\n\n\n\nThree main datasets were\
+    \ compiled, and they are summarized in Table 1 in the related .doc document.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-07-18'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Vuolo-Francesco:
+    individualname: Vuolo, Francesco
+    role: ''
+    organization: University of Natural Resources and Life Sciences, Vienna
+    url: 0000-0002-4823-1700
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.12771391
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.12771390
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

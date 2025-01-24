@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14170713
+  dataseturi: https://doi.org/10.5281/zenodo.14170713
+  hierarchylevel: dataset
+identification:
+  title: 'EJP Soil BioCASH: Deliverable 2.3'
+  abstract: "EJP Soil BioCASH Deliverable 2.3: Refers to samples collected modelling\
+    \ data in BioCASH.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-15'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Rossi-Cervi-Walter:
+    individualname: Rossi Cervi, Walter
+    role: ''
+    organization: Wageningen University & Research
+    url: ''
+  Pantelopoulos-Athanasios:
+    individualname: Pantelopoulos, Athanasios
+    role: ''
+    organization: ''
+    url: ''
+  Meurer-Katharina:
+    individualname: Meurer, Katharina
+    role: ''
+    organization: ''
+    url: ''
+  Balak-Lukanova-Lucia:
+    individualname: Balak Lukanova, Lucia
+    role: ''
+    organization: ''
+    url: ''
+  Helming-John:
+    individualname: Helming, John
+    role: ''
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14170713
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14170712
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

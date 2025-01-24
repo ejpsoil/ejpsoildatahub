@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14135622
+  dataseturi: https://doi.org/10.5281/zenodo.14135622
+  hierarchylevel: dataset
+identification:
+  title: Soil grid data for 3 agricultural fields in Italy (Soil Moisture, soil organic
+    carbon)
+  abstract: "Soil data collected in an agricultural area with annual crops in Italy\
+    \ (west-central Lombardia Po Valley, province of Pavia). The data refers to soil\
+    \ properties of 320 soil samples for Soil Moisture and \_120 for SOC, collected\
+    \ in the topsoil (around 5-10 cm), considering a regular sampling grid, within\
+    \ three agricultural field with different crops (spring-summer cycle) and soils\
+    \ type, Rice-Loamy, Sorghum-Sandy and, Maize-Clay, in a period (before the seeding\
+    \ of the crops), \_when the soil was bare, in the framework of the EJP Steropes\
+    \ project.\n\nThe aim of the collected dataset was to be able to analyse the influence\
+    \ of soil moisture in SOC (WP2 of the STEROPES project) prediction models from\
+    \ remote sensing.\n\nData in the form of shape file (one shapefile for each agricultural\
+    \ field, for oth Soil Moisture and SOC), and pictures of the soil surface in .jpg\
+    \ format.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-13'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Nino-Pasquale:
+    individualname: Nino, Pasquale
+    role: ''
+    organization: Council for Agricultural Research and Economics - Research Centre
+      for Agricultural Policies and Bioeconomy
+    url: 0000-0002-7070-4586
+  Napoli-Rosario:
+    individualname: Napoli, Rosario
+    role: ''
+    organization: Council for Agricultural Research and Economics - Research Centre
+      for Agricultural and Environment
+    url: 0000-0002-2780-8734
+  Bragato-Gilberto:
+    individualname: Bragato, Gilberto
+    role: ''
+    organization: Council for Agricultural Research and Economics - Research Centre
+      for Viticulture and Enology
+    url: 0000-0002-6723-9935
+  Brenna-Stefano:
+    individualname: Brenna, Stefano
+    role: ''
+    organization: "ERSAF \u2013 Regional Agency for Agriculture and Forest of Lombardy"
+    url: ''
+  Tonelli-Eliana-Paola:
+    individualname: Tonelli, Eliana Paola
+    role: ''
+    organization: "ERSAF \u2013 Regional Agency for Agriculture and Forest of Lombardy"
+    url: ''
+  Iavazzo-Pietro:
+    individualname: Iavazzo, Pietro
+    role: ''
+    organization: "ERSAF \u2013 Regional Agency for Agriculture and Forest of Lombardy"
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14135622
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14135622
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

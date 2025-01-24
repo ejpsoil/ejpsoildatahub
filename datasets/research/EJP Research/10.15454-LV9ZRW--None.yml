@@ -1,55 +1,165 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.15454-lv9zrw
-  dataseturi: https---doi.org-10.15454-lv9zrw
-  datestamp: ''
+  identifier: 10.15454-lv9zrw
+  dataseturi: https://doi.org/10.15454/lv9zrw
+  hierarchylevel: dataset
 identification:
   title: "Etude 4pour1000 : Donn\xE9es mod\xE8le STICS"
-  abstract: ''
-  keywords:
-    default:
-      keywords: []
-  status: ''
-  language: ''
+  abstract: "Donn\xE9es issues des simulations g\xE9n\xE9r\xE9es par le mod\xE8le\
+    \ STICS dans le cadre de l'\xE9tude 4p1000."
+  license:
+    name: ''
   dates:
-    creation: ''
-  rights: ''
-  extents:
-    spatial:
-    - bbox: []
-      crs: '4326'
-spatial:
-  datatype: ''
-  geomtype: ''
-distribution:
-  www:
-    name: "Etude 4pour1000 : Donn\xE9es mod\xE8le STICS"
-    url: https://entrepot.recherche.data.gouv.fr/citation?persistentId=doi:10.15454/LV9ZRW
-    type: www
+    issued: '2021'
+    publication: '2021'
 contact:
   Launay-Camille:
     individualname: Launay, Camille
-    role: creator
+    role: ''
+    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement)
+    url: https://orcid.org/0000-0002-2362-7071
   Constantin-Julie:
     individualname: Constantin, Julie
-    role: creator
+    role: ContactPerson
+    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement)
+    url: ''
   Raynal-Helene:
     individualname: "Raynal, H\xE9l\xE8ne"
-    role: creator
+    role: ''
+    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement)
+    url: ''
   Casellas-Eric:
     individualname: Casellas, Eric
-    role: creator
+    role: ''
+    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement)
+    url: ''
   Mary-Bruno:
     individualname: Mary, Bruno
-    role: creator
+    role: ''
+    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement)
+    url: ''
   Pellerin-Sylvain:
     individualname: Pellerin, Sylvain
-    role: creator
+    role: ContactPerson
+    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement)
+    url: ''
   Therond-Olivier:
     individualname: Therond, Olivier
-    role: creator
-  Recherche-Data-Gouv:
-    individualname: Recherche Data Gouv
-    role: creator
-content_info: {}
+    role: ''
+    organization: (INRAE - Institut National de la Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement)
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.15454/lv9zrw
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.15454/lv9zrw/cyqhcn
+    type: WWW:LINK
+    title: HasPart
+  r1:
+    url: https://doi.org/10.15454/lv9zrw/bxsqmi
+    type: WWW:LINK
+    title: HasPart
+  r2:
+    url: https://doi.org/10.15454/lv9zrw/6qugnv
+    type: WWW:LINK
+    title: HasPart
+  r3:
+    url: https://doi.org/10.15454/lv9zrw/ottibi
+    type: WWW:LINK
+    title: HasPart
+  r4:
+    url: https://doi.org/10.15454/lv9zrw/u2keqi
+    type: WWW:LINK
+    title: HasPart
+  r5:
+    url: https://doi.org/10.15454/lv9zrw/yd88td
+    type: WWW:LINK
+    title: HasPart
+  r6:
+    url: https://doi.org/10.15454/lv9zrw/23e6nw
+    type: WWW:LINK
+    title: HasPart
+  r7:
+    url: https://doi.org/10.15454/lv9zrw/zgxdq9
+    type: WWW:LINK
+    title: HasPart
+  r8:
+    url: https://doi.org/10.15454/lv9zrw/gr01ga
+    type: WWW:LINK
+    title: HasPart
+  r9:
+    url: https://doi.org/10.15454/lv9zrw/cojpzb
+    type: WWW:LINK
+    title: HasPart
+  r10:
+    url: https://doi.org/10.15454/lv9zrw/gexjid
+    type: WWW:LINK
+    title: HasPart
+  r11:
+    url: https://doi.org/10.15454/lv9zrw/bchwf5
+    type: WWW:LINK
+    title: HasPart
+  r12:
+    url: https://doi.org/10.57745/bmbbhv
+    type: WWW:LINK
+    title: HasPart
+  r13:
+    url: https://doi.org/10.57745/febpx5
+    type: WWW:LINK
+    title: HasPart
+  r14:
+    url: https://doi.org/10.57745/h8fs6q
+    type: WWW:LINK
+    title: HasPart
+  r15:
+    url: https://doi.org/10.57745/lrxfbi
+    type: WWW:LINK
+    title: HasPart
+  r16:
+    url: https://doi.org/10.57745/uijrod
+    type: WWW:LINK
+    title: HasPart
+  r17:
+    url: https://doi.org/10.57745/xpnz5z
+    type: WWW:LINK
+    title: HasPart
+  r18:
+    url: https://doi.org/10.57745/lmpgcc
+    type: WWW:LINK
+    title: HasPart
+  r19:
+    url: https://doi.org/10.57745/zb1bxe
+    type: WWW:LINK
+    title: HasPart
+  r20:
+    url: https://doi.org/10.57745/qgwy7a
+    type: WWW:LINK
+    title: HasPart
+  r21:
+    url: https://doi.org/10.57745/xsa7is
+    type: WWW:LINK
+    title: HasPart
+  r22:
+    url: https://doi.org/10.57745/w5sids
+    type: WWW:LINK
+    title: HasPart
+  r23:
+    url: https://doi.org/10.57745/1tuppz
+    type: WWW:LINK
+    title: HasPart
+  r24:
+    url: https://doi.org/10.57745/mxn0ac
+    type: WWW:LINK
+    title: HasPart
+spatial:
+  type: ''

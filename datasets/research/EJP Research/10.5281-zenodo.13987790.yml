@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13987790
+  dataseturi: https://doi.org/10.5281/zenodo.13987790
+  hierarchylevel: dataset
+identification:
+  title: SERENA EJPSOIL IE EROSION SOIL LOSS
+  abstract: "The internal EJP SOIL project\_SERENA contributed to the evaluation of\
+    \ soil multifunctionality aiming\_at providing assessment tools for land planning\
+    \ and soil policies at different scales. By co-working\_with relevant\_stakeholders,\
+    \ the project provided co-developed indicators and associated cookbooks\_to assess\
+    \ and map them, to report both on soil degradation, soil-based ecosystem services\
+    \ and\_their bundles, under actual conditions and for climate and land-use changes,\
+    \ at\_the regional,\_national, and European scales.\n\nThe dataset corresponds\
+    \ to a map of potential soil loss (Mg/ha/yr) due to erosion risk. The map is the\
+    \ result of applying the Erosion cookbook developed in SERENA/EJP-Soil. The map\
+    \ is created by calculating the erosion factor by the RUSLE model.\_\n\nFurther\
+    \ research into the P-factor and R-factor values is necessary to produce a more\
+    \ reliable erosion map for Ireland. This would enhance the accuracy of soil erosion\
+    \ assessments and support more effective soil conservation strategies."
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-24'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Fahy-Alan:
+    individualname: Fahy, Alan
+    role: ''
+    organization: ''
+    url: 0009-0008-4709-9825
+  O'Sullivan-Lilian:
+    individualname: O'Sullivan, Lilian
+    role: ''
+    organization: Teagasc - The Irish Agriculture and Food Development Authority
+    url: 0000-0002-5333-5758
+  Bondi-Giulia:
+    individualname: Bondi, Giulia
+    role: ''
+    organization: Teagasc - The Irish Agriculture and Food Development Authority
+    url: 0000-0002-8896-0262
+  Shahrokh-Vajihe:
+    individualname: Shahrokh, Vajihe
+    role: ''
+    organization: ''
+    url: 0000-0001-9965-6111
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13987790
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13987790
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

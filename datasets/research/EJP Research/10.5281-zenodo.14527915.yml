@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https---doi.org-10.5281-zenodo.14527915
+  dataseturi: https---doi.org-10.5281-zenodo.14527915
+  datestamp: ''
+identification:
+  title: "Dataset to Schiedung et al. (2025): Separating fast from slow cycling soil\
+    \ organic carbon \u2013 A multi-method comparison on land use change sites"
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: en
+  dates:
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: "Dataset to Schiedung et al. (2025): Separating fast from slow cycling soil\
+      \ organic carbon \u2013 A multi-method comparison on land use change sites"
+    url: https://zenodo.org/doi/10.5281/zenodo.14527915
+    type: www
+contact:
+  Schiedung-Marcus:
+    individualname: Schiedung, Marcus
+    role: creator
+  Poeplau-Christopher:
+    individualname: Poeplau, Christopher
+    role: creator
+  Barre-Pierre:
+    individualname: Barre, Pierre
+    role: creator
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+content_info:
+  type: misc

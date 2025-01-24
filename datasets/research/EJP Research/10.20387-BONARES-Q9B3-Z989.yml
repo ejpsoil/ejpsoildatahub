@@ -1,8 +1,8 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.20387-BONARES-Q9B3-Z989
-  dataseturi: http://doi.org/10.20387/BONARES-Q9B3-Z989
+  identifier: 10.20387-bonares-q9b3-z989
+  dataseturi: https://doi.org/10.20387/bonares-q9b3-z989
   hierarchylevel: dataset
 identification:
   title: Open Tension-disk Infiltrometer Meta-database (OTIM)
@@ -71,7 +71,7 @@ contact:
     url: ''
 distribution:
   contentUrl:
-    url: 10.20387/BONARES-Q9B3-Z989
+    url: 10.20387/bonares-q9b3-z989
     type: WWW:LINK
     title: Link
 spatial:

@@ -69,8 +69,16 @@ distribution:
     type: WWW:LINK
     title: IsPartOf
   r2:
-    url: https://doi.org/10.5281/zenodo.10036874
+    url: https://doi.org/10.5281/zenodo.10036875
     type: WWW:LINK
-    title: IsVersionOf
+    title: HasVersion
+  r3:
+    url: https://doi.org/10.5281/zenodo.10707812
+    type: WWW:LINK
+    title: HasVersion
+  r4:
+    url: https://doi.org/10.5281/zenodo.10424298
+    type: WWW:LINK
+    title: HasVersion
 spatial:
   type: ''

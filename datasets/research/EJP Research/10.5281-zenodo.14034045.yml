@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14034045
+  dataseturi: https://doi.org/10.5281/zenodo.14034045
+  hierarchylevel: audiovisual
+identification:
+  title: Introductory video of ARTEMIS
+  abstract: EJP SOIL ARTEMISDeliverable D6.2 Introductory video of ARTEMISWe have
+    produced 9 videos that describe the overall aim but also activities in individualworking
+    packages of ARTEMIS. The videos are provided online at the EJP Soil ARTEMISsubpage:ARTEMIS
+    (ejpsoil.eu)https://ejpsoil.eu/soil-research/eom4soil/into-dialogue/artemis
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-04'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Kizekova-Miriam:
+    individualname: "Kizekov\xE1, Miriam"
+    role: ''
+    organization: ''
+    url: 0000-0001-8316-7663
+  Jarosch-Klaus-Alexander:
+    individualname: Jarosch, Klaus Alexander
+    role: ''
+    organization: Agroscope
+    url: 0000-0003-4012-7201
+  Walder-Florian:
+    individualname: Walder, Florian
+    role: ''
+    organization: Agroscope
+    url: 0000-0001-7731-7469
+  Valkama-Elena:
+    individualname: Valkama, Elena
+    role: ''
+    organization: LUKE
+    url: 0000-0002-8337-8070
+  Acutis-Marco:
+    individualname: Acutis, Marco
+    role: ''
+    organization: Universita degli Studi di Milano Area Agronomica
+    url: 0000-0002-1576-8261
+  Prieto-Fernandez-Angeles:
+    individualname: Prieto-Fernandez, Angeles
+    role: ''
+    organization: CSIC
+    url: 0000-0003-2601-1528
+  Panagea-Ioanna:
+    individualname: Panagea, Ioanna
+    role: ''
+    organization: Instituut voor Landbouw en Visserijonderzoek
+    url: 0000-0003-4813-2291
+  Fohrafellner-Julia:
+    individualname: Fohrafellner, Julia
+    role: ''
+    organization: BOKU
+    url: 0000-0001-5734-7353
+  Di-Bene-Claudia:
+    individualname: Di Bene, Claudia
+    role: ''
+    organization: CREA
+    url: 0000-0002-3830-251X
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14034045
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14034045
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

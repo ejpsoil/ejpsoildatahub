@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13991806
+  dataseturi: https://doi.org/10.5281/zenodo.13991806
+  hierarchylevel: dataset
+identification:
+  title: Maps for Soil loss by water from climate change scenarios for Austria
+  abstract: 'The internal EJP SOIL project SERENA contributed to the evaluation of
+    soil multifunctionality aiming at providing assessment tools for land planning
+    and soil policies at different scales. By co-working with relevant stakeholders,
+    the project provided co-developed indicators and associated cookbooks to assess
+    and map them, to report both on soil degradation, soil-based ecosystem services
+    and their bundles, under actual conditions and for climate and land-use changes,
+    at the regional, national, and European scales.
+
+
+    This dataset contains the change of modelled annual soil loss rates for changing
+    R-factor according to RCP4.5 and RPC8.5 climate scenarios, relative to modelled
+    soil loss in the base scenario, using R-factor calculated for the 1990-2021 period.
+    For each climate scenario, four periods were considered: 1991-2020, 2021-2040,
+    2041-2060 and 2061-2080. The RUSLE-based soil loss calculations were done according
+    to the SERENA/EJP-Soil soil erosion cookbook and are described in the respective
+    project deliverables D3.3 and D3.4.'
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-25'
+    publication: '2024'
+  rights: cc-by-4.0
+  keywords:
+    default:
+      keywords:
+        subject: erosion
+contact:
+  Brunner-Thomas:
+    individualname: Brunner, Thomas
+    role: ''
+    organization: Federal Agency for Water Management (BAW)
+    url: 0000-0002-0402-219X
+  Weninger-Thomas:
+    individualname: Weninger, Thomas
+    role: ''
+    organization: Federal Agency for Water Management (BAW)
+    url: 0000-0001-9004-4426
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13991806
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13945384
+    type: WWW:LINK
+    title: IsDescribedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.13991806
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

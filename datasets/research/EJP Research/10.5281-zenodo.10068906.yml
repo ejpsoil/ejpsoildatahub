@@ -2,7 +2,7 @@ mcf:
   version: 1.0
 metadata:
   identifier: 10.5281-zenodo.10068906
-  dataseturi: http://doi.org/10.5281/zenodo.10068906
+  dataseturi: https://doi.org/10.5281/zenodo.10068906
   hierarchylevel: dataset
 identification:
   title: Supporting data to Turek et al. 2023 SOIL https://doi.org/10.5194/egusphere-2023-1077

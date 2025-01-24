@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14224783
+  dataseturi: https://doi.org/10.5281/zenodo.14224783
+  hierarchylevel: dataset
+identification:
+  title: D.2.4_ProbeField_Field Measurements Examples Over 5 Case Studies_V1
+  abstract: "This dataset comprises pre-processed field spectra, including 132 Bare\
+    \ Fiber and 29 SoilPRO\xAE spectra collected from five distinct sites representing\
+    \ various applications. The SoilPRO\xAE (SP) apparatus is specifically designed\
+    \ to measure the reflectance of undisturbed soil surfaces, with the portable spectrometers\
+    \ operating in the 350\u20132500 nm range, integrated into a fixed geometry setup\
+    \ with stable tungsten-halogen illumination. Due to the high stability of the\
+    \ SoilPRO\xAE apparatus, each spectrum represents the average reflectance from\
+    \ three repetitions. Alongside spectral acquisition, several soil surface properties\
+    \ were measured, including hydrophobicity, measurement stability relative to the\
+    \ Contact Probe and Bare Fiber, and spatial variation across an extensive calibration\
+    \ area (1000 m\xB2). The dataset also includes measurements of soil reflectance\
+    \ under low solar elevation conditions near the South Pole. Average spectra obtained\
+    \ with the SP apparatus for different bare soil surface covers and the comparison\
+    \ with spectra obtained with the Bare Fiber are also included."
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-26'
+    publication: '2024'
+  rights: cc-by-4.0
+  keywords:
+    default:
+      keywords:
+        subject: ProbeField
+contact:
+  Ben-Dor-Eyal:
+    individualname: Ben Dor, Eyal
+    role: ''
+    organization: Tel Aviv University
+    url: ''
+  Granot-Amihai:
+    individualname: Granot, Amihai
+    role: ''
+    organization: Tel Aviv University
+    url: ''
+  Rony-Wallach:
+    individualname: Rony, Wallach
+    role: ''
+    organization: The Hebrew University of Jerusalem
+    url: ''
+  Francos-Nicolas:
+    individualname: Francos, Nicolas
+    role: ''
+    organization: Tel Aviv University
+    url: ''
+  Heller-Pearlstein-Daniela:
+    individualname: Heller Pearlstein, Daniela
+    role: ''
+    organization: Tel Aviv University
+    url: ''
+  Efrati-Bar:
+    individualname: Efrati, Bar
+    role: ''
+    organization: Tel Aviv University
+    url: ''
+  Boruvka-Lubos:
+    individualname: "Bor\u016Fvka, Lubo\u0161"
+    role: ''
+    organization: Czech University of Life Sciences Prague
+    url: ''
+  Gholizadeh-Asa:
+    individualname: Gholizadeh, Asa
+    role: ''
+    organization: Czech University of Life Sciences Prague
+    url: ''
+  Schmid-Thomas:
+    individualname: Schmid, Thomas
+    role: ''
+    organization: "Centro de Investigaciones Energ\xE9ticas, Medioambientales y Tecnol\xF3\
+      gicas"
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14224783
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14224784
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

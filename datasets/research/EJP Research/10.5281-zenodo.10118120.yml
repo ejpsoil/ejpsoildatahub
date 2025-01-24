@@ -2,7 +2,7 @@ mcf:
   version: 1.0
 metadata:
   identifier: 10.5281-zenodo.10118120
-  dataseturi: http://doi.org/10.5281/zenodo.10118120
+  dataseturi: https://doi.org/10.5281/zenodo.10118120
   hierarchylevel: dataset
 identification:
   title: Soil grid data for 4 agricultural fields in PT (ECe; soil organic carbon,

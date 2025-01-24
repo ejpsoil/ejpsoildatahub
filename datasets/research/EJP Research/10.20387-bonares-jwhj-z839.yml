@@ -2,7 +2,7 @@ mcf:
   version: 1.0
 metadata:
   identifier: 10.20387-bonares-jwhj-z839
-  dataseturi: http://doi.org/10.20387/bonares-jwhj-z839
+  dataseturi: https://doi.org/10.20387/bonares-jwhj-z839
   hierarchylevel: dataset
 identification:
   title: A catalog of meta-data about agricultural long-term field experiments in

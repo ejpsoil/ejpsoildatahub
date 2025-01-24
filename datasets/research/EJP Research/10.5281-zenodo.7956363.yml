@@ -1,108 +1,63 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.7956363
-  dataseturi: http://doi.org/10.5281/zenodo.7956363
-  hierarchylevel: other
+  identifier: https---doi.org-10.5281-zenodo.7956363
+  dataseturi: https---doi.org-10.5281-zenodo.7956363
+  datestamp: ''
 identification:
   title: EJP SOIL project, WP6 - Questionnaire for supporting harmonised soil information
     and reporting
-  abstract: "This stocktaking activity aims at collecting metadata information on\
-    \ the georeferenced soil data available in the EJP-SOIL countries. This stocktaking\
-    \ concerns not just the soil data itself, but also auxiliary information needed\
-    \ for the soil mapping activity, and the mapping experience hold in our institutions.\
-    \ Available doesn\u2019t mean that this information is freely available, but just\
-    \ that it exists, with a specific data owner (which can also be different from\
-    \ your institution) and a specific sharing policy. The first sheet, named \u201C\
-    description of data sources\u201D, is to insert the list of your data sources.\
-    \ We have put some Italian examples to help you understanding the kind of information\
-    \ to be inserted in this sheet (you can delete them). Basically, it is a list\
-    \ of data sources available, either for basic soil data (point data or mapped\
-    \ data), and for auxiliary data. Among auxiliary data we are also looking for\
-    \ mapped data on soil management. Once the first sheet is compiled, the listed\
-    \ data sources will constitute a drop-down list to be used in the compilation\
-    \ of the following sheets. The second sheet, named \u201Csoil property_data (SP)\u201D\
-    , is for the compilation of the soil property data available in your basic soil\
-    \ data sources. It is most probable that more the one data source exists in your\
-    \ country, storing soil data properties. Each one of these soil data sources should\
-    \ have been described in the first sheet. Then, the soil properties store in each\
-    \ soil data source should be inserted in the second sheet. For each soil property\
-    \ it is requested to indicate the unit of measure used and the analytical method(s)\
-    \ used (can be more then one). In order to help you in the compilation, we have\
-    \ listed, in the third \"methods\" sheet, the most commonly used analytical methods,\
-    \ but you can add more methods if you adopt different ones. If the data source\
-    \ list is a soil map already published, we are asking you to compile the method\
-    \ used for mapping. In the fourth sheet, named \u201Csoil management (MG)\u201D\
-    , you can list the kind of soil management practices which are available in you\
-    \ data sources. We must stress here, that the data sources for soil management\
-    \ that we are looking for, are georeferenced data sources. The last 2 sheets are\
-    \ the drop-down lists used in the questionnaire and a description of the terms\
-    \ used."
-  license:
-    name: ''
-  dates:
-    issued: '2023-05-22'
-    publication: '2023'
-  rights: ''
+  abstract: ''
   keywords:
     default:
       keywords:
-        subject: soil property dataset, metadatabase
+      - soil property dataset
+      - metadatabase
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: EJP SOIL project, WP6 - Questionnaire for supporting harmonised soil information
+      and reporting
+    url: https://zenodo.org/record/7956363
+    type: www
 contact:
   Fantappie-Maria:
     individualname: Fantappie, Maria
-    role: ''
-    organization: Consiglio per la Ricerca in Agricoltura e l'analisi dell'Economia
-      Agraria, Centro di ricerca Agricoltura e Ambiente, FIRENZE (Italy)
-    url: ''
+    role: creator
   Bispo-Antonio:
     individualname: Bispo, Antonio
-    role: ''
-    organization: "INRAE, Infosol, US 1106, Orl\xE9ans, France"
-    url: ''
+    role: creator
   Wetterlind-Johanna:
     individualname: Wetterlind, Johanna
-    role: ''
-    organization: Swedish University of Agricultural Sciences, Uppsala, Sweden
-    url: ''
+    role: creator
   Smreczak-Bozena:
     individualname: Smreczak, Bozena
-    role: ''
-    organization: "Institute of Soil Science and Plant Cultivation\u2013 State Research\
-      \ Institute, ul. Czartoryskich 8, 24-100 Pu\u0142awy, Poland"
-    url: ''
+    role: creator
   van-Egmond-Fenny:
     individualname: van Egmond, Fenny
-    role: ''
-    organization: Wageningen Environmental Research, P.O. Box 47, 6700 AA Wageningen,
-      The Netherlands
-    url: ''
+    role: creator
   Bakacsi-Zsofia:
     individualname: "Bakacsi, Zs\xF3fia"
-    role: ''
-    organization: Institute for Soil Sciences, Centre for Agricultural Research H-1022
-      Budapest, Hungary
-    url: ''
+    role: creator
   Farkas-Ivanyi-Kinga:
     individualname: "Farkas-Iv\xE1nyi, Kinga"
-    role: ''
-    organization: Institute for Soil Sciences, Centre for Agricultural Research H-1022
-      Budapest, Hungary
-    url: ''
+    role: creator
   Molnar-Sandor:
     individualname: "Moln\xE1r, S\xE1ndor"
-    role: ''
-    organization: Institute for Soil Sciences, Centre for Agricultural Research H-1022
-      Budapest, Hungary
-    url: ''
-distribution:
-  contentUrl:
-    url: 10.5281/zenodo.7956363
-    type: WWW:LINK
-    title: Link
-  r0:
-    url: https://doi.org/10.5281/zenodo.7956364
-    type: WWW:LINK
-    title: HasVersion
-spatial:
-  type: ''
+    role: creator
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+content_info:
+  type: misc

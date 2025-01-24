@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https---doi.org-10.5281-zenodo.13960888
+  dataseturi: https---doi.org-10.5281-zenodo.13960888
+  datestamp: ''
+identification:
+  title: SERENA EJPSOIL NL SOILSEALING SEALINGDEGREE
+  abstract: ''
+  keywords:
+    default:
+      keywords:
+      - Soil sciences
+      - soil threats
+      - Remote sensing
+      - satellite images
+      - sentinel
+  status: ''
+  language: en
+  dates:
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: SERENA EJPSOIL NL SOILSEALING SEALINGDEGREE
+    url: https://zenodo.org/doi/10.5281/zenodo.13960888
+    type: www
+contact:
+  Hessel-Rudi:
+    individualname: Hessel, Rudi
+    role: creator
+  Trip-Martine:
+    individualname: Trip, Martine
+    role: creator
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+content_info:
+  type: misc

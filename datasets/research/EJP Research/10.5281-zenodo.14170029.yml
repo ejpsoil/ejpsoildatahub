@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https---doi.org-10.5281-zenodo.14170029
+  dataseturi: https---doi.org-10.5281-zenodo.14170029
+  datestamp: ''
+identification:
+  title: 'DatabaseNH3 : EOM ammonia emission factor measured with INRAE Caract''Air
+    device (under controlled conditions)'
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 'DatabaseNH3 : EOM ammonia emission factor measured with INRAE Caract''Air
+      device (under controlled conditions)'
+    url: https://zenodo.org/doi/10.5281/zenodo.14170029
+    type: www
+contact:
+  decuq-celine:
+    individualname: decuq, celine
+    role: creator
+  Genermont-Sophie:
+    individualname: "G\xE9nermont, Sophie"
+    role: creator
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+content_info:
+  type: misc

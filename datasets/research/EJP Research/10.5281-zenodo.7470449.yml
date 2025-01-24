@@ -14,14 +14,14 @@ identification:
   dates:
     issued: '2022-12-21'
     publication: '2022'
-  rights: ''
+  rights: other-open
 contact:
   Blanchy-Guillaume:
     individualname: Blanchy, Guillaume
     role: ''
     organization: Flanders Research Institute for Agriculture, Fisheries and Food
       (EV-ILVO), Burgemeester van Gansberghelaan 92/1,CE1 9820 Merelbeke, Belgium
-    url: https://orcid.org/0000-0001-6341-5826
+    url: 0000-0001-6341-5826
   Bragato-Gilberto:
     individualname: Bragato, Gilberto
     role: ''
@@ -58,7 +58,7 @@ contact:
     role: ''
     organization: Flanders Research Institute for Agriculture, Fisheries and Food
       (EV-ILVO), Burgemeester van Gansberghelaan 92/1,CE1 9820 Merelbeke, Belgium
-    url: https://orcid.org/0000-0001-9025-5282
+    url: 0000-0001-9025-5282
 distribution:
   contentUrl:
     url: 10.5281/zenodo.7470449

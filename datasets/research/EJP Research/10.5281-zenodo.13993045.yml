@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13993045
+  dataseturi: https://doi.org/10.5281/zenodo.13993045
+  hierarchylevel: dataset
+identification:
+  title: SERENA EJPSOIL BE Flanders SOCLOSS SOC 0-20cm cookbook
+  abstract: "The internal EJP SOIL project SERENA contributed to the evaluation of\
+    \ soil multifunctionality aiming at providing assessment tools for land planning\
+    \ and soil policies at different scales. By co-working with relevant\_stakeholders,\
+    \ the project provided co-developed indicators and associated cookbooks to assess\
+    \ and map them, to report both on soil degradation, soil-based ecosystem services\
+    \ and their bundles, under actual conditions and for climate and land-use changes,\
+    \ at\_the regional, national, and European scales.\n\nThis SERENA dataset (100\
+    \ m resolution) of soil orgnanic carbon concentration (0-20 cm soil layer) for\
+    \ Flanders was mainly produced to test the methodology of the SERENA SOC LOSS\
+    \ cookbook of the European SERENA EJP SOIL project. The data was prepared according\
+    \ to the methodology of SERENA SOC LOSS cookbook. The objective of SERENA project\
+    \ was to develop methods to calculate and map soil-based ecosystem services and\
+    \ soil threats. Soil organic carbon concentration was used as an indicator for\
+    \ soil organic carbon loss (ST). The map was based on digital soil mapping according\
+    \ to the method used in the EJP SOIL project WP6: Digital soil mapping approach\
+    \ with random forest using ISRIC workflow seedling. To create the soil organic\
+    \ carbon concentration map, we used soil organic carbon data of the regional soil\
+    \ organic carbon monitoring network Cmon in Flanders (0-10 and 10-30 cm soil layer)\
+    \ from the period 2021-2024. The soil organic carbon concentration of the 0-20\
+    \ cm was derived from the 0-10 and 10-30 cm Cmon data. The following auxiliary\
+    \ data was used: Digitale bodemkaart van het Vlaams Gewest: bodemtypes; Regional\
+    \ climate data; Landgebruik - Vlaanderen - toestand 2022; Tertiair geologische\
+    \ kaart (1/50.000); Bodembedekkingskaart (BBK), 1m resolutie, opname 2021; WRB\
+    \ Soil Units 40k: Bodemkaart van het Vlaamse Gewest volgens het internationale\
+    \ bodemclassificatiesysteem World Reference Base op schaal 1:40.000; Digitaal\
+    \ Hoogtemodel Vlaanderen II, DSM, raster, 1 m. The dataset will be mostly useful\
+    \ as a reference result for actors that want to learn to implement the part of\
+    \ the soil organic carbon loss cookbook of SERENA dealing with the creation of\
+    \ a SOC concentration map. It can have limited use as an interim SOC concentration\
+    \ map for Flanders until a better map becomes available using an optimised methodology\
+    \ and/or new data from the regional soil organic carbon monitoring network that\
+    \ was not yet available when this map was created.\n\nThis dataset is originally\
+    \ hosted at DOV (https://www.dov.vlaanderen.be/), for the most up to date version\
+    \ of the dataset access the data from the DOV repository through the DOV services.\
+    \ The original metdata is accesible through the DOV metadata catalog: SERENA EJPSOIL\
+    \ BE Flanders SOC 0-20cm cookbook.\n\nThe DOV services:\n\n\n\nWMS ( OGC:WMS-1.3.0-http-get-map\
+    \ )\_\n\nWCS ( OGC:WCS )"
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-25'
+    publication: '2024'
+  rights: cc-by-3.0
+  keywords:
+    default:
+      keywords:
+        subject: EJPSOIL
+contact:
+  Oorts-Katrien:
+    individualname: Oorts, Katrien
+    role: ''
+    organization: Department of Environment and Spatial Development. Government of
+      Flanders (Belgium)
+    url: 0000-0003-1997-4473
+  Josipovic-Davor:
+    individualname: Josipovic, Davor
+    role: ''
+    organization: RoVaD
+    url: ''
+  Luts-Dries:
+    individualname: Luts, Dries
+    role: ''
+    organization: Department of Environment and Spatial Development. Government of
+      Flanders (Belgium)
+    url: 0000-0003-2648-6988
+  Salomez-Joost:
+    individualname: Salomez, Joost
+    role: ''
+    organization: Department of Environment and Spatial Development. Government of
+      Flanders (Belgium)
+    url: 0009-0006-8481-7107
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13993045
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13991088
+    type: WWW:LINK
+    title: IsPartOf
+  r1:
+    url: https://doi.org/10.5281/zenodo.13993045
+    type: WWW:LINK
+    title: HasVersion
+  r2:
+    url: https://doi.org/10.5281/zenodo.13981885
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''
