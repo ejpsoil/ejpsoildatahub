@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.10907112
+  dataseturi: https://doi.org/10.5281/zenodo.10907112
+  hierarchylevel: dataset
+identification:
+  title: 'Database to: Effectiveness of soil management strategies for mitigation
+    of N2O emissions in European arable land: A meta-analysis'
+  abstract: "Database to a meta-analysis studing the effects of adding different organic\
+    \ matter inputs (crop residues, green manure, livestock manure, slurry, digestate,\
+    \ compost or biochar) to soils on N2O emissions. Database consists of over 50\
+    \ field experiments conducted in 15 European countries. Diverse arable crops,\
+    \ mainly cereals, were cultivated in monoculture or in crop rotations on mineral\
+    \ soils. \_Cumulative N2O emissions per unit land area were monitored during periods\
+    \ of 30 to 1,070 days in treatments, which received organic matter inputs, alone\
+    \ or in combination with mineral N fertiliser; and in controls fertilised with\
+    \ mineral N. The original results appeared in 46 articles published between 1993\
+    \ and 2022 in peer-reviewed scientific journals, as well as a project report,\
+    \ and a PhD thesis."
+  license:
+    name: ''
+  dates:
+    issued: '2024-04-02'
+    created: '2023-10-13'
+    publication: '2024'
+  rights: cc-by-4.0
+  keywords:
+    default:
+      keywords:
+        subject: effect size
+contact:
+  Valkama-Elena:
+    individualname: Valkama, Elena
+    role: ''
+    organization: Natural Resources Institute Finland
+    url: 0000-0002-8337-8070
+  Tzemi-Domna:
+    individualname: Tzemi, Domna
+    role: ''
+    organization: Natural Resources Institute Finland
+    url: 0000-0002-7008-9982
+  Esparza-Robles-Ulises-Ramon:
+    individualname: Esparza-Robles, Ulises Ramon
+    role: ''
+    organization: University of Natural Resources and Life Sciences, Vienna
+    url: 0000-0001-5776-1626
+  Syp-Alina:
+    individualname: Syp, Alina
+    role: ''
+    organization: Institute of Soil Science and Plant Cultivation
+    url: 0000-0002-0190-9350
+  O'Toole-Adam:
+    individualname: O'Toole, Adam
+    role: ''
+    organization: Norwegian Institute of Bioeconomy Research
+    url: 0000-0003-4791-6975
+  Maenhout-Peter:
+    individualname: Maenhout, Peter
+    role: ''
+    organization: Flanders Research Institute for Agriculture, Fisheries and Food
+      (ILVO)
+    url: 0000-0001-6596-9697
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.10907112
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1111/ejss.13488
+    type: WWW:LINK
+    title: IsPartOf
+  r1:
+    url: https://doi.org/10.5281/zenodo.10907112
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

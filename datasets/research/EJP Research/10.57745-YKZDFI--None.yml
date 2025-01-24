@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https---doi.org-10.57745-ykzdfi
+  dataseturi: https---doi.org-10.57745-ykzdfi
+  datestamp: ''
+identification:
+  title: 'Etude 4pour1000 : BANCO simulation data for publication of the article "A
+    Marginal Abatement Cost Curve for Climate Change Mitigation by additional carbon
+    storage in French agricultural land"'
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 'Etude 4pour1000 : BANCO simulation data for publication of the article
+      "A Marginal Abatement Cost Curve for Climate Change Mitigation by additional
+      carbon storage in French agricultural land"'
+    url: https://entrepot.recherche.data.gouv.fr/citation?persistentId=doi:10.57745/YKZDFI
+    type: www
+contact:
+  Bamiere-Laure:
+    individualname: "Bami\xE8re, Laure"
+    role: creator
+  Schiavo-Michele:
+    individualname: Schiavo, Michele
+    role: creator
+  Bellassen-Valentin:
+    individualname: Bellassen, Valentin
+    role: creator
+  Delame-Nathalie:
+    individualname: Delame, Nathalie
+    role: creator
+  Letort-Elodie:
+    individualname: Letort, Elodie
+    role: creator
+  Mosnier-Claire:
+    individualname: Mosnier, Claire
+    role: creator
+  Recherche-Data-Gouv:
+    individualname: Recherche Data Gouv
+    role: creator
+content_info:
+  type: misc

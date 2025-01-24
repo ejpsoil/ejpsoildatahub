@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14137530
+  dataseturi: https://doi.org/10.5281/zenodo.14137530
+  hierarchylevel: dataset
+identification:
+  title: Soil laboratory spectra of agricultural sites in the Czech Republic
+  abstract: "The dataset includes VNIR-SWIR spectra of dried, ground, and sieved (<\
+    \ 2 mm) soil samples collected from three agricultural sites in the Czech Republic.\
+    \ The spectra\_were recorded in the laboratory using an\_ASD FieldSpec 3 instrument\
+    \ and under\_the standard protocol.\_The samples were gathered from Klu\u010D\
+    ov, Nov\xE1 Ves nad Popelkou, and Udrnice sites (80 samples from each site) in\
+    \ June 2021. The dataset also contains sample coordinates and some parameters\
+    \ including SOC and texture, prepared and stored in MS Excel (.xlsx) format. The\
+    \ data were used in STEROPES WP1 (basic local models development)."
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-13'
+    publication: '2024'
+  rights: cc-by-4.0
+  keywords:
+    default:
+      keywords:
+        subject: Field scale
+contact:
+  Czech-University-of-Life-Sciences-Prague:
+    individualname: Czech University of Life Sciences Prague
+    role: ''
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14137530
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14137530
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

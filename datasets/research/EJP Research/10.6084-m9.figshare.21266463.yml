@@ -1,16 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: doi.org-10.6084-m9.figshare.21266463
+  identifier: 10.6084-m9.figshare.21266463
   dataseturi: http://doi.org/10.6084/m9.figshare.21266463
   hierarchylevel: dataset
 identification:
-  keywords:
-    default:
-      keywords:
-        subject: 'FOS: Biological sciences'
-        schemeUri: http://www.oecd.org/science/inno/38235147.pdf
-        subjectScheme: Fields of Science and Technology (FOS)
   title: "Mathematical techniques to remove moisture effects from visible\u2013near-infrared\u2013\
     shortwave-infrared soil spectra\u2014review"
   abstract: "Visible\u2013near-infrared\u2013shortwave-infrared (VNIR\u2013SWIR) spectroscopy\
@@ -28,39 +22,63 @@ identification:
     \ conditions, and systematic experiments considering several SMC levels to enable\
     \ the definition of threshold values for the effectiveness of the discussed methods\
     \ is recommended."
+  license:
+    name: ''
   dates:
     created: '2022-10-03'
     updated: '2023-09-29'
     issued: '2022'
     publication: '2022'
   rights: cc-by-4.0
-distribution:
-  contentUrl:
-    url: http://doi.org/10.6084/m9.figshare.21266463
-    type: WWW:LINK
-    title: Link
-  r0:
-    url: https://doi.org/10.1080/05704928.2022.2128365
-    type: WWW:LINK
-    title: IsSupplementTo
+  keywords:
+    default:
+      keywords:
+        subject: 'FOS: Biological sciences'
+        schemeUri: http://www.oecd.org/science/inno/38235147.pdf
+        subjectScheme: Fields of Science and Technology (FOS)
 contact:
   Knadel-Maria:
     individualname: Knadel, Maria
+    role: ''
     organization: ''
+    url: ''
   Castaldi-F.:
     individualname: Castaldi, F.
+    role: ''
     organization: ''
+    url: ''
   Barbetti-R.:
     individualname: Barbetti, R.
+    role: ''
     organization: ''
+    url: ''
   Ben-Dor-E.:
     individualname: Ben-Dor, E.
+    role: ''
     organization: ''
+    url: ''
   Gholizadeh-A.:
     individualname: Gholizadeh, A.
+    role: ''
     organization: ''
+    url: ''
   Lorenzetti-R.:
     individualname: Lorenzetti, R.
+    role: ''
     organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.6084/m9.figshare.21266463
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.6084/m9.figshare.21266463
+    type: WWW:LINK
+    title: IsIdenticalTo
+  r1:
+    url: https://doi.org/10.1080/05704928.2022.2128365
+    type: WWW:LINK
+    title: IsSupplementTo
 spatial:
   type: Dataset

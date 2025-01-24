@@ -54,8 +54,8 @@ distribution:
     type: WWW:LINK
     title: Link
   r0:
-    url: https://doi.org/10.5281/zenodo.10559244
+    url: https://doi.org/10.5281/zenodo.10559243
     type: WWW:LINK
-    title: HasVersion
+    title: IsVersionOf
 spatial:
   type: ''

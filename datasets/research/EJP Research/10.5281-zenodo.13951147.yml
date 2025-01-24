@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281/zenodo.13951147
+  dataseturi: https://doi.org/10.5281/zenodo.13951147
+  datestamp: ''
+identification:
+  title: Map of SESs/STs Bundles for Estonian agricultural land
+  abstract: ''
+  keywords:
+    default:
+      keywords:
+      - SERENA
+      - EJPSOIL
+      - Grant n 862695
+      - D3.3
+      - WP3
+      - Task3.2
+      - Bundles
+      - cookbook
+      - Estonia
+      - agricultural land
+  status: ''
+  language: en
+  dates:
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Map of SESs/STs Bundles for Estonian agricultural land
+    url: https://zenodo.org/doi/10.5281/zenodo.13951147
+    type: www
+contact:
+  Putku-Elsa:
+    individualname: Putku, Elsa
+    role: creator
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+content_info:
+  type: misc

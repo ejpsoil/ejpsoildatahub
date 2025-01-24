@@ -1,118 +1,67 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.7598122
-  dataseturi: http://doi.org/10.5281/zenodo.7598122
-  hierarchylevel: software
+  identifier: 10.5281/zenodo.7598122
+  dataseturi: https://doi.org/10.5281/zenodo.7598122
+  datestamp: ''
 identification:
   title: EJP MTE/LTE metadataset v1.0.1
-  abstract: "Initial release of the analysis on mid-term and long-term field experiments\
-    \ collected within task 7.3 of EJP SOIL. Data was acquired and collected thanks\
-    \ to National Coordinators and LTE owners (sorted by country alphabetically) from\
-    \ Austria (Pia Euteneuer, Lisa Makoschitz), Belgium (Joran Barbry, Franky Coopman,\
-    \ Tommy D'Hose, Bruno Huyghebaert, Stijn Martens, Joris De Nies, Bert Reubens,\
-    \ Veerle De Rycke, Tomas Vandesande), Czech Republic (Ladislav Men\u0161\xEDk),\
-    \ Denmark (Bent T. Christensen, J\xF8rgen Eriksen, Uffe J\xF8rgensen, Lars J.\
-    \ Munkholm, J\xF8rgen E. Olesen, Gitte H. Rub\xE6k), Estonia (Alar Astover, Karin\
-    \ Kauer, Liina Talgre), Finland (Riitta Lemola), France (Aurore BRUT, Sabine Houot,\
-    \ Frida Keuper, Katja Klumpp, Frederic Launay, Frederique Louault, Thierry Morvan,\
-    \ Tiphaine TALLEC, Francoise Watteau), Hungary (T\xF3th Eszter, Istv\xE1n Henzsel,\
-    \ S\xE1ndor Ko\xF3s, Bal\xE1zs Madar\xE1sz, Mariann Mak\xE1di, L\xE1szl\xF3 Radimszky,\
-    \ P\xE9ter Rag\xE1lyi, Anita Szab\xF3, Melinda Tar, Nikolett Uzinger), Ireland\
-    \ (David Wall), Italy (Roberto Barbetti, Gianluca Carboni, Mariangela Diacono,\
-    \ Paolo Mul\xE9, Gaio Cesare Pacini, Baronti Silvia, Vincenzo Tabaglio, Domenico\
-    \ Ventrella, Nadia Vignozzi, Laura Zavattaro), Latvia (Janis Vigovskis), Lithuania\
-    \ (Virginijus Feiza, Grazina Kadziene, Danute Karcauskiene, Virmantas Povilaitis),\
-    \ Netherlands (Phillip Ehlert, Willem van Geel, Jantine van Middelkoop, Rene Schils,\
-    \ Wieke Vervuurt, Marie Wesselink), Norway (Trond Maukon Henriksen, Annbj\xF8\
-    rg \xD8verli Kristoffersen), Poland (Jacek Nied\u017Awiecki), Portugal (Nadia\
-    \ Castanheira, Raquel Mano), Slovakia (Jaroslava Sobocka), Slovenia (Rok Miheli\u010D\
-    ), Spain (Jorge Alvaro-Fuentes, Jose A. Gomez, Carlos Garcia Izquierdo, C\xE9\
-    sar Plaza, In\xE9s Sant\xEDn-Montany\xE1), Sweden (Helena Aronsson, \xD6rjan Berglund,\
-    \ Sabina Braun), Turkey (Ibrahim Ortas) and UK (Catalina Estrada, Dario Fornara,\
-    \ Jane Hawkins, Gareth Griffith, Marecia, Andy McDonald, Jonathan Millett, Robin\
-    \ Pakeman, Raj Whitlock)."
-  license:
-    name: ''
-  dates:
-    issued: '2023-02-02'
-    publication: '2023'
-  rights: ''
+  abstract: ''
   keywords:
     default:
       keywords:
-        subject: EJP MTE/LTE dataset
+      - meta-dataset
+      - mid-term field experiment
+      - long-term field experiment
+      - LTE
+      - EJP MTE/LTE dataset
+  status: ''
+  language: en
+  dates:
+    creation: ''
+  rights: GNU General Public License v1.0 only
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+
 contact:
   Blanchy-Guillaume:
     individualname: Blanchy, Guillaume
-    role: ''
-    organization: Flanders Research Institute for Agriculture, Fisheries and Food
-      (ILVO), Belgium
-    url: https://orcid.org/0000-0001-6341-5826
+    role: creator
   D'Hose-Tommy:
     individualname: D'Hose, Tommy
-    role: ''
-    organization: Flanders Research Institute for Agriculture, Fisheries and Food
-      (ILVO), Belgium
-    url: https://orcid.org/0000-0002-8705-5666
+    role: creator
   Donmez-Cenk:
     individualname: Donmez, Cenk
-    role: ''
-    organization: Leibniz Centre for Agricultural Landscape Research (ZALF), Muencheberg
-      15374, Germany; Cukurova University, Landscape Architecture Department, Remote
-      Sensing and GIS Lab, 01330 Adana, Turkey
-    url: https://orcid.org/0000-0002-7788-3839
+    role: creator
   Hoffmann-Carsten:
     individualname: Hoffmann, Carsten
-    role: ''
-    organization: Leibniz Centre for Agricultural Landscape Research (ZALF), Muencheberg
-      15374, Germany
-    url: https://orcid.org/0000-0001-6457-4853
+    role: creator
   Makoschitz-Lisa:
     individualname: Makoschitz, Lisa
-    role: ''
-    organization: Department for Soil Health and Plant Nutrition, Austrian Agency
-      for Health and Food Safety (AGES), Spargelfeldstrasse 191, 1220 Vienna, Austria
-    url: ''
+    role: creator
   Murugan-Rajasekaran:
     individualname: Murugan, Rajasekaran
-    role: ''
-    organization: Institute of Soil Research, Department of Forest and Soil Sciences,
-      University of Natural Resources and Life Sciences (BOKU), 1190 Vienna, Austria
-    url: https://orcid.org/0000-0001-6931-2756
+    role: creator
   O'Sullivan-Lilian:
     individualname: O'Sullivan, Lilian
-    role: ''
-    organization: Teagasc Crops, Environment and Land Use Programme, Johnstown Castle,
-      Co. Wexford, Ireland
-    url: https://orcid.org/0000-0002-5333-5758
+    role: creator
   Sanden-Taru:
     individualname: "Sand\xE9n, Taru"
-    role: ''
-    organization: Department for Soil Health and Plant Nutrition, Austrian Agency
-      for Health and Food Safety (AGES), Spargelfeldstrasse 191, 1220 Vienna, Austria
-    url: https://orcid.org/0000-0002-9542-0117
+    role: creator
   Spiegel-Adelheid:
     individualname: Spiegel, Adelheid
-    role: ''
-    organization: Department for Soil Health and Plant Nutrition, Austrian Agency
-      for Health and Food Safety (AGES), Spargelfeldstrasse 191, 1220 Vienna, Austria
-    url: https://orcid.org/0000-0003-1285-8509
+    role: creator
   Svoboda-Nikolai:
     individualname: Svoboda, Nikolai
-    role: ''
-    organization: Leibniz Centre for Agricultural Landscape Research (ZALF), Muencheberg
-      15374, Germany
-    url: https://orcid.org/0000-0003-3860-4400
+    role: creator
   Zechmeister-Boltenstern-Sophie:
     individualname: Zechmeister-Boltenstern, Sophie
-    role: ''
-    organization: Institute of Soil Research, Department of Forest and Soil Sciences,
-      University of Natural Resources and Life Sciences (BOKU), 1190 Vienna, Austria
-    url: https://orcid.org/0000-0001-5839-5904
+    role: creator
   Klumpp-Katja:
     individualname: Klumpp, Katja
-    role: ''
+    role: creator
     organization: Institut National de la Recherche Agronomique (INRA), France
     url: https://orcid.org/0000-0002-4799-5231
 distribution:
@@ -124,5 +73,5 @@ distribution:
     url: https://doi.org/10.5281/zenodo.7598122
     type: WWW:LINK
     title: HasVersion
-spatial:
-  type: ''
+
+

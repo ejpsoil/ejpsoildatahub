@@ -1,0 +1,171 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14017721
+  dataseturi: https://doi.org/10.5281/zenodo.14017721
+  hierarchylevel: dataset
+identification:
+  title: Review of existing modelling studies focusing on specific soil-based ecosystem
+    services (SES) and threats (ST) including climate change, management and land
+    use change scenarios.
+  abstract: "We reviewed existing modelling studies focusing on soil ecosystem services\
+    \ (SES) and soil threats (ST) including climate change, land use change and management\
+    \ scenarios. A publication has been submitted and is currently being reviewed.\
+    \ The title of the manuscript is: Assessing and mapping soil ecosystem services\
+    \ and soil threats changes in agroecosystems through scenario-based approaches\
+    \ \u2013 a systematic review. \n\nWork was split between various authors. All\
+    \ Co-authors were working on either one or more SES or one ST. Excel sheets were\
+    \ prepared by INRA and BFW to ensure the comparability of results that members\
+    \ extracted from the papers found. Literature search was done in Scopus and Web\
+    \ of Science. The final list of related publications is reported here.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-31'
+    created: '2024-10-22'
+    publication: '2024'
+  rights: cc-by-4.0
+  keywords:
+    default:
+      keywords:
+        subject: litererature review
+contact:
+  Scammacca-Ottone:
+    individualname: Scammacca, Ottone
+    role: ''
+    organization: Institute of Research for Development
+    url: ''
+  Montagne-David:
+    individualname: Montagne, David
+    role: DataCollector
+    organization: ''
+    url: ''
+  Walter-Christian:
+    individualname: Walter, Christian
+    role: DataCollector
+    organization: ''
+    url: ''
+  Kitzler-Barbara:
+    individualname: Kitzler, Barbara
+    role: DataCollector
+    organization: ''
+    url: ''
+  SCAMMACCA-Ottone:
+    individualname: SCAMMACCA, Ottone
+    role: DataCollector
+    organization: ''
+    url: ''
+  Asins-Velis-Sabina:
+    individualname: Asins-Velis, Sabina
+    role: DataCollector
+    organization: ''
+    url: ''
+  Bondi-Giulia:
+    individualname: Bondi, Giulia
+    role: DataCollector
+    organization: ''
+    url: ''
+  Boruvka-Lubos:
+    individualname: "Bor\u016Fvka, Lubo\u0161"
+    role: DataCollector
+    organization: ''
+    url: ''
+  Buttafuoco-Gabriele:
+    individualname: Buttafuoco, Gabriele
+    role: DataCollector
+    organization: ''
+    url: ''
+  Cadero-Alice:
+    individualname: Cadero, Alice
+    role: DataCollector
+    organization: ''
+    url: ''
+  Calzolari-Costanza:
+    individualname: Calzolari, Costanza
+    role: DataCollector
+    organization: ''
+    url: ''
+  Cousin-Isabelle:
+    individualname: Cousin, Isabelle
+    role: ProjectLeader
+    organization: ''
+    url: ''
+  Czuba-Martina:
+    individualname: Czuba, Martina
+    role: DataCollector
+    organization: ''
+    url: ''
+  Foldal-Cecilie:
+    individualname: Foldal, Cecilie
+    role: DataCollector
+    organization: ''
+    url: ''
+  Malli-Armin:
+    individualname: Malli, Armin
+    role: DataCollector
+    organization: ''
+    url: ''
+  Klimkowicz-Pawlas-Agnieszka:
+    individualname: Klimkowicz-Pawlas, Agnieszka
+    role: DataCollector
+    organization: ''
+    url: ''
+  Kukk-Liia:
+    individualname: Kukk, Liia
+    role: DataCollector
+    organization: ''
+    url: ''
+  Erica-Lumini:
+    individualname: Erica, Lumini
+    role: DataCollector
+    organization: ''
+    url: ''
+  Eduardo-Medina-Roldan:
+    individualname: "Eduardo, Medina-Rold\xE1n"
+    role: DataCollector
+    organization: ''
+    url: ''
+  Kerstin-Michel:
+    individualname: Kerstin, Michel
+    role: DataCollector
+    organization: ''
+    url: ''
+  Molina-Maria-Jose:
+    individualname: "Molina, Maria Jos\xE9"
+    role: DataCollector
+    organization: ''
+    url: ''
+  OSullivan-Lilian:
+    individualname: OSullivan, Lilian
+    role: DataCollector
+    organization: ''
+    url: ''
+  Pindral-Sylwia:
+    individualname: Pindral, Sylwia
+    role: DataCollector
+    organization: ''
+    url: ''
+  Putku-Elsa:
+    individualname: Putku, Elsa
+    role: DataCollector
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14017721
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13945384
+    type: WWW:LINK
+    title: IsSupplementTo
+  r1:
+    url: https://doi.org/10.5194/egusphere-egu23-4377
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r2:
+    url: https://doi.org/10.5281/zenodo.13969536
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

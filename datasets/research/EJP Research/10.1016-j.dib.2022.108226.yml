@@ -5,13 +5,13 @@ metadata:
   dataseturi: http://doi.org/10.1016/j.dib.2022.108226
   language: eng
   hierarchylevel: journal-article
-  datestamp: '2024-07-12T06:23:20Z'
+  datestamp: '2024-11-19T18:37:30Z'
 identification:
   title: Provision of metadata of European agricultural long-term experiments through
     BonaRes and EJP SOIL collaboration
   abstract: ''
   dates:
-    creation: '2022-04-28T21:36:25Z'
+    creation: '2022-04-29T01:36:25Z'
     publication: 2022-6
   language: en
   license:

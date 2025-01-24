@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281/zenodo.14289070
+  dataseturi: https://doi.org/10.5281/zenodo.14289070
+  datestamp: ''
+identification:
+  title: Dataset - Report on the fertilizer value and contribution to greenhouse gas
+    emissions of waste streams and their composts
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Dataset - Report on the fertilizer value and contribution to greenhouse
+      gas emissions of waste streams and their composts
+    url: https://zenodo.org/doi/10.5281/zenodo.14289070
+    type: www
+contact:
+  Inagaki-Thiago-Massao:
+    individualname: Inagaki, Thiago Massao
+    role: creator
+  Budai-Alice:
+    individualname: Budai, Alice
+    role: creator
+  Weldon-Simon:
+    individualname: Weldon, Simon
+    role: creator
+  Rivier-Pierre-Adrien:
+    individualname: Rivier, Pierre-Adrien
+    role: creator
+  Farkas-Eva:
+    individualname: Farkas, Eva
+    role: creator
+  Bjornsgaard-Aas-Anders:
+    individualname: "Bj\xF8rnsgaard Aas, Anders"
+    role: creator
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+content_info:
+  type: misc

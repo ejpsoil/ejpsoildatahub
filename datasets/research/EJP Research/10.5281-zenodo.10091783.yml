@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.10091783
+  dataseturi: https://doi.org/10.5281/zenodo.10091783
+  hierarchylevel: dataset
+identification:
+  title: Database of collected knowledge on the impacts of agricultural soil management
+    practices in Europe
+  abstract: 'Database resulting from a stocktacke on the knowlege about the impacts
+    of sustainable soil management practices, carried out in the scope of EJPSOIL
+    task 2.4.1. Twenty five research teams from 23 European countries responded to
+    a survey with the available knowledge about sustainable soil management poractices,
+    impacts, environemnetal zone and references. The original survey is also made
+    available. This dataset is the result of that stocktake. More details about methods
+    can be acessed in the report "Synthesis of the impact of sustainable soil management
+    practices in Europe" (DOI: 10.5281/zenodo.10091483).'
+  license:
+    name: ''
+  dates:
+    issued: '2024'
+    collected: '2020'
+    publication: '2024'
+  rights: cc-by-4.0
+  keywords:
+    default:
+      keywords:
+        subject: stocktake
+contact:
+  Paz-A.-M.:
+    individualname: Paz, A. M.
+    role: ''
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: ''
+  Castanheira-N.:
+    individualname: Castanheira, N.
+    role: ''
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: ''
+  Vicente-C.:
+    individualname: Vicente, C.
+    role: ''
+    organization: "Instituto Superior T\xE9cnico"
+    url: ''
+  Carrasco-M.:
+    individualname: Carrasco, M.
+    role: ''
+    organization: "Instituto Superior T\xE9cnico"
+    url: ''
+  Goncalves-M.-C.:
+    individualname: "Gon\xE7alves, M. C."
+    role: ''
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.10091783
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10091483
+    type: WWW:LINK
+    title: IsMetadataFor
+  r1:
+    url: https://doi.org/10.5281/zenodo.10091784
+    type: WWW:LINK
+    title: HasVersion
+  r2:
+    url: https://doi.org/10.5281/zenodo.14679846
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

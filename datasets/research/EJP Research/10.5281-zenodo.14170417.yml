@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14170417
+  dataseturi: https://doi.org/10.5281/zenodo.14170417
+  hierarchylevel: dataset
+identification:
+  title: Database for N2O emissions after EOM application
+  abstract: ''
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-15'
+    collected: '2024-11-15'
+    publication: '2024'
+  rights: cc-by-4.0
+  keywords:
+    default:
+      keywords:
+        subject: agricultural management
+contact:
+  Massad-Raia-Silvia:
+    individualname: Massad, Raia Silvia
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture l'Alimentation
+      et l'Environnement
+    url: 0000-0002-1296-1744
+  Buysse-Pauline:
+    individualname: Buysse, Pauline
+    role: DataManager
+    organization: ''
+    url: 0000-0002-7664-7797
+  Flechard-Chris:
+    individualname: Flechard, Chris
+    role: DataCollector
+    organization: Soil Agro and Hydrosystems Spatialization
+    url: 0000-0002-5954-9925
+  Houot-Sabine:
+    individualname: Houot, Sabine
+    role: ContactPerson
+    organization: ecologie fonctionnelle et ecotoxicologie des agroecosystemes (ECOSYS)
+      - INRAE
+    url: 0000-0001-7297-7038
+  Levavasseur-Florent:
+    individualname: Levavasseur, Florent
+    role: ContactPerson
+    organization: ecologie fonctionnelle et ecotoxicologie des agroecosytemes (ECOSYS
+      - INRAE)
+    url: 0000-0002-2164-3334
+  Versini-Antoine:
+    individualname: Versini, Antoine
+    role: DataCollector
+    organization: "Centre de Coop\xE9ration Internationale en Recherche Agronomique\
+      \ pour le D\xE9veloppement"
+    url: 0000-0002-5119-0567
+  Laville-Patricia:
+    individualname: Laville, Patricia
+    role: DataCollector
+    organization: Functional Ecology and Ecotoxicology of AgroEcosystems
+    url: 0000-0001-5904-8488
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14170417
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14170417
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''
