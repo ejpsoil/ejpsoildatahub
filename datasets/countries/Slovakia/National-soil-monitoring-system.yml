@@ -35,8 +35,8 @@ identification:
     temporal:
     - begin: 1993-2018
   accessconstraints: Restricted
-  rights: ''
-  maintenancefrequency: regular  monitoring 2-5 years
+  rights: 'License: CC BY – Creative Commons Attribution'
+  maintenancefrequency: regular, monitoring 2-5 years
 contact:
   pointOfContact:
     organization: NPPC
@@ -49,7 +49,15 @@ dataquality:
       properties - undisturbed samples. Mapping: conventional mapping. Depth intervals:
       Other  depth intervals (specify in comments). Uncertainty quantification: NO'
 distribution:
-  link:
-    url: https://gsaa.mpsr.sk/
+  link-1:
+    url: https://rpi.gov.sk/metadata/cb55a460-1303-4891-b938-e6f3375060ec
     type: WWW:LINK
-    name: Geospatial Support Request application
+    name: INSPIRE metadata
+  link-2:
+    url: https://www.nlcsk.org/arcgis/services/MPRV/CMSPoda/MapServer/WMSServer?version=1.3.0&service=WMS&request=GetCapabilities
+    type: WMS
+    name: WMS
+  link-3:
+    url: https://www.nlcsk.org/arcgis/services/MPRV/SO_PodnaMapa/MapServer/WFSServer?service=WFS&AcceptVersions=2.0.0&request=GetCapabilities
+    type: WFS
+    name: WFS
