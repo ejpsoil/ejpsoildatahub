@@ -103,25 +103,25 @@ dataquality:
 distribution:
   link-0:
     url: https://data.isric.org/geonetwork/srv/api/records/25d0cf4d-1865-4d2a-be32-40a1b2483936
-    type: WWW:LINK-1.0-http--related
+    type: WWW:LINK
     name: INFOSOLO at ISRIC
     description: null
     function: information
   link-1:
     url: https://files.isric.org/public/external/PT-INFOSOLO.zip
-    type: WWW:LINK-1.0-http--related
+    type: ZIP-File
     name: Download zip
     description: null
     function: download
   link-2:
     url: https://projects.iniav.pt/infosolo/
-    type: WWW:LINK-1.0-http--related
-    name: INFOSOLO at At INIAN website
+    type: WWW:LINK
+    name: INFOSOLO at INIAN website
     description: null
     function: information
   link-3:
     url: https://doi.org/10.1016/j.catena.2017.07.020
-    type: WWW:LINK-1.0-http--related
+    type: WWW:LINK
     name: Scientific paper
     description: null
     function: information
