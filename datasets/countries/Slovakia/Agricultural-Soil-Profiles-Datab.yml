@@ -22,7 +22,8 @@ identification:
   \ spatial localization is ensured, which enables the processing of KPP-DB data in a GIS \
   \ environment (point layer).
   \
-  \ To be implemented in INSPIRE.
+  \ To be implemented in INSPIRE.'
+  
   dates:
     creation: 1961-1970
   keywords:
