@@ -14,15 +14,15 @@ identification:
   language: null
   charset: utf8
   title: Agricultural Soil Profiles Database
-  abstract: 'The digital database of sampling probes of the Complex Soil Survey (KPP) forms the \
-  \ basic soil science database on the characteristics of soils in Slovakia. KPP-DB was created \
-  \ by digitizing additional text documentation to the so-called KPP selection probes (Linkeš et \
-  \ al. 1987). KPP-DB contains general probe data and a database of basic morphological, physical \ 
-  \ and chemical properties of soils. Through the x, y coordinates of individual profiles, their  \
-  \ spatial localization is ensured, which enables the processing of KPP-DB data in a GIS \
-  \ environment (point layer).
-  \
-  \ To be implemented in INSPIRE.'
+  abstract: 'The digital database of sampling probes of the Complex Soil Survey (KPP) forms the
+   \ basic soil science database on the characteristics of soils in Slovakia. KPP-DB was created
+   \ by digitizing additional text documentation to the so-called KPP selection probes (Linkeš et
+   \ al. 1987). KPP-DB contains general probe data and a database of basic morphological, physical
+   \ and chemical properties of soils. Through the x, y coordinates of individual profiles, their
+   \ spatial localization is ensured, which enables the processing of KPP-DB data in a GIS
+   \ environment (point layer).
+   \
+   \ To be implemented in INSPIRE.'
   
   dates:
     creation: 1961-1970
