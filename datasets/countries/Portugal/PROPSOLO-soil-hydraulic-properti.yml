@@ -31,9 +31,9 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: '2011'
+    - begin: '2011' 
   accessconstraints: No restrictions
-  rights: ''
+  rights: 'The Portuguese data are available by request from JRC at: https://esdac.jrc.ec.europa.eu/content/european-hydropedological-data-inventory-eu-hydi-database-0 '
   maintenancefrequency: it was a single survey
 contact:
   pointOfContact:
