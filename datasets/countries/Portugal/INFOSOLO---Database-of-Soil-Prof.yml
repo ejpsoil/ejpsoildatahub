@@ -78,14 +78,14 @@ identification:
       - 42.2
       crs: 4326
   accessconstraints: license
-  rights: ''
-  maintenancefrequency: it was a single survey
+  rights: 'Infosolo data are of public access. Users just have to agree on term of use. This would be equivalent to a CC-BY.'
+  maintenancefrequency: It was a single survey
   status: Completed
 contact:
   pointOfContact:
-    organization: ISRIC - World Soil Information
+    organization: INIAV, I.P.
     country: Portugal
-    individualname: Ulan Turdukulov
+    individualname: Maria Conceição Gonçalves
     positionname: null
     phone: null
     fax: null
@@ -93,7 +93,7 @@ contact:
     city: null
     administrativearea: null
     postalcode: null
-    email: ulan.turdukulov@isric.org
+    email: dlsi@iniav.pt
 dataquality:
   scope:
     level: dataset
@@ -102,20 +102,26 @@ dataquality:
       horizons (A, Ap, B, C etc). Uncertainty quantification: NO'
 distribution:
   link-0:
-    url: https://maps.isric.org/mapserv?map=/map/external.map
-    type: OGC:WFS
-    name: pt_infosolo
-    description: null
-    function: download
-  link-1:
-    url: https://doi.org/10.1016/j.catena.2017.07.020
+    url: https://data.isric.org/geonetwork/srv/api/records/25d0cf4d-1865-4d2a-be32-40a1b2483936
     type: WWW:LINK-1.0-http--related
-    name: Scientific paper
+    name: INFOSOLO at ISRIC
     description: null
     function: information
-  link-2:
+  link-1:
     url: https://files.isric.org/public/external/PT-INFOSOLO.zip
     type: WWW:LINK-1.0-http--related
     name: Download zip
+    description: null
+    function: download
+  link-2:
+    url: https://projects.iniav.pt/infosolo/
+    type: WWW:LINK-1.0-http--related
+    name: INFOSOLO at At INIAN website
+    description: null
+    function: information
+  link-3:
+    url: https://doi.org/10.1016/j.catena.2017.07.020
+    type: WWW:LINK-1.0-http--related
+    name: Scientific paper
     description: null
     function: information
