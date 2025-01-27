@@ -50,10 +50,9 @@ identification:
   maintenancefrequency: otherRestrictions
 contact:
   pointOfContact:
-    organization: "Instituto da Conserva\xE7\xE3o da Natureza e das Florestas \
-      \http://www.icnf.pt "
-      individualname: Maria Barros
-      email: conceicao.barros@icnf.pt
+    organization: "Instituto da Conserva\xE7\xE3o da Natureza e das Florestas http://www.icnf.pt "
+    individualname: Maria Barros
+    email: conceicao.barros@icnf.pt
     country: Portugal
 dataquality:
   scope:
