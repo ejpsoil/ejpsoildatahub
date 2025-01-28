@@ -4,7 +4,7 @@ metadata:
   identifier: ELABORATION OF THE ITALIAN PORTION OF THE GLOBAL SOIL ORGANIC CARBON MAP (GSOCMAP)
   language: eng
   charset: utf8
-  datestamp: 2022-01-01
+  datestamp: 2018-12-05
   hierarchylevel: dataset
   dataseturi: https://zenodo.org/record/7746495 
 
@@ -15,12 +15,37 @@ identification:
   language: null
   charset: utf8
   title: Elaboration of the Italian portion of the Global Soil Organic Carbon Map (GSOC map).
-  abstract: 'mixed sampling type Topsoil 30 m. The method for SOC used was Springer
-    and Klee and ''flash combustion elemental analyser''
-
-    '
+  abstract: 'The Global Soil Organic Carbon map (GSOCmap) published by the Food and Agriculture Organization
+constitutes a baseline estimation of soil organic carbon stock (CS, ton ha–1) from 0 to 30 cm, on a grid at 30 arc-seconds
+resolution (approximately 1 x 1 km). It has been produced for the Italian territory by the Italian Soil Partnership (ISP): a
+national hub of institutions dealing with soils, either academic/research institutions, and regional soil services (RSS). The
+RSS are the main soil data owners in Italy and play a central role in the elaboration of policies for soil management. The
+RSS adhering to the ISP are: Calabria, Campania, Emilia Romagna, Friuli Venezia Giulia, Liguria, Lombardia, Marche,
+Piemonte, Puglia, Sicilia, Toscana, and Veneto. A national soil database is maintained by the Consiglio per la Ricerca e
+l'Analisi dell'Economia Agraria (CREA). The RSS contributed with soil data, with mean density of 1 point per 50 square
+kilometres, selecting data analysed for soil organic carbon content (SOC, dag kg-1), which were representative and well
+distributed for the following environmental covariates: land use, geomorphology, and climate. The data were selected inbetween
+1990 al 2013. This was necessary in order to exclude the effect of the new soil protection policies of the Rural
+Development Programme 2014-2020. For the RSS not included in the ISP, the data were selected from the national soil
+database. 6748 point data were finally selected. SOC values obtained with the Springer and Klee and flash combustion
+elemental analyser methods were retained for elaborations, because the 2 methods, were found to give statistically
+equivalent results. SOC values obtained with Walkey and Black method were, instead, corrected with an empirical factor
+of 1.3. 2292 of the 6748 point data had also measured bulk density (BD, Mg m–3). Pedotransfer functions were calibrated
+to estimate BD were measured BD were missing, with the following as auxiliary variables: land use, soil regions, texture,
+and SOC. The carbon stock (CS, ton ha–1) was calculated by multiplying: 0.3 (m) * SOC (dag kg-1) * fine earth fraction (1 -
+skeletal content expressed as daL m–3) * BD (Mg m–3). CS of the first 30 cm depth was calculated as depth-weighted
+average. A spatial statistics method was used for the CS interpolation. The following auxiliary variables were used: soil
+regions, soil subregions, Corine land cover 2006, lithology, soils affected by natural constrains (gleyic, histic, vertic,
+coarse, shallow, arenic, sodic, and acid), sand content, silt content, 30-m aster-DEM, distance from coast, distance from
+relieves, soil aridity index, annual mean precipitations, mean annual air temperature, soil inorganic carbon, and soil
+depth. For the soil region of Po valley, the land units at 1:250,000 scale were also used. The interpolation method was a
+general linear regression for the soil regions of Po valley, and a radial basis function for the remaining Italian territory.
+The 6748 point data were divided, by spatial random sampling, into 10 subsets. Ten interpolations were produced, each
+time leaving out 1/10 of the dataset. Average (fig. 1), standard deviation and confidence intervals of these 10
+interpolations were calculated. Mean Absolute Errors (MAE) and Root Mean Squared Errors (RMSE) were respectively
+25.5 and 36.4 Mg/ha'
   dates:
-    creation: 1990-2013
+    creation: 2018-12-05
   keywords:
     default:
       keywords:
@@ -35,18 +60,25 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 1990-2013
+    - begin: 1990
+    - end: 2013
   accessconstraints: No restrictions
-  rights: ''
-  maintenancefrequency: null
+  rights: 'Creative Commons Attribution 4.0 International'
+  url 'https://creativecommons.org/licenses/by/4.0/legalcode'
+  maintenancefrequency: none
 contact:
   pointOfContact:
-    organization: CREA-FAO-GSP
+    organization: FAO-GSP, National focal point
     country: Italy
+distribution:
+  tif:
+    url: https://zenodo.org/records/7746495
+    type: application/tif
+    name: geoTiff
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: 'mixed sampling type. Mapping: Neural network and General Linear Models.
-      Depth intervals: Other  depth intervals (specify in comments). Uncertainty quantification:
+      Depth intervals: Depth intervals (0 - 30 cm). Uncertainty quantification:
       YES'
