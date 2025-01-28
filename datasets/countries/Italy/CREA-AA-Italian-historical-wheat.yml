@@ -4,7 +4,7 @@ metadata:
   identifier: CREA-AA-Italian-historical-wheater-series
   language: eng
   charset: utf8
-  datestamp: 2022-01-01
+  datestamp: 2025-01-21
   hierarchylevel: dataset
   dataseturi: https://www.reterurale.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/16319
 spatial:
@@ -13,12 +13,14 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: CREA AA Italian historical wheater series
-  abstract: 'Air temperature (max and min) and precipitation daily dataset
+  title: Historical dataset from the Italian national agrometeorological network (RAN)
+  abstract: 'The Italian national agrometeorological network (Rete Agrometeorologica Nazionale - RAN) has been created since 1990 as part of the agrometeorological activities of the Italian agricultural Ministry's SIAN (National Agricultural Information System), with the technical-scientific coordination of the former Ufficio Centrale di Ecologia Agraria (UCEA), now incorporated into the Research Center for Agriculture and Environment of the Council for Agricultural Research and Economics (CREA). All the RAN agrometeorological stations meet the World Meteorological Organization (WMO) standards. In this preliminary version,  the dataset includes daily data of the main agrometeorological variables measured across 2006-2012 at 7 weather stations belonging to the RAN. The dataset variables are the minimum and maximum values of air temperature, relative humidity and soil temperature at two depths (-10 cm and -50 cm), cumulative precipitation, global radiation and reference evapotranspiration according to the FAO Penman-Monteith method. 
 
-    '
+The file ‘01_RAN_station_metadata_v1.0.csv’ contains metadata for each weather station, such as the identifier code (ID_STAZ), coordinates (E.P.S.G. 4326), altitude. In the ZIP archive ('04_RAN_historical_data_v1.0.zip') each file name includes the station identifier and the variable code related to its content.
+
+Further details about the Rete Agrometeorologica Nazionale - RAN will be available on the Observatory for agricultural meteorology and climatology website which will devote a specific section to this infrastructure.'
   dates:
-    creation: 1961-2017
+    creation: 2025-01-21
   keywords:
     default:
       keywords:
@@ -33,14 +35,21 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 1961-2017
-  accessconstraints: otherRestrictions
-  rights: ''
+    - begin: 2006
+    - end: 2012
+  accessconstraints: Restricted
+  rights: 'Creative Commons Attribution 4.0 International'
+  url: 'https://creativecommons.org/licenses/by/4.0/legalcode'
   maintenancefrequency: otherRestrictions
 contact:
   pointOfContact:
     organization: CREA
     country: Italy
+distribution:
+  csv:
+    url: https://zenodo.org/records/14710779
+    type: application/csv
+    name: CSV
 dataquality:
   scope:
     level: dataset
