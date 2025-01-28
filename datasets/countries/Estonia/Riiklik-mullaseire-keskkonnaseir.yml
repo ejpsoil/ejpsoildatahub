@@ -43,9 +43,10 @@ identification:
   rights: ''
   maintenancefrequency: regular monitoring 5-10 years
 contact:
-  pointOfContact: kese@envir.ee 
+  pointOfContact: 
     organization: 'Estonian Environment Agency '
     country: Estonia
+    email: kese@envir.ee
 dataquality:
   scope:
     level: dataset
