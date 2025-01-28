@@ -6,7 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://geoportaal.maaamet.ee/est/Ruumiandmed/Mullastiku-kaart-p33.html
+  dataseturi: https://geoportaal.maaamet.ee/eng/spatial-data/estonian-soil-map-p316.html
 spatial:
   resolution: 70.0
   datatype: DERIVED Soil Profiles linked to the polygons
@@ -41,8 +41,8 @@ identification:
   rights: ''
   maintenancefrequency: it was a single survey
 contact:
-  pointOfContact:
-    organization: Estonian Land Board
+  pointOfContact: avaandmed@maaruum.ee
+    organization: Republic of Estonia Land and Spatial Development Board
     country: Estonia
 dataquality:
   scope:
