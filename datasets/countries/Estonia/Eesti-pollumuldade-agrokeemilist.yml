@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: "Eesti-p\xF5llumuldade-agrokeemiliste-n\xE4itajate-digitaalne-andmekogu-(Digital-database-of-agrochemical-parameters-of-Estoanian-agricultural-soils)"
+  identifier: "PANDA - Eesti-p\xF5llumuldade-agrokeemiliste-n\xE4itajate-digitaalne-andmekogu-(Digital-database-of-agrochemical-parameters-of-Estonian-agricultural-soils)"
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -12,14 +12,11 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: "Eesti p\xF5llumuldade agrokeemiliste n\xE4itajate digitaalne andmekogu (Digital\
+  title: "PANDA - Eesti p\xF5llumuldade agrokeemiliste n\xE4itajate digitaalne andmekogu (Digital\
     \ database of agrochemical parameters of Estoanian agricultural soils)"
-  abstract: 'bulk samples only depth intervals,soil samples taken from topsoil at
-    (cultivation depth) 0-20 cm
-
-    '
+  abstract: 'PANDA database consists of agrochemical parameters from farmers fields from topsoil (0-20cm).'
   dates:
-    creation: 2002-2020
+    creation: 2005-ongoing
   keywords:
     default:
       keywords:
@@ -34,14 +31,15 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 2002-2020
+    - begin: 2005-ongoing
   accessconstraints: otherRestrictions
-  rights: only aggregate data is available
+  rights: Only aggregated data is available
   maintenancefrequency: regular monitoring 5-10 years
 contact:
   pointOfContact:
-    organization: 'Agricultural Research Centre '
+    organization: 'Centre of Estonian Rural Research and Knowledge (METK)'
     country: Estonia
+    email: info@metk.agri.ee
 dataquality:
   scope:
     level: dataset
