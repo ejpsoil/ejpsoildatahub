@@ -13,7 +13,7 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Large-scale soil map of Estonia
+  title: Estonian Soil Map
   abstract: 'soil type, soil texture, slope, peat/humus horizon thickness, stoniness
     and coarse fragments, contours of different soil species Reference year,1997-2001
     compilation of a digital database and a digital soil map depth intervals,depth
@@ -41,9 +41,10 @@ identification:
   rights: ''
   maintenancefrequency: it was a single survey
 contact:
-  pointOfContact: avaandmed@maaruum.ee
+  pointOfContact:
     organization: Republic of Estonia Land and Spatial Development Board
     country: Estonia
+    email: avaandmed@maaruum.ee
 dataquality:
   scope:
     level: dataset
