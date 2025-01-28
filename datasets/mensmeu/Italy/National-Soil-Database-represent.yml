@@ -1,27 +1,27 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: National-Soil-Database-representative-Soil-Systems-geography-(1500.000)
+  identifier: Banca dati ISIS 1.5
   language: ita
   language_alternate: eng
   charset: utf8
-  hierarchylevel: dataset
-  datestamp: 1-6-2011
+  hierarchylevel: software
+  datestamp: 1-6-2017
 spatial:
-  scale: 1:500000
+  scale: none
   resolution: null
 identification:
   language: ita
   charset: utf8
-  title: National Soil Database representative Soil Systems geography (1:500.000)
-  abstract: 'soil profiles, soil types, Soil texture, soil chemistry, soil chemicophysical
+  title: Banca dati ISIS 1.5
+  abstract: 'English 64 bit version. Manual in italian only. Helps to manage soil profiles, soil types, Soil texture, soil chemistry, soil chemicophysical
     properties'
   dates:
-    creation: 1-6-2011
+    creation: 1-6-2017
   keywords:
     default:
       keywords:
-      - soil type
+      - soil database
       - basic soil properties
     country:
       keywords:
@@ -42,24 +42,24 @@ identification:
     - begin: ''
     - end: ''
   accessconstraints: no limitation
-  rights: no conditions apply
-  url: ''
+  rights: IODL2.0
+  url: 'https://www.dati.gov.it/content/italian-open-data-license-v20'
   status: onGoing
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: CREA AA
+    organization: CREA
     individualname: G. L'Abate
     country: Italy
     email: giovanni.labate@crea.gov.it
     contactinstructions: email
 distribution:
   mdb:
-    url: http://soilmaps.entecra.it/download/sw-ISIS_1.1.exe
+    url: https://soildatageneral.file.core.windows.net/soilmaps-it/download/layers/database/sw-DB_ISIS_1.1.exe
     type: application/mdb
-    name: MDB
+    name: ZIP
 dataquality:
   scope:
-    level: dataset
+    level: software
   lineage:
     statement: null
