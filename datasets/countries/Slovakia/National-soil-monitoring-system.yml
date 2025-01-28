@@ -14,9 +14,7 @@ identification:
   language: Slovak
   charset: utf8
   title: National Soil Monitoring System in Slovakia
-  abstract: 'borehole/profile, chemical properties-disturbed samples, physical properties
-    - undisturbed samples frequency of data collection - repetition 5 years, selected
-    sites every year, depth intervals - (0-10, 20-30, 35-45 cm)'
+  abstract: 'The data set represents digital data archived from the "partial monitoring system - soil" as part of the environmental monitoring of Slovakia. The main objective of soil monitoring is the temporary registration of changes in soil properties important from the environmental perspective. An important part of CMSP is the monitoring of risk elements in the soils and the possibilities of their entry into the food chain. Regular update allows you to monitor temporary development and changes in the soil properties of the current situation as well as trends in soil contamination.'
   dates:
     creation: 1993-2018
   keywords:
@@ -35,7 +33,7 @@ identification:
     temporal:
     - begin: 1993-2018
   accessconstraints: Restricted
-  rights: 'License: CC BY – Creative Commons Attribution'
+  rights: 'CC BY – Creative Commons Attribution'
   maintenancefrequency: regular, monitoring 2-5 years
 contact:
   pointOfContact:
