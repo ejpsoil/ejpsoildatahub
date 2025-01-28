@@ -6,7 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://pmk.agri.ee/et/pollumajanduskeskkonna-uuringud/uurimisvaldkonnad/muld
+  dataseturi: https://athena.agri.ee/connect/analyst/mobile/#/main?mapcfg=%2FAnalyst%2FNamedProjects%2Fmulla_erosioon
 spatial:
   resolution: 10x10m raster
   datatype: GRID
@@ -40,8 +40,8 @@ identification:
   rights: Individual agreements
   maintenancefrequency: otherRestrictions
 contact:
-  pointOfContact:
-    organization: Agricultural Research Centre (ARC)
+  pointOfContact: info@metk.agri.ee
+    organization: Centre of Estonian Rural Research and Knowledge (METK)
     country: Estonia
 dataquality:
   scope:
