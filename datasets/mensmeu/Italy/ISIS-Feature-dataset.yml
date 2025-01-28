@@ -1,26 +1,28 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: ISIS-Feature-dataset
+  identifier: Italian Soil Information System
   language: ita
   language_alternate: eng
   charset: utf8
   hierarchylevel: dataset
-  datestamp: 1-6-2010
+  datestamp: 16-9-2022
 spatial:
-  scale: 1:1 M
+  scale: 1:500,000
   resolution: null
 identification:
   language: ita
   charset: utf8
-  title: ISIS Feature dataset
-  abstract: 'Soil regions, Soil Systems and climatic rasters (Google Earth)'
+  title: Italian Soil Information System
+  abstract: 'The application offers both soil and climatic information, related to 1:500,000 scale geography. The soil information systems of Italy is made up of a hierarchy of geographical layers, which includes soil regions, aimed at correlating the soils of Italy with the other European countries, soil systems, for the correlation of soil at the national level, and soil sub-systems, for the regional level. The databases provides an inventory of Italian soilscapes at two reference scale, Soil region (1:5,000,000) and Soil systems (1:500,000). Relation between entities (soil-typological-unit, soil derived profile, benchmark soil profile) and geography (soil mapping units), was also stored. Geographical layers (administrative boundaries, regionand province main towns, soil regions, and rasters of climatic variables) and correlation entities was also stored. Soil regions are a regionally restricted part of the soil cover characterized by a typical climate and parent-material association. Soil systems illustrate main Italian soilscapes and are composed of homogeneous areas as for physiography, lithology, river drainage network, and land cover. Each cartographic unit was described as combination of: i) a major landform, established according to main morphological process, slope, hypsometry, kind and degree of drainage, ii) two lithological types, iii) three land cover attributes. Maximum seven land components were recognized in each land system. A land component was a specific combination of morphology, lithology and land cover that was not delineated. 1412 soil observations have been stored on the Ms Access database mostly complete with 4284 analyzed soil horizons for the most common analytical parameters (pH in water; Carbon (C) - organic; Carbonate (CO3--) - Total; Clay, Sand, and Silt fraction; Available water capacity - estimated volumetric) and 2039 photos. Several climatic variables, relevant for soil evaluation and management, have been collected and stored. Climatical maps have been produced by spatialization of longterm statistics related to meteorological stations. The map of precipitation (AnnualRainfall) was obtained by ordinary kriging of 1,613 stations completed of long termannual average values. Mean annual air temperature was obtained by ordinary kriging of 944 stations of long-term average annual air temperature. The humidity index was obtained with a simple calculation (Annual Rainfall/Mean Annual Air Temperature). Average temperature of the soil to 50 cm was calculated on the basis of the average air temperature of the long term and field capacity of the soil at the same depth, accordingto the equation: Tm = soil to 0.5 m tm air + (field capacity to 0.5 m - 20.7) / 7.9 (Constantini et al., 1999). The mean annual soil temperatures map was obtained byordinary kriging of 6,660 data of average soil temperature at 50 cm.'
   dates:
-    creation: 1-6-2010
+    creation: 1-4-2011
   keywords:
     default:
-      keywords:
-      - soil type
+      keywords: 
+      - Soil derived profile 
+      - Soil region 
+      - Soil system
       - basic soil properties
     country:
       keywords:
@@ -38,25 +40,25 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: ''
-    - end: ''
+    - begin: '01-01-1970'
+    - end: '31-12-2010'
   accessconstraints: no limitation
-  rights: no conditions apply
-  url: ''
-  status: onGoing
-  maintenancefrequency: continual
+  rights: Creative Commons Attribution 4.0 International
+  url: 'https://creativecommons.org/licenses/by/4.0/legalcode'
+  status: valid
+  maintenancefrequency: occasional
 contact:
   pointOfContact:
-    organization: CREA AA
-    individualname: G. L'Abate
+    organization: CREA
+    individualname: Giovanni L'Abate
     country: Italy
     email: giovanni.labate@crea.gov.it
     contactinstructions: email
 distribution:
   kmz:
-    url: http://www.soilmaps.it/download/ISIS_1.0.021.kmz
-    type: application/kmz
-    name: KMZ
+    url: https://zenodo.org/records/7085005
+    type: application/exe
+    name: EXE
 dataquality:
   scope:
     level: dataset
