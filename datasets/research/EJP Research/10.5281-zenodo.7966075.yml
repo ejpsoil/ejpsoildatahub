@@ -11,7 +11,8 @@ identification:
     organic carbon) detected in a subset of topsoil samples of the first German Agricultural
     Soil Inventory.
   license:
-    name: ''
+    name: 'CC-BY-4.0'
+  rights: 'CC-BY-4.0'
   dates:
     issued: '2023-05-24'
     publication: '2023'
