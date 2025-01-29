@@ -56,7 +56,7 @@ distribution:
   html:
     url: https://www.gissol.fr/outils/bdat-346
     type: text/html
-    name: Visualiser les statistiques sur les analyses de sol de la BDAT: Geosol
+    name: "Visualiser les statistiques sur les analyses de sol de la BDAT: Geosol"
 dataquality:
   scope:
     level: dataset
