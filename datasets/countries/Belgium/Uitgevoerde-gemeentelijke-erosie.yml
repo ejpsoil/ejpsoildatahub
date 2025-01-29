@@ -83,7 +83,7 @@ identification:
       - 51.028726197265506
       crs: 4326
   accessconstraints: otherRestrictions
-  rights: ''
+  rights: Flemish model license for free reuse v1.0 (https://www.vlaanderen.be/digitaal-vlaanderen/onze-diensten-en-platformen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik)
   maintenancefrequency: null
   status: onGoing
 contact:
