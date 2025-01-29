@@ -6,7 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: http://www.geopunt.be/catalogus/datasetfolder/7cc9babc-e021-46bc-abb6-1b74d44b14ea
+  dataseturi: https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/47c5540f-bf7c-45fc-9a74-8e60547cde82
 spatial:
   resolution: Vector
   datatype: AGRI_PARCEL LPI,POLYGON WITH Land Parcel Identification (LPI) is  available
@@ -34,7 +34,7 @@ identification:
     temporal:
     - begin: '2008'
   accessconstraints: No restrictions
-  rights: ''
+  rights: Flemish model license for free reuse v1.0 (https://www.vlaanderen.be/digitaal-vlaanderen/onze-diensten-en-platformen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik). The following reference should be used when using this data: Source: Dept. LV
   maintenancefrequency: regular monitoring, yearly
 contact:
   pointOfContact:
