@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: "Carte-du-nom-de-sol-dominant-en-WRB-issue-de-la-Base-de-Donn\xE9es-G\xE9\ographique-des-Sols-de-France"
+  identifier: "Carte-du-nom-de-sol-dominant-en-WRB-France"
   language: eng
   charset: utf8
   datestamp: 2022-01-01
