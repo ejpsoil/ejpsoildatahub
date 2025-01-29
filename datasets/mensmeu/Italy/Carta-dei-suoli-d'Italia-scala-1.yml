@@ -8,7 +8,7 @@ metadata:
   hierarchylevel: dataset
   datestamp: 12-09-2022
 spatial:
-  scale: 1:1 M
+  scale: "1:1 M"
   resolution: null
 identification:
   language: ita
@@ -36,7 +36,7 @@ identification:
       keywords:
       - Soil Map
       vocabulary:
-        name: Agrovoc - Soil properties
+        name: 'Agrovoc - Soil properties'
         url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
@@ -45,14 +45,13 @@ identification:
     - begin: a mix of individual dates and intervals of dates
     - end: ''
   accessconstraints: no limitation
-  rights: Creative Commons Attribution 4.0 International
-  url: 'https://creativecommons.org/licenses/by/4.0/legalcode'
+  rights: 'Creative Commons Attribution 4.0 International https://creativecommons.org/licenses/by/4.0/legalcode'
   status: onGoing
   maintenancefrequency: none
 contact:
   pointOfContact:
     organization: CREA
-    individualname: "Giovanni L'Abate"
+    individualname: 'Giovanni L''Abate'
     country: Italy
     email: giovanni.labate@crea.gov.it
     contactinstructions: email
