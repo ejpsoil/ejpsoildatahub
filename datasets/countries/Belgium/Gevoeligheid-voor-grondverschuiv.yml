@@ -170,7 +170,7 @@ distribution:
     description: WFS-feature Gevoeligheid voor grondverschuivingen
     function: download
   link-7:
-    url: https://www.milieuinfo.be/dms/d/d/workspace/SpacesStore/909fbc6d-be49-4c1a-a754-5f408ce1af14/DOV_Bodem_Gevoeligheidskaart_voor_grondverschuivingen.zip
+    url: https://datasets.omgeving.vlaanderen.be/be.vlaanderen.omgeving.distribution.geo.30eac0ca-e15c-6d80-1e63-41b339781c24.DOV_Bodem_Gevoeligheidskaart_voor_grondverschuivingen_zip
     type: WWW:DOWNLOAD-1.0-http--download
     name: Download Gevoeligheid voor grondverschuivingen
     description: Link naar download Gevoeligheid voor grondverschuivingen
