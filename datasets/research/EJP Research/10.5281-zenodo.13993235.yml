@@ -33,11 +33,11 @@ identification:
     \ catalog: SERENA EJPSOIL BE Flanders EROSION SOILLOSS cookbook\n\nThe DOV services:\n\
     \n\n\nWMS ( OGC:WMS-1.3.0-http-get-map )\_\n\nWCS ( OGC:WCS )"
   license:
-    name: ''
+    name: Creative Commons Attribution 4.0 International
   dates:
     issued: '2024-10-25'
     publication: '2024'
-  rights: ''
+  rights: Creative Commons Attribution 4.0 International
   keywords:
     default:
       keywords:

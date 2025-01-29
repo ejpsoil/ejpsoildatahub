@@ -13,13 +13,10 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Countryside survey of topsoil in Great Britain
-  abstract: 'Soil pit excavation Maps of CEH Topsoil parameters can be found at http://mapapps2.bgs.ac.uk/ukso/home.html.                                                                                  A
-    large number of datasets at national  and local scales are available here, https://catalogue.ceh.ac.uk/eidc/documents?facet=topic%7C0%2FSoil%2F
-
-    '
+  title: "Countryside survey of topsoil in Great Britain"
+  abstract: ''
   dates:
-    creation: 1978, 1998 & 2007
+    creation: "1978, 1998 and 2007"
   keywords:
     default:
       keywords:
@@ -34,17 +31,23 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 1978, 1998 & 2007
+    - begin: "1978, 1998 and 2007"
   accessconstraints: Restricted
   rights: ''
-  maintenancefrequency: regular monitoring 5-10 years
+  maintenancefrequency: "regular monitoring 5-10 years"
 contact:
   pointOfContact:
-    organization: UK Centre for Ecology & Hydrology
+    organization: "UK Centre for Ecology and Hydrology"
     country: UK
 dataquality:
   scope:
     level: dataset
   lineage:
-    statement: 'Soil pit excavation. Mapping: . Depth intervals: defined as  topsoil/subsoil  only,
-      without any other description. Uncertainty quantification: NO'
+    statement: 'Soil pit excavation. Depth intervals - defined as topsoil/subsoil only, without any other description. Uncertainty quantification: NO'
+distribution:
+  link-0:
+    url: http://mapapps2.bgs.ac.uk/ukso/home.html
+    description: "Soil pit excavation Maps of CEH Topsoil parameters can be found here"
+  link-1:
+    url: https://catalogue.ceh.ac.uk/eidc/documents?facet=topic%7C0%2FSoil%2F
+    description: "Large number of datasets at national  and local scales are available here"
