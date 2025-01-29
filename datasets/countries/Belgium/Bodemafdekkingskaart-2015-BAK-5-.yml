@@ -13,8 +13,8 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Land cover map in Flanders, 5m resolution, 2015
-  abstract: Geographic raster dataset showing the land cover in Flanders, status 2015. This map has a focus on the soil and the loss of its essential ecosystem functions as soil and the irreversibility thereof. We speak here of 'Soil cover'. Soil sealing is expressed as the area where the nature and/or condition of the soil surface has been changed by the application of artificial, (semi-) impermeable materials, resulting in the loss of essential ecosystem functions of the soil. The map is displayed in percentage coverage per pixel (5m resolution).
+  title: Soil sealing map of Flanders, 5m resolution, 2015
+  abstract: Geographic raster dataset showing the land cover in Flanders, status 2015. This map has a focus on the soil and the loss of its essential ecosystem functions as soil and the irreversibility thereof. We speak here of 'Soil sealing'. Soil sealing is expressed as the area where the nature and/or condition of the soil surface has been changed by the application of artificial, (semi-) impermeable materials, resulting in the loss of essential ecosystem functions of the soil. The map is displayed in percentage coverage per pixel (5m resolution).
   dates:
     creation: '2015'
   keywords:
@@ -33,7 +33,7 @@ identification:
     temporal:
     - begin: '2015'
   accessconstraints: No restrictions
-  rights: ''
+  rights: Flemish model license for free reuse v1.0 (https://www.vlaanderen.be/digitaal-vlaanderen/onze-diensten-en-platformen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik).
   maintenancefrequency: regular  monitoring 2-5 years
 contact:
   pointOfContact:
