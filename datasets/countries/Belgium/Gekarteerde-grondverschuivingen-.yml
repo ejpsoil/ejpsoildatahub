@@ -163,7 +163,7 @@ distribution:
     description: WFS-feature Gekarteerde grondverschuivingen
     function: download
   link-7:
-    url: https://www.milieuinfo.be/dms/d/d/workspace/SpacesStore/e64b8d63-d49a-4c57-bec2-32e9152486fd/DOV_Bodem_Gekarteerde_grondverschuivingen.zip
+    url: https://datasets.omgeving.vlaanderen.be/be.vlaanderen.omgeving.distribution.geo.300574a7-b7e9-89f6-16c8-9df4c73af8dd.DOV_Bodem_Gekarteerde_grondverschuivingen_zip
     type: WWW:DOWNLOAD-1.0-http--download
     name: Download Gekarteerde grondverschuivingen
     description: Link naar download Gekarteerde grondverschuivingen
