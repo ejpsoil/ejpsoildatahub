@@ -7,12 +7,12 @@ metadata:
   datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
-  resolution: 01:25,0
+  resolution: "01:25,0"
   datatype: NATURAL_POLYGONs, polygons with natural boundaries
 identification:
   language: null
   charset: utf8
-  title: Soil texture classes of Slovenia
+  title: "Soil texture classes of Slovenia"
   abstract:
     'USDA soil texture class definitions are  traditionaly used in Slovenia. See USDA texture class classification. Unofficial data of texture classification, based on the American texture. Classification system (after Plaster, 1992), in Digital form (parcel-specific,no). '
   dates:
@@ -37,7 +37,7 @@ identification:
   maintenancefrequency: null
 contact:
   pointOfContact:
-    organization: ' Agricultural institute of Slovenia'
+    organization: 'Agricultural institute of Slovenia'
     country: Slovenia
 dataquality:
   scope:
@@ -48,4 +48,4 @@ distribution:
   link:
     url: https://www.nrcs.usda.gov/sites/default/files/2022-06/Soil%20Taxonomy.pdf
     type: WWW:LINK
-    name: Soil Taxonomy: A Basic System of Soil Classification for Making and Interpreting Soil Surveys (1999)
+    name: "Soil Taxonomy: A Basic System of Soil Classification for Making and Interpreting Soil Surveys (1999)"
