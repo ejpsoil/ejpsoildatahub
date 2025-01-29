@@ -32,7 +32,7 @@ identification:
     temporal:
     - begin: '2018'
   accessconstraints: No restrictions
-  rights: ''
+  rights: 'This data is public.'
   maintenancefrequency: regular  monitoring 2-5 years
 contact:
   pointOfContact:

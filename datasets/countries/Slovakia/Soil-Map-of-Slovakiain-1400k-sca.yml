@@ -6,7 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: http://www.podnemapy.sk/poda400/viewer.htm
+  dataseturi: http://www.podnemapy.sk/portal/prave_menu/podna_mapa/podna_mapa.aspx
 spatial:
   resolution: 1:400 000
   datatype: DERIVED Soil Profiles linked to the polygons
@@ -14,10 +14,7 @@ identification:
   language: null
   charset: utf8
   title: Soil Map of Slovakiain 1:400k scale
-  abstract: 'generalised class-area maps based on finer scale national mapping products
-    depth intervals not assumed
-
-    '
+  abstract: 'It represents a digital georeferenced database digitized from an analog map (Hraško et al., 1993). The database attributes contain a detailed legend with respect for environmental soil properties and comparisons with a complete classification of WRB 98 soil units and soil substrates.'
   dates:
     creation: '1993'
   keywords:
@@ -36,7 +33,7 @@ identification:
     temporal:
     - begin: '1993'
   accessconstraints: No restrictions
-  rights: ''
+  rights: 'CC BY – Creative Commons Attribution'
   maintenancefrequency: it was a single survey
 contact:
   pointOfContact:
@@ -49,3 +46,16 @@ dataquality:
     statement: 'generalised class-area maps based on finer scale national mapping
       products. Mapping: conventional mapping. Depth intervals: otherRestrictions.
       Uncertainty quantification: NO'
+distribution:
+  link-0:
+    url: https://rpi.gov.sk/metadata/78e13db7-1f60-4d5e-b010-c5ceaed31584
+    type: WWW:LINK
+    name: INSPIRE metadata
+  link-1:
+    url: https://www.nlcsk.org/arcgis/services/MPRV/SO_PodnaMapa/MapServer/WMSServer?version=1.3.0&service=WMS&request=GetCapabilities
+    type: WMS
+    name: WMS
+  link-2:
+    url: https://www.nlcsk.org/arcgis/services/MPRV/SO_PodnaMapa/MapServer/WFSServer?service=WFS&AcceptVersions=2.0.0&request=GetCapabilities
+    type: WFS
+    name: WFS

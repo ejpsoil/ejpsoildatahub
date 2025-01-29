@@ -13,14 +13,8 @@ spatial:
 identification:
   language: Slovak
   charset: utf8
-  title: "Bonified soil-ecological units in Slovakia"
-  abstract: 'The concept of credit rating of agricultural land basically follows the traditional principles\
-    \ of credit rating in our country. Each plot is characterized by parameters of soil - ecological properties\
-    \ expressed by the so-called "bonified soil-ecological units" (BPEJ).  The database contains data on the X,Y\
-    \ coordinates of polygons describing the boundaries of individual areas of the BPEJ and other area units:\
-    \ forests, water bodies, other areas (barren lands), urban areas and other built-up areas.\
-    \ The database was created by digitizing the professional content from the original BPEJ maps developed on the basis of the State Map derived 1:5000.\
-    \ Fisrst data were colected 1971-1976. Continuous update on request.'
+  title: "Soil ecological units (land evaluation system)"
+  abstract: 'The concept of credit rating of agricultural land basically follows the traditional principles of credit rating in our country. Each plot is characterized by parameters of soil - ecological properties expressed by the so-called "bonified soil-ecological units" (BPEJ).  The database contains data on the X,Y coordinates of polygons describing the boundaries of individual areas of the BPEJ and other area units: forests, water bodies, other areas (barren lands), urban areas and other built-up areas. The database was created by digitizing the professional content from the original BPEJ maps developed on the basis of the State Map derived 1:5000. Fisrst data were colected 1971-1976. Continuous update on request.'
   dates:
     creation: 1971-2019
   keywords:
@@ -52,3 +46,20 @@ dataquality:
     statement: 'class area polygon maps based on soil profile observations. Mapping:
       conventional mapping. Depth intervals: defined as  topsoil/subsoil  only, without
       any other desription. Uncertainty quantification: NO'
+distribution:
+  link-0:
+    url: http://www.podnemapy.sk/portal/verejnost/bpej/bpej.aspx
+    type: WWW:LINK
+    name: Description
+  link-1:
+    url: https://rpi.gov.sk/metadata/744ef22e-ce17-4618-a337-213994af5b3d
+    type: WWW:LINK
+    name: INSPIRE metadata
+  link-2:
+    url: https://www.nlcsk.org/arcgis/services/MPRV/SO_BPEJ/MapServer/WMSServer?version=1.3.0&service=WMS&request=GetCapabilities
+    type: WMS
+    name: WMS
+  link-3:
+    url: https://www.nlcsk.org/arcgis/services/MPRV/SO_BPEJ/MapServer/WFSServer?service=WFS&AcceptVersions=2.0.0&request=GetCapabilities
+    type: WFS
+    name: WFS

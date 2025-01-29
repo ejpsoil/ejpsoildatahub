@@ -6,7 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://pmk.agri.ee/et/pollumajanduskeskkonna-uuringud/uurimisvaldkonnad/muld
+  dataseturi: https://athena.agri.ee/connect/analyst/mobile/#/main?mapcfg=%2FAnalyst%2FNamedProjects%2Fmulla_erosioon
 spatial:
   resolution: 10x10m raster
   datatype: GRID
@@ -16,9 +16,7 @@ identification:
   title: Soil erosion in Estonia modelled by use of USLE
   abstract: 'Modelled data based on soil map (1:10. 000, data source Soil_map described
     above), literature based soil profiles and properties and unpublished field sampling
-    data Irregular temporal resolution
-
-    '
+    data. Irregular temporal resolution.'
   dates:
     creation: 2013, 2018
   keywords:
@@ -41,8 +39,9 @@ identification:
   maintenancefrequency: otherRestrictions
 contact:
   pointOfContact:
-    organization: Agricultural Research Centre (ARC)
+    organization: Centre of Estonian Rural Research and Knowledge (METK)
     country: Estonia
+    email: info@metk.agri.ee
 dataquality:
   scope:
     level: dataset

@@ -14,9 +14,7 @@ identification:
   language: Slovak
   charset: utf8
   title: National Soil Monitoring System in Slovakia
-  abstract: 'borehole/profile, chemical properties-disturbed samples, physical properties
-    - undisturbed samples frequency of data collection - repetition 5 years, selected
-    sites every year, depth intervals - (0-10, 20-30, 35-45 cm)'
+  abstract: 'The data set represents digital data archived from the "partial monitoring system - soil" as part of the environmental monitoring of Slovakia. The main objective of soil monitoring is the temporary registration of changes in soil properties important from the environmental perspective. An important part of CMSP is the monitoring of risk elements in the soils and the possibilities of their entry into the food chain. Regular update allows you to monitor temporary development and changes in the soil properties of the current situation as well as trends in soil contamination.'
   dates:
     creation: 1993-2018
   keywords:
@@ -35,8 +33,8 @@ identification:
     temporal:
     - begin: 1993-2018
   accessconstraints: Restricted
-  rights: ''
-  maintenancefrequency: regular  monitoring 2-5 years
+  rights: 'CC BY – Creative Commons Attribution'
+  maintenancefrequency: regular, monitoring 2-5 years
 contact:
   pointOfContact:
     organization: NPPC
@@ -49,7 +47,15 @@ dataquality:
       properties - undisturbed samples. Mapping: conventional mapping. Depth intervals:
       Other  depth intervals (specify in comments). Uncertainty quantification: NO'
 distribution:
-  link:
-    url: https://gsaa.mpsr.sk/
+  link-1:
+    url: https://rpi.gov.sk/metadata/cb55a460-1303-4891-b938-e6f3375060ec
     type: WWW:LINK
-    name: Geospatial Support Request application
+    name: INSPIRE metadata
+  link-2:
+    url: https://www.nlcsk.org/arcgis/services/MPRV/CMSPoda/MapServer/WMSServer?version=1.3.0&service=WMS&request=GetCapabilities
+    type: WMS
+    name: WMS
+  link-3:
+    url: https://www.nlcsk.org/arcgis/services/MPRV/SO_PodnaMapa/MapServer/WFSServer?service=WFS&AcceptVersions=2.0.0&request=GetCapabilities
+    type: WFS
+    name: WFS

@@ -7,27 +7,23 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://www.keskkonnaagentuur.ee/et/eesmargid-tegevused/keskkonnaseire/otsi-seireandmeid
+  dataseturi: https://kese.envir.ee/kese/welcome.action
 spatial:
   resolution: 1669 total points (30 areas chosen from database Soil_monitoring_I)
   datatype: POINT
 identification:
   language: null
   charset: utf8
-  title: "Riiklik mullaseire keskkonnaseire andmete kogumise ja avalikustamise infos\xFC\
-    steemis KESE (National soil monitoring in environmental monitoring data collection\
-    \ and disclosure information system KESE)"
-  abstract: 'description of soil profile (deep soil pit)/soil sampling/transect method/different
-    sampling depth (bulk density/humus horizon thickness, genetic horizons)/with additional
-    soil measurement (% of moisture content) In WP2 T4.2 the database is named Regular
+  title: "National soil monitoring in environmental monitoring database KESE"
+  abstract: 'Dataset of national soil monitoring in Estonia. Includes point data of all measured soil properties both in transects and  humus pits. In WP2 T4.2 the database is named Regular
     monitoring of arable soils (II period)(file,Estonia Questionnaire 2-4-2 soil quality
-    indicators EE.xlsx)Reference year,Agricultural Research Centre has combained two
-    datasets for internal use (Soil_monitoring_I and Soil_monitoring_II_KESE) to have
-    long-term and enhanced data
+    indicators EE.xlsx). METK has combined two
+    datasets for internal use (Soil_monitoring_I (1983-1994) and Soil_monitoring_II_KESE(2002-ongoing)) to have
+    long-term and enhanced data.
 
     '
   dates:
-    creation: 2002-2018(in addition 1983-1994)
+    creation: 2002-ongoing
   keywords:
     default:
       keywords:
@@ -42,14 +38,15 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 2002-2018(in addition 1983-1994)
+    - begin: 2002-ongoing
   accessconstraints: No restrictions
   rights: ''
   maintenancefrequency: regular monitoring 5-10 years
 contact:
-  pointOfContact:
+  pointOfContact: 
     organization: 'Estonian Environment Agency '
     country: Estonia
+    email: kese@envir.ee
 dataquality:
   scope:
     level: dataset
