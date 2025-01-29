@@ -16,7 +16,7 @@ identification:
   title: National Soil Database of Ireland
   abstract: 'Soil sampling to 10cm depth based upon an 10km gridded design. '
   dates:
-    creation: 1995 & 2003-2005
+    creation: "1995 and 2003-2005"
   keywords:
     default:
       keywords:
@@ -31,7 +31,7 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 1995 and 2003-2005
+    - begin: "1995 and 2003-2005"
   accessconstraints: Restricted
   rights: ''
   maintenancefrequency: it was a single survey
@@ -43,4 +43,4 @@ dataquality:
   scope:
     level: dataset
   lineage:
-    statement: 'Soil sampling to 10cm depth based upon an 10km gridded design. Mapping - Geostatistics & Spatial statistics. Depth intervals: 0.1m. Uncertainty quantification - YES'
+    statement: 'Soil sampling to 10cm depth based upon an 10km gridded design. Mapping: Geostatistics & Spatial statistics. Depth intervals: 0.1m. Uncertainty quantification - YES'
