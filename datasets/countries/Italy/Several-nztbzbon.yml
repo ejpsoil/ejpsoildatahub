@@ -51,8 +51,9 @@ identification:
   url: 'https://creativecommons.org/licenses/by/4.0/legalcode'
   maintenancefrequency: none
 contact:
-  pointOfContact: Giovanni L'Abate
-    organization: Global Soil Partnership (GSP)
+  pointOfContact: 
+    organization: "Global Soil Partnership (GSP)"
+    individualname: "Giovanni L'Abate"
     country: Italy
 dataquality:
   scope:
