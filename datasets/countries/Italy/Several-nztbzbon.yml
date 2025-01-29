@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2021-10-22
   hierarchylevel: dataset
+  dataseturi: https://zenodo.org/records/8176730
 spatial:
   resolution: null
   datatype: POINT
@@ -13,19 +14,20 @@ identification:
   language: null
   charset: utf8
   title: Salt-Affected Soils in Italy (GSSmap)
-  abstract: 'Soil salinization and sodification risks are two of the main threats in agricultural soils of Italy
-(Dazzi, 2008). In Italy they are mainly due to irrigation with saline waters (Dazzi and Lo Papa,
-2013), to seawater intrusion (Castrignanò et al., 2008, Dazzi and Lo Papa, 2013, Selvaggi et al.,
-2010), and to saline parent materials (Dazzi and Fierotti, 1994). The water level is strictly regulated
-by channels and pumping stations (Vittori Antisari et al., 2020; Buscaroli and Zannoni, 2010;
-Teatini et al., 2007), and seawater intrusion along rivers, canals and in the groundwater aquifer is
-exacerbated by subsidence (Teatini et al., 2005). The salt-rich parent material can be exposed due
-to soil erosion (Piccarreta et al., 2006; Cocco et al., 2015). In the last decades, several Italian regional
-authorities for soil data produced soil salinity (risk) maps, resorting to different mapping
-approaches. Previous examples of salinity risk maps of Italy have been also attempted (Dazzi, 2008,
-Costantini et al. 2009). This works presents the maps of salt-affected soils of Italy, as part of the 1k
-grid GSSmap, realized adopting the procedure proposed by the Global Soil Partnership (GSP), and
-involving the Italian regional authorities, which are part of the Italian Soil Partnership.'
+  abstract: |
+    'Soil salinization and sodification risks are two of the main threats in agricultural soils of Italy
+    (Dazzi, 2008). In Italy they are mainly due to irrigation with saline waters (Dazzi and Lo Papa,
+    2013), to seawater intrusion (Castrignanò et al., 2008, Dazzi and Lo Papa, 2013, Selvaggi et al.,
+    2010), and to saline parent materials (Dazzi and Fierotti, 1994). The water level is strictly regulated
+    by channels and pumping stations (Vittori Antisari et al., 2020; Buscaroli and Zannoni, 2010;
+    Teatini et al., 2007), and seawater intrusion along rivers, canals and in the groundwater aquifer is
+    exacerbated by subsidence (Teatini et al., 2005). The salt-rich parent material can be exposed due
+    to soil erosion (Piccarreta et al., 2006; Cocco et al., 2015). In the last decades, several Italian regional
+    authorities for soil data produced soil salinity (risk) maps, resorting to different mapping
+    approaches. Previous examples of salinity risk maps of Italy have been also attempted (Dazzi, 2008,
+    Costantini et al. 2009). This works presents the maps of salt-affected soils of Italy, as part of the 1k
+    grid GSSmap, realized adopting the procedure proposed by the Global Soil Partnership (GSP), and
+    involving the Italian regional authorities, which are part of the Italian Soil Partnership.'
   dates:
     creation: 2021-10-22
   keywords:
