@@ -36,9 +36,10 @@ identification:
   rights: ''
   maintenancefrequency: null
 contact: Marius Heinen
-  pointOfContact: marius.heinen@wur.nl
+  pointOfContact:
     organization: Wageningen Environmental Research (WENR)
     country: Netherlands
+    email: marius.heinen@wur.nl
 dataquality:
   scope:
     level: dataset
