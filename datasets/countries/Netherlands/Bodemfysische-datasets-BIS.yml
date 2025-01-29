@@ -34,12 +34,14 @@ identification:
   accessconstraints: otherRestrictions
   rights: ''
   maintenancefrequency: null
-contact: Gerben Bakker
-  pointOfContact: broservicedesk.wenr@wur.nl
+contact:
+  pointOfContact: 
     organization: Wageningen Environmental Reseach (WENR)
+    individualname: Gerben Bakker
     country: Netherlands
+    email: broservicedesk.wenr@wur.nl
 dataquality:
   scope:
     level: dataset
   lineage:
-    statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
+    statement: 'Mapping: . Depth intervals: . Uncertainty quantification: '
