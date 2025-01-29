@@ -6,15 +6,66 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: http://opac.isprambiente.it/SebinaOpac/Opac?action=documentview&sessID=163F7581877A0FF557CD28C792D07E48@2904d67b&docID=4
+  dataseturi: http://id.sbn.it/bid/TSA0030105
 spatial:
   resolution: 1:500.000
   datatype: NATURAL_POLYGONs, polygons with natural boundaries
 identification:
   language: null
   charset: utf8
-  title: Geological map of Italy by Compagnoni et al., 1983
-  abstract: ''
+  title: Carta geologica d'Italia scala 1:500.000 : in 5 fogli (1976-1983)
+  abstract: 'Livello bibliografico
+Monografia
+Tipo documento
+Risorsa cartografica a stampa
+Autore principale
+Servizio geologico d'Italia
+Titolo
+Carta geologica d'Italia, scala 1:500 000 : in 5 fogli / Servizio Geologico d'Italia ; a cura di Bruno Compagnoni, Alfredo Vittorio Damiani, Mario Valletta ... [et al.]
+Dati matematici
+Scala 1:500 000 (Greenwich ; E 6°30'00"-E 18°30'00"/N 47°00'00"-N 35°40'00")
+Pubblicazione
+Roma : Servizio Geologico d'Italia, 1976-1983
+Descrizione fisica
+5 carte : color. ; 78 x 127 cm ripiegate 26 x 12 cm
+Altri dati
+[colore:] multi colore [supporto fisico:] carta [forma:] carta geografica [tecnica di creazione dell'immagine originale:] stampa [forma di riproduzione:] stampa [forma fisica di pubblicazione:] in parti
+Scala
+[tipo scala:] singola scala lineare [scala orizzontale:] 500000
+Note generali
+In custodia
+Base topografica elaborata dal Touring Club Italiano dalla Carta Generale d'Italia 1:500 000 del TCI.
+Comprende
+Foglio 1: / Servizio geologico d'Italia ; a cura di Bruno Compagnoni, Alfonso Vittorio Damiani, Mario Valletta ... [et al.]
+Foglio 2: / Servizio Geologico d'Italia
+Foglio 3: / Servizio geologico d'Italia
+Foglio 4 / Servizio geologico d'Italia
+Foglio 5: / Servizio geologico d'Italia
+Variante del titolo
+Carta geologica d'Italia al 500.000
+Nomi
+Damiani, Alfonso Vittorio
+Scheda di autorità
+Compagnoni, Bruno
+Scheda di autorità
+Jacobacci, Alfredo
+Scheda di autorità
+Valletta, Mario <geologo ; 1936-2019>
+[Autore]
+Servizio geologico d'Italia
+Scheda di autorità
+vedi anche >
+Servizio geologico nazionale <Italia>
+Reale Ufficio geologico
+Ufficio geologico <Italia>
+Soggetti
+Italia - Carte geologiche
+Lingua di pubblicazione
+ITALIANO
+Paese di pubblicazione
+ITALIA
+Codice identificativo
+IT\ICCU\TSA\0030105'
   dates:
     creation: '1983'
   keywords:
@@ -31,13 +82,15 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: '1983'
-  accessconstraints: No restrictions
-  rights: ''
+    - begin: '1976'
+    - end: '1983'
+  accessconstraints: No digital access
+  rights: 'IODL2.0'
+  url: 'https://www.dati.gov.it/content/italian-open-data-license-v20'
   maintenancefrequency: null
 contact:
-  pointOfContact:
-    organization: ''
+  pointOfContact: Servizio geologico d'Italia
+    organization: 'Corporate Author'
     country: Italy
 dataquality:
   scope:
