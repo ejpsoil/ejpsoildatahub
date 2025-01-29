@@ -8,12 +8,13 @@ metadata:
   hierarchylevel: dataset
   dataseturi: https://agroenvgeo.data.inra.fr/geonetwork/srv/metadata/f599548d-b0be-55f9-9adf-4e9aa3a0be91
 spatial:
-  resolution: 1:1,000,000
+  resolution: "1:1,000,000"
   datatype: NATURAL_POLYGONs,polygons with natural boundaries
 identification:
+  language: null
   charset: utf8
-  title: Map of the WRB dominant soil from the Geographic Database of Soils of France
-  abstract: 'This map corresponds to the translation according to expert opinion, in the nomenclature of the World Reference Base of Soil Resources (2008 version), of the name of the dominant soil of each Soil Cartographic Unit of the Geographical Database of Soils of France at 1:1.000.000'.
+  title: "Map of the WRB dominant soil from the Geographic Database of Soils of France"
+  abstract: 'This map corresponds to the translation according to expert opinion, in the nomenclature of the World Reference Base of Soil Resources (2008 version), of the name of the dominant soil of each Soil Cartographic Unit of the Geographical Database of Soils of France at 1:1.000.000'
   dates:
     creation: '2017'
   keywords:
