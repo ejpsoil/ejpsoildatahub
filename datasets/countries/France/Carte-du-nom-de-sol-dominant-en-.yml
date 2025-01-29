@@ -1,8 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: "Carte-du-nom-de-sol-dominant-en-WRB-issue-de-la-Base-de-Donn\xE9es-G\xE9\
-    ographique-des-Sols-de-France"
+  identifier: "Carte-du-nom-de-sol-dominant-en-WRB-issue-de-la-Base-de-Donn\xE9es-G\xE9\ographique-des-Sols-de-France"
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -12,7 +11,6 @@ spatial:
   resolution: 1:1,000,000
   datatype: NATURAL_POLYGONs,polygons with natural boundaries
 identification:
-  language: null
   charset: utf8
   title: Map of the WRB dominant soil from the Geographic Database of Soils of France
   abstract: 'This map corresponds to the translation according to expert opinion, in the nomenclature of the World Reference Base of Soil Resources (2008 version), of the name of the dominant soil of each Soil Cartographic Unit of the Geographical Database of Soils of France at 1:1.000.000'.
@@ -44,5 +42,4 @@ dataquality:
   scope:
     level: dataset
   lineage:
-    statement: 'expertise. Mapping: thematic mapping. Depth intervals: otherRestrictions.
-      Uncertainty quantification: NO'
+    statement: 'expertise. Mapping - thematic mapping. Depth intervals - otherRestrictions. Uncertainty quantification: NO'
