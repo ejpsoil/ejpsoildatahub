@@ -45,7 +45,7 @@ dataquality:
   lineage:
     statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
 distribution:
-link-1:
+  link-1:
     url: https://www.lantmateriet.se/sv/geodata/vara-produkter/produktlista/markhojdmodell-nedladdning-grid-50/
     type: WWW:LINK
     name: "Land Height Model Download, Grid 50+\_ (In Swedish)"
