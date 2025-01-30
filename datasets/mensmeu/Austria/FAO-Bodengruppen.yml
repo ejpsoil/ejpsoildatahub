@@ -3,7 +3,6 @@ mcf:
 metadata:
   identifier: FAO-Bodengruppen
   language: ger
-  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 1989-01-01
@@ -54,7 +53,7 @@ contact:
     contactinstructions: email
 distribution:
   xls:
-    url: https://www.umweltbundesamt.at/umweltsituation/boden/boris/boris_datenzugang/
+    url: https://www.umweltbundesamt.at/umweltthemen/boden/boris/boris-datenzugang
     type: application/xls
     name: XLS
 dataquality:
