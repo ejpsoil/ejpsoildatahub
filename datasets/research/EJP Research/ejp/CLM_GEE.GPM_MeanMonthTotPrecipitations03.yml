@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+
+metadata:
+  identifier: CLM_GEE.GPM_MeanMonthTotPrecipitations03.tif
+  language: en
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: '2024-02-29'
+  dataseturi: CLM_GEE.GPM_MeanMonthTotPrecipitations03.tif
+
+spatial:
+  datatype: grid
+  geomtype: point
+  resolution: 100m
+
+model:
+  Parent: https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land-monthly-means?tab=overview
+  MapAlgebra: NA
+  TimePeriod: 20.0
+  Units: m
+
+identification:
+  language: en
+  charset: utf8
+  title: ERA5-Land Monthly Averaged - ECMWF Climate Reanalysis [deprecated]
+  abstract: ERA5-Land Monthly Averaged - ECMWF Climate Reanalysis [deprecated]
+  dates:
+    creation: '2024-02-29'
+    publication: '2025-01-01'
+  keywords:
+    default:
+      keywords:
+        en: [climate, geology, landcover]
+  fees: None
+  license:
+    name: CC BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0
+  accessconstraints: License
+  useconstraints: License
+  otherconstraints: Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+  rights: Data are shared following the Copernicus license (CC-BY-4)
+  status: completed
+  maintenancefrequency: NA
+  topiccategory: [environment]
+  extents:
+    spatial:
+      - bbox: [-56.5051419017044, 24.2841770114775, 72.906136759009, 72.6644080739065]
+        crs: 4326
+    temporal:
+      - begin: '2000-01-01'
+        end: '2020-12-31'
+        resolution: P1Y
+
+contact:
+  pointOfContact:
+    organization: ISRIC - World Soil Information
+    url: https://www.isric.org
+    city: Wageningen
+    country: The Netherlands
+    individualname: Data infodesk
+    email: data@isric.org
+  creator:
+    organization: ISRIC - World Soil Information
+    url: data@isric.org
+    individualname: Laura Poggio, Maria Ruiperez, Betony Colman
+  distributor:
+    organization: ISRIC - World Soil Information
+    url: https://www.isric.org
+    individualname: Fenny Van Egmond
+    positionname: Publisher
+  distribution:
+    organization: ISRIC - World Soil Information
+    url: https://www.isric.org
+
+nodistribution:
+  waf:
+    url: None
+    type: WWW:LINK
+    name: None
+    description: None
+    function: download

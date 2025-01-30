@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+
+metadata:
+  identifier: SAT_GEE.S1_YRrt.tif
+  language: en
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: '2024-02-29'
+  dataseturi: SAT_GEE.S1_YRrt.tif
+
+spatial:
+  datatype: grid
+  geomtype: point
+  resolution: 100m
+
+model:
+  Parent: https://sentinel.esa.int/web/sentinel/user-guides/sentinel-1-sar/
+  MapAlgebra: NA
+  TimePeriod: 2.0
+  Units: VV
+
+identification:
+  language: en
+  charset: utf8
+  title: 'Sentinel-1 SAR GRD: C-band Synthetic Aperture Radar Ground Range Detected,
+    log scaling'
+  abstract: 'Sentinel-1 SAR GRD: C-band Synthetic Aperture Radar Ground Range Detected,
+    log scaling'
+  dates:
+    creation: '2024-02-29'
+    publication: '2025-01-01'
+  keywords:
+    default:
+      keywords:
+        en: [climate, geology, landcover]
+  fees: None
+  license:
+    name: CC BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0
+  accessconstraints: License
+  useconstraints: License
+  otherconstraints: Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+  rights: Data are shared following the Copernicus license (CC-BY-4)
+  status: completed
+  maintenancefrequency: NA
+  topiccategory: [environment]
+  extents:
+    spatial:
+      - bbox: [-56.5051419017044, 24.2841770114775, 72.906136759009, 72.6644080739065]
+        crs: 4326
+    temporal:
+      - begin: '2000-01-01'
+        end: '2020-12-31'
+        resolution: P1Y
+
+contact:
+  pointOfContact:
+    organization: ISRIC - World Soil Information
+    url: https://www.isric.org
+    city: Wageningen
+    country: The Netherlands
+    individualname: Data infodesk
+    email: data@isric.org
+  creator:
+    organization: ISRIC - World Soil Information
+    url: data@isric.org
+    individualname: Laura Poggio, Maria Ruiperez, Betony Colman
+  distributor:
+    organization: ISRIC - World Soil Information
+    url: https://www.isric.org
+    individualname: Fenny Van Egmond
+    positionname: Publisher
+  distribution:
+    organization: ISRIC - World Soil Information
+    url: https://www.isric.org
+
+nodistribution:
+  waf:
+    url: None
+    type: WWW:LINK
+    name: None
+    description: None
+    function: download
