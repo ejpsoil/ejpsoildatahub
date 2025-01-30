@@ -13,9 +13,8 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: "Geofysiska flygm\xE4tningar, gammastr\xE5lning (detaljerad)"
-  abstract: 'Could not find where to insert this information in the  soil propertiy_data
-    sheet . '
+  title: "Airborne geophysical measurements"
+  abstract: 'Flyggeophysics is a collective term for geophysical measurements carried out from aircraft or helicopter. Depending on the measurement method, the Flyggeophysical measurements may show the properties of the bedrock and soils from the ground surface down to several kilometers depth. The information collected is an important basis in, among other things, bedrock mapping, mineral exploration and community planning.SGU has been running Flyggeophysical measurements since 1960 and today there is information on large parts of the country. In our map show you can study the magnetic field, gravity or gamma radiation in Sweden.'
   dates:
     creation: from 1968
   keywords:
@@ -34,7 +33,8 @@ identification:
     temporal:
     - begin: from 1968
   accessconstraints: Restricted
-  rights: ''
+  rights: 'Covered by the Copyright in Literary and Artistic Works Act (1960:729). SGU information may not be modified in such a way that it is distorted or copyright is otherwise infringed.'
+  url: https://www.sgu.se/en/products/customer-services/copyright/
   maintenancefrequency: null
 contact:
   pointOfContact:
@@ -46,3 +46,8 @@ dataquality:
   lineage:
     statement: '. Mapping: . Depth intervals: defined as  topsoil/subsoil  only, without
       any other desription. Uncertainty quantification: '
+  distribution:
+  link-0:
+    url: https://www.sgu.se/en/about-sgu/tasks-and-activities-new/geological-mapping-surveys/geophysical-mapping/airborne-geophysical-measurements/
+    type: WWW:LINK
+    name: "Information and link to map viewer (gamma only available on the Swedish map viewer)"
