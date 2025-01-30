@@ -6,7 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://boku.ac.at/nas/ifoel/arbeitsgruppen/ag-bodenfruchtbarkeit-und-anbausysteme/abgeschlossene-projekte
+  dataseturi: https://boku.ac.at/agri/oela/arbeitsgruppen/ag-bodenfruchtbarkeit-und-anbausysteme-agba
 spatial:
   resolution: pixel size 1m; 100 points;
   datatype: GRID
