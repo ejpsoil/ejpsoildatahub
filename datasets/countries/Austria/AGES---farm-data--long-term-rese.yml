@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
+  dataseturi: https://www.ages.at/en/research/research-portal
 spatial:
   resolution: 3-20 points, depending on the size of the site;
   datatype: POINT
