@@ -14,10 +14,7 @@ identification:
   language: null
   charset: utf8
   title: National Inventory of Arable Soils
-  abstract: 'profile sampling; topsoil only (0 - 0.2 m) topsoil (0 - 0.2 m); coordinates
-    are confidential
-
-    '
+  abstract: 'During 2011-2012, the Swedish Board of Agriculture carried out a national soil sampling (0-20 cm) of the arable land. Close to 12,600 soil samples were collected in the field and analysed for texture, organic matter content, plant available phosphorus, iron, aluminium, calcium, potassium and magnesium. Data owner: Swedish Board of Agriculture (SBA). Data managed by Swedish University of Agricultural Sciences (SLU).'
   dates:
     creation: 2011 - 2013
   keywords:
@@ -48,3 +45,12 @@ dataquality:
   lineage:
     statement: 'profile sampling; topsoil only (0 - 0.2 m). Mapping: . Depth intervals:
       otherRestrictions. Uncertainty quantification: NO'
+distribution:
+  link-1:
+    url: https://www.slu.se/institutioner/mark-miljo/miljoanalys/akermarksinventeringen/undersokningar/nationell-jordartskartering/
+    type: WWW:LINK
+    name: SLU
+  link-2:
+    url: https://jordbruksverket.se/jordart
+    type: WWW:LINK
+    name: SBA
