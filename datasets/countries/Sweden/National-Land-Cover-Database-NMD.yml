@@ -6,7 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://gpt.vic-metria.nu/data/land/NMD/NMD2018_ProductDescription_ENG.pdf
+  dataseturi: https://www.naturvardsverket.se/en/services-and-permits/maps-and-map-services/national-land-cover-database/
 spatial:
   resolution: 10 km
   datatype: GRID
@@ -14,10 +14,7 @@ identification:
   language: null
   charset: utf8
   title: National Land Cover Database (NMD)
-  abstract: 'We have limited information on this data set. If interesting we could
-    look for more detailed information.
-
-    '
+  abstract: 'Land cover and land use maps are an important source of information for activities involving biological diversity, sustainable development, ecosystem services, civil planning and climate and risk management. That is why the Swedish Environmental Protection Agency, together with several other agencies, has produced a land cover\land use map over the entire country. There are also several complementary products and related documentation. This collaboration has successfully resulted in a useful product that myriad users working on environmental issues in Sweden can benefit. The National Land Cover Database is comprised of a base map and complementary ‘added-value’ layers. National Land Cover Database, original version. Additional layers: Land Use, Object Height and Extent, Productivity, Forests in Mountainous Regions. Soil moisture index map (an intermediary result from the database production).'
   dates:
     creation: 2017-2019
   keywords:
@@ -36,7 +33,7 @@ identification:
     temporal:
     - begin: 2017-2019
   accessconstraints: No restrictions
-  rights: ''
+  rights: 'Creative commons CC0 1.0'
   maintenancefrequency: regular  monitoring 2-5 years
 contact:
   pointOfContact:
