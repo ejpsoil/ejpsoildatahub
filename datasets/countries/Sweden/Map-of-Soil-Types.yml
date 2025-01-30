@@ -6,6 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
+  dataseturi: https://www.sgu.se/en/products/maps/map-viewer/jordkartvisare/soil-types-125-000-1100-000/
 spatial:
   resolution: 1:25 000 and 1:50 000
   datatype: otherRestrictions
@@ -13,8 +14,7 @@ identification:
   language: null
   charset: utf8
   title: Map of Soil Types
-  abstract: 'extensive field mapping on foot + image interpretation (resolution 1:25000
-    and 1:50000), as well as aerial interpretation (1:50000 and 1:100000) '
+  abstract: 'The map viewer "Soil types 1:25 000–1:100 000" provides an overview of the properties of soil types. The information can be used as a basis for planning, analysis, research and education.'
   dates:
     creation: 1960 - present
   keywords:
@@ -33,7 +33,8 @@ identification:
     temporal:
     - begin: 1960 - present
   accessconstraints: No restrictions
-  rights: ''
+  rights: 'Covered by the Copyright in Literary and Artistic Works Act (1960:729). SGU information may not be modified in such as way that it is distorted or copyright is otherwise.'
+  url: https://www.sgu.se/en/products/customer-services/copyright/
   maintenancefrequency: otherRestrictions
 contact:
   pointOfContact:
@@ -43,6 +44,4 @@ dataquality:
   scope:
     level: dataset
   lineage:
-    statement: 'extensive field mapping on foot + image interpretation (resolution
-      1:25000 and 1:50000), as well as aerial interpretation (1:50000 and 1:100000).
-      Mapping: . Depth intervals: otherRestrictions. Uncertainty quantification: NO'
+    statement: 'extensive field mapping on foot + image interpretation (resolution 1:25000 and 1:50000), as well as aerial interpretation (1:50000 and 1:100000). Mapping: . Depth intervals: otherRestrictions. Uncertainty quantification: NO'
