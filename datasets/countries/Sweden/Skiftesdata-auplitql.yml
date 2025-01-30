@@ -6,15 +6,15 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
+  dataseturi: https://jordbruksverket.se/e-tjanster-databaser-och-appar/e-tjanster-och-databaser-stod/kartor-och-gis#h-Laddanerkartskikt
 spatial:
   resolution: null
-  datatype: FARMER_Block LPI,POLYGON WITH Land Parcel Identification (LPI) is  available
-    for farmer's block
+  datatype: "FARMER_Block LPI,POLYGON WITH Land Parcel Identification (LPI) is  available for farmer''s block'
 identification:
   language: null
   charset: utf8
-  title: Skiftesdata
-  abstract: ''
+  title: "Sweden's Land-parcel identification system (LPIS)"
+  abstract: 'Sweden’s Land-parcel identification system (LPIS) data is managed by the Swedish Board of Agriculture, and made available on the INSPIRE Geoportal. The Swedish agricultural blocks are a data set containing information on maximum eligible agricultural land according to EU definitions.'
   dates:
     creation: ''
   keywords:
@@ -33,7 +33,7 @@ identification:
     temporal:
     - begin: ''
   accessconstraints: Restricted
-  rights: This is what Swedish farmers report to EU
+  rights: 'Open data'
   maintenancefrequency: null
 contact:
   pointOfContact:
@@ -44,4 +44,8 @@ dataquality:
     level: dataset
   lineage:
     statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
-distribution: {}
+distribution:
+  link-0:
+    url: https://collections.eurodatacube.com/sweden-lpis/readme.html
+    type: WWW:LINK
+    name: "Euro Data Cube Public Collections"
