@@ -2,20 +2,19 @@ mcf:
   version: 1.0
 metadata:
   identifier: "GE.Berggrund-150-000---1250-000\_"
-  language: eng
+  language: Swedish
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
+  dataseturi: https://www.sgu.se/produkter-och-tjanster/geologiska-data/berggrund--geologisk-data/berggrund/
 spatial:
   resolution: "1:50 000 - 1:250 000\_"
   datatype: null
 identification:
   language: null
   charset: utf8
-  title: "GE.Berggrund 1:50 000 - 1:250 000\_"
-  abstract: 'We have limited information on this data set. If interesting we could
-    look for more detailed information.         Could not find where to insert this
-    information in the  soil propertiy_data sheet . '
+  title: "Berggrund 1:50 000–1:250 000"
+  abstract: 'SGU''s bedrock data provides both an overview of Sweden''s bedrock and two -dimensional models of the upper surface of the bedrock, which describe important properties of identified geological units, their geometry, the material that builds up the units and geological events they have undergone. This is one of very many maps and datsets that are available through “The Geological Survey of Sweden – SGU”. Their products are available from this website: https://www.sgu.se/en/products/ . However, some products are only available at the Swedish version of the site (as for example this one). '
   dates:
     creation: ''
   keywords:
@@ -34,7 +33,7 @@ identification:
     temporal:
     - begin: ''
   accessconstraints: No restrictions
-  rights: ''
+  rights: 'Creative commons 0 (CC0)'
   maintenancefrequency: null
 contact:
   pointOfContact:
