@@ -2,7 +2,7 @@ mcf:
   version: 1.0
 metadata:
   identifier: "Jordlagerf\xF6ljder"
-  language: eng
+  language: Swedish
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
@@ -14,10 +14,7 @@ identification:
   language: null
   charset: utf8
   title: "Jordlagerf\xF6ljder"
-  abstract: 'We have limited information on this data set. If interesting we could
-    look for more detailed information.
-
-    '
+  abstract: 'The information on soil layer sequences can be used in the community building process by providing the basis for very clear planning in, for example, building projects and road planning. The information can also be used for exploration purposes and in groundwater -related issues.'
   dates:
     creation: ''
   keywords:
@@ -36,7 +33,7 @@ identification:
     temporal:
     - begin: ''
   accessconstraints: Restricted
-  rights: ''
+  rights: 'Creative commons 0 (CC0)'
   maintenancefrequency: null
 contact:
   pointOfContact:
@@ -47,3 +44,9 @@ dataquality:
     level: dataset
   lineage:
     statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution:
+  link-0:
+    url: https://www.sgu.se/produkter-och-tjanster/geologiska-data/jordarter--geologisk-data/jordlagerfoljder/
+    type: WWW:LINK
+    name: "Soil layer sequences"
+    description: "Information and download (only in Swedish)"
