@@ -33,7 +33,7 @@ identification:
     temporal:
     - begin: '2018'
   accessconstraints: No restrictions
-  rights: ''
+  rights: 'Creative commons 0 (CC0)'
   maintenancefrequency: it was a single survey
 contact:
   pointOfContact:
@@ -44,3 +44,9 @@ dataquality:
     level: dataset
   lineage:
     statement: '. Mapping: USPED. Depth intervals: . Uncertainty quantification: '
+distribution:
+  link:
+    url: https://jordbruksverket.se/jordbruket-miljon-och-klimatet/kartor-med-information-om-svensk-akermark#h-Riskomradenforerosion
+    type: WWW:LINK
+    name: 'Risk areas for erosion (only in Swedish)'
+    function: download
