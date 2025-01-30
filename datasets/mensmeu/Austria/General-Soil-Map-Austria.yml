@@ -54,10 +54,10 @@ contact:
     email: office@kunstundkulturverlag.at
     contactinstructions: email
 distribution:
-  shp:
-    url: https://iwhw.boku.ac.at/hao/
-    type: application/shp
-    name: SHP
+  link:
+    url: https://esdac.jrc.ec.europa.eu/content/bodenkarte-von-osterreich-soil-map-austria
+    type: image/jpg
+    name: jpg
 dataquality:
   scope:
     level: dataset
