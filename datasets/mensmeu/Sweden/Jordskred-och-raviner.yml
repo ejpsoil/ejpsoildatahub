@@ -13,8 +13,8 @@ spatial:
 identification:
   language: swe
   charset: utf8
-  title: Jordskred och raviner
-  abstract: 'Inventory of landslides and gullies'
+  title: 'Skred, ras och erosion (landslides and erosion)'
+  abstract: 'Data about risks of landslides and erosion, including: •	Förutsättningar för skred i finkornig jordart (Conditions for landslides in fine-grained soil) •	Jordskred och raviner (landslides and ravines) •	Stranderosion, kust (shore erosion, cost) •	Stränders jordart och eroderbarhet (shore soil type and erodibility) •	Fastmark'
   dates:
     modified: 20-5-2019
   keywords:
@@ -40,7 +40,7 @@ identification:
     - begin: ''
     - end: ''
   accessconstraints: no limitation
-  rights: no conditions apply
+  rights: 'SGU''s geological data is open (CC0)'
   url: https://apps.sgu.se/kartvisare/kartvisare-skred.html?
   status: onGoing
   maintenancefrequency: continual
@@ -52,10 +52,10 @@ contact:
     email: kundservice@sgu.se
     contactinstructions: email
 distribution:
-  pdf:
-    url: https://apps.sgu.se/sgumapviewer/tmpout/sgupdf726729153838177097.pdf
-    type: application/pdf
-    name: PDF
+  link:
+    url: https://www.sgu.se/produkter-och-tjanster/geologiska-data/jordarter--geologisk-data/skred-ras-och-erosion/
+    type: WWW:LINK
+    name: "Skred, ras och erosion"
 dataquality:
   scope:
     level: dataset
