@@ -6,16 +6,15 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/geodataprodukter/produktlista/hojddata-grid-2/
+  dataseturi: https://www.lantmateriet.se/sv/geodata/vara-produkter/produktlista/markhojdmodell-nedladdning-grid-50/
 spatial:
-  resolution: 2 m
+  resolution: 50 m
   datatype: GRID
 identification:
   language: null
   charset: utf8
-  title: "GSD-Elevation data, grid 2+\_"
-  abstract: 'Could not find where to insert this information in the  soil propertiy_data
-    sheet . '
+  title: "GSD-Elevation data, grid 50+\_"
+  abstract: 'Ground height model Download, Grid 50+ contains height values ​​on the ground in a grid (grid) at 50 m intervals. There is also a new product 1+ on process.'
   dates:
     creation: ''
   keywords:
@@ -34,7 +33,7 @@ identification:
     temporal:
     - begin: ''
   accessconstraints: Restricted
-  rights: ''
+  rights: 'This product is not open but is covered by protection according to the Act (1960:729) on copyright to literary and artistic works.'
   maintenancefrequency: null
 contact:
   pointOfContact:
@@ -45,3 +44,12 @@ dataquality:
     level: dataset
   lineage:
     statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution:
+link-1:
+    url: https://www.lantmateriet.se/sv/geodata/vara-produkter/produktlista/markhojdmodell-nedladdning-grid-50/
+    type: WWW:LINK
+    name: "Land Height Model Download, Grid 50+\_ (In Swedish)"
+  link-2:
+    url: https://www.lantmateriet.se/sv/geodata/vara-produkter/produktlista/markhojdmodell-nedladdning-grid-1/
+    type: WWW:LINK
+    name: "Land Height Model Download, Grid 1+\_ (In Swedish) On Process"
