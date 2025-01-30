@@ -52,8 +52,8 @@ contact:
     email: publikationen@umweltbundesamt.at
     contactinstructions: email
 distribution:
-  xls:
-    url: https://www.umweltbundesamt.at/fileadmin/site/umweltthemen/boden/BORIS/10_BORIS_Co_imOberboden_nachKarbonateinfluss.pdf
+  pdf:
+    url: https://www.umweltbundesamt.at/fileadmin/site/themen/boden/boris/karbonatbeeinflussung_referenzwerteband.pdf
     type: application/pdf
     name: PDF
 dataquality:
