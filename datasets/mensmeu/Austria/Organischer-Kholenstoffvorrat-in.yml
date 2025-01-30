@@ -53,12 +53,7 @@ contact:
     email: boden@umweltbundesamt.at
     contactinstructions: email
 distribution:
-  xls:
-    url: https://www.umweltbundesamt.at/umweltsituation/boden/boris/boris_datenzugang/
-    type: application/xls
-    name: XLS
-dataquality:
-  scope:
-    level: dataset
-  lineage:
-    statement: null
+  link-1:
+      url: https://www.umweltbundesamt.at/umweltthemen/boden/boris/boris-datenzugang
+    link-2:
+      url: https://dafne.at/projekte/asoc
