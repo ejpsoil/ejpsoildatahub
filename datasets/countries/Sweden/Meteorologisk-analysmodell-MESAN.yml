@@ -6,7 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: http://opendata.smhi.se/apidocs/metanalys/index.html
+  dataseturi: https://www.smhi.se/data/utforskaren-oppna-data/meteorologisk-analysmodell-mesan-api
 spatial:
   resolution: 2.5 x 2.5 km
   datatype: GRID
@@ -14,10 +14,7 @@ identification:
   language: null
   charset: utf8
   title: Meteorologisk analysmodell MESAN (AROME) - API
-  abstract: 'We have limited information on this data set. If interesting we could
-    look for more detailed information.
-
-    '
+  abstract: 'Through this service, real -time analysis data is obtained from the Mesan analysis model. This meteorological analysis model describes the current weather situation for grid boxes that cover Sweden. Every hour during the day, a two -dimensional mapping of regular water parameters is made. Which these are vary slightly over the clock. In essence, they describe meteorological conditions such as temperature, rainfall, clouds, visibility, humidity, wind and snow.'
   dates:
     creation: ''
   keywords:
@@ -36,7 +33,7 @@ identification:
     temporal:
     - begin: ''
   accessconstraints: No restrictions
-  rights: ''
+  rights: 'CC 4.0'
   maintenancefrequency: otherRestrictions
 contact:
   pointOfContact:
