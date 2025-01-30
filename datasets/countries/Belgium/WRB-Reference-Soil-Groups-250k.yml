@@ -78,7 +78,7 @@ identification:
       - 51.50622502468869
       crs: 4326
   accessconstraints: otherRestrictions
-  rights: ''
+  rights: Flemish model license for free reuse v1.0 (https://www.vlaanderen.be/digitaal-vlaanderen/onze-diensten-en-platformen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik)
   maintenancefrequency: it was a single survey
   status: completed
 contact:
@@ -173,7 +173,7 @@ distribution:
       Base op schaal 1:250.000'
     function: download
   link-7:
-    url: https://www.milieuinfo.be/dms/d/a/workspace/SpacesStore/522846b2-ec51-470f-91d6-16fd36265caa/wrb_250k.zip
+    url: https://datasets.omgeving.vlaanderen.be/be.vlaanderen.omgeving.distribution.geo.3a13472b-3f62-476a-96b7-91a1b255cccb.DOV_Bodem_BodemkaartWRB_Soil_Units_250k_zip
     type: WWW:DOWNLOAD-1.0-http--download
     name: Download WRB Reference Soil Groups 250k
     description: Link naar download WRB Reference Soil Groups 250k

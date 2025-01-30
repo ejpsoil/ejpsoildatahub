@@ -7,6 +7,7 @@ metadata:
   language: dut
   language_alternate: eng
   charset: utf8
+  dataseturi: https://dov.vlaanderen.be/geonetwork/srv/dut/catalog.search#/metadata/30e01cb0-3f8a-4a48-b72e-444b4a6fd531
 identification:
   title: "Potenti\xEBle bodemerosiekaart per perceel "
   abstract: 'The potential soil erosion map per parcel is based on the 2017 parcel
@@ -80,7 +81,7 @@ identification:
     - end: ''
   accessconstraints: no limitation
   status: onGoing
-  rights: no conditions apply
+  rights: Flemish model license for free reuse v1.0 (https://www.vlaanderen.be/digitaal-vlaanderen/onze-diensten-en-platformen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik). The following reference should be used when using this data: Databank Ondergrond Vlaanderen - (mention the maintainer of the dataset and specifically the accessed information) - Accessed on dd/mm/jjjj, from https://www.dov.vlaanderen.be
   fees: ''
   language: dut
   charset: utf8
