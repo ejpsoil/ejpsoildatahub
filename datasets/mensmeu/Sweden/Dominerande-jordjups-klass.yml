@@ -1,20 +1,20 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Dominerande-jordjups-klass
+  identifier: Swedish-Forest-Soil-Inventory
   language: swe
-  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2019-01-01
+  dataseturi: https://www.slu.se/en/markinventeringen
 spatial:
   scale: null
   resolution: 5KM
 identification:
   language: swe
   charset: utf8
-  title: Dominerande jordjups-klass
-  abstract: 'Dominant soil depth class'
+  title: Swedish Forest Soil Inventory
+  abstract: 'The Swedish Forest Soil Inventory started in 1983 and collects information about soil conditions and soil chemistry from ca. 20000 objectively located plots across all of Sweden. All land use types except urban areas, cultivated land and the high mountains are included. One tenth of the sampling plots are re-visited each year. The programme funded by the Swedish Environmental Protection Agency and managed by the Swedish University of Agricultural Sciences (SLU). Data includes: Dominating soil depth class, Soil classification (WRB-systemet), Cation exchange capacity, pH, Acidity, carbon, nitrogen.'
   dates:
     modified: 2019
   keywords:
@@ -31,6 +31,11 @@ identification:
     props:
       keywords:
       - soildepth
+      - Soil Map
+      - PH
+      - organic carbon
+      - acidification
+      - total nitrogen
       vocabulary:
         name: Agrovoc - Soil properties
         url: http://aims.fao.org/aos/agrovoc/c_330883
@@ -53,12 +58,7 @@ contact:
     email: johan.stendahl@slu.se
     contactinstructions: email
 distribution:
-  jpg:
-    url: https://www.slu.se/miljoanalys/statistik-och-miljodata/miljodata/webbtjanster-miljoanalys/markinfo/markinfo/markprofil/jorddjup/
-    type: image/jpg
-    name: JPG
-dataquality:
-  scope:
-    level: dataset
-  lineage:
-    statement: null
+  link:
+    url: https://landskap.slu.se/dv
+    type: WWW:LINK
+    name: "Data without coordinates can be downloaded as tables and via API from this web"
