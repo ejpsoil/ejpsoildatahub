@@ -9,14 +9,14 @@ metadata:
   dataseturi: https://www.slu.se/en/markinventeringen
 spatial:
   scale: null
-  resolution: 5KM
+  resolution: null
 identification:
   language: swe
   charset: utf8
   title: Swedish Forest Soil Inventory
   abstract: 'The Swedish Forest Soil Inventory started in 1983 and collects information about soil conditions and soil chemistry from ca. 20000 objectively located plots across all of Sweden. All land use types except urban areas, cultivated land and the high mountains are included. One tenth of the sampling plots are re-visited each year. The programme funded by the Swedish Environmental Protection Agency and managed by the Swedish University of Agricultural Sciences (SLU). Data includes: Dominating soil depth class, Soil classification (WRB-systemet), Cation exchange capacity, pH, Acidity, carbon, nitrogen.'
   dates:
-    modified: 2019
+    modified: ''
   keywords:
     default:
       keywords:
@@ -29,13 +29,6 @@ identification:
         name: Country
         url: http://publications.europa.eu/resource/authority/country
     props:
-      keywords:
-      - soildepth
-      - Soil Map
-      - PH
-      - organic carbon
-      - acidification
-      - total nitrogen
       vocabulary:
         name: Agrovoc - Soil properties
         url: http://aims.fao.org/aos/agrovoc/c_330883
@@ -46,7 +39,7 @@ identification:
     - begin: an interval of dates
     - end: ''
   accessconstraints: no limitation
-  rights: no conditions apply
+  rights: ''
   url: ''
   status: onGoing
   maintenancefrequency: continual
@@ -55,7 +48,7 @@ contact:
     organization: Swedish University of Agricultural Sciences (SLU)
     individualname: ''
     country: Sweden
-    email: johan.stendahl@slu.se
+    email: markinventeringen@slu.se
     contactinstructions: email
 distribution:
   link:
