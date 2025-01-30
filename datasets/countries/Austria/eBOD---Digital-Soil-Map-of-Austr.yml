@@ -19,7 +19,7 @@ identification:
   unter https://bodenkarte.at/data/bodenkarte-tiles.json abrufbar. Die thematischen Layer der Bodenkarte sind im Mapbox GL Style Format beschrieben. Folgende Layer sind verfugbar. Properties:
   depth of sampling, depends on number, depth and thickness of genetic horizons and soil depth, generally 1 m'
   dates:
-    creation: 1950
+    creation: 1950 - 2025
   keywords:
     default:
       keywords:
@@ -62,4 +62,7 @@ distribution:
     url: https://bodenkarte.at/data/content/bfw/datenzugang.html
     type: www
     Name: Documentation
-
+  shp:
+    url: http://geo.bfw.ac.at/boden/downloads/boka_1km_etrs89_2016.zip
+    type: application/shp
+    name: SHP
