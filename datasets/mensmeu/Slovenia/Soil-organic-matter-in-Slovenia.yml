@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Soil-organic-matter-in-Slovenia
+  identifier: ETLA-portal-slv
   language: slv
   language_alternate: eng
   charset: utf8
@@ -13,9 +13,8 @@ spatial:
 identification:
   language: slv
   charset: utf8
-  title: Soil organic matter in Slovenia
-  abstract: 'Evaluation of soil organic matter from the available data sources (extrapolated
-    and correlated). Unofficial data in digital form'
+  title: "ETLA portal"
+  abstract: 'It provides online access to interpreted soil data and the related data that is important for agricultural production, environmental protection and natural resources.'
   dates:
     creation: 01-01-2004
   keywords:
@@ -48,17 +47,14 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: Centre for Soil and Environmental Science, Biotechnical Faculty,
-      University of Ljubljana
-    individualname: www.bf.uni-lj.si
+    organization: Agricultural Institute of Slovenia
+    individualname: ''
     country: Slovenia
-    email: gp.mkgp@gov.si
+    email: cto@kis.si
     contactinstructions: email
 distribution:
   wms:
-    url: https://etla.kis.si/KIS-WebGIS/
-    type: ogc:wms
-    name: WMS
+    url: https://www.kis.si/eTLA
 dataquality:
   scope:
     level: dataset
