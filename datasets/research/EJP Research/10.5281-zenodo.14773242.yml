@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14773242
+  dataseturi: http://doi.org/10.5281/zenodo.14773242
+  language: eng
+  hierarchylevel: dataset
+  datestamp: '2024-09-19T16:23:56Z'
+identification:
+  title: 'Covariate datasets used to predict soil property distribution in EJP Soil mapping'
+  abstract: >
+    These datasets were prepared within the scope of the EJP SOIL programme. The datasets are extracted from different sources, clipped and reprojected to EPSG:3035. The sources are listed in the table below. The datasets were used as environmental layers to prodict soil property distribution (soil maps) at National and continental level within the EJP SOIL programme. 
+    Dataset sources:
+    - Copernicus Climate Data Store	https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land-monthly-means?tab=overview
+    - RESOLVE Biodiversity and Wildlife Solutions	https://ecoregions2017.appspot.com/
+    - Copernicus Land Monitoring Service	https://sentinel.esa.int/web/sentinel/user-guides/sentinel-1-sar/
+    - European Union/ESA/Copernicus	https://sentinel.esa.int/web/sentinel/user-guides/sentinel-1-sar/
+    - GLiM - Global Lithological Map	https://www.geo.uni-hamburg.de/en/geologie/forschung/aquatische-geochemie/glim.html
+  dates:
+    publication: 2025-01-30
+  language: eng
+  license:
+    name: Creative Commons Attribution 4.0 International
+  rights: Creative Commons Attribution 4.0 International
+  keywords:
+    default:
+      keywords:
+      - surface runoff 
+      - solar radiation
+      - temperature
+      - athmospheric precipitation
+      - land cover
+      - altitude
+      - Europe
+      - lithology
+      - EJP Soil
+contact:
+  publisher:
+    role: publisher
+    individualname: Fenny van Egmond
+    organization: Wageningen Environmental Research
+    url: https://orcid.org/0000-0002-2608-9889
+  author1:
+    role: creator
+    individualname: Laura Poggio
+    organization: ISRIC - World Soil Information
+    url: https://orcid.org/0000-0003-1892-0764
+  author2:
+    role: creator
+    individualname: Ruiperez, Maria
+    organization: ISRIC - World Soil Information
+    url: https://orcid.org/0000-0003-0960-0873
+
+distribution:
+  primary:
+    name: 'covars.zip'
+    type: application/zip
+    url: http://doi.org/10.5281/zenodo.14773242
