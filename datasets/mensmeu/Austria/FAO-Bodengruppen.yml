@@ -52,10 +52,8 @@ contact:
     email: boden@umweltbundesamt.at
     contactinstructions: email
 distribution:
-  xls:
+  link:
     url: https://www.umweltbundesamt.at/umweltthemen/boden/boris/boris-datenzugang
-    type: application/xls
-    name: XLS
 dataquality:
   scope:
     level: dataset
