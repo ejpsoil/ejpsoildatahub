@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Soil-and-crop-inventory
+  language: swe
+  charset: utf8
+  hierarchylevel: dataset
+  datestamp: null
+  dataseturi: https://www.slu.se/en/departments/soil-environment/environment/akermarksinventeringen/undersokningar/soil-and-crop-inventory/
+spatial:
+  scale: null
+  resolution: null
+identification:
+  language: swe
+  charset: utf8
+  title: Soil and crop inventory
+  abstract: 'Swedish national soil monitoring programme of agricultural soils. The programme started in 1995 and covers about 2000 sites in a regular grid across agricultural land revisited each 10th year. The programme is funded by the Swedish Environmental Protection Agency and managed by the Swedish University of Agricultural Sciences (SLU). Data. Topsoil (0-20 cm): pH H20, texture, total carbon and nitrogen, carbonate carbon, exchangeable cations (Ca, K, Mg, Na and acidity–from which cation exchange capacity and degree of base saturation is calculated), plant nutrients (ammonium-lactate acetate extractable P, K, Al and Fe; 2M HCl extractable P and K) and trace element concentrations. Subsoil (40-60 cm): texture.'
+  dates:
+    created: 1995
+  keywords:
+    default:
+      keywords:
+      - soil type
+      - basic soil properties
+    country:
+      keywords:
+      - Sweden
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+    props:
+      keywords:
+      - soildepth
+      - Soil Map
+      - PH
+      - organic carbon
+      - acidification
+      - total nitrogen
+      vocabulary:
+        name: Agrovoc - Soil properties
+        url: http://aims.fao.org/aos/agrovoc/c_330883
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: 2001
+    - end: ''
+  accessconstraints: no limitation
+  rights: 'Data without coordinates are open. Data including coordinates is open on request for research. Data including coordinates is open on request for research.'
+  url: ''
+  status: onGoing
+  maintenancefrequency: continual
+contact:
+  pointOfContact:
+    organization: Swedish University of Agricultural Sciences (SLU)
+    individualname: 'Johanna Wetterlind'
+    country: Sweden
+    email: johanna.wetterlind@slu.se
+    contactinstructions: email
+distribution:
+  link:
+    url: https://landskap.slu.se/dv
+    type: WWW:LINK
+    name: "Data without coordinates can be downloaded as tables and via API from this web"

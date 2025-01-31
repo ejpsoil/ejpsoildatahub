@@ -100,7 +100,7 @@ identification:
       - 51.50573447999966
       crs: 4326
   accessconstraints: otherRestrictions
-  rights: ''
+  rights: Flemish model license for free reuse v1.0 (https://www.vlaanderen.be/digitaal-vlaanderen/onze-diensten-en-platformen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik). The following reference should be used when using this data: Databank Ondergrond Vlaanderen - (mention the maintainer of the dataset and specifically the accessed information) - Accessed on dd/mm/jjjj, from https://www.dov.vlaanderen.be
   maintenancefrequency: it was a single survey
   status: completed
 contact:
@@ -199,14 +199,8 @@ distribution:
     description: 'WFS-feature Digitale bodemkaart van het Vlaams Gewest: bodemtypes'
     function: download
   link-10:
-    url: https://www.milieuinfo.be/dms/d/a/workspace/SpacesStore/d2562600-6855-4c62-a96f-89c9f93a6b05/20170710_bodemkaart_2_0_download.zip
+    url: https://datasets.omgeving.vlaanderen.be/be.vlaanderen.omgeving.distribution.geo.8248c032-8555-4ada-89f8-51028634fe9c.DOV_Bodem_Bodemkaart_Digitale_bodemkaart_20170710_zip
     type: WWW:DOWNLOAD-1.0-http--download
     name: Download Bodemkaart
     description: Link naar download Bodemkaart
-    function: null
-  link-11:
-    url: https://www.dov.vlaanderen.be/portaal/?module=verkenner&pos=117979.5%2C170196.7&res=1.4000000000044093&layers=n%3Aomwrgbmrvl%3Bo%3Aref%2Cn%3Agrb_sel%3Bo%3Aref%2Cn%3Ato\%3Ato_topnzw_2009_raster_10k_tr%3Bo%3Aref%3Bt%3Awms%3Bv%3An%2Cn%3Abodemkaart\%3Abodemtypes%3Bo%3Adov%3Bt%3Awms%2Cn%3Abodemkaart\%3Asubstraten%3Bo%3Adov%3Bt%3Awms%2Cn%3Abodemkaart\%3Afasen%3Bo%3Adov%3Bt%3Awms%2Cn%3Abodemkaart\%3Avar_moedermateriaal%3Bo%3Adov%3Bt%3Awms%2Cn%3Abodemkaart\%3Avar_profielontwikkeling%3Bo%3Adov%3Bt%3Awms&do=doorprik
-    type: WWW:LINK-1.0-http--related
-    name: DOV bodemkaart
-    description: Link naar de bodemkaart in de DOV verkenner applicatie
     function: null

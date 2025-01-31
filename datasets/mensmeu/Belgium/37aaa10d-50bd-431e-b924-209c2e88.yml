@@ -7,6 +7,7 @@ metadata:
   language: dut
   language_alternate: eng
   charset: utf8
+  dataseturi: https://dov.vlaanderen.be/geonetwork/srv/dut/catalog.search#/metadata/37aaa10d-50bd-431e-b924-209c2e88b9d7
 identification:
   title: Soil Organic Carbon Stock Maps for Belgium
   abstract: 'Soil Organic Carbon Stock Maps for Belgium: mean (1 km grid)'

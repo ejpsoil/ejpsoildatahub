@@ -9,7 +9,7 @@ metadata:
   dataseturi: https://jordbruksverket.se/e-tjanster-databaser-och-appar/e-tjanster-och-databaser-stod/kartor-och-gis#h-Laddanerkartskikt
 spatial:
   resolution: null
-  datatype: "FARMER_Block LPI,POLYGON WITH Land Parcel Identification (LPI) is  available for farmer''s block'
+  datatype: 'FARMER_Block LPI,POLYGON WITH Land Parcel Identification (LPI) is  available for farmer''s block'
 identification:
   language: null
   charset: utf8
