@@ -14,6 +14,7 @@ identification:
   dates:
     issued: '2021'
     publication: '2021'
+  rights: 'https://spdx.org/licenses/etalab-2.0.html'
 distribution:
   contentUrl:
     url: https://entrepot.recherche.data.gouv.fr/citation?persistentId=doi:10.15454/LV9ZRW

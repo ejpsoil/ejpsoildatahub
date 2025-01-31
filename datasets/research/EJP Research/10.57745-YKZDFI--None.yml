@@ -1,8 +1,8 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: https---doi.org-10.57745-ykzdfi
-  dataseturi: https---doi.org-10.57745-ykzdfi
+  identifier: 10.57745-ykzdfi
+  dataseturi: https://doi.org/10.57745/ykzdfi
   datestamp: ''
 identification:
   title: 'Etude 4pour1000 : BANCO simulation data for publication of the article "A
@@ -16,7 +16,7 @@ identification:
   language: ''
   dates:
     creation: ''
-  rights: ''
+  rights: 'https://spdx.org/licenses/etalab-2.0.html'
   extents:
     spatial:
     - bbox: []

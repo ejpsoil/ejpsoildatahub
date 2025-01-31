@@ -3,7 +3,7 @@ mcf:
 metadata:
   identifier: 10.5281-zenodo.6389949
   dataseturi: http://doi.org/10.5281/zenodo.6389949
-  hierarchylevel: other
+  hierarchylevel: dataset
 identification:
   title: 'Supplementary material to: Quality Assessment of Meta-Analyses on Soil Organic
     Carbon'
@@ -21,7 +21,7 @@ identification:
   dates:
     issued: '2022-11-28'
     publication: '2022'
-  rights: ''
+  rights: 'Creative Commons Attribution 4.0 International'
   keywords:
     default:
       keywords:

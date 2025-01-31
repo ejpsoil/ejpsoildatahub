@@ -9,8 +9,6 @@ identification:
   abstract: "Template (Excel Spreadsheet)\_\_designed for the EJPSOIL CarboSeq WP2\
     \ to collect (meta)data of long term agricultural field experiments for Tier2\
     \ (SOC) and where available Tier 3 (carbon input) from Europe.\_"
-  license:
-    name: ''
   dates:
     issued: '2023-06-29'
     publication: '2023'
