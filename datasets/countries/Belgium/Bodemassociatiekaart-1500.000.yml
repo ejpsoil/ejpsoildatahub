@@ -14,7 +14,8 @@ identification:
   language: null
   charset: utf8
   title: Bodemassociatiekaart (1:500.000)
-  abstract: Digitaal vectoriële dataset met het overzicht van het voorkomen en de classificatie van de bodemassociaties in Vlaanderen, zoals gepubliceerd in de Atlas van België (uitgave 1972), op de kaartbladen 11A en 11B (op kaartschaal 1 : 500 000). Een bodemassociatie is een inhoudelijke en ruimtelijke groepering van bodemseries (legende-eenheden van de Belgische bodemkaart 1:20.000). Een associatie is gekarakteriseerd door een vrij constante verhouding tussen de oppervlakte ingenomen door een aantal typische bodemseries. Dikwijls wordt de aard van de associatie aangegeven in termen van een dominante, geassociëerde en geïncludeerde serie. Voor gebieden waarvoor in het begin van de jaren 70 nog geen bodemkaart beschikbaar was, heeft men extrapolaties gemaakt mbv geologische informatie en expertkennis.
+  abstract: >
+    Digitaal vectoriële dataset met het overzicht van het voorkomen en de classificatie van de bodemassociaties in Vlaanderen, zoals gepubliceerd in de Atlas van België (uitgave 1972), op de kaartbladen 11A en 11B (op kaartschaal 1 : 500 000). Een bodemassociatie is een inhoudelijke en ruimtelijke groepering van bodemseries (legende-eenheden van de Belgische bodemkaart 1:20.000). Een associatie is gekarakteriseerd door een vrij constante verhouding tussen de oppervlakte ingenomen door een aantal typische bodemseries. Dikwijls wordt de aard van de associatie aangegeven in termen van een dominante, geassociëerde en geïncludeerde serie. Voor gebieden waarvoor in het begin van de jaren 70 nog geen bodemkaart beschikbaar was, heeft men extrapolaties gemaakt mbv geologische informatie en expertkennis.
   dates:
     creation: '1972'
   keywords:
@@ -33,7 +34,8 @@ identification:
     temporal:
     - begin: '1972'
   accessconstraints: No restrictions
-  rights: Flemish model license for free reuse v1.0 (https://www.vlaanderen.be/digitaal-vlaanderen/onze-diensten-en-platformen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik). The following reference should be used when using this data: Databank Ondergrond Vlaanderen - (mention the maintainer of the dataset and specifically the accessed information) - Accessed on dd/mm/jjjj, from https://www.dov.vlaanderen.be
+  rights: >
+    Flemish model license for free reuse v1.0 (https://www.vlaanderen.be/digitaal-vlaanderen/onze-diensten-en-platformen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik). The following reference should be used when using this data: Databank Ondergrond Vlaanderen - (mention the maintainer of the dataset and specifically the accessed information) - Accessed on dd/mm/jjjj, from https://www.dov.vlaanderen.be
   maintenancefrequency: it was a single survey
 contact:
   pointOfContact:

@@ -100,7 +100,8 @@ identification:
       - 51.50573447999966
       crs: 4326
   accessconstraints: otherRestrictions
-  rights: Flemish model license for free reuse v1.0 (https://www.vlaanderen.be/digitaal-vlaanderen/onze-diensten-en-platformen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik). The following reference should be used when using this data: Databank Ondergrond Vlaanderen - (mention the maintainer of the dataset and specifically the accessed information) - Accessed on dd/mm/jjjj, from https://www.dov.vlaanderen.be
+  rights: >
+    Flemish model license for free reuse v1.0 (https://www.vlaanderen.be/digitaal-vlaanderen/onze-diensten-en-platformen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik). The following reference should be used when using this data: Databank Ondergrond Vlaanderen - (mention the maintainer of the dataset and specifically the accessed information) - Accessed on dd/mm/jjjj, from https://www.dov.vlaanderen.be
   maintenancefrequency: it was a single survey
   status: completed
 contact:

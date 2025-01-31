@@ -17,7 +17,6 @@ identification:
     creation: '2017-12-05'
     publication: '2017-12-14'
     modified: '2020-11-19'
-    creation: 14-12-2017
   keywords:
     keywords-0:
       type: null
@@ -81,7 +80,8 @@ identification:
     - end: ''
   accessconstraints: no limitation
   status: onGoing
-  rights: Flemish model license for free reuse v1.0 (https://www.vlaanderen.be/digitaal-vlaanderen/onze-diensten-en-platformen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik). The following reference should be used when using this data: Databank Ondergrond Vlaanderen - (mention the maintainer of the dataset and specifically the accessed information) - Accessed on dd/mm/jjjj, from https://www.dov.vlaanderen.be
+  rights: >
+    Flemish model license for free reuse v1.0 (https://www.vlaanderen.be/digitaal-vlaanderen/onze-diensten-en-platformen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik). The following reference should be used when using this data: Databank Ondergrond Vlaanderen - (mention the maintainer of the dataset and specifically the accessed information) - Accessed on dd/mm/jjjj, from https://www.dov.vlaanderen.be
   fees: ''
   language: dut
   charset: utf8

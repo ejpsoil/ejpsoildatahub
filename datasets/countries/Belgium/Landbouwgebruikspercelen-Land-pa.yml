@@ -34,7 +34,8 @@ identification:
     temporal:
     - begin: '2008'
   accessconstraints: No restrictions
-  rights: Flemish model license for free reuse v1.0 (https://www.vlaanderen.be/digitaal-vlaanderen/onze-diensten-en-platformen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik). The following reference should be used when using this data: Source: Dept. LV
+  rights: >
+    Flemish model license for free reuse v1.0 (https://www.vlaanderen.be/digitaal-vlaanderen/onze-diensten-en-platformen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik). The following reference should be used when using this data: Source: Dept. LV
   maintenancefrequency: regular monitoring, yearly
 contact:
   pointOfContact:
