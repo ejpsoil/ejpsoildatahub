@@ -16,16 +16,7 @@ identification:
   charset: utf8
   title: "Stocks of organic carbon in German agricultural soils\u2014Key results of\_\
     the\_first comprehensive inventory"
-  abstract: 'At each site, soil profiles were dug to 100 cm depth. Soil morphology
-    was characterised based on soil horizons following AD-HOC-AG Boden (2005), while
-    composite soil samples for laboratory analysis were taken at fixed depth increments
-    (0-10, 10-30, 30-50, 50-70 and 70-100 cm). If a horizon boundary was at least
-    5 cm above or below a sampling boundary, an additional soil sample was taken.
-    This allowed laboratory and field data to be merged. Farmers were asked on land
-    use and management using a questionnaire. This was the first soil German Agricultural
-    Soil Inventory. A second one is planned. After that?
-
-    '
+  abstract: 'At each of 3104 sites (cropland, grassland and permanent crops) in a 8x8 km grid, soil profiles were dug to a depth of 100 cm. Soil morphology was characterised based on soil horizons following AD-HOC-AG Boden (2005), while composite soil samples for laboratory analysis were taken at fixed depth increments (0-10, 10-30, 30-50, 50-70 and 70-100 cm). If a horizon boundary was at least 5 cm above or below a sampling boundary, an additional soil sample was taken. This allowed laboratory and field data to be merged. Farmers were asked on land use and management using a questionnaire. A resampling of the exact same locations started in 2023.'
   dates:
     creation: 2012-2018
   keywords:
