@@ -33,7 +33,7 @@ identification:
     temporal:
     - begin: '2020'
   accessconstraints: No restrictions
-  rights: 'Read use constraints in the BGR Geoportal (link above)'
+  rights: 'Read use constraints in the BGR Geoportal'
   maintenancefrequency: it was a single survey
 contact:
   pointOfContact:
