@@ -33,7 +33,7 @@ identification:
     temporal:
     - begin: '2020'
   accessconstraints: No restrictions
-  rights: ''
+  rights: 'Read use constraints in the BGR Geoportal (link above)'
   maintenancefrequency: it was a single survey
 contact:
   pointOfContact:
@@ -47,5 +47,5 @@ dataquality:
 distribution:
   link-0:
     url: https://geoportal.bgr.de/mapapps/resources/apps/geoportal/index.html?lang=en#/datasets/portal/f9ca7f17-90b4-43e3-9f9c-15472ea7ab8d
-    type: www
-    name: 'Geoportal of the Federal Institute for Geosciences and Natural Resources'
+    type: WWW:LINK
+    name: 'BGR Geoportal - INSPIRE: The General Geological Map of the Federal Republic of Germany 1:250,000 (GÜK250)'
