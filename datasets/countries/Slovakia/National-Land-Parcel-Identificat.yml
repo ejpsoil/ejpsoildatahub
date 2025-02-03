@@ -6,7 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://rpi.gov.sk/metadata/78e13db7-1f60-4d5e-b010-c5ceaed31584
+  dataseturi: https://rpi.gov.sk/metadata/84fd1bec-4108-4ec3-a16f-8b1f1675afaf
 spatial:
   resolution: 3,513888889
   datatype: PHYSICAL_Block_LPI,POLYGON WITH Land Parcel Identification (LPI) is  available
