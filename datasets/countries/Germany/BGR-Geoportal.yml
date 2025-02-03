@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: "maps-in-BGR-geoportal"
+  language: eng
+  charset: utf8
+  datestamp: 2022-01-01
+  hierarchylevel: dataset
+  dataseturi: https://geoportal.bgr.de/mapapps/resources/apps/geoportal/index.html?lang=en#/search?core=portal&term=%24iso_hierachyLevelName_facet%3ABoden
+spatial:
+  resolution: null
+  datatype: PDF maps
+identification:
+  language: null
+  charset: utf8
+  title: "Maps in the BGR Geoportal"
+  abstract: 'Some soil maps of Germany that do not yet take into account the results of the German Agricultural Soil Inventory.'
+  dates:
+    creation: several
+  keywords:
+    default:
+      keywords:
+      - Maps
+    country:
+      keywords:
+      - Germany
+      vocabulary:
+        name: Country
+        url: http://publications.europa.eu/resource/authority/country
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    temporal:
+    - begin: ''
+  accessconstraints: No restrictions
+  rights: 'Find the usage rights in the metadata of each map.'
+  maintenancefrequency: ''
+contact:
+  pointOfContact:
+    organization: Federal Institute for Geosciences and Natural Resources (BGR)
+    country: Germany
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: ''
+distribution:
+  link-0:
+    url: https://services.bgr.de/uebersicht/kurzlinks
+    type: WWW:LINK
+    name: 'Short links to map services of the GDI-BGR'
+
