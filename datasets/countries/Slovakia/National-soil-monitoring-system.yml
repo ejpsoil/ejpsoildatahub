@@ -51,8 +51,9 @@ distribution:
     url: https://rpi.gov.sk/metadata/cb55a460-1303-4891-b938-e6f3375060ec
     type: WWW:LINK
     name: INSPIRE metadata
-    description: "Find here the metadata and the WMS and WFS links"
+    description: 'Find here the metadata and the WMS and WFS links'
   link-2:
     url: https://gis.nlcsk.org/arcgis/rest/services/MPRV/CMSPoda/MapServer
     type: WWW:LINK
-    name: Access the ArcGIS Online Map Viewer
+    name: 'MPRV/CMSPoda (MapServer)'
+    description: 'Access to the ArcGIS Online Map Viewer (among others).'
