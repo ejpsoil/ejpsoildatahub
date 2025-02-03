@@ -14,7 +14,7 @@ identification:
   language: null
   charset: utf8
   title: General Geological Map of the Federal Republic of Germany
-  abstract: ''
+  abstract: 'The GÜK250 (INSPIRE) represents the surface geology of Germany on a scale of 1:250,000.'
   dates:
     creation: '2020'
   keywords:
@@ -44,3 +44,8 @@ dataquality:
     level: dataset
   lineage:
     statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
+distribution:
+  link-0:
+    url: https://geoportal.bgr.de/mapapps/resources/apps/geoportal/index.html?lang=en#/datasets/portal/f9ca7f17-90b4-43e3-9f9c-15472ea7ab8d
+    type: www
+    name: 'Geoportal of the Federal Institute for Geosciences and Natural Resources'
