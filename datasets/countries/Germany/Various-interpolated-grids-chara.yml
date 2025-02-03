@@ -14,9 +14,7 @@ identification:
   language: null
   charset: utf8
   title: Various interpolated grids characterizing weather and climate in Germany
-  abstract: 'regular monitoring
-
-    '
+  abstract: 'Regular monitoring'
   dates:
     creation: 1881 until today
   keywords:
@@ -35,7 +33,7 @@ identification:
     temporal:
     - begin: 1881 until today
   accessconstraints: No restrictions
-  rights: ''
+  rights: 'Each dataset has a description document, with its respective copyright.'
   maintenancefrequency: otherRestrictions
 contact:
   pointOfContact:
