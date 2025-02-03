@@ -3,10 +3,10 @@ mcf:
 metadata:
   identifier: "Vodn\xE1-er\xF3zia-p\xF4dy-v-p\xF4dno-klimatick\xFDch-podmienkach-slovenska"
   language: slo
-  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2013-01-01
+  dataseturi: https://rpi.gov.sk/metadata/95cd7f24-0ff6-4ad0-9d4d-a768ccd3cab9
 spatial:
   scale: 1:100000
   resolution: null
