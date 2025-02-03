@@ -6,7 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://services.bgr.de/wms/boden/buek200/?
+  dataseturi: https://geoportal.bgr.de/mapapps/resources/apps/geoportal/index.html?lang=de#/datasets/portal/154997F4-3C14-4A53-B217-8A7C7509E05F
 spatial:
   resolution: 1:200.000
   datatype: NATURAL_POLYGONs, polygons with natural boundaries
@@ -34,11 +34,11 @@ identification:
     temporal:
     - begin: '2020'
   accessconstraints: No restrictions
-  rights: ''
+  rights: 'Find the restrictions on use in the Geoportal.'
   maintenancefrequency: it was a single survey
 contact:
   pointOfContact:
-    organization: 'Federal Institute for Geosciences and Natural Resources (BGR) '
+    organization: 'Federal Institute for Geosciences and Natural Resources (BGR)'
     country: Germany
 dataquality:
   scope:
