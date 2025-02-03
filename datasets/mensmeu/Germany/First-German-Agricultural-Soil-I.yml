@@ -50,8 +50,8 @@ identification:
     - begin: an interval of dates
     - end: ''
   accessconstraints: no limitation
-  rights: no conditions apply
-  url: https://arcg.is/1XXTyv0
+  rights: 'CC BY 4.0'
+  url: https://creativecommons.org/licenses/by/4.0/
   status: onGoing
   maintenancefrequency: continual
 contact:
