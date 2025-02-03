@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Soil-texture-classes-of-Slovenia
+  identifier: Soil-texture-classes-of-Slovenia-usda
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -12,7 +12,7 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: "Soil texture classes of Slovenia"
+  title: "USDA Taxonomy - Soil texture classes of Slovenia"
   abstract:
     'USDA soil texture class definitions are  traditionaly used in Slovenia. See USDA texture class classification. Unofficial data of texture classification, based on the American texture. Classification system (after Plaster, 1992), in Digital form (parcel-specific,no). '
   dates:
