@@ -46,11 +46,6 @@ contact:
     country: Hungary
     email: pasztor@rissac.hu
     contactinstructions: email
-dataquality:
-  scope:
-    level: dataset
-  lineage:
-    statement: null
 distributon:
   link-1:
     url: https://dosoremi.hu/maps/szen-keszlet-2010-0-30-cm/
@@ -60,3 +55,8 @@ distributon:
     url: https://dosoremi.hu/attekinto/
     type: WWW:LINK
     description: 'dosoremi.hu'
+dataquality:
+  scope:
+    level: dataset
+  lineage:
+    statement: null
