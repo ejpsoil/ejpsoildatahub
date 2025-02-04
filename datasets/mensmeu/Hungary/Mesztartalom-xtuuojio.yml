@@ -65,16 +65,6 @@ contact:
     country: Hungary
     email: pasztor@rissac.hu
     contactinstructions: email
-distribution:
-  link-1:
-    url: https://dosoremi.hu/maps/mesztartalom-0-30-cm/
-    type:  WWW:LINK
-    name: dosoremi.hu/maps/mesztartalom-0-30-cm
-  link-2:
-    url: https://dosoremi.hu/attekinto/
-    type:  WWW:LINK
-    name: dosoremi.hu
-    description: 'overview of the available layers on DOSoReMI.hu'
 mcf:
   version: 1.0
 spatial:
@@ -85,3 +75,13 @@ dataquality:
     level: dataset
   lineage:
     statement: null
+distribution:
+  link-1:
+    url: https://dosoremi.hu/maps/mesztartalom-0-30-cm/
+    type:  WWW:LINK
+    name: dosoremi.hu/maps/mesztartalom-0-30-cm
+  link-2:
+    url: https://dosoremi.hu/attekinto/
+    type:  WWW:LINK
+    name: dosoremi.hu
+    description: 'overview of the available layers on DOSoReMI.hu'
