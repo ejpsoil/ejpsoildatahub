@@ -14,10 +14,7 @@ identification:
   language: null
   charset: utf8
   title: Nitrate database
-  abstract: 'yearly, from questionnaires, farmer''s estimatins Annual data of fertilizer
-    and manure application in nitrate vulnerable zones.
-
-    '
+  abstract: 'yearly, from questionnaires, farmer''s estimatins Annual data of fertilizer and manure application in nitrate vulnerable zones.'
   dates:
     creation: 2011-
   keywords:
@@ -36,7 +33,7 @@ identification:
     temporal:
     - begin: 2011-
   accessconstraints: otherRestrictions
-  rights: ''
+  rights: 'non-public data, farmers'' reporting to government bodies, may be requested for research purposes'
   maintenancefrequency: regular monitoring, yearly
 contact:
   pointOfContact:
@@ -46,5 +43,7 @@ dataquality:
   scope:
     level: dataset
   lineage:
-    statement: 'yearly, from questionnaires, farmer''s estimatins. Mapping: . Depth
-      intervals: otherRestrictions. Uncertainty quantification: '
+    statement: 'yearly, from questionnaires, farmer''s estimatins. Mapping: . Depth intervals: otherRestrictions. Uncertainty quantification: '
+distribution:
+  link:
+    url: https://portal.nebih.gov.hu/nitrat-adatszolgaltatas
