@@ -62,9 +62,6 @@ contact:
   Ovid-Technologies-Wolters-Kluwer-Health:
     individualname: Ovid Technologies (Wolters Kluwer Health)
     role: creator
-  ? ''
-  : individualname: ''
-    role: creator
 dataquality:
   scope:
     level: dataset
