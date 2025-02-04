@@ -14,14 +14,7 @@ identification:
   language: Slovak
   charset: utf8
   title: National Soil Monitoring System in Slovakia
-  abstract: >
-    The data set represents digital data archived from the "partial monitoring system - soil" 
-    as part of the environmental monitoring of Slovakia. The main objective of soil monitoring 
-    is the temporary registration of changes in soil properties important from the environmental 
-    perspective. An important part of CMSP is the monitoring of risk elements in the soils and the 
-    possibilities of their entry into the food chain. Regular update allows you to monitor temporary 
-    development and changes in the soil properties of the current situation as well as trends in soil 
-    contamination.
+  abstract: 'The data set represents digital data archived from the "partial monitoring system - soil" as part of the environmental monitoring of Slovakia. The main objective of soil monitoring is the temporary registration of changes in soil properties important from the environmental perspective. An important part of CMSP is the monitoring of risk elements in the soils and the possibilities of their entry into the food chain. Regular update allows you to monitor temporary development and changes in the soil properties of the current situation as well as trends in soil contamination.'
   dates:
     creation: 1993
     modification: 2018
@@ -52,10 +45,7 @@ dataquality:
   scope:
     level: dataset
   lineage:
-    statement: >
-      borehole/profile, chemical properties-disturbed samples, physical
-      properties - undisturbed samples. Mapping: conventional mapping. Depth intervals:
-      Other  depth intervals (specify in comments). Uncertainty quantification: NO
+    statement: 'borehole/profile, chemical properties-disturbed samples, physical properties - undisturbed samples. Mapping: conventional mapping. Depth intervals: Other  depth intervals (specify in comments). Uncertainty quantification: NO'
 distribution:
   link-1:
     url: https://rpi.gov.sk/metadata/cb55a460-1303-4891-b938-e6f3375060ec
