@@ -46,4 +46,5 @@ dataquality:
 distribution:
   link:
     url: https://portal.nebih.gov.hu/-/a-tim-azaz-a-talajvedelmi-informacios-es-monitoring-rendszer-
+    type: WWW:LINK
     description: 'SIMS is not available directly.'
