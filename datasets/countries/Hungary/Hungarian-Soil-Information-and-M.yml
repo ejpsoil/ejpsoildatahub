@@ -13,9 +13,7 @@ identification:
   language: null
   charset: utf8
   title: Hungarian Soil Information and Monitoring System
-  abstract: 'from profiles, detailed description of profiles, horizon-based sampling
-    before 2000y, equidistant after 2000y, bulk and undisturbed samples also. Bulk
-    samples mainly, BD measurements at the first year only. '
+  abstract: 'from profiles, detailed description of profiles, horizon-based sampling before 2000y, equidistant after 2000y, bulk and undisturbed samples also. Bulk samples mainly, BD measurements at the first year only. '
   dates:
     creation: 1992-2010
   keywords:
@@ -38,15 +36,14 @@ identification:
   maintenancefrequency: regular  monitoring 2-5 years
 contact:
   pointOfContact:
-    organization: "Directorate of Plant Protection and Soil Conservation, National\
-      \ Food Chain Safety Office (N\xC9BIH)"
+    organization: "Directorate of Plant Protection and Soil Conservation, National Food Chain Safety Office (N\xC9BIH)"
     country: Hungary
 dataquality:
   scope:
     level: dataset
   lineage:
-    statement: 'from profiles, detailed description of profiles, horizon-based sampling
-      before 2000y, equidistant after 2000y, bulk and undisturbed samples also. Bulk
-      samples mainly, BD measurements at the first year only.. Mapping:  -. Depth
-      intervals: Genetic-based horizons (A, Ap, B, C etc) before 2000y. Uncertainty
-      quantification: NO'
+    statement: 'from profiles, detailed description of profiles, horizon-based sampling before 2000y, equidistant after 2000y, bulk and undisturbed samples also. Bulk samples mainly, BD measurements at the first year only.. Mapping:  -. Depth intervals: Genetic-based horizons (A, Ap, B, C etc) before 2000y. Uncertainty quantification: NO'
+distribution:
+  link:
+    url: https://portal.nebih.gov.hu/-/a-tim-azaz-a-talajvedelmi-informacios-es-monitoring-rendszer-
+    description: 'SIMS is not available directly.'
