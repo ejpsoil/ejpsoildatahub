@@ -53,6 +53,8 @@ contact:
 distribution:
   link:
     url: https://www.umweltbundesamt.at/umweltthemen/boden/boris/boris-datenzugang
+    type: WWW:LINK
+    name: 'BORIS Datenzugang'
 dataquality:
   scope:
     level: dataset
