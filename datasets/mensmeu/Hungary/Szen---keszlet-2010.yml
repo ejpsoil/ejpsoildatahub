@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: "szen-keszlet-2010"
+  identifier: "szen-keszlet-hun"
   language: hun
   charset: utf8
   hierarchylevel: dataset
