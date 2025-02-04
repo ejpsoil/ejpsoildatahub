@@ -24,19 +24,7 @@ identification:
       vocabulary:
         name: Agrovoc - Soil properties
         url: http://aims.fao.org/aos/agrovoc/c_330883
-  extents:
-    spatial:
-    - bbox:
-      - 16.017342
-      - 45.677829
-      - 22.940658
-      - 48.609565
-      crs: '4326'
-    temporal:
-    - begin: ''
-    - end: ''
   rights: no conditions apply
-  fees: ''
   language: hun
   charset: utf8
   dates:
@@ -65,16 +53,6 @@ contact:
     country: Hungary
     email: pasztor@rissac.hu
     contactinstructions: email
-mcf:
-  version: 1.0
-spatial:
-  scale: null
-  resolution: 100m
-dataquality:
-  scope:
-    level: dataset
-  lineage:
-    statement: null
 distributon:
   link-1:
     url: https://dosoremi.hu/maps/szervesanyag-tartalom-0-30-cm/
