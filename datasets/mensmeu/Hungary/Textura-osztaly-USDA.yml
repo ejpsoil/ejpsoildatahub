@@ -56,8 +56,8 @@ distributon:
   link-1:
     url: https://dosoremi.hu/maps/textura-osztaly-usda-0-30-cm/
     type: WWW:LINK
-    name: 'textura-osztaly-usda-0-30-cm'
+    description: 'textura-osztaly-usda-0-30-cm'
   link-2:
     url: https://dosoremi.hu/attekinto/
     type: WWW:LINK
-    name: 'dosoremi.hu'
+    description: 'dosoremi.hu'
