@@ -47,3 +47,5 @@ dataquality:
 distribution:
   link:
     url: https://portal.nebih.gov.hu/nitrat-adatszolgaltatas
+    type: WWW:LINK
+    description: 'Nitrate data -related frequently repeated questions'
