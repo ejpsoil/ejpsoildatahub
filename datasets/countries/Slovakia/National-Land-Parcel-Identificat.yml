@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: National-Land-Parcel-Identification-System
+  identifier: National-Land-Parcel-Identification-System-v2
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -9,8 +9,7 @@ metadata:
   dataseturi: https://rpi.gov.sk/metadata/84fd1bec-4108-4ec3-a16f-8b1f1675afaf
 spatial:
   resolution: 3,513888889
-  datatype: PHYSICAL_Block_LPI,POLYGON WITH Land Parcel Identification (LPI) is  available
-    for physical/topographical block
+  datatype: 'PHYSICAL_Block_LPI,POLYGON WITH Land Parcel Identification (LPI) is  available for physical/topographical block'
 identification:
   language: null
   charset: utf8
@@ -44,15 +43,13 @@ dataquality:
   scope:
     level: dataset
   lineage:
-    statement: "aerial images/satellite images/ground survey. Mapping: photo\u2011\
-      interpretation. Depth intervals: otherRestrictions. Uncertainty quantification:\
-      \ NO"
+    statement: "aerial images/satellite images/ground survey. Mapping: photo\u2011\ interpretation. Depth intervals: otherRestrictions. Uncertainty quantification: NO"
 distribution:
   link-1:
     url: https://www.nlcsk.org/mgs/services/MPRV/LU_LPIS/MapServer/WMSServer?version=1.3.0&service=WMS&request=GetCapabilities
     type: WMS
-    name: WMS
+    name: WMS link
   link-2:
     url: https://www.nlcsk.org/mgs/services/MPRV/LU_LPIS/MapServer/WFSServer?service=WFS&AcceptVersions=2.0.0&request=GetCapabilities
     type: WFS
-    name: WFS
+    name: WFS link
