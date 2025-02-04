@@ -74,9 +74,6 @@ contact:
   Wiley:
     individualname: Wiley
     role: creator
-  ? ''
-  : individualname: ''
-    role: creator
 dataquality:
   scope:
     level: dataset
