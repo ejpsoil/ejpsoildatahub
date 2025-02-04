@@ -55,8 +55,8 @@ distributon:
   link-1:
     url: https://dosoremi.hu/maps/szen-keszlet-2010-0-30-cm/
     type: WWW:LINK
-    name: 'szen-keszlet-2010-0-30-cm'
+    description: 'szen-keszlet-2010-0-30-cm'
   link-2:
     url: https://dosoremi.hu/attekinto/
     type: WWW:LINK
-    name: 'dosoremi.hu'
+    description: 'dosoremi.hu'
