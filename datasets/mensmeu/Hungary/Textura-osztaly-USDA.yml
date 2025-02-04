@@ -35,10 +35,6 @@ identification:
         url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
-  extents:
-    temporal:
-    - begin: ''
-    - end: ''
   accessconstraints: no limitation
   rights: no conditions apply
   url: ''
