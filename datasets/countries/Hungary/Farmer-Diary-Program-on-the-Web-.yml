@@ -46,4 +46,5 @@ dataquality:
 distribution:
   link:
     url: https://gn.eurofarmer.hu/
+    type: WWW:LINK
     description: 'Only available from Hungary'
