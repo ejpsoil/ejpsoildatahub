@@ -1,15 +1,14 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Nitrate-database
+  identifier: Nitrate-database-v2
   language: eng
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
 spatial:
   resolution: 550000 parcells, 2,6 million hectares
-  datatype: AGRI_PARCEL LPI,POLYGON WITH Land Parcel Identification (LPI) is  available
-    for agricultural parcel
+  datatype: 'AGRI_PARCEL LPI,POLYGON WITH Land Parcel Identification (LPI) is  available for agricultural parcel'
 identification:
   language: null
   charset: utf8
