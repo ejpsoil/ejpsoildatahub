@@ -3,7 +3,6 @@ mcf:
 metadata:
   identifier: "Sz\xE9n---k\xE9szlet-2010"
   language: hun
-  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2018-01-01
@@ -13,7 +12,7 @@ spatial:
 identification:
   language: hun
   charset: utf8
-  title: "Sz\xE9n - k\xE9szlet 2010"
+  title: "DOSoReMI.hu: Szerves Sz\xE9n - k\xE9szlet 2010, 0-30 cm"
   abstract: 'Map of  organic carbon stock 2010; T/ha; 0-30 cm'
   dates:
     creation: 2018-01-01
@@ -51,17 +50,17 @@ contact:
     country: Hungary
     email: pasztor@rissac.hu
     contactinstructions: email
-distribution:
-  wms:
-    url: https://maps.rissac.hu:6443/arcgis/services/dosoremi_web_mercator2/MapServer/WMSServer
-    type: ogc:wms
-    name: WMS
-  JPG:
-    url: http://dosoremi.hu/tablazat.html
-    type: image/jpg
-    name: JPG
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: null
+distributon:
+  link-1:
+    url: https://dosoremi.hu/maps/szen-keszlet-2010-0-30-cm/
+    type: WWW:LINK
+    name: 'szen-keszlet-2010-0-30-cm'
+  link-2:
+    url: https://dosoremi.hu/attekinto/
+    type: WWW:LINK
+    name: 'dosoremi.hu'
