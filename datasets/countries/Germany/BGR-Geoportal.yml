@@ -14,7 +14,7 @@ identification:
   language: null
   charset: utf8
   title: "Maps in the BGR Geoportal"
-  abstract: 'Some soil maps of Germany that do not yet take into account the results of the German Agricultural Soil Inventory.'
+  abstract: 'A collection of national soil maps provided by the German Federal Institute for Geosciences and Natural Resources (BGR).'
   dates:
     creation: several
   keywords:
