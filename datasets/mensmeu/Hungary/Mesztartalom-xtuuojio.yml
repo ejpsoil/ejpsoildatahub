@@ -1,14 +1,12 @@
 metadata:
   identifier: "M\xE9sztartalom"
   language: hun
-  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2019-01-01
 identification:
-  title: "M\xE9sztartalom"
-  abstract: 'CaCO3 content (%) in soil in depths 0-5 cm, 5-15 cm, 15-30 cm, 30-60cm,
-    60-100 cm, 100-200 cm, 0-30 cm'
+  title: "DOSoReMI.hu: M\xE9sztartalom, 0-30 cm"
+  abstract: 'CaCO3 content (%) in soil in depths 0-5 cm, 5-15 cm, 15-30 cm, 30-60cm, 60-100 cm, 100-200 cm, 0-30 cm'
   keywords:
     default:
       keywords:
@@ -68,15 +66,11 @@ contact:
     email: pasztor@rissac.hu
     contactinstructions: email
 distribution:
-  wms:
-    name: 6,7,8
-    description: null
-    url: https://maps.rissac.hu:6443/arcgis/services/dosoremi_web_mercator2/MapServer/WMSServer
-    type: ogc:wms
-  JPG:
-    url: http://dosoremi.hu/tablazat.html
-    type: image/jpg
-    name: JPG
+  link-1:
+    url: https://dosoremi.hu/maps/mesztartalom-0-30-cm/
+  link-2:
+    url: https://dosoremi.hu/attekinto/
+    description: 'overview of the available layers on DOSoReMI.hu'
 mcf:
   version: 1.0
 spatial:
