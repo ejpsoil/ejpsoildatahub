@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: National-soil-monitoring-system
+  identifier: Slovakia-national-soil-monitoring-system
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -40,7 +40,7 @@ identification:
   extents:
     temporal:
     - begin: 1993
-    - end: 2018
+      end: 2018
   accessconstraints: Restricted
   rights: 'CC BY – Creative Commons Attribution'
   maintenancefrequency: regular, monitoring 2-5 years
