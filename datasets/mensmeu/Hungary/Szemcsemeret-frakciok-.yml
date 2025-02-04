@@ -1,9 +1,8 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: "Szemcsem\xE9ret-frakci\xF3k-[%]"
+  identifier: "Szemcsemeret-frakciok"
   language: hun
-  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2018-01-01
@@ -13,8 +12,8 @@ spatial:
 identification:
   language: hun
   charset: utf8
-  title: "Szemcsem\xE9ret frakci\xF3k [%]"
-  abstract: 'Clay-, silt-, sand content (%) of the soil in depths'
+  title: "DOSoReMI.hu: Szemcsem\xE9ret frakci\xF3k [%], 0-30 cm"
+  abstract: '“Szemcseméret frakciók” means percentage of particles (clay/agyag HU, silt/iszap HU, sand/homok HU), therefore we have 3 links below'
   dates:
     creation: 2018-01-01
   keywords:
@@ -53,14 +52,18 @@ contact:
     email: pasztor@rissac.hu
     contactinstructions: email
 distribution:
-  wms:
-    url: https://maps.rissac.hu:6443/arcgis/services/dosoremi_web_mercator2/MapServer/WMSServer
-    type: ogc:wms
-    name: WMS
-  JPG:
-    url: http://dosoremi.hu/tablazat.html
-    type: image/jpg
-    name: JPG
+  link-1:
+    url: https://dosoremi.hu/maps/agyagtartalom-0-30-cm/
+    type: WWW:LINK
+    description: 'agyagtartalom-0-30-cm'
+  link-2:
+    url: https://dosoremi.hu/maps/iszaptartalom-0-30-cm/
+    type: WWW:LINK
+    description: 'iszaptartalom-0-30-cm'
+  link-3:
+    url: https://dosoremi.hu/maps/homoktartalom-0-30-cm/
+    type: WWW:LINK
+    description: 'homoktartalom-0-30-cm'
 dataquality:
   scope:
     level: dataset
