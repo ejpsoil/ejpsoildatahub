@@ -38,13 +38,15 @@ identification:
   extents:
     temporal:
     - begin: '1980'
-  accessconstraints: Restricted
-  rights: ''
-  maintenancefrequency: it was a single survey
+  rights: 'Restricted - Not Open Access'
+  maintenancefrequency: No
 contact:
   pointOfContact:
     organization: Aarhus University
     country: Denmark
+    individualname: Mogens H. Greve
+    country: Denmark
+    email: greve@agro.au.dk
 dataquality:
   scope:
     level: dataset
