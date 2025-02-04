@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: Danish Land Parcel Identification System (LPIS) data
+  identifier: Danish_Land_Parcel_Identification_System
   language: eng
   charset: utf8
   datestamp: 2022-01-01
@@ -14,12 +14,8 @@ spatial:
 identification:
   language: null
   charset: utf8
-  title: Danish Farmers' Refistrations
-  abstract: 'Danish farmers'' crop registrations at field level for the Common Agricultural
-    Policy of the European Union. Polygons and crop data provided by farmers. No soil
-    observations, only land use.
-
-    '
+  title: Danish Land Parcel Identification System (LPIS) data
+  abstract: 'Danish farmers'' crop registrations at field level for the Common Agricultural Policy of the European Union. Polygons and crop data provided by farmers. No soil observations, only land use.'
   dates:
     creation: '2020'
   keywords:
@@ -37,7 +33,7 @@ identification:
   extents:
     temporal:
     - begin: '2005'
-  accessconstraints: No
+  accessconstraints: 'None'
   rights: 'Open Access'
   maintenancefrequency: regular monitoring, yearly
 contact:
