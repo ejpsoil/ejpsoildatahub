@@ -62,8 +62,8 @@ distributon:
   link-1:
     url: https://dosoremi.hu/maps/szervesanyag-tartalom-0-30-cm/
     type: WWW:LINK
-    name: 'Szervesanyag-tartalom-0-30-cm'
+    description: 'Szervesanyag-tartalom-0-30-cm'
   link-2:
     url: https://dosoremi.hu/attekinto/
     type: WWW:LINK
-    name: 'dosoremi.hu'
+    description: 'dosoremi.hu'
