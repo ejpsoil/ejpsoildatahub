@@ -1,14 +1,12 @@
 metadata:
   identifier: Szervesanyag-tartalom
   language: hun
-  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2018-01-01
 identification:
-  title: Szervesanyag-tartalom
-  abstract: 'Soil organic matter content (%) in depths 0-5 cm, 5-15 cm, 15-30 cm,
-    30-60cm, 60-100 cm, 100-200 cm, 0-30 cm, 60-90 cm'
+  title: 'DOSoReMI.hu: Szervesanyag-tartalom, 0-30 cm'
+  abstract: 'Soil organic matter content (%) in depths 0-5 cm, 5-15 cm, 15-30 cm, 30-60cm, 60-100 cm, 100-200 cm, 0-30 cm, 60-90 cm'
   keywords:
     default:
       keywords:
@@ -87,3 +85,12 @@ dataquality:
     level: dataset
   lineage:
     statement: null
+distributon:
+  link-1:
+    url: https://dosoremi.hu/maps/szervesanyag-tartalom-0-30-cm/
+    type: WWW:LINK
+    name: 'Szervesanyag-tartalom-0-30-cm'
+  link-2:
+    url: https://dosoremi.hu/attekinto/
+    type: WWW:LINK
+    name: 'dosoremi.hu'
