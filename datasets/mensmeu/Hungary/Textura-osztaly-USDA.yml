@@ -3,7 +3,6 @@ mcf:
 metadata:
   identifier: "Text\xFAra-oszt\xE1ly-(USDA)"
   language: hun
-  
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2018-01-01
@@ -13,7 +12,7 @@ spatial:
 identification:
   language: hun
   charset: utf8
-  title: "Text\xFAra oszt\xE1ly (USDA)"
+  title: "DOSoReMI.hu: Text\xFAra oszt\xE1ly (USDA), 0-30 cm"
   abstract: 'Soil texture classes according to the USDA classification in depths'
   dates:
     creation: 2018-01-01
@@ -52,17 +51,17 @@ contact:
     country: Hungary
     email: pasztor@rissac.hu
     contactinstructions: email
-distribution:
-  wms:
-    url: https://maps.rissac.hu:6443/arcgis/services/dosoremi_web_mercator2/MapServer/WMSServer
-    type: ogc:wms
-    name: WMS
-  JPG:
-    url: http://dosoremi.hu/tablazat.html
-    type: image/jpg
-    name: JPG
 dataquality:
   scope:
     level: dataset
   lineage:
     statement: null
+distributon:
+  link-1:
+    url: https://dosoremi.hu/maps/textura-osztaly-usda-0-30-cm/
+    type: WWW:LINK
+    name: 'textura-osztaly-usda-0-30-cm'
+  link-2:
+    url: https://dosoremi.hu/attekinto/
+    type: WWW:LINK
+    name: 'dosoremi.hu'
