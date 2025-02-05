@@ -1,5 +1,5 @@
 metadata:
-  identifier: Szervesanyag-tartalom
+  identifier: 'Szervesanyag-tartalom-v2'
   language: hun
   charset: utf8
   hierarchylevel: dataset
@@ -37,17 +37,6 @@ identification:
   status: onGoing
   maintenancefrequency: continual
 contact:
-  distributor:
-    organization: ''
-    url: https://maps.rissac.hu:6443/arcgis/services/dosoremi_web_mercator2/MapServer/WmsServer?
-    individualname: ''
-    email: null
-    address: ''
-    city: ''
-    administrativearea: ''
-    postalcode: ''
-    country: ''
-    positionname: ''
   pointOfContact:
     organization: 'Institute for Soil Sciences'
     individualname: "L\xE1szl\xF3 P\xE1sztor"
