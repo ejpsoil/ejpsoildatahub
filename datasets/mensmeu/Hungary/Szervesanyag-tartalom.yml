@@ -4,6 +4,7 @@ metadata:
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2018-01-01
+  dataseturi: https://maps.rissac.hu:6443/arcgis/rest/services/dosoremi_web_mercator2/MapServer
 identification:
   title: 'DOSoReMI.hu: Szervesanyag-tartalom, 0-30 cm'
   abstract: 'Soil organic matter content (%) in depths 0-5 cm, 5-15 cm, 15-30 cm, 30-60cm, 60-100 cm, 100-200 cm, 0-30 cm, 60-90 cm'
@@ -48,7 +49,7 @@ contact:
     country: ''
     positionname: ''
   pointOfContact:
-    organization: Institute for Soil Sciences
+    organization: 'Institute for Soil Sciences'
     individualname: "L\xE1szl\xF3 P\xE1sztor"
     country: Hungary
     email: pasztor@rissac.hu
