@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: "Szemcsemeret-frakciok"
+  identifier: 'Szemcsemeret-frakciok'
   language: hun
   charset: utf8
   hierarchylevel: dataset
@@ -12,7 +12,7 @@ spatial:
 identification:
   language: hun
   charset: utf8
-  title: "DOSoReMI.hu: Szemcsem\xE9ret frakci\xF3k [%], 0-30 cm"
+  title: 'DOSoReMI.hu: Szemcsem\xE9ret frakci\xF3k [%], 0-30 cm'
   abstract: '“Szemcseméret frakciók” means percentage of particles (clay/agyag HU, silt/iszap HU, sand/homok HU), therefore we have 3 links below'
   dates:
     creation: 2018-01-01
@@ -46,7 +46,7 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: Institute for Soil Sciences,
+    organization: 'Institute for Soil Sciences'
     individualname: "L\xE1szl\xF3 P\xE1sztor"
     country: Hungary
     email: pasztor@rissac.hu
