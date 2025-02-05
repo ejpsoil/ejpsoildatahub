@@ -30,17 +30,17 @@ identification:
       keywords:
       - carbon stock
       vocabulary:
-        name: Agrovoc - Soil properties
+        name: 'Agrovoc - Soil properties'
         url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
-  accessconstraints: no limitation
+  accessconstraints: 'no limitation'
   rights: 'no conditions apply'
   status: onGoing
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: Institute for Soil Sciences
+    organization: 'Institute for Soil Sciences'
     individualname: 'László Pásztor'
     country: Hungary
     email: pasztor@rissac.hu
