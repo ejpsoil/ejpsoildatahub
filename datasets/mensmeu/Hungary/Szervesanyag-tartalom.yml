@@ -1,5 +1,5 @@
 metadata:
-  identifier: 'Szervesanyag-tartalom-v2'
+  identifier: 'Szervesanyag-tartalom-v0'
   language: hun
   charset: utf8
   hierarchylevel: dataset
@@ -23,19 +23,18 @@ identification:
       keywords:
       - organic carbon
       vocabulary:
-        name: Agrovoc - Soil properties
+        name: 'Agrovoc - Soil properties'
         url: http://aims.fao.org/aos/agrovoc/c_330883
-  rights: no conditions apply
+  rights: 'no conditions apply'
   language: hun
   charset: utf8
   dates:
     creation: 2018-01-01
   topiccategory:
   - geoscientificInformation
-  accessconstraints: no limitation
-  url: ''
+  accessconstraints: 'no limitation'
   status: onGoing
-  maintenancefrequency: continual
+  maintenancefrequency: 'continual'
 contact:
   pointOfContact:
     organization: 'Institute for Soil Sciences'
