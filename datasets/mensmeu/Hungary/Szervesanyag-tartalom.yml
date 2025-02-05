@@ -1,5 +1,5 @@
 metadata:
-  identifier: Szervesanyag-tartalom-v2
+  identifier: Szervesanyag-tartalom
   language: hun
   charset: utf8
   hierarchylevel: dataset
@@ -48,7 +48,7 @@ contact:
     country: ''
     positionname: ''
   pointOfContact:
-    organization: Institute for Soil Sciences,
+    organization: Institute for Soil Sciences
     individualname: "L\xE1szl\xF3 P\xE1sztor"
     country: Hungary
     email: pasztor@rissac.hu
