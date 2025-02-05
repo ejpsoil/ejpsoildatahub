@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: "szen-keszlet-hun"
+  identifier: "szen-keszlet-hun-v0"
   language: hun
   charset: utf8
   hierarchylevel: dataset
@@ -12,7 +12,7 @@ spatial:
 identification:
   language: hun
   charset: utf8
-  title: "DOSoReMI.hu: Szerves Sz\xE9n - k\xE9szlet 2010, 0-30 cm"
+  title: 'DOSoReMI.hu: Szerves Sz\xE9n - k\xE9szlet 2010, 0-30 cm'
   abstract: 'Map of  organic carbon stock 2010; T/ha; 0-30 cm'
   dates:
     creation: 2018-01-01
@@ -35,14 +35,13 @@ identification:
   topiccategory:
   - geoscientificInformation
   accessconstraints: no limitation
-  rights: no conditions apply
-  url: ''
+  rights: 'no conditions apply'
   status: onGoing
   maintenancefrequency: continual
 contact:
   pointOfContact:
     organization: Institute for Soil Sciences
-    individualname: "L\xE1szl\xF3 P\xE1sztor"
+    individualname: 'L\xE1szl\xF3 P\xE1sztor'
     country: Hungary
     email: pasztor@rissac.hu
     contactinstructions: email
