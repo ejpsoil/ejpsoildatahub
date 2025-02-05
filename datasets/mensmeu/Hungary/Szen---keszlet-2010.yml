@@ -12,8 +12,8 @@ spatial:
 identification:
   language: hun
   charset: utf8
-  title: 'DOSoReMI.hu: Szerves Sz\xE9n - k\xE9szlet 2010, 0-30 cm'
-  abstract: 'Map of  organic carbon stock 2010; T/ha; 0-30 cm'
+  title: 'DOSoReMI.hu: Szerves szén - készlet 2010, 0-30 cm'
+  abstract: 'Map of  organic carbon stock 2010; T/ha; 0-30 cm. Viewer: https://dosoremi.hu/maps/szen-keszlet-2010-0-30-cm/, legend: https://dosoremi.hu/attekinto/ '
   dates:
     creation: 2018-01-01
   keywords:
