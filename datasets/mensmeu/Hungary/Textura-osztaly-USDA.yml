@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 'textura-osztaly-usda'
+  identifier: 'textura-osztaly-usda-v2'
   language: hun
   charset: utf8
   hierarchylevel: dataset
