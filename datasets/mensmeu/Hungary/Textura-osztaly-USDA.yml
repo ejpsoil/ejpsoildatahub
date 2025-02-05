@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 'textura-osztaly-usda-v2'
+  identifier: 'textura-osztaly-usda-v0'
   language: hun
   charset: utf8
   hierarchylevel: dataset
@@ -12,7 +12,7 @@ spatial:
 identification:
   language: hun
   charset: utf8
-  title: 'DOSoReMI.hu: Text\xFAra oszt\xE1ly (USDA), 0-30 cm'
+  title: 'DOSoReMI.hu: Text\u00e1ra oszt\u00e1ly (USDA), 0-30 cm'
   abstract: 'Soil texture classes according to the USDA classification in depths'
   dates:
     creation: 2018-01-01
@@ -37,7 +37,6 @@ identification:
   - geoscientificInformation
   accessconstraints: no limitation
   rights: no conditions apply
-  url: ''
   status: onGoing
   maintenancefrequency: continual
 contact:
