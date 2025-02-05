@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: "textura-osztaly-usda"
+  identifier: 'textura-osztaly-usda'
   language: hun
   charset: utf8
   hierarchylevel: dataset
@@ -12,7 +12,7 @@ spatial:
 identification:
   language: hun
   charset: utf8
-  title: "DOSoReMI.hu: Text\xFAra oszt\xE1ly (USDA), 0-30 cm"
+  title: 'DOSoReMI.hu: Text\xFAra oszt\xE1ly (USDA), 0-30 cm'
   abstract: 'Soil texture classes according to the USDA classification in depths'
   dates:
     creation: 2018-01-01
@@ -31,7 +31,7 @@ identification:
       keywords:
       - texture
       vocabulary:
-        name: Agrovoc - Soil properties
+        name: 'Agrovoc - Soil properties'
         url: http://aims.fao.org/aos/agrovoc/c_330883
   topiccategory:
   - geoscientificInformation
@@ -42,7 +42,7 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: Institute for Soil Sciences,
+    organization: 'Institute for Soil Sciences'
     individualname: "L\xE1szl\xF3 P\xE1sztor"
     country: Hungary
     email: pasztor@rissac.hu
