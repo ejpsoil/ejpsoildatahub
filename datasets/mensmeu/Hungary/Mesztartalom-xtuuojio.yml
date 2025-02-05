@@ -1,9 +1,10 @@
 metadata:
-  identifier: "DOSoReMI-Mesztartalom"
+  identifier: "DOSoReMI-Mesztartalom-v2"
   language: hun
   charset: utf8
   hierarchylevel: dataset
   datestamp: 2019-01-01
+  dataseturi: https://maps.rissac.hu:6443/arcgis/rest/services/dosoremi_web_mercator2/MapServer
 identification:
   title: "DOSoReMI.hu: M\xE9sztartalom, 0-30 cm"
   abstract: 'CaCO3 content (%) in soil in depths 0-5 cm, 5-15 cm, 15-30 cm, 30-60cm, 60-100 cm, 100-200 cm, 0-30 cm'
@@ -25,7 +26,6 @@ identification:
         name: Agrovoc - Soil properties
         url: http://aims.fao.org/aos/agrovoc/c_330883
   rights: no conditions apply
-  fees: ''
   language: hun
   charset: utf8
   dates:
@@ -37,19 +37,8 @@ identification:
   status: onGoing
   maintenancefrequency: continual
 contact:
-  distributor:
-    organization: ''
-    url: https://maps.rissac.hu:6443/arcgis/services/dosoremi_web_mercator2/MapServer/WmsServer?
-    individualname: ''
-    email: null
-    address: ''
-    city: ''
-    administrativearea: ''
-    postalcode: ''
-    country: ''
-    positionname: ''
   pointOfContact:
-    organization: Institute for Soil Sciences,
+    organization: 'Institute for Soil Sciences'
     individualname: "L\xE1szl\xF3 P\xE1sztor"
     country: Hungary
     email: pasztor@rissac.hu
