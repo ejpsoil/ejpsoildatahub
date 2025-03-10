@@ -8,7 +8,7 @@ metadata:
   hierarchylevel: dataset
   dataseturi: https://www.sciencedirect.com/science/article/pii/S0016706118319529
 spatial:
-  resolution: 90*90m
+  resolution: 90 m
   datatype: GRID
 identification:
   language: null
