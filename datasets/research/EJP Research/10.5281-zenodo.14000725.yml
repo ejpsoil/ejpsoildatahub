@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.14000725
+  identifier: 10.5281/zenodo.14000725
   dataseturi: https://doi.org/10.5281/zenodo.14000725
   hierarchylevel: dataset
 identification:

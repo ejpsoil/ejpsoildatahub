@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.10559244
+  identifier: 10.5281/zenodo.10559244
   dataseturi: http://doi.org/10.5281/zenodo.10559244
   hierarchylevel: journalarticle
 identification:
