@@ -28,7 +28,7 @@ contact:
     url: 0000-0001-8203-0542
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.13960337
+    url: https://doi.org/10.5281/zenodo.13960337
     type: WWW:LINK
     title: Link
   r0:

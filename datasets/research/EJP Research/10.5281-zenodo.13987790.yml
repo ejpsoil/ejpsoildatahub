@@ -48,7 +48,7 @@ contact:
     url: 0000-0001-9965-6111
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.13987790
+    url: https://doi.org/10.5281/zenodo.13987790
     type: WWW:LINK
     title: Link
   r0:

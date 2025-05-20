@@ -61,7 +61,7 @@ contact:
     url: 0000-0002-5977-3863
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.14242897
+    url: https://doi.org/10.5281/zenodo.14242897
     type: WWW:LINK
     title: Link
   r0:

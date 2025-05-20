@@ -151,7 +151,7 @@ contact:
     url: ''
 distribution:
   contentUrl:
-    url: 10.6084/m9.figshare.7637210.v2
+    url: https://doi.org/10.6084/m9.figshare.7637210.v2
     type: WWW:LINK
     title: Link
   r0:

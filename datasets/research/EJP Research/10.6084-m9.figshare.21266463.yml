@@ -69,7 +69,7 @@ contact:
     url: ''
 distribution:
   contentUrl:
-    url: 10.6084/m9.figshare.21266463
+    url: https://doi.org/10.6084/m9.figshare.21266463
     type: WWW:LINK
     title: Link
   r0:

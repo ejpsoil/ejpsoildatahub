@@ -76,7 +76,7 @@ contact:
     url: 0000-0003-4581-6444
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.14055904
+    url: https://doi.org/10.5281/zenodo.14055904
     type: WWW:LINK
     title: Link
   r0:

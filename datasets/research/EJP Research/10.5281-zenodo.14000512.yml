@@ -59,7 +59,7 @@ contact:
     url: 0000-0002-8924-6925
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.14000512
+    url: https://doi.org/10.5281/zenodo.14000512
     type: WWW:LINK
     title: Link
   r0:

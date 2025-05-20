@@ -56,7 +56,7 @@ contact:
     url: 0000-0002-3328-405X
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.13993747
+    url: https://doi.org/10.5281/zenodo.13993747
     type: WWW:LINK
     title: Link
   r0:

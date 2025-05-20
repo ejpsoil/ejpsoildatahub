@@ -70,7 +70,7 @@ contact:
     url: ''
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.14258874
+    url: https://doi.org/10.5281/zenodo.14258874
     type: WWW:LINK
     title: Link
   r0:
