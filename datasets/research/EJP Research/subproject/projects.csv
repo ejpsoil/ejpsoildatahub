@@ -1,5 +1,5 @@
 type,url,name,description,zenodo
-main,https://ejpsoil.eu,ejpsoil,EJP Soil,The main program,ejp_soil_research 
+main,https://ejpsoil.eu,EJP Soil,The main program,ejp_soil_research 
 external,https://projects.au.dk/ejpsoil/soil-research/agroecoseqc,AGROECOseqC,"AGROECOlogical strategies for an efficient functioning of plant - soil biota interactions to increase SOC sequestration",agroecoseqc
 external,https://projects.au.dk/ejpsoil/soil-research/carboseq,CarboSeq,"Soil organic carbon sequestration potential of agricultural soils in Europe",
 external,https://projects.au.dk/ejpsoil/soil-research/energylink,EnergyLink,"Linking crop diversification to microbial energy allocation and organic carbon storage<br> in soils",ejpsoil-energylink
