@@ -1,0 +1,134 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13271731
+  dataseturi: https://doi.org/10.5281/zenodo.13271731
+  hierarchylevel: dataset
+identification:
+  title: The effect of crop diversification and season on microbial carbon use efficiency
+    across a European pedoclimatic gradient
+  keywords:
+    project:
+      keywords:
+      - EnergyLink
+    default:
+      keywords:
+        subject: SOC
+  abstract: "This repository contains all necessary raw data as well as the R code\
+    \ used to conduct statistical analysis and create figures of the publication\_\
+    The effect of crop diversification and season on microbial carbon use efficiency\
+    \ across a European pedoclimatic gradient\n\nJulia Schroeder1*, Alexander K\xF6\
+    nig2, Christopher Poeplau1, Tobias B\xF6lscher3, Katharina H.E. Meurer4, Monika\
+    \ Toleikien\u01175, Marjoleine Hanegraaf6, Annelein Meisner6, Josef Hakl7, Katharina\
+    \ M. Keiblinger 2, Abad Chabbi8, Marjetka Suhadolc9, Anton Govednik9, Erich Inselsbacher2,\
+    \ Heike Knicker10, Laura Gismero Rodr\xEDguez10, and Anke M. Herrmann4\n\n1 Th\xFC\
+    nen Institute of Climate-Smart Agriculture, Braunschweig, Germany2 University\
+    \ of Natural Resources and Applied Life Sciences Vienna, Department of Forest\
+    \ and Soil Sciences, Institute of Soil Research, Vienna, Austria3 Universit\xE9\
+    \ Paris-Saclay, INRAE, AgroParisTech, UMR EcoSys, Palaiseau, France4 Department\
+    \ of Soil & Environment, Swedish University of Agricultural Sciences - SLU, Uppsala,\
+    \ Sweden5 Lithuanian Research Centre for Agriculture and Forestry, Akademija,\
+    \ Lithuania6 Wageningen University & Research, Wageningen Plant Research, Wageningen,\
+    \ Netherlands7 Czech University of Life Sciences Prague, Czech Republic8 INRAE\
+    \ Centre de Recherche Nouvelle-Aquitaine-Poitiers, Unit\xE9 de Recherche Pluridisciplinaire\
+    \ Prairies & Plantes Fourrag\xE8res, Lusignan, France9 University of Ljubljana,\
+    \ Biotechnical Faculty, Ljubljana, Slovenia10 Instituto de la Grasa (IG-CSIC),\
+    \ Sevilla, Spain* Corresponding author: julia.schroeder@thuenen.de\n\nDOI:\_\n\
+    \nThe study aimed to investigate the effect of crop diversification measures (cover\
+    \ crops, ley farming, vegetation stripes) on microbial carbon use efficiency (CUE)\
+    \ and its potential link to SOC accrual in agricultural soils across Europe. The\
+    \ central hypothesis was that the crop diversification treatment results in more\
+    \ efficient microbial use of C, thus enhancing the potential of soils to store\
+    \ C. The effect of treatment was expected to vary between seasons.Topsoil was\
+    \ sampled from eight experimental crop diversification sites across a pan-European\
+    \ pedoclimatic gradient (Sweden, Netherlands, Lithuania, Czech Republic, Austria,\
+    \ France, Slovenia, and Spain). At five sites, a second sampling was conducted\
+    \ to test the effect of season on CUE (Sweden, Netherlands, France, Slovenia,\
+    \ and Spain). CUE was assessed by the 18O-labelling method. To account for the\
+    \ different experimental layout between sites, a meta-analysis approach was used\
+    \ for statistical analysis. To test for a general pattern of the seasonal variation\
+    \ in CUE across the pedoclimatic gradient, weather data (representing 3-months\
+    \ weather prior sampling) was used to extract seasonal predictors.\_For further\
+    \ details, please see the peer-reviewed publication.\_\n\nThe R code was developed\
+    \ under R v4.4.0.\n\n\_\n\nThe repository includes the following files:\n\ndata:\n\
+    \n\n\nEJP-EL_COORD_sites.csv - Provides coordinates, reference system, land use,\
+    \ diversification treatment and year of establishment for the experimental sites\
+    \ (n=8).\_\n\nEJP-EL_DATA_sites.csv - Provides texture, TOC and N content, and\
+    \ bulk density data for the experimental sites as provided by site managers (if\
+    \ applicable on plot basis)(n=106).\n\nEJP-EL_CUE_for_R.csv - Provides assessed\
+    \ per sample observations (n=220)WHC: water holding capacity, pH: soil pH measured\
+    \ in 1:5 w/w soil-water solution, TC_perc: total C (%), TIC_perc: total inorganic\
+    \ C (%), TOC_perc: total organic C (%), TN_perc: total N (%), total_DNA_gsoil:\
+    \ total amount of DNA extracted (ug DNA g-1 soil), Cmic_ugC_gsoil: microbial biomass\
+    \ C by CFE-method (ug microbial biomass C g-1 soil), fDNA: unitless conversion\
+    \ factor, Cgrowth_ngC_g_h: microbial growth rate (ng C g-1 soil h-1), \_Crespiration_ngC_g_h:\
+    \ microbial respiration rate (ng C g-1 soil h-1), CUE: unitless carbon use efficiency,\
+    \ mass_specific_growth_1_perd: mass specific growth rate (1 d-1), turnover_time_d:\
+    \ turnover rate (d), DW/WW_during_incub: ratio of dry weight to wet weight (indicator\
+    \ of water content) during the time of incubation (g g-1); WC_perc_related_to_DW_at_sampling:\
+    \ water content during the time of soil sampling expressed as percentage water\
+    \ refered to dry weight of soil (%)\n\nweather_data_b4_sampling_FS_nasa_power_mod_incl_radiation.csv\
+    \ - Extracted daily weather data for the respective site coordinates from the\
+    \ National Aeronautics and Space Administration (NASA) Langley Research Center\
+    \ (LaRC) Prediction of Worldwide Energy Resource (POWER) Project funded through\
+    \ the NASA Earth Science/Applied Science Program, i.e. NASA POWER project, for\
+    \ a 3-months period prior to each sampling event: mean daily air temperature at\
+    \ 2 m (T2M), the bias corrected average of total precipitation at the Earth\u2019\
+    s surface (PRECTOTCORR), and the total photosynthetically active radiation incident\
+    \ at the Earth\u2019s surface (ALLSKY_SFC_PAR_TOT).\_\n\nTable_S1.xlsx - Provides\
+    \ meta-data of sites including sampling (treatments, depth, number of samples,\
+    \ time), water content at sampling, management (last main crop, cover at sampling,\
+    \ phenological state at sampling, fertilisation dates, type of fertiliser, fertilisation\
+    \ rate, ploughing date, ploughing depth).\n\n\nRproj:\n\n\n\nR_project_Schroeder_crop_div_and_season.Rproj\
+    \ - Rproject (load project to work on provided scripts and data)\n\n\nR scripts:\n\
+    \n\n\n01_EJP-EL_CUE_load_data.R - Loads data from different provided csv and merges\
+    \ them into one data.frame, specifying assignment of categories (e.g. control\
+    \ vs one diversified treatment) and selections for individual analyses (e.g. seasonality\
+    \ (all treatments, 5 sites), EU.gradient (control vs. one diversified treatment,\
+    \ 8 sites)).\n\n02_extract_climate_data_sites.R - Extracts climate data from BIOCLIM\
+    \ database (MAT, MAP, Growing season lenght, K\xF6ppen Geiger) for site coordinates.\n\
+    \n03_meta-analysis_crop_diversification_EU_gradient.R - Conducts meta-analysis\
+    \ on EU.gradient selection (control vs diversified treatment, 8 sites) with crop\
+    \ diversification measures as subgroups. Plots results of the meta-analysis. Exports\
+    \ overall test statistics.\n\n04_ANOVA_seasonality_effect.R - Plots CUE per site\
+    \ and sampling on seasonality selection. Conducts site-wise ANOVA to test for\
+    \ effects of sampling and treatment on CUE, and whether the effect of treatment\
+    \ varies with sampling (i.e. interaction).\_\n\n05_define_season_by_weather_data_before_sampling.R\
+    \ - Extracts weather data from indicated NASA database for the 3-months period\
+    \ prior to sampling. Calculates seasonality predictors (see M&M of publication\
+    \ to this study for detailed background). Creates table with calculated predictors.\n\
+    \n06_Driver_Analysis_seasonality.R - Checks for autocorrelation of seasonal predictors.\
+    \ Conducts linear mixed-effects model for driver analysis. Creates figure presenting\
+    \ results of the driver analysis.\n\n07_PCA_pedo-climatic_gradient_EU.R - Conducts\
+    \ and plots a principal component analysis to visualise the spread of pedo-climatic\
+    \ properties across sites.\n\n08_LMEM_France.R - Conducts a separate linear mixed-effects\
+    \ model statistics to test wehther ley farming is more similar to cropland or\
+    \ grassland (microbial CUE, Cmic, Cgrowth and SOC) at the Lusignan (France) site.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2025-02-04'
+    publication: '2025'
+  rights: cc-by-4.0
+contact:
+  Schroeder-Julia:
+    individualname: Schroeder, Julia
+    role: ''
+    organization: "Johann Heinrich von Th\xFCnen-Institut"
+    url: 0000-0003-3625-104X
+  Konig-Alexander:
+    individualname: "K\xF6nig, Alexander"
+    role: DataCollector
+    organization: ''
+    url: 0000-0002-0539-8842
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13271731
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13271731
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

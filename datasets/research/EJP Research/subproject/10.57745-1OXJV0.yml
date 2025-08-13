@@ -1,0 +1,115 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.57745-1OXJV0
+  dataseturi: https://doi.org/10.57745/1OXJV0
+  hierarchylevel: dataset
+identification:
+  title: 'Etude 4pour1000 : Economic data for publication of the article "A Marginal
+    Abatement Cost Curve for Climate Change Mitigation by additional carbon storage
+    in French agricultural land"'
+  keywords:
+    project:
+      keywords:
+      - EJP Soil
+  abstract: Spreadsheets used to calculate the implementation costs of the carbon
+    storing practices studied in "Etude 4pour1000 France". Version corresponding to
+    the publication of the research article, with modifications for the Agroforestry
+    and Hedges practices (area base, storage potential in biomass). The spreadsheets
+    include, in addition to the implementation cost, the aggregation of the maximum
+    area base, the additional soil carbon storage potential and the full GHG balance
+    for each practice at the regional scale.
+  license:
+    name: ''
+  dates:
+    issued: '2022'
+    publication: '2022'
+contact:
+  Bamiere-Laure:
+    individualname: "Bami\xE8re, Laure"
+    role: ContactPerson
+    organization: (INRAE)
+    url: ''
+  Bellassen-Valentin:
+    individualname: Bellassen, Valentin
+    role: ''
+    organization: (INRAE)
+    url: https://orcid.org/0000-0001-8581-2814
+  Schiavo-Michele:
+    individualname: Schiavo, Michele
+    role: ''
+    organization: (INRAE)
+    url: https://orcid.org/0000-0002-4194-2876
+  Delame-Nathalie:
+    individualname: Delame, Nathalie
+    role: ''
+    organization: (INRAE)
+    url: ''
+  Letort-Elodie:
+    individualname: Letort, Elodie
+    role: ''
+    organization: (INRAE)
+    url: https://orcid.org/0000-0002-9924-3269
+  Mosnier-Claire:
+    individualname: Mosnier, Claire
+    role: ''
+    organization: (INRAE)
+    url: https://orcid.org/0000-0003-0210-3460
+  Cardinael-Remi:
+    individualname: "Cardinael, R\xE9mi"
+    role: ''
+    organization: (CIRAD)
+    url: https://orcid.org/0000-0002-9924-3269
+  Diallo-Abdoul:
+    individualname: Diallo, Abdoul
+    role: ''
+    organization: (INRAE)
+    url: ''
+  Meziere-Delphine:
+    individualname: Meziere, Delphine
+    role: ''
+    organization: (INRAE)
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.57745/1OXJV0
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.57745/1oxjv0/husgrb
+    type: WWW:LINK
+    title: HasPart
+  r1:
+    url: https://doi.org/10.57745/1oxjv0/4w1ryn
+    type: WWW:LINK
+    title: HasPart
+  r2:
+    url: https://doi.org/10.57745/1oxjv0/vftdwi
+    type: WWW:LINK
+    title: HasPart
+  r3:
+    url: https://doi.org/10.57745/1oxjv0/zubtxj
+    type: WWW:LINK
+    title: HasPart
+  r4:
+    url: https://doi.org/10.57745/1oxjv0/mndgpo
+    type: WWW:LINK
+    title: HasPart
+  r5:
+    url: https://doi.org/10.57745/1oxjv0/zzcavb
+    type: WWW:LINK
+    title: HasPart
+  r6:
+    url: https://doi.org/10.57745/1oxjv0/8ukop8
+    type: WWW:LINK
+    title: HasPart
+  r7:
+    url: https://doi.org/10.57745/1oxjv0/gsxfln
+    type: WWW:LINK
+    title: HasPart
+  r8:
+    url: https://doi.org/10.57745/1oxjv0/xvgjcu
+    type: WWW:LINK
+    title: HasPart
+spatial:
+  type: ''

@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14527915
+  dataseturi: https://doi.org/10.5281/zenodo.14527915
+  hierarchylevel: dataset
+identification:
+  title: "Dataset to Schiedung et al. (2025): Separating fast from slow cycling soil\
+    \ organic carbon \u2013 A multi-method comparison on land use change sites"
+  keywords:
+    project:
+      keywords:
+      - EJP Soil
+  abstract: "This is the data used in the manuscript:\_\n\n\n\nSchiedung, M., Barr\xE9\
+    , P., & Peoplau, C. (2025). Separating fast from slow cycling soil organic carbon\
+    \ \u2013 A multi-method comparison on land use change sites. Geoderma, 453, 117154.\
+    \ https://doi.org/10.1016/j.geoderma.2024.117154\n\n\n\_\n\nThe repository includes\
+    \ the following files:\_\n\ndat_LUC.csv: All data presented in the manuscript\
+    \ for the particle size fractionation, Rock-Eval analysis and extracted DIRFT-MIR\
+    \ spectra information\_\n\nVar_names_dat_LUC.csv: Description of all variables\
+    \ and parameters in dat_LUC.csv and corresponding units\n\nspc_bulk_rs.csv: Resampled\
+    \ DRIFT-MIR spetra in the range of 455-3999 1/cm of all bulk soils with IDs presented\
+    \ in\_Var_names_dat_LUC.csv.\_\n\nspc_fractions_rs.csv: Resampled DRIFT-MIR spetra\
+    \ in the range of 455-3999 1/cm of all fractions with IDs presented in Var_names_dat_LUC.csv.\_\
+    Fractions are indicated by coarse and fine in the column Fraction.\_\n\n\_\n\n\
+    All .csv use \",\" as separator.\_\n\nAdditionl infrmation can be requested or\
+    \ is given in the published article.\_\n\n\_\n\n\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-12-19'
+    accepted: '2024-12-17'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Schiedung-Marcus:
+    individualname: Schiedung, Marcus
+    role: ''
+    organization: "Johann Heinrich von Th\xFCnen-Institut"
+    url: 0000-0002-0185-9867
+  Poeplau-Christopher:
+    individualname: Poeplau, Christopher
+    role: ''
+    organization: "Johann Heinrich von Th\xFCnen-Institut"
+    url: 0000-0002-4978-4841
+  Barre-Pierre:
+    individualname: Barre, Pierre
+    role: ''
+    organization: "\xC9cole Normale Sup\xE9rieure - PSL"
+    url: 0000-0002-0822-0556
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14527915
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1016/j.geoderma.2024.117154
+    type: WWW:LINK
+    title: IsSupplementTo
+  r1:
+    url: https://doi.org/10.5281/zenodo.14527915
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

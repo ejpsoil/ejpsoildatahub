@@ -1,0 +1,306 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14245502
+  dataseturi: https://doi.org/10.5281/zenodo.14245502
+  hierarchylevel: dataset
+identification:
+  title: Biodiversity data and associated data from the EJP-Soil Minotaur project
+  keywords:
+    project:
+      keywords:
+      - MINOTAUR
+    default:
+      keywords:
+        subject: microfauna
+  abstract: The dataset concerns data on biodiversity and associated measured data
+    collected within the Minotaur project, an internal projet of EJP-Soil.
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-29'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Yayende-Vivianne:
+    individualname: Yayende, Vivianne
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+  Peres-Guenola:
+    individualname: "P\xE9r\xE8s, Guenola"
+    role: ''
+    organization: ''
+    url: ''
+  Adam-Mario:
+    individualname: Adam, Mario
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+  Aponte-Cristina:
+    individualname: Aponte, Cristina
+    role: ''
+    organization: ''
+    url: ''
+  Assennato-Francesca:
+    individualname: Assennato, Francesca
+    role: ''
+    organization: ''
+    url: ''
+  Benard-Yannick:
+    individualname: Benard, Yannick
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+  Bevivino-Annamaria:
+    individualname: Bevivino, Annamaria
+    role: ''
+    organization: ''
+    url: ''
+  Bloem-Jaap:
+    individualname: Bloem, Jaap
+    role: ''
+    organization: ''
+    url: ''
+  Bragato-Gilberto:
+    individualname: Bragato, Gilberto
+    role: ''
+    organization: ''
+    url: ''
+  Brennan-Fiona:
+    individualname: Brennan, Fiona
+    role: ''
+    organization: ''
+    url: ''
+  Carteaux-Laurence:
+    individualname: Carteaux, Laurence
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+  D'Avino-Lorenzo:
+    individualname: D'Avino, Lorenzo
+    role: ''
+    organization: ''
+    url: ''
+  Del-Duca-Sara:
+    individualname: Del Duca, Sara
+    role: ''
+    organization: ''
+    url: ''
+  Di-Lonardo-Sara:
+    individualname: Di Lonardo, Sara
+    role: ''
+    organization: ''
+    url: ''
+  Emily-Mathieu:
+    individualname: Emily, Mathieu
+    role: ''
+    organization: ''
+    url: ''
+  Faber-Jack:
+    individualname: Faber, Jack
+    role: ''
+    organization: ''
+    url: ''
+  Fantappie-Maria:
+    individualname: Fantappie, Maria
+    role: ''
+    organization: ''
+    url: ''
+  Fornasier-Flavio:
+    individualname: Fornasier, Flavio
+    role: ''
+    organization: ''
+    url: ''
+  Geneste-Christophe:
+    individualname: Geneste, Christophe
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+  Hamelin-Gaelle:
+    individualname: "Hamelin, Ga\xEBlle"
+    role: ''
+    organization: ''
+    url: ''
+  Hedde-Mickael:
+    individualname: "Hedde, Micka\xEBl"
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+  Imbert-Camille:
+    individualname: Imbert, Camille
+    role: ''
+    organization: ''
+    url: ''
+  Jacomini-Carlo:
+    individualname: Jacomini, Carlo
+    role: ''
+    organization: ''
+    url: ''
+  L'Abate-Giovanni:
+    individualname: L'Abate, Giovanni
+    role: ''
+    organization: ''
+    url: ''
+  Latini-Arianna:
+    individualname: Latini, Arianna
+    role: ''
+    organization: ''
+    url: ''
+  Lavazzo-Pietro:
+    individualname: Lavazzo, Pietro
+    role: ''
+    organization: ''
+    url: ''
+  Le-Bas-Christine:
+    individualname: Le Bas, Christine
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: 0000-0001-7111-5794
+  Lemercier-Blandine:
+    individualname: Lemercier, Blandine
+    role: ''
+    organization: ''
+    url: ''
+  Maienza-Anita:
+    individualname: Maienza, Anita
+    role: ''
+    organization: ''
+    url: ''
+  Manici-Luisa-Maria:
+    individualname: Manici, Luisa Maria
+    role: ''
+    organization: ''
+    url: ''
+  Mareckova-Marketa:
+    individualname: "Mareckova, Mark\xE9ta"
+    role: ''
+    organization: ''
+    url: ''
+  Mittmannsgruber-Marion:
+    individualname: Mittmannsgruber, Marion
+    role: ''
+    organization: ''
+    url: ''
+  Murugan-Rajasekaran:
+    individualname: Murugan, Rajasekaran
+    role: ''
+    organization: ''
+    url: ''
+  Mocali-Stefano:
+    individualname: Mocali, Stefano
+    role: ''
+    organization: ''
+    url: ''
+  Pastorelli-Roberta:
+    individualname: Pastorelli, Roberta
+    role: ''
+    organization: ''
+    url: ''
+  Pichelin-Pascal:
+    individualname: Pichelin, Pascal
+    role: ''
+    organization: ''
+    url: ''
+  Postma-Joeke:
+    individualname: Postma, Joeke
+    role: ''
+    organization: ''
+    url: ''
+  Romero-Ferran:
+    individualname: Romero, Ferran
+    role: ''
+    organization: ''
+    url: ''
+  Roucaute-Marc:
+    individualname: Roucaute, Marc
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+  Schellenberger-Antoine:
+    individualname: Schellenberger, Antoine
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+  Stefanova-Milena:
+    individualname: Stefanova, Milena
+    role: ''
+    organization: ''
+    url: ''
+  Suhadolc-Marjetka:
+    individualname: Suhadolc, Marjetka
+    role: ''
+    organization: ''
+    url: ''
+  Tcherniatinsky-Philippe:
+    individualname: Tcherniatinsky, Philippe
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+  Tondini-Elena:
+    individualname: Tondini, Elena
+    role: ''
+    organization: ''
+    url: ''
+  vande-Voorde-Tess:
+    individualname: vande Voorde, Tess
+    role: ''
+    organization: ''
+    url: ''
+  Vanderheijden-Marcel:
+    individualname: Vanderheijden, Marcel
+    role: ''
+    organization: ''
+    url: ''
+  Viketoft-Maria:
+    individualname: Viketoft, Maria
+    role: ''
+    organization: ''
+    url: ''
+  Vitali-Francesco:
+    individualname: Vitali, Francesco
+    role: ''
+    organization: ''
+    url: ''
+  Wall-David:
+    individualname: Wall, David
+    role: ''
+    organization: ''
+    url: ''
+  Walter-Christian:
+    individualname: Walter, Christian
+    role: ''
+    organization: ''
+    url: ''
+  Zaller-Johann:
+    individualname: Zaller, Johann
+    role: ''
+    organization: ''
+    url: ''
+  Bispo-Antonio:
+    individualname: Bispo, Antonio
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: 0000-0002-6985-8385
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14245502
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14245502
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

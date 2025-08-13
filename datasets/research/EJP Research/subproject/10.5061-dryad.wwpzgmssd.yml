@@ -1,0 +1,126 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5061-dryad.wwpzgmssd
+  dataseturi: https://doi.org/10.5061/dryad.wwpzgmssd
+  hierarchylevel: dataset
+identification:
+  title: 'Data from: Biogeographical variation in termite distributions alters global
+    deadwood decay'
+  keywords:
+    project:
+      keywords:
+      - EJP Soil
+    default:
+      keywords:
+        subject: aridity
+  abstract: "Fungus-growing termites (subfamily Macrotermitinae) have a distinct\n\
+    \ geographical distribution, found only in the old-world tropics. Where\n present,\
+    \ they are considered to be major contributors and regulators of\n decomposition,\
+    \ with consumption rates often greater than other termite\n groups. This study\
+    \ sought to understand the relative roles of termite\n distribution (specifically\
+    \ the presence or absence of fungus-growing\n termites) and climatic variables\
+    \ (mean annual temperature, mean annual\n precipitation and mean annual aridity)\
+    \ on global patterns in deadwood\n decay. To answer this question, we added new\
+    \ salient data to an existing\n dataset on global wood decay by Zanne et al. (2022)\
+    \ available\n at\_https://doi.org/10.6084/m9.figshare.19920416.v1. We filtered\n\
+    \ the data to only include sites where termites were present and thus\n analysed\
+    \ a dataset containing 102 sites across 16 countries. We found that\n termite-driven\
+    \ decay of deadwood increased with aridity but was higher in\n sites with fungus-growing\
+    \ termites than sites without fungus-growing\n termites. Our results also showed\
+    \ that the relative role of fungus-growing\n termites increased with aridity,\
+    \ as rates of wood-discovery by termites\n increased with aridity but only in\
+    \ sites where fungus-growing termites\n were present. Our findings indicate that\
+    \ the inclusion of biogeographical\n differences in termite distribution could\
+    \ potentially alter global\n estimates of deadwood turnover. This repository contains\
+    \ new datasets on\n termite-driven deadwood decay of Pinus radiata wood blocks\
+    \ and code used\n for all data analyses and production of figures."
+  license:
+    name: ''
+  dates:
+    created: '2024-04-03T12:33:03Z'
+    submitted: '2024-08-26T12:10:37Z'
+    issued: '2024-09-07T00:00:00Z'
+    available: '2024-09-07T00:00:00Z'
+    publication: '2024'
+  rights: cc0-1.0
+contact:
+  Law-Stephanie-J.:
+    individualname: Law, Stephanie J.
+    role: ''
+    organization: Natural History Museum
+    url: https://orcid.org/0000-0002-8362-4702
+  Flores-Moreno-Habacuc:
+    individualname: Flores-Moreno, Habacuc
+    role: ''
+    organization: CSIRO Health and Biosecurity
+    url: ''
+  Parr-Catherine-L.:
+    individualname: Parr, Catherine L.
+    role: ''
+    organization: University of Liverpool
+    url: ''
+  Adu-Bredu-Stephen:
+    individualname: Adu-Bredu, Stephen
+    role: ''
+    organization: Forestry Research Institute of Ghana
+    url: ''
+  Bunney-Katherine:
+    individualname: Bunney, Katherine
+    role: ''
+    organization: University of Pretoria
+    url: ''
+  Cornwell-William-K.:
+    individualname: Cornwell, William K.
+    role: ''
+    organization: UNSW Sydney
+    url: ''
+  Evouna-Ondo-Fidele:
+    individualname: "Evouna Ondo, Fid\xE8le"
+    role: ''
+    organization: National Agency for National Parks
+    url: ''
+  Powell-Jeff-R.:
+    individualname: Powell, Jeff R.
+    role: ''
+    organization: Western Sydney University
+    url: ''
+  Quansah-Gabriel-W.:
+    individualname: Quansah, Gabriel W.
+    role: ''
+    organization: CSIR-Soil Research Institute Ghana
+    url: ''
+  Robertson-Mark-P.:
+    individualname: Robertson, Mark P.
+    role: ''
+    organization: University of Pretoria
+    url: ''
+  Zanne-Amy-E.:
+    individualname: Zanne, Amy E.
+    role: ''
+    organization: University of Miami
+    url: ''
+  Eggleton-Paul:
+    individualname: Eggleton, Paul
+    role: ''
+    organization: Natural History Museum
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5061/dryad.wwpzgmssd
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1111/geb.13915
+    type: WWW:LINK
+    title: IsCitedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.10912070
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r2:
+    url: https://doi.org/10.5281/zenodo.13708447
+    type: WWW:LINK
+    title: IsSourceOf
+spatial:
+  type: dataset

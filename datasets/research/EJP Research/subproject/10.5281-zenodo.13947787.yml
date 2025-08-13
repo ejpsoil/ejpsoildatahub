@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13947787
+  dataseturi: https://doi.org/10.5281/zenodo.13947787
+  hierarchylevel: software
+identification:
+  title: 'Git-Repo: Pedotransfer functions versus model structure: What drives uncertainty
+    in agro-hydrological modelling?'
+  keywords:
+    project:
+      keywords:
+      - SoilX
+  abstract: "These are the scripts used to visualize and analyse the data from the\
+    \ project \"Pedotransfer functions versus model structure: What drives uncertainty\
+    \ in agro-hydrological modelling?, https://doi.org/10.5281/zenodo.14002494\".\
+    \ Git-repo: SoilX / proj_uncertainty_PTF_soilX \xB7 GitLab"
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-31'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Turek-Maria-Eliza:
+    individualname: Turek, Maria Eliza
+    role: ''
+    organization: Agroscope
+    url: 0000-0002-3616-8695
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13947787
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1111/ejss.70088
+    type: WWW:LINK
+    title: IsSupplementTo
+  r1:
+    url: https://doi.org/10.5281/zenodo.13947787
+    type: WWW:LINK
+    title: IsSupplementedBy
+  r2:
+    url: https://doi.org/10.5281/zenodo.14017708
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

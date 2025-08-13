@@ -1,0 +1,38 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14603724
+  dataseturi: https://doi.org/10.5281/zenodo.14603724
+  hierarchylevel: dataset
+identification:
+  title: Hungarian LTE Dateset
+  keywords:
+    project:
+      keywords:
+      - C-arouNd
+  abstract: "Published in:\n\nIbrahim, H.T.M.; Modiba, M.M.; Dekemati, I.; Gelyb\xF3\
+    , G.; Birk\xE1s, M.; Simon, B. Status of Soil Health Indicators after 18 Years\
+    \ of Systematic Tillage in a Long-Term Experiment.\_Agronomy 2024, 14, 278. https://doi.org/10.3390/agronomy14020278"
+  license:
+    name: ''
+  dates:
+    issued: '2025-01-06'
+    publication: '2025'
+  rights: cc-by-4.0
+contact:
+  Magyar-Agrar--es-Elettudomanyi-Egyetem:
+    individualname: "Magyar Agr\xE1r- \xE9s \xC9lettudom\xE1nyi Egyetem"
+    role: ''
+    organization: ''
+    url: 01394d192
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14603724
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14603724
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

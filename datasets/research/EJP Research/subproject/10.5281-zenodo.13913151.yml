@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13913151
+  dataseturi: https://doi.org/10.5281/zenodo.13913151
+  hierarchylevel: dataset
+identification:
+  title: TRACE-Soils, LTEs soil physical data
+  keywords:
+    project:
+      keywords:
+      - TRACE-Soils
+  abstract: "This dataset contains the measured soil physical parameters (weight at\
+    \ sampling, at -30, -60 and -100 hPa matric potential and after oven-drying, Darcian\
+    \ and apparent air permeability, and relative gas diffusivity) measured on 100-cm3\
+    \ cylindrical samples from 0-10 and 10-20 cm depth from seven European long-term\
+    \ tillage experiments.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-10'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  ten-Damme-Loraine:
+    individualname: ten Damme, Loraine
+    role: ''
+    organization: Aarhus University
+    url: ''
+  Goberna-Marta:
+    individualname: Goberna, Marta
+    role: ''
+    organization: "Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+      \ y Alimentaria"
+    url: ''
+  Sanchez-Moreno-Sara:
+    individualname: "S\xE1nchez-Moreno, Sara"
+    role: ''
+    organization: "Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+      \ y Alimentaria"
+    url: ''
+  Pulido-Moncada-Mansonia:
+    individualname: Pulido-Moncada, Mansonia
+    role: ''
+    organization: Aarhus University
+    url: ''
+  Philippot-Laurent:
+    individualname: Philippot, Laurent
+    role: ''
+    organization: National Research Institute for Agriculture, Food and Environment
+    url: ''
+  Ros-Mart:
+    individualname: Ros, Mart
+    role: ''
+    organization: Wageningen University & Research
+    url: ''
+  Bragazza-Luca:
+    individualname: Bragazza, Luca
+    role: ''
+    organization: Agroscope
+    url: ''
+  Hallin-Sara:
+    individualname: Hallin, Sara
+    role: ''
+    organization: Swedish University of Agricultural Sciences
+    url: ''
+  Feiziene-Dalia:
+    individualname: Feiziene, Dalia
+    role: ''
+    organization: Lithuanian Research Centre for Agriculture and Forestry
+    url: ''
+  Juhl-Munkholm-Lars:
+    individualname: Juhl Munkholm, Lars
+    role: ''
+    organization: Aarhus University
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13913151
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.12515043
+    type: WWW:LINK
+    title: HasMetadata
+  r1:
+    url: https://doi.org/10.5281/zenodo.13913150
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

@@ -1,0 +1,194 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14748909
+  dataseturi: https://doi.org/10.5281/zenodo.14748909
+  hierarchylevel: dataset
+identification:
+  title: Questionnaire and survey results to the report "Inventory of the use of models
+    for accounting and policy support (soil quality and soil carbon)"
+  keywords:
+    project:
+      keywords:
+      - EJP Soil
+  abstract: "These are datasets included in report \"Inventory of the use of models\
+    \ for accounting and policy support (soil quality and soil carbon)\" and includes\
+    \ collected questionnaire responses and survey results based on the official national\
+    \ greenhouse gas inventory reports. Datasets were composed under EJP Soil program\
+    \ as a part of task 2.4 \u201CSynthesis of key soil related issues in the EJP\
+    \ SOIL countries in order to identify gaps and design region relevant research\u201D\
+    , included in Work Package 2 \u201CA roadmap for Agricultural Soil Management\
+    \ in Europe\u201D. This dataset is based by the inputs given by 21 participating\
+    \ countries and 23 research bodies."
+  license:
+    name: ''
+  dates:
+    issued: '2021-03-31'
+    publication: '2021'
+  rights: cc-by-4.0
+contact:
+  Astover-Alar:
+    individualname: Astover, Alar
+    role: ''
+    organization: Estonian University of Life Sciences
+    url: 0000-0002-8924-6925
+  Escuer-Gatius-Jordi:
+    individualname: Escuer-Gatius, Jordi
+    role: ''
+    organization: Estonian University of Life Sciences
+    url: 0000-0001-6766-5654
+  Don-Axel:
+    individualname: Don, Axel
+    role: ''
+    organization: "Th\xFCnen-Institute of Climate-Smart Agriculture"
+    url: 0000-0001-7046-3332
+  Armolaitis-Kestutis:
+    individualname: "Armolaitis, K\u0119stutis"
+    role: Other
+    organization: Vytautas Magnus University
+    url: 0000-0001-8295-2440
+  Barancikova-G.:
+    individualname: "Baran\u010D\xEDkov\xE1, G."
+    role: Other
+    organization: ''
+    url: ''
+  Cornu-S.:
+    individualname: Cornu, S.
+    role: Other
+    organization: ''
+    url: ''
+  De-Boever-M.:
+    individualname: De Boever, M.
+    role: Other
+    organization: ''
+    url: ''
+  Farina-R.:
+    individualname: Farina, R.
+    role: Other
+    organization: ''
+    url: ''
+  Foldal-C.:
+    individualname: Foldal, C.
+    role: Other
+    organization: ''
+    url: ''
+  Jandl-R.:
+    individualname: Jandl, R.
+    role: Other
+    organization: ''
+    url: ''
+  Kasper-M.:
+    individualname: Kasper, M.
+    role: Other
+    organization: ''
+    url: ''
+  Fornara-D.:
+    individualname: Fornara, D.
+    role: Other
+    organization: ''
+    url: ''
+  Govednik-A.:
+    individualname: Govednik, A.
+    role: Other
+    organization: ''
+    url: ''
+  Mihelic-R.:
+    individualname: "Miheli\u010D, R."
+    role: Other
+    organization: ''
+    url: ''
+  Vrscaj-B.:
+    individualname: "Vr\u0161\u010Daj, B."
+    role: Other
+    organization: ''
+    url: ''
+  Huyghebaert-B.:
+    individualname: Huyghebaert, B.
+    role: Other
+    organization: ''
+    url: ''
+  Kasparinskis-R.:
+    individualname: Kasparinskis, R.
+    role: Other
+    organization: ''
+    url: ''
+  Keel-S.G.:
+    individualname: Keel, S.G.
+    role: Other
+    organization: ''
+    url: ''
+  Laszlo-P.:
+    individualname: "L\xE1szl\xF3, P."
+    role: Other
+    organization: ''
+    url: ''
+  Lehtonen-A.:
+    individualname: Lehtonen, A.
+    role: Other
+    organization: ''
+    url: ''
+  Madenoglu-S.:
+    individualname: "Madeno\u011Flu, S."
+    role: Other
+    organization: ''
+    url: ''
+  Maria-da-Conceicao-G.:
+    individualname: "Maria da Concei\xE7\xE3o, G."
+    role: Other
+    organization: ''
+    url: ''
+  Moni-C.:
+    individualname: Moni, C.
+    role: Other
+    organization: ''
+    url: ''
+  O'Sullivan-L.:
+    individualname: O'Sullivan, L.
+    role: Other
+    organization: ''
+    url: ''
+  Wall-D.:
+    individualname: Wall, D.
+    role: Other
+    organization: ''
+    url: ''
+  Lanigan-G.:
+    individualname: Lanigan, G.
+    role: Other
+    organization: ''
+    url: ''
+  Sanchez-Gimeno-B.:
+    individualname: "S\xE1nchez Gimeno, B."
+    role: Other
+    organization: ''
+    url: ''
+  Taghizadeh-Toosi-A.:
+    individualname: Taghizadeh-Toosi, A.
+    role: Other
+    organization: ''
+    url: ''
+  Chenu-C.:
+    individualname: Chenu, C.
+    role: Other
+    organization: ''
+    url: ''
+  Bolinder-M.:
+    individualname: Bolinder, M.
+    role: Other
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14748909
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.12703905
+    type: WWW:LINK
+    title: IsSupplementTo
+  r1:
+    url: https://doi.org/10.5281/zenodo.14748909
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

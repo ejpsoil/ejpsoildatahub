@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.15468692
+  dataseturi: https://doi.org/10.5281/zenodo.15468692
+  hierarchylevel: dataset
+identification:
+  title: 'C-arouNd Characteristics of soils used in an analysis of vulnerability of
+    soil carbon to decomposition in relation to land use: New Zealand'
+  keywords:
+    project:
+      keywords:
+      - C-arouNd
+    default:
+      keywords:
+        subject: C-arouNd
+  abstract: 'C-arouNd Characteristics of soils used in an analysis of vulnerability
+    of soil carbon to decomposition in relation to land use: New Zealand'
+  license:
+    name: ''
+  dates:
+    issued: '2025-05-20'
+    submitted: '2025-05-20'
+    publication: '2025'
+  rights: cc-by-4.0
+contact:
+  Whitehead-David:
+    individualname: Whitehead, David
+    role: ''
+    organization: Manaaki Whenua - Landcare Research
+    url: 0000-0002-9791-7493
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.15468692
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.15468692
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14104483
+  dataseturi: https://doi.org/10.5281/zenodo.14104483
+  hierarchylevel: dataset
+identification:
+  title: Soil grid data for agricultural fields in Spain for STEROPES (EJP Soil) project
+    (ECe, texture, soil organic carbon, pH)
+  keywords:
+    project:
+      keywords:
+      - EJP Soil
+  abstract: "Soil data collected in an agricultural area with vegetable crops in Spain\
+    \ (Campo de Cartagena). The data refers to soil properties of 141 soil samples\
+    \ collected at a depth of 0-10 cm, considering a regular sampling grid, in different\
+    \ commercial fields with varying soil salinity. The samples were collected at\
+    \ a period when the soil was bare, during two consecutive summers, following the\
+    \ harvest of the annual crops, and pictures of the soil surface were taken for\
+    \ eventual correction of corresponding remote sensing imaging. The data includes:\
+    \ soil organic carbon (SOC) (Walkley-Black method), soil water content, electric\
+    \ conductivity of the saturated soil paste (ECe), EC1:5, soil texture, stone content\
+    \ and pH1:2.5. \n\n\_\n\nThe data may be representative of the soil conditions\
+    \ of the area, which is an intensive productive agricultural low land, potentially\
+    \ prone to the development of soil salinity as a result of the rise of saline\
+    \ groundwater and/or irrigation. The data can be used to establish relations between\
+    \ soil salinity (ECe) and other soil properties as well as build prediction models\
+    \ of the soil properties from remote sensing namely, for developing models for\
+    \ SOC prediction under the STEROPES project (WP3, WP5 and WP6).The aim of the\
+    \ collected dataset was to be able to analyze the influence of soil salinity in\
+    \ SOC prediction from remote sensing.\n\n\_\n\nData in the form of MS Excel file\
+    \ (xlsx).\n\n\_\n\n\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-12'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Gabriel-Jose-Luis:
+    individualname: Gabriel, Jose Luis
+    role: ''
+    organization: "Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+      \ y Alimentaria"
+    url: 0000-0002-5508-4120
+  San-Juan-Heras-Raul:
+    individualname: San-Juan-Heras, Raul
+    role: ''
+    organization: "Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+      \ y Alimentaria"
+    url: ''
+  Delgado-Maria-del-Mar:
+    individualname: Delgado, Maria del Mar
+    role: ''
+    organization: "Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+      \ y Alimentaria"
+    url: 0000-0003-0278-4956
+  Lazaro-Alberto:
+    individualname: Lazaro, Alberto
+    role: ''
+    organization: "Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+      \ y Alimentaria"
+    url: ''
+  Rodriguez-Martin-Jose-Antonio:
+    individualname: "Rodr\xEDguez-Mart\xEDn, Jos\xE9 Antonio"
+    role: ''
+    organization: "Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+      \ y Alimentaria"
+    url: 0000-0002-9158-9564
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14104483
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14104483
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

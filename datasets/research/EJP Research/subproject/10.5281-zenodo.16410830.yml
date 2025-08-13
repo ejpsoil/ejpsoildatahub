@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.16410830
+  dataseturi: https://doi.org/10.5281/zenodo.16410830
+  hierarchylevel: dataset
+identification:
+  title: Erosion susceptibility of agricultural lands, 2021
+  keywords:
+    project:
+      keywords:
+      - EJP Soil
+  abstract: ''
+  license:
+    name: ''
+  dates:
+    issued: '2023'
+    publication: '2023'
+  rights: cc-by-4.0
+contact:
+  Rasanen-T.A.:
+    individualname: "R\xE4s\xE4nen, T.A."
+    role: ''
+    organization: ''
+    url: ''
+  Tahtikarhu-M.:
+    individualname: "T\xE4htikarhu, M."
+    role: ''
+    organization: ''
+    url: ''
+  Uusi-Kamppa-J.:
+    individualname: "Uusi-K\xE4mpp\xE4, J."
+    role: ''
+    organization: ''
+    url: ''
+  Piirainen-S.:
+    individualname: Piirainen, S.
+    role: ''
+    organization: ''
+    url: ''
+  Turola-E.:
+    individualname: Turola, E.
+    role: ''
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.16410830
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.16410830
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

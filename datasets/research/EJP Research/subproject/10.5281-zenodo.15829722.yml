@@ -1,0 +1,41 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.15829722
+  dataseturi: https://doi.org/10.5281/zenodo.15829722
+  hierarchylevel: dataset
+identification:
+  title: 'Database Knowledge needs and Initiatives: Qualitative results'
+  keywords:
+    project:
+      keywords:
+      - EJP Soil
+  abstract: ''
+  license:
+    name: ''
+  dates:
+    issued: '2025-07-07'
+    publication: '2025'
+  rights: cc-by-4.0
+contact:
+  Baratella-Valentina:
+    individualname: Baratella, Valentina
+    role: ''
+    organization: ''
+    url: 0000-0002-9735-4256
+  Vanino-Silvia:
+    individualname: Vanino, Silvia
+    role: ''
+    organization: Consiglio per la Ricerca e la Sperimentazione in Agricoltura
+    url: 0000-0001-5837-509X
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.15829722
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.15829722
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14264386
+  dataseturi: https://doi.org/10.5281/zenodo.14264386
+  hierarchylevel: dataset
+identification:
+  title: Data on the quantitative response of microbial populations to prolonged drought
+    and soil wetness under cold and warm spring conditions. Simulation in Phytotrone
+  keywords:
+    project:
+      keywords:
+      - ARTEMIS
+  abstract: "The soil microbial response to changes in temperature and weather patterns\
+    \ was assessed in phytotron, with central-eastern Po Valley (Bologna province)\
+    \ in northern Italy as a point of reference. Prolonged soil drought (20% field\
+    \ capacity FC), prolonged wet (above FC) and moderate drought (commonly occurring\
+    \ at 50% FC) were simulated at two spring temperatures, which were approximately\
+    \ + 2\xB0C and -2\xB0C colder and warmer compared to average temperatures in the\
+    \ central-eastern Po Valley.\_ The response of total fungi, Ascomycota and Basidiomycota\
+    \ was quantified using 18S gene copy numbers and digital PCR, that of total bacteria\
+    \ using 16S gene copy numbers and Real Time PCR.The experimental setting of each\
+    \ of the two cycles (cold and warm spring) consisted of a total of 30 pots for\
+    \ a 60-day growing period, after a pre-period of 15 days during which pots, after\
+    \ wheat sown, were maintained at the same temperature and soil water content (22\
+    \ \xB0C and 50% field capacity) in order to guarantee that seedlings reached the\
+    \ two-leaf stage.The soil\_ used for the in-pot trial was a loam-silty soil classified\
+    \ as Udifluventic Haplustepts fine silty, mixed mesifocusing collected from a\
+    \ ploughed soil.\_ Soil samples for the quantification of microbial populations\
+    \ were collected at the end of the 60-day cicles on the rhizo-head of wheat plants."
+  license:
+    name: ''
+  dates:
+    issued: '2024-12-03'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Manici-Luisa-Maria:
+    individualname: Manici, Luisa Maria
+    role: ''
+    organization: CREA
+    url: ''
+  BREGAGLIO-SIMONE:
+    individualname: BREGAGLIO, SIMONE
+    role: ''
+    organization: CREA
+    url: 0000-0001-8381-2626
+  Caputo-Francesco:
+    individualname: Caputo, Francesco
+    role: ''
+    organization: ''
+    url: ''
+  Morello-Bruno:
+    individualname: Morello, Bruno
+    role: ''
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14264386
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14165027
+    type: WWW:LINK
+    title: IsSupplementTo
+  r1:
+    url: https://doi.org/10.5281/zenodo.14264386
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

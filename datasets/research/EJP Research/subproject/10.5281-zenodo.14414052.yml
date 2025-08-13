@@ -1,0 +1,39 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14414052
+  dataseturi: https://doi.org/10.5281/zenodo.14414052
+  hierarchylevel: dataset
+identification:
+  title: 'Supplementary material 1_Article  Context-Driven Agroecological Intensification
+    to support Soil Health and C accrual: Insights from a Multi-site Experiment" by
+    Trinchera et al. .'
+  keywords:
+    project:
+      keywords:
+      - AGROECOseqC
+  abstract: ''
+  license:
+    name: ''
+  dates:
+    issued: '2024-12-12'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Trinchera-Alessandra:
+    individualname: Trinchera, Alessandra
+    role: ''
+    organization: Consiglio per la ricerca in agricoltura e l'analisi dell'economia
+      agraria
+    url: 0000-0003-3655-5617
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14414052
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14414051
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''
