@@ -6,7 +6,7 @@ metadata:
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://agroenvgeo.data.inra.fr/geonetwork/srv/metadata/f599548d-b0be-55f9-9adf-4e9aa3a0be91
+  dataseturi: https://geodata.inrae.fr/geonetwork/srv/fre/catalog.search#/metadata/f599548d-b0be-55f9-9adf-4e9aa3a0be91
 spatial:
   resolution: "1:1,000,000"
   datatype: NATURAL_POLYGONs,polygons with natural boundaries
@@ -34,11 +34,15 @@ identification:
     - begin: '2017'
   accessconstraints: No restrictions
   rights: ''
+  license:
+        name: Etalab 2.0
+        url: https://spdx.org/licenses/etalab-2.0.html
   maintenancefrequency: otherRestrictions
 contact:
   pointOfContact:
     organization: INRAE
     country: France
+    email: infosol@inrae.fr
 dataquality:
   scope:
     level: dataset
