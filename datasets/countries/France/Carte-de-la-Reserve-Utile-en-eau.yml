@@ -39,6 +39,9 @@ identification:
     temporal:
     - begin: '2018'
   accessconstraints: No restrictions
+  license:
+        name: Etalab 2.0
+        url: https://spdx.org/licenses/etalab-2.0.html
   rights: ''
   maintenancefrequency: otherRestrictions
 contact:
