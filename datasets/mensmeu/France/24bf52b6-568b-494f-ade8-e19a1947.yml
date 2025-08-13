@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 24bf52b6-568b-494f-ade8-e19a1947e4fe
+  identifier: cc17db4c-2317-528f-998a-652229a71252
   language: fre
   
   charset: utf8
@@ -13,10 +13,8 @@ spatial:
 identification:
   language: fre
   charset: utf8
-  title: Cartogramme des teneurs en Calcaire total
-  abstract: 'Map of the contents in total lime. The data come from the soil analysis
-    results of the 2200 sites of the Soil Quality Measurement Network, during the
-    first sampling campaign.'
+  title: Cartogrammes des teneurs ponctuelles en calcaire total mesurées sur le RMQS, campagne 1 (2001-2009) 
+  abstract: 'Le Réseau de Mesures de la Qualité des Sols (RMQS) est un programme national d’évaluation et de suivi à long terme de la qualité des sols français. Ce réseau repose sur le suivi de 2240 sites représentatifs des sols français et de leurs occupations, répartis sur l’ensemble du territoire français (métropole et outre-mer) selon une grille systématique de 16 km de côté. Les sites recouvrent diverses occupations (grandes cultures, prairies permanentes, forêts, vignes et vergers, milieux peu anthropisés, parcs urbains). Des propriétés physiques, chimiques et biologiques des sols sont mesurées sur chaque site avec une périodicité d’une quinzaine d’années. Ces analyses sont associées à la recherche des facteurs explicatifs de la variabilité spatiale et temporelle des propriétés des sols (variables biophysiques, sources de contamination, historique de l’occupation et des pratiques de gestion de chaque site). La première campagne de prélèvement en métropole s'est déroulée de 2000 à 2009. Cette campagne, axée sur la contamination des sols, a permis de cartographier les principaux paramètres pédologiques (28 variables) ainsi que les teneurs en 12 éléments traces métalliques (ETM) en extraction totale ou partielle et 70 polluants organiques persistants. L’ensemble des protocoles de prélèvements, mesures et observations réalisés sur chaque site durant cette campagne est détaillé dans le Manuel du Réseau de Mesures de la Qualité des Sols datant de 2006. Obtention des valeurs : Les cartogrammes produits sont issus des résultats d’analyses de 2146 sites de métropole, répartis sur 2146 cellules, mis en œuvre lors de la première campagne RMQS (2000 -2009). Les analyses ont été réalisées sur des échantillons composites prélevés à la tarière selon 2 couches de prélèvements (0-30 cm ou épaisseur de la couche travaillée en sol cultivé appelée composite de surface ou composite 1 et la couche sous-jacente jusqu’à 50 cm, appelée composite de sub-surface ou composite 2). Chaque échantillon composite a été constitué à partir du mélange de 25 prélèvements individuels prélevés sur une surface d’échantillonnage de 400 m² selon un plan d’échantillonnage aléatoire stratifié (voir description dans le manuel du RMQS, 2006). Une troisième couche de prélèvement issue d’échantillons composites a pu être constituée en forêt ou en prairie, à partir des horizons holorganiques (correspondant aux horizons pédologiques OF et OH) lorsque ces horizons étaient suffisamment épais (au moins 1 cm) et continus sur la surface d’échantillonnage. Les cartogrammes sont une représentation géographique des teneurs réelles (concentration en unité de mesure par masse de sol séché à l’air) mesurées pour le paramètre cité, en chaque point du Réseau de Mesures de la Qualité des Sols (RMQS), lors de la première campagne (2000-2009). Les analyses de sol ont été réalisées par le Laboratoire d’Analyses des Sols de l’INRA d’Arras au fil de la campagne, de 2002 à 2011, au fur et à mesure du déploiement du réseau, et pour certains paramètres, a posteriori, sur les échantillons stockés au Conservatoire Européen des Sols. Les cartogrammes n’ont pas été constitués avec les coordonnées réelles des dispositifs de prélèvement, conformément au cadre juridique actuellement en vigueur et pour répondre à notre engagement d’anonymisation des données. Le jeu de données fournies associé à ces cartogrammes comportera les coordonnées du centre de la maille, appelées coordonnées du centroïde ou encore coordonnées théoriques. Un tableau de métadonnées associé au jeu de données (accessible via les liens ci-dessous) détaille pour chaque paramètre représenté, la méthode d’analyse, l’unité, le seuil de détection et l’incertitude analytique associée à l’analyse fournie par le LAS.'
   dates:
     creation: 28-5-2015
   keywords:
@@ -39,25 +37,28 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: ''
-    - end: ''
+    - begin: '2000'
+    - end: '2009'
   accessconstraints: no limitation
   rights: no conditions apply
-  url: https://agroenvgeo.data.inra.fr/sviewer/?x=358337&y=5901707&z=6&title=Cartogramme%20des%20teneurs%20en%20Calcaire%20total&layers=gissol_rmqs:teneur_calc_tot_rmqs
+  license:
+        name: Etalab 2.0
+        url: https://spdx.org/licenses/etalab-2.0.html
+
+  url: https://geodata.inrae.fr/datahub/dataset/cc17db4c-2317-528f-998a-652229a71252
   status: onGoing
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: INRA InfoSol
-    individualname: Marion Bardy
+    organization: INRAE Info&Sols
     country: France
-    email: infosol@orleans.inra.fr
+    email: infosol@inrae.fr
     contactinstructions: email
 distribution:
   wms:
-    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_rmqs/wms?
+    url: https://geodata.inrae.fr/geoserver/gissol_rmqs/wms
     type: ogc:wms
-    name: eneur_calc_tot_rmqs
+    name: teneur_calc_tot_rmqs
 dataquality:
   scope:
     level: dataset
