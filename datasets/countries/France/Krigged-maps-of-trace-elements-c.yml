@@ -40,6 +40,9 @@ identification:
     temporal:
     - begin: '2014'
   accessconstraints: No restrictions
+  license:
+        name: CC-BY 2.0
+        url: http://creativecommons.org/licenses/by/2.0/fr/
   rights: ''
   maintenancefrequency: it was a single survey
 contact:
