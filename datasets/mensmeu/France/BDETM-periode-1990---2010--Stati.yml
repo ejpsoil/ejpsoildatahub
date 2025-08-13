@@ -1,9 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: "BDETM-(p\xE9riode-1990---2010)--Statistiques-spatio-temporelles-par-petite-r\xE9\
-    gion-agricole-des-textures-(argiles,-limons,-sables)-issues-d\u2019observations-collect\xE9\
-    es-dans-le-cadre-du-programme-BDETM"
+  identifier: d904e13e-9353-5b1b-a36f-715a79f69021
   language: fre
   
   charset: utf8
@@ -18,9 +16,7 @@ identification:
   title: "BDETM (p\xE9riode 1990 - 2010) : Statistiques spatio-temporelles par petite\
     \ r\xE9gion agricole des textures (argiles, limons, sables) issues d\u2019observations\
     \ collect\xE9es dans le cadre du programme BDETM"
-  abstract: 'Spatio-temporal statistics by small agricultural region of textures (clays,
-    silts, sands) resulting from observations collected under the BDETM program  (period
-    1990 - 2010)'
+  abstract: 'L’ADEME a financé deux programmes de collecte d’analyses d’éléments traces métalliques (ETM) sur des sols agricoles, avant épandage de boues de stations d’épuration. Ces deux campagnes ont été réalisées par l’Inra auprès d’organismes en charge des plans d’épandage (ex : bureaux d’études, chambres d’agriculture). La première collecte, effectuée entre 1997 et 1998, a permis de recueillir des analyses pour plus de 11 000 sites provenant principalement d’une trentaine de départements métropolitains. La seconde collecte s’est déroulée de novembre 2008 à janvier 2010 et a permis de rassembler 73 400 nouveaux sites. En rassemblant ces 2 campagnes, la répartition à l’échelon national est bien meilleure : il n’y a qu’un seul département pour lequel aucune donnée n’a pu être recueillie. Les 7 ETM suivants ont été mesurés après une extraction à l’eau régale ou à l’acide fluorhydrique (HF) : cadmium, chrome, cuivre, mercure, nickel, plomb, zinc. Les 5 propriétés pédologiques suivantes ont également été collectées : la texture (argile, limons, sables), le carbone organique, la CEC et le pH dans l’eau. Ce jeu de données concerne exclusivement ces 5 propriétés pédologiques. Un ensemble de statistiques a été calculé sur des sous populations par tranche temporelle de 10 ans et par petite région agricole (PRA). Attention, il est important de noter qu’il n’a pas été fait de distinction quant à la méthode d’extraction dans le calcul des statistiques. Dictionnaire de données : Le nom du fichier indique le nom du programme (BDETM), l’entité spatiale (pra), la propriété du sol concernée (ex CEC) et la période temporelle de calcul des statistiques (9000 = 1990-2000, 0010 = 2000-2010, 9010 = 1990-2000). Les champs se déclinent par élément : pra = identifiant INSEE de la petite région agricole eff = nombre d’observations moy = moyenne ec = écart-type med = médiane pqua = premier quartile (25 %) dqua = dernier quartile (75 %) pdec = premier décile (10%) ddec = dernier décile (10%) nbout = nombre d’outliers (dont la valeur est supérieure à la vibrisse supérieure) Les teneurs en éléments traces (et statistiques associées) sont extrimées en mg/kg.'
   dates:
     creation: 27-6-2019
   keywords:
@@ -44,8 +40,8 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: an interval of dates
-    - end: ''
+    - begin: '1990'
+    - end: '2010'
   accessconstraints: no limitation
   rights: no conditions apply
   url: ''
@@ -53,21 +49,16 @@ identification:
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: INRA - Institut National de la Recherche Agronomique
-    individualname: Le Bas, Christine
+    organization: INRAE
     country: France
-    email: infosol@inra.fr
+    email: infosol@inrae.fr
     contactinstructions: email
 distribution:
   wfs:
-    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_geosol/wfs?service=WFS&version=2.0.0&request=GetFeature&typeName=gissol_geosol:bdetm_pra_9010&outputFormat=shape-zip
+    url: https://geodata.inrae.fr/geoserver/gissol_geosol/ows?SERVICE=WFS&REQUEST=GetFeature&VERSION=2.0.0&TYPENAMES=gissol_geosol%3Abdetm_pra_9010&OUTPUTFORMAT=DXF-ZIP
     type: ogc:wfs
     name: WFS
-  SHP:
-    url: https://agroenvgeo.data.inra.fr/geoserver/gissol_geosol/wfs?typeName=gissol_geosol:bdetm_pra_9010&outputFormat=shape-zip&request=GetFeature&service=WFS&version=2.0.0
-    type: application/shp
-    name: SHP
-dataquality:
+  dataquality:
   scope:
     level: dataset
   lineage:
