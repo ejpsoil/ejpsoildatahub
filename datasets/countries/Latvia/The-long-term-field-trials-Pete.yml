@@ -46,3 +46,9 @@ dataquality:
   lineage:
     statement: 'mostly topsoil, for specific research from topsoil and subsoil. Mapping:
       . Depth intervals: otherRestrictions. Uncertainty quantification: NO'
+
+distribution:
+  link:
+    url: https://llufb.llu.lv/conference/LLU-Vecauce/2020/LLU_Razas_svetki_Vecauce_2020-12-16.pdf
+    name: "Challenges, Achievements and Further Prospects of Longterm Experiment: a Case Study of RSF Pēterlauki"
+    type: application/pdf

@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.10959618
+  dataseturi: https://doi.org/10.5281/zenodo.10959618
+  hierarchylevel: dataset
+identification:
+  title: EJP SOIL C-arouNd - (Meta)data of Long-term field experiments (LET)
+  keywords:
+    project:
+      keywords:
+      - C-arouNd
+  abstract: ''
+  license:
+    name: ''
+  dates:
+    issued: '2024-04-11'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Rheinland-Pfalzische-Technische-Universitat-Kaiserslautern-Landau:
+    individualname: "Rheinland-Pf\xE4lzische Technische Universit\xE4t Kaiserslautern-Landau"
+    role: ''
+    organization: ''
+    url: 01qrts582
+  Norwegian-Centre-for-Organic-Agriculture:
+    individualname: Norwegian Centre for Organic Agriculture
+    role: ''
+    organization: ''
+    url: 04vgq9s06
+  Centre-of-Estonian-Rural-Research-and-Knowledge:
+    individualname: Centre of Estonian Rural Research and Knowledge
+    role: ''
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.10959618
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10959617
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

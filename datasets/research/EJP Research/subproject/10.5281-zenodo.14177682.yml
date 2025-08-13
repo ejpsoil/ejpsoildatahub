@@ -1,0 +1,206 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14177682
+  dataseturi: https://doi.org/10.5281/zenodo.14177682
+  hierarchylevel: dataset
+identification:
+  title: Field data of soil greenhouse gas fluxes from SOMMIT long-term experiments
+  keywords:
+    project:
+      keywords:
+      - SOMMIT
+  abstract: "This is a database of field data of soil greenhouse gas fluxes and ancillary\
+    \ data from long-term experiments (LTEs) that participated in the task 1 of the\
+    \ work package 3 from SOMMIT. As of November 2024 (V 1.0) six LTEs have contributed\
+    \ with data: \"ACBB Estr\xE9es-Mons, France\", \"Rutzendorf_17, Austria\", \"\
+    Maintainance of organic orchards, Italy\", \"Fagna, Italy\", \"ULBF-Ljubljana,\
+    \ Slovenia\" and \"Grabow 2, Poland\". All LTEs are referenced according to the\
+    \ LTE Index from https://doi.org/10.5281/zenodo.7598122. The data includes soil\
+    \ greenhouse gas fluxes (N2O, CO2 and CH4) under different management practices,\
+    \ as well as ancillary data that might be useful to explain the observed fluxes.\
+    \ The database includes metadata on how soil greenhouse flux data and ancillary\
+    \ data were collected. Individual soil gas flux estimates are also expressed in\
+    \ CO2 equivalents [mg CO2-eq m-2 h-1], thereby providing a dataset on the contribution\
+    \ of soil CO2, N2O and CH4 fluxes to the soil global warming potential. This product\
+    \ is part of the EJP SOIL internal project SOMMIT, and serves as deliverables\
+    \ WP3.2 and WP3.3."
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-18'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Diaz-Pines-Eugenio:
+    individualname: Diaz-Pines, Eugenio
+    role: ''
+    organization: University of Natural Resources and Life Sciences, Vienna
+    url: 0000-0001-9935-106X
+  Becagli-Claudia:
+    individualname: Becagli, Claudia
+    role: ''
+    organization: Council for Agricultural Research and Economics, Research Center
+      for Agriculture and Environment (CREA), Florence, Italy
+    url: 0000-0001-5182-2352
+  Bojarszczuk-Jolanta:
+    individualname: Bojarszczuk, Jolanta
+    role: ''
+    organization: Department of Bioeconomy and Systems Analysis, Institute of Soil
+      Science and Plant Cultivation - State Research Institute (IUNG-PIB), Pulawy,
+      Poland
+    url: ''
+  Di-Bene-Claudia:
+    individualname: Di Bene, Claudia
+    role: ''
+    organization: Council for Agricultural Research and Economics, Research Center
+      for Agriculture and Environment (CREA), Rome, Italy
+    url: 0000-0002-3830-251X
+  Ciaccia-Corrado:
+    individualname: Ciaccia, Corrado
+    role: ''
+    organization: Council for Agricultural Research and Economics, Research Center
+      for Agriculture and Environment (CREA), Rome, Italy
+    url: 0000-0002-1671-9349
+  Eler-Klemen:
+    individualname: Eler, Klemen
+    role: ''
+    organization: University of Ljubljana,  Biotechnical faculty, Jamnikarjeva 101,
+      1000 Ljubljana,  Slovenia
+    url: ''
+  Esparza-Robles-Ulises-Ramon:
+    individualname: Esparza-Robles, Ulises Ramon
+    role: ''
+    organization: Institute of Soil Research, BOKU University, Vienna, Austria
+    url: 0000-0001-5776-1626
+  Ferchaud-Fabien:
+    individualname: Ferchaud, Fabien
+    role: ''
+    organization: BioEcoAgro Joint Research Unit, INRAE, Barenton-Bugny, France
+    url: 0000-0002-2078-3570
+  Govednik-Anton:
+    individualname: Govednik, Anton
+    role: ''
+    organization: University of Ljubljana,  Biotechnical faculty, Jamnikarjeva 101,
+      1000 Ljubljana,  Slovenia
+    url: 0000-0001-9103-3665
+  Grehan-Eric:
+    individualname: "Gr\xE9han, Eric"
+    role: ''
+    organization: BioEcoAgro Joint Research Unit, INRAE, Barenton-Bugny, France
+    url: ''
+  Keuper-Frida:
+    individualname: Keuper, Frida
+    role: ''
+    organization: BioEcoAgro Joint Research Unit, INRAE, Barenton-Bugny, France
+    url: 0000-0003-3835-0586
+  Kitzler-Barbara:
+    individualname: Kitzler, Barbara
+    role: ''
+    organization: Forest Ecology and Soil Department, Federal Research Centre for
+      Forests, Vienna, Austria
+    url: ''
+  Leonard-Joel:
+    individualname: "L\xE9onard, Jo\xEBl"
+    role: ''
+    organization: BioEcoAgro Joint Research Unit, INRAE, Barenton-Bugny, France
+    url: 0000-0002-9907-9104
+  Mary-Bruno:
+    individualname: Mary, Bruno
+    role: ''
+    organization: BioEcoAgro Joint Research Unit, INRAE, Barenton-Bugny, France
+    url: ''
+  Mihelic-Rok:
+    individualname: "Miheli\u010D, Rok"
+    role: ''
+    organization: University of Ljubljana,  Biotechnical faculty, Jamnikarjeva 101,
+      1000 Ljubljana,  Slovenia
+    url: 0000-0002-6845-1903
+  Mondini-Claudio:
+    individualname: Mondini, Claudio
+    role: ''
+    organization: Council for Agricultural Research and Economics, Research Centre
+      for Viticulture and Enology, Gorizia, Italy
+    url: 0000-0002-1561-8036
+  Pastorelli-Roberta:
+    individualname: Pastorelli, Roberta
+    role: ''
+    organization: Council for Agricultural Research and Economics, Research Center
+      for Agriculture and Environment (CREA), Florence, Italy
+    url: 0000-0002-1278-7651
+  Rocchi-Filippo:
+    individualname: Rocchi, Filippo
+    role: ''
+    organization: Council for Agricultural Research and Economics, Research Center
+      for Agriculture and Environment (CREA), Florence, Italy
+    url: ''
+  Sanden-Taru:
+    individualname: "Sand\xE9n, Taru"
+    role: ''
+    organization: Department for Soil Health and Plant Nutrition, Austrian Agency
+      for Health andFood Safety (AGES), Vienna, Austria
+    url: ''
+  Schwarzmann-Ana:
+    individualname: Schwarzmann, Ana
+    role: ''
+    organization: University of Ljubljana,  Biotechnical faculty, Jamnikarjeva 101,
+      1000 Ljubljana,  Slovenia
+    url: ''
+  Spiegel-Heide:
+    individualname: Spiegel, Heide
+    role: ''
+    organization: Department for Soil Health and Plant Nutrition, Austrian Agency
+      for Health andFood Safety (AGES), Vienna, Austria
+    url: 0000-0003-1285-8509
+  Suhadolc-Marjetka:
+    individualname: Suhadolc, Marjetka
+    role: ''
+    organization: University of Ljubljana,  Biotechnical faculty, Jamnikarjeva 101,
+      1000 Ljubljana,  Slovenia
+    url: 0000-0003-1550-1636
+  Syp-Alina:
+    individualname: Syp, Alina
+    role: ''
+    organization: Department of Bioeconomy and Systems Analysis, Institute of Soil
+      Science and Plant Cultivation - State Research Institute (IUNG-PIB), Pulawy,
+      Poland
+    url: ''
+  Testani-Elena:
+    individualname: Testani, Elena
+    role: ''
+    organization: Council for Agricultural Research and Economics, Research Center
+      for Agriculture and Environment (CREA), Rome, Italy
+    url: ''
+  Vitte-Guillaume:
+    individualname: Vitte, Guillaume
+    role: ''
+    organization: BioEcoAgro Joint Research Unit, INRAE, Barenton-Bugny, France
+    url: ''
+  Zylowski-Tomasz:
+    individualname: "\u017By\u0142owski, Tomasz"
+    role: ''
+    organization: Department of Bioeconomy and Systems Analysis, Institute of Soil
+      Science and Plant Cultivation - State Research Institute (IUNG-PIB), Pulawy,
+      Poland
+    url: 0000-0002-6665-2787
+  Lagomarsino-Alessandra:
+    individualname: Lagomarsino, Alessandra
+    role: ''
+    organization: Council for Agricultural Research and Economics, Research Center
+      for Agriculture and Environment (CREA), Florence, Italy
+    url: 0000-0003-3325-0084
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14177682
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7598122
+    type: WWW:LINK
+    title: Cites
+  r1:
+    url: https://doi.org/10.5281/zenodo.14177682
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.6511048
+  dataseturi: https://doi.org/10.5281/zenodo.6511048
+  hierarchylevel: computationalnotebook
+identification:
+  title: A web-app for exploring the inventory of innovative soil management practices
+  keywords:
+    project:
+      keywords:
+      - iSoMPE
+  abstract: "This web application is designed for giving an easy way for exploring\
+    \ the inventory of innovative soil management practices to players of farming\
+    \ systems, researchers, advisers, farmers, \u2026 This inventory is the main output\
+    \ of the i-SoMPE project.\n\nA summary of the aims of our project and the approch\
+    \ for collecting and sharing the results is propose in the next sections of this\
+    \ home page, just after a basic user guide.\n\nThis inventory contains a number\
+    \ of innovative soil management practice. You can choose the part of the inventory\
+    \ : A - Soil management practices or B - Innovations, Experiences and specific\
+    \ applications and select a practice in the left side panel. Then you can explore\
+    \ the various tabs :\n\n\n\nGeneral presentation : main contents of the inventory,\
+    \ description of the benefits and applicability of the practice.\n\nMaps : static\
+    \ or dynamic, showing the current diffusion of the selected practice in the different\
+    \ countries and environmental zones of Europe (!! only available for the practices\
+    \ from the part A of the inventory)\n\nData (maps) : a dynamic table for exploring\
+    \ the adoption rate data (!! only available for the practices from the part A\
+    \ of the inventory)\n\n\nIf you look for further information on i-SoMPE, report,\
+    \ publication or open data, you can find information and useful links in the bottom\
+    \ of this home page and in the tab \"More information on the project\".\n\nHave\
+    \ a nice exploration !\n\nThe coordination team\n\nFr\xE9d\xE9ric Vanwindekens,\
+    \ Olivier Heller, Claudia Di Bene, Pasquale Nino\n\n\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-02-07'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Vanwindekens-Frederic:
+    individualname: "Vanwindekens, Fr\xE9d\xE9ric"
+    role: ''
+    organization: Walloon Agricultural Research Centre
+    url: 0000-0002-9117-7543
+  Heller-Olivier:
+    individualname: Heller, Olivier
+    role: ''
+    organization: Agroscope
+    url: 0000-0002-5918-4161
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.6511048
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6511370
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.6511349
+    type: WWW:LINK
+    title: HasMetadata
+  r2:
+    url: https://doi.org/10.5281/zenodo.6511048
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r3:
+    url: https://doi.org/10.5281/zenodo.6510953
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r4:
+    url: https://doi.org/10.5281/zenodo.6372364
+    type: WWW:LINK
+    title: IsVariantFormOf
+  r5:
+    url: https://doi.org/10.5281/zenodo.10691473
+    type: WWW:LINK
+    title: IsSupplementedBy
+  r6:
+    url: https://doi.org/10.1111/ejss.13483
+    type: WWW:LINK
+    title: IsPublishedIn
+  r7:
+    url: https://doi.org/10.5281/zenodo.10630667
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

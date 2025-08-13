@@ -1,0 +1,115 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14179949
+  dataseturi: https://doi.org/10.5281/zenodo.14179949
+  hierarchylevel: dataset
+identification:
+  title: EOM4SOIL - Physico-chemical characteristics of external organic matters (EOMs)
+    database
+  keywords:
+    project:
+      keywords:
+      - EOM4SOIL
+    default:
+      keywords:
+        subject: Non-relational databases
+        subjectScheme: EuroSciVoc
+  abstract: "Physico-chemical characteristics of external organic matters (EOMs) database.\
+    \ The database is a non-relationnal database in column format. Established in\
+    \ the EJP Soil EOM4SOIL project, the database considers physico-chemical characteristics\
+    \ from about 120 types of EOMs encompassing urban, industrial and agricultural\
+    \ origins (e.g. urine, sludge, composts, digestates, farmyard manures; from various\
+    \ origins) and about 90 characteristics (major elements, mineral trace elements,\
+    \ emerging contaminants, mineralised C and N). There is an average of about 20\
+    \ variables collected per type of EOM. The Physico-chemical characteristics EOM\
+    \ database gathered EOM references collected in national databases and surveys\
+    \ from various European countries completed by data published in scientific articles.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-15'
+    submitted: '2024-10-22'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Michaud-Aurelia:
+    individualname: "Michaud, Aur\xE9lia"
+    role: DataCurator
+    organization: INRAE SAS
+    url: ''
+  Van-Der-Smissen-Helene:
+    individualname: "Van Der Smissen, H\xE9l\xE8ne"
+    role: DataCurator
+    organization: CRAW
+    url: ''
+  Tampio-Elina:
+    individualname: Tampio, Elina
+    role: DataCollector
+    organization: LUKE
+    url: ''
+  Laakso-Johanna:
+    individualname: Laakso, Johanna
+    role: DataCollector
+    organization: LUKE
+    url: ''
+  Levavasseur-Florent:
+    individualname: Levavasseur, Florent
+    role: DataCollector
+    organization: INRAE EcoSys
+    url: ''
+  Barcauskaite-Karolina:
+    individualname: Barcauskaite, Karolina
+    role: DataCollector
+    organization: LAMMC
+    url: ''
+  Lasorella-Valentina:
+    individualname: Lasorella, Valentina
+    role: DataCollector
+    organization: CREA
+    url: ''
+  Criscuoli-Irene:
+    individualname: Criscuoli, Irene
+    role: DataCollector
+    organization: CREA
+    url: ''
+  Asperen-Paulien:
+    individualname: Asperen, Paulien
+    role: DataCollector
+    organization: WUR
+    url: ''
+  Dehaan-Janjo:
+    individualname: Dehaan, Janjo
+    role: DataCollector
+    organization: WUR
+    url: ''
+  Jimenez-Julie:
+    individualname: Jimenez, Julie
+    role: DataCollector
+    organization: INRAE LBE
+    url: ''
+  Caradec-Lucille:
+    individualname: Caradec, Lucille
+    role: DataCurator
+    organization: INRAE SAS
+    url: ''
+  Houot-Sabine:
+    individualname: Houot, Sabine
+    role: DataCollector
+    organization: INRAE EcoSys
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14179949
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13805742
+    type: WWW:LINK
+    title: IsReferencedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.13969792
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

@@ -1,0 +1,119 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.15730034
+  dataseturi: https://doi.org/10.5281/zenodo.15730034
+  hierarchylevel: dataset
+identification:
+  title: Farm structural information and questionnaire responses - SoilX WP4
+  keywords:
+    project:
+      keywords:
+      - SoilX
+  abstract: 'This dataset contains selected farm structural information about the
+    farms whose managers we interviewed as part of work package 4 ("Farmer-related
+    challenges to the use of sustainable soil management practices") of the project
+    SoilX ("Soil management to mitigate climate change-related precipitation eXtremes"),
+    as well as the interviewees'' responses to questionnaire questions on soil management
+    and "good farmer" norms. We interviewed farm managers from a total of five case
+    study regions in Austria, Switzerland, Denmark, Spain, and Sweden.
+
+
+    The dataset is the basis for two different analyses: 1) A Q-methodological analysis
+    across all case study regions, and 2) an analysis of farmers'' norms based on
+    the concept of the "good farmer" across four of the case study regions (Austria,
+    Switzerland, Spain, Sweden).
+
+
+    The data are provided in an excel document with three sheets. Sheet 1 contains
+    pseudonymized farm structural information (i.e., size classes instead of concise
+    sizes; other potentially identifying information has been deleted) for all case
+    study regions, sheet 2 contains responses to the questions on soil management
+    again for all case study regions, and sheet 3 contains responses to questions
+    on perceptions of a "good farmer" for all but the Danish case study region. Information
+    that could lead to identification of individual interviewees has been removed
+    and pseudonymized. This includes demographic information on farm managers and
+    farm structural details, as well as information on biochar usage. Please also
+    note the "notes" in each sheet concerning questionable or incomplete data. Interviewees
+    are identified via country-specific IDs, where: AT = Austria, CH = Switzerland,
+    DK = Denmark, ES = Spain, SE = Sweden.
+
+
+    For the survey instrument (interview guideline and questionnaire) as well as the
+    data from the Q-Methodological sorting please refer to the linked documents.'
+  license:
+    name: ''
+  dates:
+    issued: '2025-06-24'
+    publication: '2025'
+  rights: cc-by-sa-4.0
+contact:
+  Leonhardt-Heidi:
+    individualname: Leonhardt, Heidi
+    role: ''
+    organization: BOKU University
+    url: 0000-0003-2129-1989
+  Braito-Michael:
+    individualname: Braito, Michael
+    role: ''
+    organization: University of Natural Resources and Life Sciences
+    url: 0000-0002-9763-0804
+  Butikofer-Nicole:
+    individualname: "B\xFCtikofer, Nicole"
+    role: ''
+    organization: Agroscope
+    url: 0009-0001-6877-1632
+  Graversgaard-Morten:
+    individualname: Graversgaard, Morten
+    role: ''
+    organization: Aarhus University
+    url: 0000-0001-7636-4335
+  Hacek-Marion:
+    individualname: Hacek, Marion
+    role: ''
+    organization: BOKU University
+    url: ''
+  Hockert-Jenny:
+    individualname: "H\xF6ckert, Jenny"
+    role: ''
+    organization: Swedish University of Agricultural Sciences
+    url: 0000-0002-1377-2339
+  Lunar-Koch-Ernesto-Jose:
+    individualname: Lunar Koch, Ernesto Jose
+    role: ''
+    organization: BOKU University
+    url: 0009-0004-9052-1818
+  Lundstrom-Christina:
+    individualname: "Lundstr\xF6m, Christina"
+    role: ''
+    organization: Swedish University of Agricultural Sciences
+    url: 0000-0003-0253-3663
+  Schreiber-Mariella:
+    individualname: Schreiber, Mariella
+    role: ''
+    organization: BOKU University
+    url: 0000-0002-0464-2364
+  Tiselius-Mette:
+    individualname: Tiselius, Mette
+    role: ''
+    organization: Swedish University of Agricultural Sciences
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.15730034
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.15682965
+    type: WWW:LINK
+    title: IsDescribedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.15730034
+    type: WWW:LINK
+    title: IsSupplementTo
+  r2:
+    url: https://doi.org/10.5281/zenodo.15730135
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

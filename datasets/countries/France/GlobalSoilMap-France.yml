@@ -8,7 +8,7 @@ metadata:
   hierarchylevel: dataset
   dataseturi: https://doi.org/10.15454/9IRARJ
 spatial:
-  resolution: 90m*90m
+  resolution: 90 m
   datatype: GRID
 identification:
   language: null

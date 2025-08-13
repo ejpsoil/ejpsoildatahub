@@ -1,7 +1,7 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.14104497
+  identifier: 10.5281/zenodo.14104497
   dataseturi: https://doi.org/10.5281/zenodo.14104497
   hierarchylevel: dataset
 identification:
@@ -73,7 +73,7 @@ contact:
     url: 0000-0003-3018-4990
 distribution:
   contentUrl:
-    url: 10.5281/zenodo.14104497
+    url: https://doi.org/10.5281/zenodo.14104497
     type: WWW:LINK
     title: Link
   r0:

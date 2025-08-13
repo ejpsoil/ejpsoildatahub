@@ -15,7 +15,7 @@ identification:
   title: "The long-term field trials \u201CVecauce\u201D "
   abstract: ''
   dates:
-    creation: 1921 - 2020
+    creation: 1921
   keywords:
     default:
       keywords:
@@ -30,7 +30,8 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: 1921 - 2020
+    - begin: 1921
+      end: 2020
   accessconstraints: otherRestrictions
   rights: 'Data not avilable as data set. Various research is done on the site. Mostly
     used for student research. '
@@ -44,3 +45,9 @@ dataquality:
     level: dataset
   lineage:
     statement: '. Mapping: . Depth intervals: . Uncertainty quantification: '
+
+distribution:
+  link:
+    url: https://lbtufb.lbtu.lv/conference/LLU-70-zin-konf/LLU_jubilejas_krajums-126-143.pdf
+    name: "Development of the Research and Study Farm Vecauce"
+    type: documentapplication/pdf

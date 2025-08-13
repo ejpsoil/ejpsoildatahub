@@ -1,0 +1,106 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.15277024
+  dataseturi: https://doi.org/10.5281/zenodo.15277024
+  hierarchylevel: dataset
+identification:
+  title: Management of rice straw in rice-soybean succession in tropical lowland
+  keywords:
+    project:
+      keywords:
+      - C-arouNd
+    default:
+      keywords:
+        subject: culturas de campo
+  abstract: "This study aims to investigate alternative management practices for rice\
+    \ straw in tropical lowland rice-soybean systems. The goal is to twofold:\_ first,\
+    \ to identify methods that maximize the yield of the subsequent soybean crop,\
+    \ and second, to quantify the effects of these practices on soil properties. \"\
+    Ten treatments (below) consisting of a combination of rice straw management (burning,\
+    \ removal and incorporation with disc harrow, leveling disc harrow, and knife-roller)\
+    \ with soybean sowing (no-tillage and conventional) were evaluated in a completely\
+    \ randomized design, with six replications. The disc harrow operated at 0.20-0.25\
+    \ m, the leveling disc harrow at 0.10 m, and the knife-roller at 0.13 m depth.\
+    \ The total plot area was 600 m2 (10 m wide and 60 m long).\n\n\_\n\nTillage treatments\
+    \ were:\n\nBurning (M1)\n\nStraw removal (M2)\n\nIncorporation with one pass of\
+    \ a disc harrow (GA) and two (M3) or three (M4) passes of a leveling harrow (GN)\n\
+    \nIncorporation with one pass of a roller knife (RF) and no-till soybean planting\
+    \ (M5)\n\nIncorporation with one pass of RF and two (M6) or three (M7) passes\
+    \ of GN\n\nIncorporation with two passes of RF and no-till soybean planting (M8)\n\
+    \nTwo (M9) or three (M10) passes of GN.\" \"Grain yield was determined in an area\
+    \ of 2.55 m\xB2, corresponding to six 2.5 m rows spaced 0.17 m apart, which was\
+    \ expressed in kg ha-1, after moisture was adjusted to 13%.\n\n\_\n\nThe yield\
+    \ components were determined: the number of panicles in one meter of the planting\
+    \ row; plant height, measured from the soil level to the tip of the panicle in\
+    \ five tillers. The HI was obtained by the ratio between grain yield and total\
+    \ dry matter in 1 m2. The number of grains and empty spikelets in ten panicles\
+    \ and the mass of 100 grains. The determination of the industrial quality of grains\
+    \ in 100 g samples of processed seeds. Rice and soybean grain yields were determined\
+    \ annually and the cumulative yields of these crops were calculated.\" The experimental\
+    \ design is completely randomized, with six replicates. \"2015 and 2017: 0-10,\
+    \ 10-20cm\n\n2023: 0-10, 10-20, 20-30, 30-40cm\" \"This study investigated the\
+    \ following chemical properties of the soil: pH, and the levels of calcium (Ca2+),\
+    \ magnesium (Mg2+), hydrogen (H+), aluminum (Al3+), phosphorus (P), potassium\
+    \ (K+), copper (Cu2+), zinc (Zn2+), iron (Fe3+), manganese (Mn2+), and organic\
+    \ matter.\n\n\_\n\n-Soil pH was measured in water.\n\n-Calcium and magnesium were\
+    \ extracted using a 1 molar potassium chloride (KCl) solution and then analyzed\
+    \ by atomic absorption spectroscopy.\n\n-Potential acidity (the combined amount\
+    \ of hydrogen and aluminum) was determined through titration with a 0.5 molar\
+    \ calcium acetate solution at a pH of 7.\n\n-Phosphorus, potassium, and micronutrients\
+    \ were extracted with Mehlich 1 solution (a mixture of 0.5 N hydrochloric acid\
+    \ (HCl) and 0.025 N sulfuric acid (H2SO4)) and analyzed by inductively coupled\
+    \ plasma atomic emission spectroscopy.\n\n-Soil organic matter (SOM) was estimated\
+    \ by multiplying the total organic carbon content of the soil by 1.724. This calculation\
+    \ was based on the chromic acid titration method.\n\n\_\n\nThe specific methods\
+    \ used for these analyses were referenced from Teixeira et al. (2017) and Soltanpour\
+    \ et al. (1996).\" \"2015 and 2017: 0-10, 10-20cm\n\n2023: 0-10, 10-20, 20-30,\
+    \ 30-40cm\n\n\_\n\n- In 2015 and 2017, soil organic carbon content was estimated\
+    \ indirectly by measuring soil organic matter (SOM) using the chromic acid titration\
+    \ method (Teixeira et al., 2017). The total soil organic carbon content was obtained\
+    \ by multiplying the SOM by a factor of 1.724.\n\n- In 2023, soil organic carbon\
+    \ content was measured directly using dry combustion with Total Organic Carbon\
+    \ (TOC) analysis.\n\n- Soil carbon stocks were calculated using soil bulk density.\
+    \ A volumetric ring was used to determine the bulk density at different depths\
+    \ (0-10 cm, 10-20 cm, 20-30 cm, and 30-40 cm). Since bulk density varied between\
+    \ treatments, estimates of soil organic carbon stocks (in Mg ha-1) were based\
+    \ on equivalent soil masses (Sisti et al., 2004).\" The following soil physical\
+    \ properties were measured: bulk density, total porosity, microporosity, and macroporosity.\
+    \ Additionally, plant available water capacity was determined following the method\
+    \ of Teixeira et al. (2017). The S index, an indicator of soil physical quality,\
+    \ was calculated based on Dexter (2004). Finally, air capacity (AC) was assessed\
+    \ using the method outlined by Reynolds et al. (2002). Clay loam texture \"-Sample\
+    \ collection: Soil samples for biological properties were collected at a depth\
+    \ of 0-10 cm.\n\n\_\n\n-Enzyme analysis: Betaglucosidase, aryl-sulfatase, and\
+    \ acid phosphatase activities were determined following the methods described\
+    \ by Tabatabai (1994) as modified by Lopes (2013). The analysis was performed\
+    \ using dried air-sampled soil.\""
+  license:
+    name: ''
+  dates:
+    issued: '2025-04-24'
+    collected: '2023-10-01'
+    publication: '2025'
+  rights: cc-by-4.0
+contact:
+  Ananias-Soler-da-Silva-Mellissa:
+    individualname: Ananias Soler da Silva, Mellissa
+    role: ''
+    organization: Brazilian Agricultural Research Corporation
+    url: ''
+  Baeta-dos-Santos-Alberto:
+    individualname: "Ba\xEAta dos Santos, Alberto"
+    role: ''
+    organization: Brazilian Agricultural Research Corporation
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.15277024
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.15277024
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

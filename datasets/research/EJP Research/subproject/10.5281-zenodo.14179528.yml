@@ -1,0 +1,41 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14179528
+  dataseturi: https://doi.org/10.5281/zenodo.14179528
+  hierarchylevel: dataset
+identification:
+  title: STICS model dataset
+  keywords:
+    project:
+      keywords:
+      - SOMMIT
+  abstract: ''
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-18'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Leonard-Joel:
+    individualname: Leonard, Joel
+    role: ''
+    organization: ''
+    url: ''
+  Ferchaud-Fabien:
+    individualname: Ferchaud, Fabien
+    role: ''
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14179528
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14179527
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

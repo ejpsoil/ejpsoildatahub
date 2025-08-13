@@ -1,0 +1,130 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.10959077
+  dataseturi: https://doi.org/10.5281/zenodo.10959077
+  hierarchylevel: dataset
+identification:
+  title: Knowledge gaps on trade-offs of soil carbon sequestration related to soil
+    management strategies
+  keywords:
+    project:
+      keywords:
+      - SOMMIT
+    default:
+      keywords:
+        subject: Tillage
+  abstract: 'The database contains 87 unique literature items (29 reviews, 42 meta-analyses,
+    16 original papers) describing the effect of a soil management strategy (tillage
+    management, cropping systems, water management, cover crops, crop residues, livestock
+    manure, slurry, compost, biochar, liming) on the trade-offs between soil carbon
+    sequestration or SOC change and N2O emission, CH4 emission and nitrogen leaching.
+    Since some literature items describe effects of several SMS categories, the database_summary
+    tab comprises a total of 112 unique inputs. For each input it is indicated in
+    the Database_summary tab if it was used as input for the "Soil management effect
+    assessment" in Maenhout et al. (2024) [Maenhout, P., Di Bene, C., Cayuela, M.
+    L., Diaz-Pines, E., Govednik, A., Keuper, F., Mavsar, S., Mihelic, R., O''Toole,
+    A., Schwarzmann, A., Suhadolc, M., Syp, A., & Valkama, E. (2024). Trade-offs and
+    synergies of soil carbon sequestration: Addressing knowledge gaps related to soil
+    management strategies. European Journal of Soil Science, 75(3), e13515. https://doi.org/10.1111/ejss.13515]
+    and/or to define knowledge gaps ("Knowledge gap in tab"-column). Knowledge gaps
+    and research recommendations are gouped per soil management strategy in different
+    tabs in this database. Per soil management strategy, knowledge gaps are clustered
+    per theme in groups. These themes include: the specific soil management strategy,
+    pedoclimatic conditions, establishment of experiments, other soil management strategies,
+    meta-analysis, modelling and other'
+  license:
+    name: ''
+  dates:
+    issued: '2024-05-13'
+    created: '2023-10-30'
+    publication: '2024'
+  rights: cc-by-sa-4.0
+contact:
+  Maenhout-Peter:
+    individualname: Maenhout, Peter
+    role: ''
+    organization: Plant Sciences Unit, Flanders Research Institute for Agriculture,
+      Fisheries and Food (ILVO), Merelbeke, Belgium
+    url: 0000-0001-6596-9697
+  Di-Bene-Claudia:
+    individualname: Di Bene, Claudia
+    role: ''
+    organization: Council for Agricultural Research and Economics, Research Center
+      for Agriculture and Environment (CREA), Rome, Italy
+    url: 0000-0002-3830-251X
+  Cayuela-Maria-Luz:
+    individualname: Cayuela, Maria Luz
+    role: ''
+    organization: Department of Soil and Water Conservation and Waste Management,
+      CEBAS-CSIC, Campus Universitario de Espinardo, Murcia, Spain
+    url: 0000-0003-0929-4204
+  Govednik-Anton:
+    individualname: Govednik, Anton
+    role: ''
+    organization: University of Ljubljana, Biotechnical faculty, Jamnikarjeva 101,
+      1000 Ljubljana, Slovenia
+    url: 0000-0001-9103-3665
+  Keuper-Frida:
+    individualname: Keuper, Frida
+    role: ''
+    organization: BioEcoAgro Joint Research Unit, INRAE, Barenton-Bugny, France
+    url: 0000-0001-8673-7991
+  Mavsar-Sara:
+    individualname: Mavsar, Sara
+    role: ''
+    organization: University of Ljubljana, Biotechnical faculty, Jamnikarjeva 101,
+      1000 Ljubljana, Slovenia
+    url: 0009-0004-0779-8796
+  Mihelic-Rok:
+    individualname: Mihelic, Rok
+    role: ''
+    organization: University of Ljubljana, Biotechnical faculty, Jamnikarjeva 101,
+      1000 Ljubljana, Slovenia
+    url: 0000-0002-6845-1903
+  O'Toole-Adam:
+    individualname: O'Toole, Adam
+    role: ''
+    organization: "Department of Biogeochemistry and Soil Quality, Norwegian Institute\
+      \ of Bioeconomy Research (NIBIO), \xC5s, Norway"
+    url: 0000-0003-4791-6975
+  Schwarzmann-Ana:
+    individualname: Schwarzmann, Ana
+    role: ''
+    organization: University of Ljubljana, Biotechnical faculty, Jamnikarjeva 101,
+      1000 Ljubljana, Slovenia
+    url: 0009-0006-4970-4414
+  Suhadolc-Marjetka:
+    individualname: Suhadolc, Marjetka
+    role: ''
+    organization: University of Ljubljana, Biotechnical faculty, Jamnikarjeva 101,
+      1000 Ljubljana, Slovenia
+    url: 0000-0003-1550-1636
+  Syp-Alina:
+    individualname: Syp, Alina
+    role: ''
+    organization: "Department of Bioeconomy and Systems Analysis, Institute of Soil\
+      \ Science and Plant Cultivation - State Research Institute (IUNG-PIB), Pu\u0142\
+      awy, Poland"
+    url: 0000-0002-0190-9350
+  Valkama-Elena:
+    individualname: Valkama, Elena
+    role: ''
+    organization: Natural Resources Institute Finland (Luke), Bioeconomy and environment,
+      Sustainability Science and Indicators, Turku, Finland
+    url: 0000-0002-8337-8070
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.10959077
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1111/ejss.13515
+    type: WWW:LINK
+    title: IsPartOf
+  r1:
+    url: https://doi.org/10.5281/zenodo.10959077
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

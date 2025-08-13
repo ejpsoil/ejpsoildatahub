@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13945068
+  dataseturi: https://doi.org/10.5281/zenodo.13945068
+  hierarchylevel: dataset
+identification:
+  title: South Africa Longterm trial data-CO2 Fluxes, POM, SOC
+  keywords:
+    project:
+      keywords:
+      - C-arouNd
+    default:
+      keywords:
+        subject: Agronomy
+        subjectScheme: EuroSciVoc
+  abstract: ''
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-17'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  NCIIZAH-ADORNIS-D.:
+    individualname: NCIIZAH, ADORNIS D.
+    role: ''
+    organization: Agricultural Research Council of South Africa
+    url: ''
+  Nciizah-Adornis:
+    individualname: Nciizah, Adornis
+    role: ProjectManager
+    organization: Agricultural Research Council
+    url: 0000-0002-2481-5218
+  MANYEVERE-ALEN:
+    individualname: MANYEVERE, ALEN
+    role: DataManager
+    organization: UNIVERSITY OF FORT HARE
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13945068
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13945068
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

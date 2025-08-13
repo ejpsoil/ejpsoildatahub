@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.8218882
+  dataseturi: https://doi.org/10.5281/zenodo.8218882
+  hierarchylevel: software
+identification:
+  title: i-SoMPE WP1 R Project
+  keywords:
+    project:
+      keywords:
+      - iSoMPE
+  abstract: This R project was written for the i-SoMPE project within EJP SOIL in
+    2021 and 2022 by Olivier Heller. It was used to characterize the agro-enviromental
+    zones (AEZ) of Europe based on selected available geo data. The considered geo
+    data includes information on land use, climate, slope and soil. Please consult
+    the report of i-SoMPE for more information on the project and the geo data.
+  license:
+    name: ''
+  dates:
+    issued: '2024-04-23'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Heller-Olivier:
+    individualname: Heller, Olivier
+    role: ''
+    organization: Agroscope
+    url: 0000-0002-5918-4161
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.8218882
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8224594
+    type: WWW:LINK
+    title: IsRequiredBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.11046138
+    type: WWW:LINK
+    title: Requires
+  r2:
+    url: https://doi.org/10.5281/zenodo.8218882
+    type: WWW:LINK
+    title: Requires
+  r3:
+    url: https://doi.org/10.5281/zenodo.11046222
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.11204174
+  dataseturi: https://doi.org/10.5281/zenodo.11204174
+  hierarchylevel: dataset
+identification:
+  title: Agroscope_SoilSpectralLibrary _2024
+  keywords:
+    project:
+      keywords:
+      - ProbeField
+    default:
+      keywords:
+        subject: EJPSoil
+  abstract: "Soil Spectral Library (SSL)\_ consisting of vis-NIR spectra from 134\
+    \ soil samples scanned in different scanning setups and two instruments including\
+    \ the corresponding laboratory analyses"
+  license:
+    name: ''
+  dates:
+    issued: '2024-05-16'
+    collected: 2021/2022
+    publication: '2024'
+  rights: cc-by-nc-sa-4.0
+contact:
+  Metzger-Konrad:
+    individualname: Metzger, Konrad
+    role: ''
+    organization: Agroscope
+    url: 0000-0002-8075-0252
+  Liebisch-Frank:
+    individualname: Liebisch, Frank
+    role: ''
+    organization: Agroscope Standort Reckenholz
+    url: 0000-0003-0000-7491
+  Herrera-Juan-M.:
+    individualname: Herrera, Juan M.
+    role: ''
+    organization: Agroscope
+    url: 0000-0002-9398-7224
+  Guillaume-Thomas:
+    individualname: Guillaume, Thomas
+    role: ''
+    organization: Agroscope
+    url: 0000-0002-6926-9337
+  Walder-Florian:
+    individualname: Walder, Florian
+    role: ''
+    organization: Agroscope
+    url: 0000-0001-7731-7469
+  Bragazza-Luca:
+    individualname: Bragazza, Luca
+    role: ''
+    organization: Agroscope Standort Changins
+    url: 0000-0001-8583-284X
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.11204174
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1111/sum.12952
+    type: WWW:LINK
+    title: IsReferencedBy
+  r1:
+    url: https://doi.org/10.1111/ejss.13508
+    type: WWW:LINK
+    title: IsReferencedBy
+  r2:
+    url: https://doi.org/10.3390/s24113556
+    type: WWW:LINK
+    title: IsReferencedBy
+  r4:
+    url: https://doi.org/10.5281/zenodo.14932573
+    type: WWW:LINK
+    title: IsPartOf
+  r5:
+    url: https://doi.org/10.1016/j.geoderma.2025.117337
+    type: WWW:LINK
+    title: IsPartOf
+  r6:
+    url: https://doi.org/10.5281/zenodo.11204173
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

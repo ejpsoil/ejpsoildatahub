@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14056255
+  dataseturi: https://doi.org/10.5281/zenodo.14056255
+  hierarchylevel: dataset
+identification:
+  title: N2O emission from mesocosms
+  keywords:
+    project:
+      keywords:
+      - EOM4SOIL
+    default:
+      keywords:
+        subject: Soil sciences
+        subjectScheme: EuroSciVoc
+  abstract: EJP Soil EOM4SOIL-N2O emission from mesocosms_dataset
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-08'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Pastorelli-Roberta:
+    individualname: Pastorelli, Roberta
+    role: ''
+    organization: Research Centre Agriculture and Environment, Consiglio per la Ricerca
+      in Agricoltura e l'Analisi dell'Economia Agraria-CREA-AA
+    url: 0000-0002-1278-7651
+  Lagomarsino-Alessandra:
+    individualname: Lagomarsino, Alessandra
+    role: Researcher
+    organization: Research Centre Agriculture and Environment, Consiglio per la Ricerca
+      in Agricoltura e l'Analisi dell'Economia Agraria-CREA-AA
+    url: 0000-0003-3325-0084
+  Mondini-Claudio:
+    individualname: Mondini, Claudio
+    role: Researcher
+    organization: Research Centre Viticulture and Enology, Consiglio per la Ricerca
+      in Agricoltura e l'Analisi dell'Economia Agraria-CREA-VE
+    url: 0000-0002-1561-8036
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14056255
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14056254
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

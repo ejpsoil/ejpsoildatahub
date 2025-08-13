@@ -1,0 +1,113 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14019130
+  dataseturi: https://doi.org/10.5281/zenodo.14019130
+  hierarchylevel: dataset
+identification:
+  title: D2.2_20240423_ProbeField_SSL_Metadata_V2
+  keywords:
+    project:
+      keywords:
+      - ProbeField
+    default:
+      keywords:
+        subject: Soil Spectral Library (SSL)
+  abstract: D2.2_ProbeField_SSL_Metadata_V2 consists of several soil spectral libraries
+    (SSLs) produced by eleven European countries institutes including Austria, Czech
+    Republic, Denmark, France, Italy, Netherlands, Poland, Spain, Sweden, Turkiye,
+    and Switzerland. The columns include institute, country, contact person(s), contact
+    person(s) e-mail, beneficiary or linked partner or SSL outside EJP, name of SSL,
+    location, SSL form, format, link, conditions, geographical coverage, number of
+    sites, number of samples, sample representation, increment, spectrophotometer,
+    state of soil sample, organic carbon, texture, models, sharing, sample availability
+    and georeferenced field site(s).
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-11'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Stenberg-Bo:
+    individualname: Stenberg, Bo
+    role: ''
+    organization: Swedish University of Agricultural Sciences
+    url: 0000-0003-3018-4990
+  Boruvka-Lubos:
+    individualname: "Bor\u016Fvka, Lubo\u0161"
+    role: ''
+    organization: Czech University of Life Sciences Prague
+    url: 0000-0001-5317-0933
+  Fantappie-Maria:
+    individualname: "Fantappi\xE8, Maria"
+    role: ''
+    organization: Consiglio per la ricerca in agricoltura e l'analisi dell'economia
+      agraria
+    url: 0000-0001-6223-1099
+  Sanden-Taru:
+    individualname: Sanden, Taru
+    role: ''
+    organization: Austrian Agency for Health and Food Safety
+    url: ''
+  Van-Egmond-Fenny:
+    individualname: Van Egmond, Fenny
+    role: ''
+    organization: Wageningen University & Research
+    url: ''
+  Koganti-Triven:
+    individualname: Koganti, Triven
+    role: ''
+    organization: Aarhus University
+    url: 0000-0001-9971-8095
+  Klumpp-Katja:
+    individualname: Klumpp, Katja
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+  Debaene-Guillaume:
+    individualname: Debaene, Guillaume
+    role: ''
+    organization: Institute of Soil Science and Plant Cultivation
+    url: ''
+  Liebisch-Frank:
+    individualname: Liebisch, Frank
+    role: ''
+    organization: Agroscope Standort Reckenholz
+    url: 0000-0003-0000-7491
+  Castaldi-Fabio:
+    individualname: Castaldi, Fabio
+    role: ''
+    organization: National Research Council
+    url: ''
+  Cayuela-Sanchez-Jose-Antonio:
+    individualname: "Cayuela S\xE1nchez, Jos\xE9 Antonio"
+    role: ''
+    organization: Instituto de la Grasa (CSIC)
+    url: ''
+  Barbetti-Roberto:
+    individualname: Barbetti, Roberto
+    role: ''
+    organization: ''
+    url: ''
+  Madenoglu-Sevinc:
+    individualname: "Madeno\u011Flu, Sevin\xE7"
+    role: ''
+    organization: General Directorate of Agricultural Research and Policies
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14019130
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14017853
+    type: WWW:LINK
+    title: HasVersion
+  r1:
+    url: https://doi.org/10.5281/zenodo.14019130
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

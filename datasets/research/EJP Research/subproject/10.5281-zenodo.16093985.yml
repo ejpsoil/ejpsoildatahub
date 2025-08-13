@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.16093985
+  dataseturi: https://doi.org/10.5281/zenodo.16093985
+  hierarchylevel: dataset
+identification:
+  title: Long-term field data and metadata from_Estonia_ID_19_2023yr
+  keywords:
+    project:
+      keywords:
+      - C-arouNd
+  abstract: "A long-term field trial was set up in 1960 in Kuusiku, North-Estonia\
+    \ (58\xB058'N, 24\xB042'E, 55 m above sea level). The soil is characterized as\
+    \ Sandy Loam Calcisols (IUSS 2015). Two agrotechnological factors were studied:\
+    \ fertilization (moderate dose of mineral fertilizer (NPK), double dose NPK (NPK2)\
+    \ and moderate dose of mineral fertilizer with farmyard manure (NPK+FM)); and\
+    \ crop rotation (cereal monoculture with spring barley vs. four-field crop rotation).The\
+    \ crop rotation was as follows: potato (Solanum tuberosum)/oil hemp (Cannabis\
+    \ sativa; since 2017); spring barley (Hordeum vulgare); spring barley with under\
+    \ sown red clover (Trifolium pretense); red clover.\n\n\_"
+  license:
+    name: ''
+  dates:
+    issued: '2025-07-18'
+    publication: '2025'
+  rights: cc-by-4.0
+contact:
+  Talve-Tiina:
+    individualname: Talve, Tiina
+    role: ''
+    organization: Estonian Crop Research Institute
+    url: 0000-0002-8659-5759
+  Vosa-Taavi:
+    individualname: "V\xF5sa, Taavi"
+    role: ''
+    organization: Centre of Estonian Rural Research and Knowledge
+    url: 0000-0003-2577-3889
+  Loide-Valli:
+    individualname: Loide, Valli
+    role: ''
+    organization: Centre of Estonian Rural Research and Knowledge
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.16093985
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14007694
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

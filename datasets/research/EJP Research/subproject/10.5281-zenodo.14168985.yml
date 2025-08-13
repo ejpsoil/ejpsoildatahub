@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14168985
+  dataseturi: https://doi.org/10.5281/zenodo.14168985
+  hierarchylevel: dataset
+identification:
+  title: Dataset for Deliverable D6.1 "Multicriteria evaluation system for EOMs use"
+  keywords:
+    project:
+      keywords:
+      - EOM4SOIL
+  abstract: ''
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-15'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Rinasoa-Seheno:
+    individualname: Rinasoa, Seheno
+    role: ''
+    organization: ''
+    url: ''
+  Houot-Sabine:
+    individualname: Houot, Sabine
+    role: ''
+    organization: ''
+    url: ''
+  Moreira-Mariana:
+    individualname: Moreira, Mariana
+    role: ''
+    organization: ''
+    url: ''
+  Schaub-Anne:
+    individualname: Schaub, Anne
+    role: ''
+    organization: ''
+    url: ''
+  Lagrange-Helene:
+    individualname: "Lagrange, H\xE9l\xE8ne"
+    role: ''
+    organization: ''
+    url: ''
+  Barcauskaite-Karolina:
+    individualname: Barcauskaite, Karolina
+    role: ''
+    organization: ''
+    url: ''
+  Ulfet-Erdal:
+    individualname: Ulfet, Erdal
+    role: ''
+    organization: ''
+    url: ''
+  de-Haan-Janjo:
+    individualname: de Haan, Janjo
+    role: ''
+    organization: ''
+    url: ''
+  Huyghebaert-Bruno:
+    individualname: Huyghebaert, Bruno
+    role: ''
+    organization: ''
+    url: ''
+  Levavasseur-Florent:
+    individualname: Levavasseur, Florent
+    role: ''
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14168985
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14168984
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

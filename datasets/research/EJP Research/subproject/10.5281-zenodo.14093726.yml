@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14093726
+  dataseturi: https://doi.org/10.5281/zenodo.14093726
+  hierarchylevel: dataset
+identification:
+  title: EJPSOIL PRAC2LIV D3.2 DATA-EndUsers.7z
+  keywords:
+    project:
+      keywords:
+      - PRAC2LIV
+  abstract: ''
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-12'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Warren-Raffa-Dylan:
+    individualname: Warren Raffa, Dylan
+    role: ''
+    organization: ''
+    url: ''
+  Rasanen-Timo:
+    individualname: "R\xE4s\xE4nen, Timo"
+    role: ''
+    organization: ''
+    url: ''
+  Kasparinskis-Raimonds:
+    individualname: Kasparinskis, Raimonds
+    role: ''
+    organization: ''
+    url: ''
+  Trinchera-Alessandra:
+    individualname: Trinchera, Alessandra
+    role: ''
+    organization: ''
+    url: ''
+  Erdal-Ulfet:
+    individualname: "Erdal, \xDClfet"
+    role: ''
+    organization: ''
+    url: ''
+  Baratella-Valentina:
+    individualname: Baratella, Valentina
+    role: ''
+    organization: ''
+    url: ''
+  Demir-Zeynep:
+    individualname: Demir, Zeynep
+    role: ''
+    organization: ''
+    url: ''
+  Simonse-Daniel:
+    individualname: Simonse, Daniel
+    role: ''
+    organization: ''
+    url: ''
+  Hanegraaf-Marjoleine:
+    individualname: Hanegraaf, Marjoleine
+    role: ''
+    organization: ''
+    url: 0000-0002-4226-0017
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14093726
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14093725
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

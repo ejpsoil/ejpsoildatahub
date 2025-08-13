@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14168345
+  dataseturi: https://doi.org/10.5281/zenodo.14168345
+  hierarchylevel: dataset
+identification:
+  title: Measurements on STEs
+  keywords:
+    project:
+      keywords:
+      - EOM4SOIL
+    default:
+      keywords:
+        subject: Soil sciences
+        subjectScheme: EuroSciVoc
+  abstract: Dataset of field measurement Task 3.2
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-15'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Pastorelli-Roberta:
+    individualname: Pastorelli, Roberta
+    role: ''
+    organization: Research Centre Agriculture and Environment, Consiglio per la Ricerca
+      in Agricoltura e l'Analisi dell'Economia Agraria-CREA-AA
+    url: 0000-0002-1278-7651
+  Vignozzi-Nadia:
+    individualname: Vignozzi, Nadia
+    role: Researcher
+    organization: Research Centre Agriculture and Environment, Consiglio per la Ricerca
+      in Agricoltura e l'Analisi dell'Economia Agraria-CREA-AA
+    url: 0000-0003-3698-063X
+  Lagomarsino-Alessandra:
+    individualname: Lagomarsino, Alessandra
+    role: Researcher
+    organization: Research Centre Agriculture and Environment, Consiglio per la Ricerca
+      in Agricoltura e l'Analisi dell'Economia Agraria-CREA-AA
+    url: 0000-0003-3325-0084
+  Rodriguez-Cruz-Maria-Sonia:
+    individualname: "Rodr\xEDguez-Cruz, Maria Sonia"
+    role: Researcher
+    organization: "Instituto de Recursos Naturales y Agrobiolog\xEDa de Salamanca,\
+      \  CSIC-IRNASA"
+    url: 0000-0001-6748-3391
+  Marin-Benito-Jesus-Maria:
+    individualname: Marin Benito, Jesus Maria
+    role: Researcher
+    organization: "Instituto de Recursos Naturales y Agrobiolog\xEDa de Salamanca,\
+      \  CSIC-IRNASA"
+    url: 0000-0002-8801-7389
+  Urracci-Giulia:
+    individualname: Urracci, Giulia
+    role: Researcher
+    organization: AGRIS - Servizio per la Ricerca sui Sistemi Colturali Erbacei
+    url: ''
+  Carboni-Gianluca:
+    individualname: Carboni, Gianluca
+    role: Researcher
+    organization: AGRIS - Servizio per la Ricerca sui Sistemi Colturali Erbacei
+    url: ''
+  Canu-Marta:
+    individualname: Canu, Marta
+    role: Researcher
+    organization: AGRIS - Servizio per la Ricerca sui Sistemi Colturali Erbacei
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14168345
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14070572
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

@@ -1,0 +1,13 @@
+mcf:
+    version: 1.0
+
+metadata:
+    identifier: {{ md['identifier'] }} 
+    dataseturi: https://doi.org/{{ md['identifier'] }}    
+
+identification:
+    title: "{{ md['title'].replace('"',"") }}"
+    keywords:
+        project:
+            keywords:
+            - {{ md['project'] }}

@@ -47,6 +47,11 @@ contact:
     email: pasztor@rissac.hu
     contactinstructions: email
 distributon:
+  wms:
+    url: https://maps.rissac.hu:6443/arcgis/services/dosoremi_web_mercator/MapServer/WMSServer
+    name: 1
+    description: Texture classes (USDA)
+    type: OGC:WMS
   link-1:
     url: https://dosoremi.hu/maps/textura-osztaly-usda-0-30-cm/
     type: WWW:LINK
