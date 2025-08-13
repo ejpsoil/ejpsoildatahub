@@ -1,24 +1,38 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: GlobalSoilMap-France
-  language: eng
+  identifier: Réservoir-utile-sols-France
+  language: fra
   charset: utf8
   datestamp: 2022-01-01
   hierarchylevel: dataset
-  dataseturi: https://www.sciencedirect.com/science/article/pii/S0016706118319529
+  dataseturi: https://doi.org/10.15454/9IRARJ
 spatial:
   resolution: 90 m
   datatype: GRID
 identification:
   language: null
   charset: utf8
-  title: GlobalSoilMap France
-  abstract: 'soil profiles, different sampling depth Detailed assessment of the uncertainty
-
-    '
+  title: Réservoir utile des sols de la France métropolitaine
+  abstract: 'Context
+Plant available water capacity (AWC) refers to the maximum amount of water that a soil can store and provide to plant roots. Spatial predictions of AWC through digital soil mapping at high resolution and national extent provide relevant information for upscaling ecological and hydrological models, and assessment of the provision of ecosystem services like water quantity and quality regulation, carbon sequestration, and provision of food and raw materials. However, the spatial predictions of AWC are prone to errors and uncertainties. Moreover, this digital soil mapping process requires using pedotransfer functions (PTFs) due to the lack of sufficient georeferenced measurements of the upper (i.e., soil moisture at field capacity, θFC) and lower (i.e., soil moisture at permanent wilting point, θPWP) limits of soil moisture contents defining AWC. This adds an additional source of uncertainty to the final estimates of AWC. The objectives of this study were: 1) to predict AWC for mainland France following the GlobalSoilMap (GSM) project specifications, and 2) to quantify the uncertainty of AWC accounting for uncertainty of the soil input variables and the PTFs’ coefficients.
+Methods
+The digital soil mapping approach consisted in predicting sand and clay for the six GSM depth intervals (0-5, 5-15, 15-30, 30-60, 60-100, 100-200 cm) combining regression and geostatistical models. First, we transformed the calibration data of particle size fractions with the additive log-ratio transformation and obtained clayalr and siltalr. Then, we fitted regression models with the Cubist algorithm, using 44 covariates describing the scorpan factors soil, climate, vegetation, relief and parent material. We calculated the model residuals at the calibration points, and then fitted a linear model of coregionalisation between the residuals of both variables for each GSM depth. We then interpolated spatially the residuals of clayalr and siltalr by ordinary co-kriging using the closest 10 observations. The final predictions were calculated by adding the kriged residuals to the Cubist predictions (i.e., regression-kriging), and back-transformed to the original scale. Hence, in a first step we obtained clayalr, siltalr, clay, silt and sand. The kriging variance of the residuals of the alr-variables was also a byproduct of the kriging procedure. We modelled coarse elements (volume of coarse elements in %) with quantile regression forests. We predicted the mean, the 5th percentile, the 95th percentile, and the standard deviation of coarse elements by GSM depth. In a second step, we calculated variables related to soil hydraulic properties. The volumetric soil moisture content (cm3 cm-3) at field capacity or pF = 2.0 (θFC) and at permanent wilting point or pF = 4.2 (θPWP) were estimated using PTFs developed by Román Dobarco et al. (2019) with the French SOLHYDRO database (Al Majou et al., 2008). These PTFs use the content of clay (%) and sand (%) as predictor variables:
+ΘFC= 0.278 + 2.45 10-3 clay – 1.35 10-3 sand
+ΘPWP= 0.08 + 4.01 10-3 clay – 2.93 10-4 sand
+For each GSM layer, we calculated the elementary AWC and the AWC in mm. Under the assumption that the coarse elements are inert and do not contribute to the AWC, the AWC for a unit of soil volume, or elementary AWC, is defined as:
+elementary AWC (cm3 cm-3)=(θFC- θPWP )(1-Rv )
+When we consider a soil layer or profile, the total AWC is calculated with the formula:
+AWC (mm)=(θFC- θPWP )(1-Rv )d
+Where θFC is the volumetric water content at field capacity (cm3 cm-3), θPWP is the volumetric water content at permanent wilting point (cm3 cm-3), Rv is the volume fraction of coarse elements, and d is the depth of the soil profile or the thickness of the soil layer considered (mm).
+Finally, we summed the AWC spatial predictions of each depth interval to the predicted soil depth, modelled previously by Lacoste et al. (2016), for a maximum of 2 m:
+AWC= ∑h=16)(1-Rh)(θFCh-θPWPh) th
+where h = 1,…,6 is each of the GSM depth intervals, Rh is the proportion of soil occupied by coarse elements, θFCh is the soil moisture at field capacity (cm3 cm-3) in horizon h, θPWPh is the soil moisture content at permanent wilting point (cm3 cm-3), and th is the effective (i.e. truncated using soil depth estimates) thickness of the horizon in mm.
+We applied a first order Taylor analysis to calculate the variance of θFC (i.e., θ2.0), θPWP (i.e., θ4.2), elementary AWC and total AWC estimates. The estimates’ variance is considered here as a proxy of prediction uncertainty.
+Results
+Independent evaluation indicated that clay had the lowest R2 (clay R2 = 0.27, silt R2 = 0.43 and sand R2 = 0.46) and RMSE (clay RMSE = 128 g kg-1, silt RMSE = 139 g kg-1 and sand RMSE = 172 g kg-1) from the three particle size fractions. However, the model for coarse elements had the worst predictive performance (R2 = 0.14 and RMSE = 21%) among all AWC input variables. The performance of the GSM predictions for θFC and θPWP had a R2 of 0.21 and 0.29. When the PTFs were applied to the spatial predictions of sand and clay, the RMSE for θFC and θPWP had a relative increase of 25% and 36% respectively compared to when they were applied to measured horizon data. Across the majority of mainland France, the main sources of uncertainty of elementary AWC were coarse elements and soil texture, but the contribution of uncertainty of PTFs’ coefficients increased in areas dominated by very sandy and clayey textures. An advantage of the produced maps of θFC, θPWP and AWC is that the end users can incorporate associated uncertainties into ecological and agricultural modelling, and decision-making processes involved in soil and water planning.'
   dates:
-    creation: '2014'
+    creation: '2021'
   keywords:
     default:
       keywords:
@@ -33,8 +47,11 @@ identification:
   - geoscientificInformation
   extents:
     temporal:
-    - begin: '2014'
-  accessconstraints: Restricted
+    - begin: '2019'
+  accessconstraints: None
+  license:
+        name: Etalab 2.0
+        url: https://spdx.org/licenses/etalab-2.0.html
   rights: ''
   maintenancefrequency: otherRestrictions
 contact:
@@ -47,5 +64,5 @@ dataquality:
   lineage:
     statement: 'soil profiles, different sampling depth. Mapping: splines, spatial
       statistics (cubist) + pedotransfer rules for AWC. Depth intervals: Standard
-      GSM depth intervals; layers according to GlobalSoilMap . Uncertainty quantification:
+      GSM depth intervals; layers according to GlobalSoilMap. Uncertainty quantification:
       YES'
