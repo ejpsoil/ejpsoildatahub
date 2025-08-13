@@ -8,13 +8,13 @@ metadata:
   hierarchylevel: dataset
   datestamp: 2011-01-01
 spatial:
-  scale: 1:1 M
+  scale: 1:250,000
   resolution: null
 identification:
   language: fre
   charset: utf8
-  title: "Les sols dominants de France m\xE9tropolitaine"
-  abstract: 'The dominat soils map of France represents essentially the strong influence
+  title: "Les sols dominants en France m\xE9tropolitaine"
+  abstract: 'The dominant soil map of France represents essentially the strong influence
     of the nature of the mineral material in which the soils have been formed and
     evolve.'
   dates:
@@ -42,23 +42,17 @@ identification:
     temporal:
     - begin: ''
     - end: ''
-  accessconstraints: no limitation
-  rights: no conditions apply
-  url: ''
+  accessconstraints: Restricted
+  rights: ''
+  url: 'https://www.geoportail.gouv.fr/donnees/carte-des-sols'
   status: onGoing
   maintenancefrequency: continual
 contact:
   pointOfContact:
-    organization: INRA InfoSol
-    individualname: Le Bas, Christine
+    organization: INRAE Info&Sols
     country: France
-    email: infosol@inra.fr
+    email: infosol@inrae.fr
     contactinstructions: email
-distribution:
-  wfs:
-    url: https://agroenvgeo.data.inra.fr/geoserver/wfs
-    type: ogc:wfs
-    name: WFS
 dataquality:
   scope:
     level: dataset
