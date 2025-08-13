@@ -62,6 +62,9 @@ identification:
     temporal:
     - begin: '1998'
   accessconstraints: No restrictions
+  license:
+        name: Etalab 2.0
+        url: https://spdx.org/licenses/etalab-2.0.html
   rights: ''
   maintenancefrequency: it was a single survey
 contact:
