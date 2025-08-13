@@ -1,5 +1,5 @@
 type,url,name,description,zenodo
-main,https://ejpsoil.eu,EJP Soil,The main program,ejp_soil_research 
+main,https://ejpsoil.eu,EJP Soil,The main program,ejp_soil_research
 external,https://projects.au.dk/ejpsoil/soil-research/agroecoseqc,AGROECOseqC,"AGROECOlogical strategies for an efficient functioning of plant - soil biota interactions to increase SOC sequestration",agroecoseqc
 external,https://projects.au.dk/ejpsoil/soil-research/carboseq,CarboSeq,"Soil organic carbon sequestration potential of agricultural soils in Europe",ejp_soil_carboseq
 external,https://projects.au.dk/ejpsoil/soil-research/energylink,EnergyLink,"Linking crop diversification to microbial energy allocation and organic carbon storage<br> in soils",ejpsoil-energylink
@@ -11,7 +11,7 @@ external,https://projects.au.dk/ejpsoil/soil-research/maxroot-c,MaxRoot - C,"Opt
 external,https://projects.au.dk/ejpsoil/soil-research/probefield,ProbeField,"A novel protocol for in-field monitoring of soil carbon stock, based on proximal sensors and soil spectral libraries",ejp_probefield
 external,https://projects.au.dk/ejpsoil/soil-research/road4schemes,Road4Schemes,"Roadmap for carbon farming schemes",
 external,https://projects.au.dk/ejpsoil/soil-research/scale,SCALE,"Managing Sediment Connectivity in Agricultural Landscapes for reducing water Erosion impacts",
-external,https://projects.au.dk/ejpsoil/soil-research/sensres,SensRes," Sensor data for downscaling digital soil maps to higher resolutions ",sensres
+external,https://projects.au.dk/ejpsoil/soil-research/sensres,SensRes," Sensor data for downscaling digital soil maps to higher resolutions ",
 external,https://projects.au.dk/ejpsoil/soil-research/serena,SERENA,"Soil Ecosystem seRvices and soil threats modElling aNd mApping",
 external,https://projects.au.dk/ejpsoil/soil-research/soilcompac,SoilCompaC,"Mapping and alleviating soil compaction in a climate change context ",
 external,https://projects.au.dk/ejpsoil/soil-research/ommit,SOMMIT,"Sustainable Management of soil Organic Matter to Mitigate Trade-offs between C sequestration and nitrous oxide, methane and nitrate losses",sommit
@@ -23,7 +23,7 @@ external,https://projects.au.dk/ejpsoil/soil-research/biocash,BioCASH,"Bio-econo
 external,https://projects.au.dk/ejpsoil/soil-research/prac2liv,PRAC2LIV,"Fostering soil management PRACtices and uptake and developing decision support TOols through LIVing labs in EU",prac2liv
 external,https://projects.au.dk/ejpsoil/soil-research/eom4soil/into-dialogue/soilx,SoilX,"Soil management to mitigate climate change-related precipitation eXtremes",soilx
 external,https://projects.au.dk/ejpsoil/soil-research/eom4soil/into-dialogue/artemis,ARTEMIS,"Agro-ecological strategies for promoting climate change Mitigation and Adaptation by enhancing soil ecosystem services and sustainable crop production",artemis_2024
-external,https://projects.au.dk/ejpsoil/soil-research/climasoma,CLIMASOMA,"CLIMAte change adaptation through SOil and crop MAnagement: synthesis and ways forward",CLIMASOMA
+external,https://projects.au.dk/ejpsoil/soil-research/climasoma,CLIMASOMA,"CLIMAte change adaptation through SOil and crop MAnagement: synthesis and ways forward",
 external,https://projects.au.dk/ejpsoil/soil-research/i-sompe,iSoMPE,"Innovative Soil Management Practices across Europe",i-sompe
 external,https://projects.au.dk/ejpsoil/soil-research/siren,SIREN,"Stocktaking for Agricultural Soil Quality and Ecosystem Services Indicators and their Reference Values",
 external,https://projects.au.dk/ejpsoil/soil-research/first-external-call-projects-selected/sompacs,SOMPACS,"Soil management effects on soil organic matter properties and carbon sequestration",
