@@ -1,0 +1,180 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14733169
+  dataseturi: https://doi.org/10.5281/zenodo.14733169
+  hierarchylevel: dataset
+identification:
+  title: A collaborative effort to collect Soil datasets in Europe - EJP SOIL metadata
+    catalogue
+  keywords:
+    project:
+      keywords:
+      - EJP Soil
+    default:
+      keywords:
+        subject: soil health
+  abstract: "This dataset is a dump of a metadata catalogue of 576 European, national\
+    \ and EJP SOIL project datasets on soil properties and soil management around\
+    \ the topic of Soil Health which are collected in a collaborative effort within\
+    \ the EJP Soil programme (2020-2025). The metadata is imported from various repositories\
+    \ and, if needed, harmonised to the ISO19139:2007 schema.\n\nThis is a dump of\
+    \ key fields in the postgres database used by the [pycsw software](https://pycsw.org)\
+    \ used in this project.\n\nThe metadataset and its collection are described in\
+    \ a short document in https://doi.org/10.18174/686612.\n\n\n\n\n\_\n\nSources:\n\
+    \n- MENSMEU - A study by ESDAC on the availability of soil data under the INSPIRE\
+    \ directive\n\n- ESDAC - A collection of soil datasets maintained by ESDAC\n\n\
+    - EJP Soil - Stocktake at national Soil institutes\n\n- EJP Soil - Research datasets\
+    \ from OpenAire\_\n\n\n\n\n\_\n\nFields:\n- identifier:\_ A uuid or similar identifier\n\
+    \n\n\n- title: Title of the resource\n\n- organization: Organization mentioned\
+    \ as owner of the recource\n\n- schema: iso19139:2007 (indicated as http://www.isotc211.org/2005/gmd)\_\
+    \n\n- xml: The actual imported (or harmonised content)\n\n\nThe EJP Soil programme\
+    \ received funding from the European Union\u2019s HORIZON 2020 research and innovation\
+    \ programme under grant agreement No. [862695](https://cordis.europa.eu/project/id/862695)."
+  license:
+    name: ''
+  dates:
+    issued: '2025-01-24'
+    submitted: '2025-01-31'
+    publication: '2025'
+  rights: cc-by-4.0
+contact:
+  van-Egmond-Fenny:
+    individualname: van Egmond, Fenny
+    role: ''
+    organization: Wageningen Environmental Research
+    url: 0000-0002-2608-9889
+  van-Genuchten-Paul:
+    individualname: van Genuchten, Paul
+    role: ''
+    organization: ISRIC - World Soil Information
+    url: 0000-0002-4789-174X
+  Collazos-Cortes-Diana-Fernanda:
+    individualname: Collazos Cortes, Diana Fernanda
+    role: ''
+    organization: ISRIC - World Soil Information
+    url: 0009-0005-9991-173X
+  Joint-Research-Centre-European-Commission:
+    individualname: Joint Research Centre, European Commission
+    role: DataCollector
+    organization: ''
+    url: edmo:5161
+  Wageningen-University--Research:
+    individualname: Wageningen University & Research
+    role: DataCollector
+    organization: ''
+    url: 04qw24q55
+  Swedish-University-of-Agricultural-Sciences-Department-of-Aquatic-Resources:
+    individualname: Swedish University of Agricultural Sciences, Department of Aquatic
+      Resources
+    role: DataCollector
+    organization: ''
+    url: edmo:4484
+  Instituut-voor-Landbouw-en-Visserijonderzoek:
+    individualname: Instituut voor Landbouw en Visserijonderzoek
+    role: DataCollector
+    organization: ''
+    url: 05cjt1n05
+  Institut-National-de-Recherche-pour-l'Agriculture-l'Alimentation-et-l'Environnement:
+    individualname: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    role: DataCollector
+    organization: ''
+    url: 003vg9w96
+  Aarhus-University:
+    individualname: Aarhus University
+    role: DataCollector
+    organization: ''
+    url: 01aj84f44
+  Centre-for-Agricultural-Research:
+    individualname: Centre for Agricultural Research
+    role: DataCollector
+    organization: ''
+    url: 057k9q466
+  Austrian-Agency-for-Health-and-Food-Safety:
+    individualname: Austrian Agency for Health and Food Safety
+    role: DataCollector
+    organization: ''
+    url: 055xb4311
+  Johann-Heinrich-von-Thunen-Institut:
+    individualname: "Johann Heinrich von Th\xFCnen-Institut"
+    role: DataCollector
+    organization: ''
+    url: 00mr84n67
+  National-Agricultural-and-Food-Centre:
+    individualname: National Agricultural and Food Centre
+    role: DataCollector
+    organization: ''
+    url: 03wjh4t84
+  Instituto-Nacional-de-Investigacao-Agraria-e-Veterinaria:
+    individualname: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    role: DataCollector
+    organization: ''
+    url: 01fqrjt38
+  Agroscope:
+    individualname: Agroscope
+    role: DataCollector
+    organization: ''
+    url: 04d8ztx87
+  General-Directorate-of-Agricultural-Research-and-Policies:
+    individualname: General Directorate of Agricultural Research and Policies
+    role: DataCollector
+    organization: ''
+    url: 0174skq71
+  Teagasc-Agriculture-and-Food-Development-Authority:
+    individualname: Teagasc Agriculture and Food Development Authority
+    role: DataCollector
+    organization: ''
+    url: edmo:3064
+  Estonian-University-of-Life-Sciences:
+    individualname: Estonian University of Life Sciences
+    role: DataCollector
+    organization: ''
+    url: 00s67c790
+  Norwegian-Institute-of-Bioeconomy-Research:
+    individualname: Norwegian Institute of Bioeconomy Research
+    role: DataCollector
+    organization: ''
+    url: 04aah1z61
+  Czech-University-of-Life-Sciences-Prague:
+    individualname: Czech University of Life Sciences Prague
+    role: DataCollector
+    organization: ''
+    url: 0415vcw02
+  Natural-Resources-Institute-Finland:
+    individualname: Natural Resources Institute Finland
+    role: DataCollector
+    organization: ''
+    url: 02hb7bm88
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14733169
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.18174/686612
+    type: WWW:LINK
+    title: IsDocumentedBy
+  r1:
+    url: https://doi.org/10.18174/649307
+    type: WWW:LINK
+    title: IsDocumentedBy
+  r2:
+    url: https://doi.org/10.5281/zenodo.12704083
+    type: WWW:LINK
+    title: IsSourceOf
+  r3:
+    url: https://doi.org/10.1111/ejss.13315
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r4:
+    url: https://doi.org/10.5281/zenodo.13972269
+    type: WWW:LINK
+    title: IsDocumentedBy
+  r5:
+    url: https://doi.org/10.5281/zenodo.14733168
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

@@ -1,0 +1,119 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13940436
+  dataseturi: https://doi.org/10.5281/zenodo.13940436
+  hierarchylevel: dataset
+identification:
+  title: Deliverable T2.2 soil threats and soil ecosystem services of interest in
+    SERENA.xlsx
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: prioritization
+  abstract: "The internal EJP SOIL project SERENA contributed to the evaluation of\
+    \ soil multifunctionality aiming at providing assessment tools for land planning\
+    \ and soil policies at different scales. By co-working with relevant stakeholders,\
+    \ the project provided co-developed indicators and associated cookbooks to assess\
+    \ and map them, to report both on soil degradation, soil-based ecosystem services\
+    \ and their bundles, under actual conditions and for climate and land-use changes,\
+    \ at the regional, national, and European scales. \_ \_ \_ \_ \_ \_ \_ \_ \_ \_\
+    \ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_\
+    \ \_ \_ \_ \_\_\n\nIn T2.2 we discussed the definitions of soil threats (ST) and\
+    \ soil-based ecosystem services (SES) to be further analysed in SERENA. In this\
+    \ process we kept information from the literature review and the results of the\
+    \ national prioritisation of ST and SES. This dataset description is an Excel\
+    \ with sheets of literature search and national prioritisation from the participating\
+    \ countries. Please read metadata at the fist sheet. Furthermore, the last sheet\
+    \ shows the results of our discussion on definitions that we had to clarify before\
+    \ the prioritisation.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-16'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Foldal-Cecilie-Birgitte:
+    individualname: Foldal, Cecilie Birgitte
+    role: ''
+    organization: Austrian Research Centre for Forests
+    url: ''
+  Oorts-Katrien:
+    individualname: Oorts, Katrien
+    role: ''
+    organization: VPO Belgium
+    url: ''
+  Anton-Rodrigo:
+    individualname: "Ant\xF3n, Rodrigo"
+    role: ''
+    organization: INRAE France
+    url: ''
+  Boruvka-Lubos:
+    individualname: "Bor\u016Fvka, Lubo\u0161"
+    role: ''
+    organization: CZU Czech Republic
+    url: ''
+  Buttafuoco-Gabriele:
+    individualname: Buttafuoco, Gabriele
+    role: ''
+    organization: CNR Italy
+    url: ''
+  Calzolari-Costanza:
+    individualname: Calzolari, Costanza
+    role: ''
+    organization: CNR Italy
+    url: ''
+  Feiza-Virginijus:
+    individualname: Feiza, Virginijus
+    role: ''
+    organization: Lithuanian Research Centre for Agriculture and Forestry
+    url: ''
+  Fuchs-Lennart:
+    individualname: Fuchs, Lennart
+    role: ''
+    organization: WUR Netherland
+    url: ''
+  Klimkowicz-Pawlas-Agnieszka:
+    individualname: Klimkowicz-Pawlas, Agnieszka
+    role: ''
+    organization: IUNG Poland
+    url: ''
+  Medina-Eduardo:
+    individualname: Medina, Eduardo
+    role: ''
+    organization: CNR Italy
+    url: ''
+  Piccini-Chiara:
+    individualname: Piccini, Chiara
+    role: ''
+    organization: CREA Italy
+    url: ''
+  Pindral-Sylwia:
+    individualname: Pindral, Sylwia
+    role: ''
+    organization: IUNG Poland
+    url: ''
+  Salomez-Joost:
+    individualname: Salomez, Joost
+    role: ''
+    organization: VPO Belgium
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13940436
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10389896
+    type: WWW:LINK
+    title: IsSupplementTo
+  r1:
+    url: https://doi.org/10.5281/zenodo.13940435
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.15011915
+  dataseturi: https://doi.org/10.5281/zenodo.15011915
+  hierarchylevel: dataset
+identification:
+  title: SoilCompaC LTER (long-term experiment research)  metadata for modelling
+  keywords:
+    project:
+      keywords:
+      - null
+  abstract: ''
+  license:
+    name: ''
+  dates:
+    issued: '2025-03-12'
+    publication: '2025'
+  rights: cc-by-sa-4.0
+contact:
+  Ines-Santin:
+    individualname: "In\xE9s Sant\xEDn"
+    role: ''
+    organization: National Institute for Agricultural and Food Research and Technology
+      (INIA-CSIC), Spain
+    url: 0000-0003-1978-6560
+  Jose-Luis-Gabriel:
+    individualname: "Jos\xE9 Luis Gabriel"
+    role: ''
+    organization: National Institute for Agricultural and Food Research and Technology
+      (INIA-CSIC), Spain
+    url: ''
+  M.-Mar-Delgado:
+    individualname: M. Mar Delgado
+    role: ''
+    organization: National Institute for Agricultural and Food Research and Technology
+      (INIA-CSIC), Spain
+    url: ''
+  Jose-Antonio-Rodriguez:
+    individualname: "Jos\xE9 Antonio Rodriguez"
+    role: ''
+    organization: National Institute for Agricultural and Food Research and Technology
+      (INIA-CSIC), Spain
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.15011915
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.15011915
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13969875
+  dataseturi: https://doi.org/10.5281/zenodo.13969875
+  hierarchylevel: dataset
+identification:
+  title: SERENA_EJPSOIL_AT_SOILSEALING_SEALINGDEGREE
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: remote sensing
+  abstract: "The internal EJP SOIL project SERENA contributed to the evaluation of\
+    \ soil multifunctionality aiming at providing assessment tools for land planning\
+    \ and soil policies at different scales. By co-working with relevant stakeholders,\
+    \ the project provided co-developed indicators and associated cookbooks to assess\
+    \ and map them, to report both on soil degradation, soil-based ecosystem services\
+    \ and their bundles, under actual conditions and for climate and land-use changes,\
+    \ at the regional, national, and European scales. \_\n\nThis data was prepared\
+    \ according to the methodology of SERENA Soil Sealing cookbook. For Austria, the\
+    \ application was carried out at regional scale. The map of soil sealing (soil\
+    \ threat) was based on classification of multitemporal satellite images and photointerpretation.\
+    \ The methodology uses vegetation and backscatter indices calculated over time\
+    \ series of images, and decision rules. The semi-automatic classification supports\
+    \ the subsequent photointerpretation phase based on national orthophotos and other\
+    \ free VHR satellite images."
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-22'
+    created: '2024-10-20'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Foldal-Cecilie:
+    individualname: Foldal, Cecilie
+    role: ''
+    organization: Austrian Research Centre for Forests
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13969875
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13991088
+    type: WWW:LINK
+    title: IsPartOf
+  r1:
+    url: https://doi.org/10.5281/zenodo.13969874
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

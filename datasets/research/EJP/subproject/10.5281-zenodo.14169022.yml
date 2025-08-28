@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14169022
+  dataseturi: https://doi.org/10.5281/zenodo.14169022
+  hierarchylevel: dataset
+identification:
+  title: 'STEROPES - Dataset 19: Collected soil data, ILVO'
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: remote sensing
+  abstract: "Dataset 19: Collected soil data, ILVO (Belgium)\n\nOrigin: First field\
+    \ trial on BOPACT LTE (S15) and on field trial S2 in Gavere, 16 samples from topsoil\
+    \ 0-10 cm; in 5m-radius around center of each plot): soil carbon and soil moisture).\
+    \ Second field trial, 20 samples from top soil 0-10 cm during 2021 and 2022 collected\
+    \ and soil organic carbon measured.\_\_\n\nPurpose and objectives: to analyse\
+    \ the input of plant residue in SOC prediction from remote sensing data under\
+    \ WP4.\_\n\nFormat: Data in the format of CSV .\_\_\n\nData utility: Data is collected\
+    \ based on the experiment where each plot has different amount of plant residual\
+    \ from without plant residual till completely covered with plant residual.\_\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-14'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  De-Boever-Maarten:
+    individualname: De Boever, Maarten
+    role: DataCollector
+    organization: Instituut voor Landbouw en Visserijonderzoek
+    url: 0000-0001-9352-0475
+  saberioon-mohammadmehdi:
+    individualname: saberioon, mohammadmehdi
+    role: ''
+    organization: Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
+    url: 0000-0003-1627-4957
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14169022
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14163398
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

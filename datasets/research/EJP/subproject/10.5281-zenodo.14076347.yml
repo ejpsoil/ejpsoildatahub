@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14076347
+  dataseturi: https://doi.org/10.5281/zenodo.14076347
+  hierarchylevel: dataset
+identification:
+  title: Soil characteristics and spectral reflectance data of six agricultural fields
+    in Switzerland
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: soil organic carbon
+  abstract: 'Soil characteristics and spectral reflectance data of six agricultural
+    fields in Switzerland collected within the EJP Soil project STEROPES. The data
+    in the .csv files is organized as relational database with the database schema
+    depicted in DB_Schema.pdf. The file headers (marked with #) contain metadata.'
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-22'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Simmler-Michael:
+    individualname: Simmler, Michael
+    role: ''
+    organization: Agroscope
+    url: 0000-0002-4095-4111
+  Liebisch-Frank:
+    individualname: Liebisch, Frank
+    role: ''
+    organization: Agroscope
+    url: 0000-0003-0000-7491
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14076347
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14076347
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

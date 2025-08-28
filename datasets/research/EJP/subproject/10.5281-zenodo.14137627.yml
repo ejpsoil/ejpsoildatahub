@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14137627
+  dataseturi: https://doi.org/10.5281/zenodo.14137627
+  hierarchylevel: dataset
+identification:
+  title: STEROPES_TURKIYE_DATASET
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: EJPSOIL
+  abstract: "Two agricultural areas, Dalaman and Kocas , were chosen in T\xFCrkiye\
+    \ regarding their different climatic conditions, soil characteristics, SOC content,\
+    \ soil and crop management.\n\nDalaman site is located in the south-western part\
+    \ of T\xFCrkiye near the Aegean Sea in alluvial deposits. The climate of the region\
+    \ is classified as Hot-summer Mediterranean climate\_(Csa) with an annual precipitation\
+    \ of 1030\_mm and mean temperature of 18.1\_\xB0C (mean values over the 30\_years\
+    \ period). Common soil type in the study area is Calcaric\_Fluvisols\_(Drainic).\
+    \ In the sampling area both\_corn\_(Zea mays L.)\_-wheat (Triticum aestivum\_\
+    L.) or wheat-\_sunflower\_(Helianthus annuus L.) crops are raised in the same\
+    \ year.\n\nKocas study area is located in the alluvial deposits of the Konya Closed\
+    \ Basin, 30 km southeast of Salt Lake (Tuz G\xF6l\xFC). The climate is classified\
+    \ as a Cold semi-arid climate (Bsk) with an average annual precipitation of 362\
+    \ mm and temperature of 12.2 \xB0C (mean values over the 30 years period). The\
+    \ common soil types in this area are Calcaric Fluvisols (Drainic) and Eutric Vertisols.\
+    \ The main crops are irrigated corn and wheat with annual rotation."
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-13'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Koparan-Muhammed-Halil:
+    individualname: Koparan, Muhammed Halil
+    role: ''
+    organization: ''
+    url: 0000-0002-5728-6906
+  Kivrak-Cantekin:
+    individualname: "K\u0131vrak, Cantekin"
+    role: ''
+    organization: ''
+    url: ''
+  Savas-Ayse-Ozge:
+    individualname: "Savas, Ayse \xD6zge"
+    role: ''
+    organization: ''
+    url: ''
+  Tuncay-Tulay:
+    individualname: Tuncay, Tulay
+    role: ''
+    organization: ''
+    url: ''
+  Kececi-Mehmet:
+    individualname: Kececi, Mehmet
+    role: ''
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14137627
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14137626
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13991192
+  dataseturi: https://doi.org/10.5281/zenodo.13991192
+  hierarchylevel: dataset
+identification:
+  title: 'EJPSOIL_SERENA: Maps of Soil Organic Carbon Loss Scenarios in Elva Parish,
+    Estonia'
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: Estonia
+  abstract: "The internal EJP SOIL project SERENA contributed to the evaluation of\
+    \ soil multifunctionality aiming at providing assessment tools for land planning\
+    \ and soil policies at different scales. By co-working with relevant stakeholders,\
+    \ the project provided co-developed indicators and associated cookbooks to assess\
+    \ and map them, to report both on soil degradation, soil-based ecosystem services\
+    \ and their bundles, under actual conditions and for climate and land-use changes,\
+    \ at the regional, national, and European scales. \_ \_ \_ \_\n\nThe study examined\
+    \ the effects of winter cropping systems on long-term soil fertility and their\
+    \ potential to mitigate SOC (Soil Organic Carbon) loss compared to bare soil during\
+    \ the winter months. It analyzed changes in SOC stocks (0\u201330 cm) at the field\
+    \ level in Elva Parish over the period 2020\u20132040, under different land-use\
+    \ scenarios. The modeling was based on a SOC stock map layer for Estonian mineral\
+    \ arable soils, developed by the Centre of Estonian Rural Research and Knowledge,\
+    \ which represented the baseline conditions in 2020. SOC stock projections were\
+    \ made using the RothC model, which simulates soil carbon turnover.\_\n\nIn the\
+    \ first scenario (Scenario 1), the average SOC stock in Elva Parish by 2040 was\
+    \ estimated assuming the land would remain bare, without vegetation, during the\
+    \ winter months from October to April. In the second scenario (Scenario 2), the\
+    \ SOC stock projection accounted for the presence of winter vegetation, which\
+    \ means the soil is covered with vegetation year-round. The dataset includes four\
+    \ files: a projected SOC stock map for Elva Parish in 2040 and the stock changes\
+    \ from 2020\u20132040 under Scenario 1, along with a projected SOC stock map for\
+    \ 2040 and the stock changes from 2020\u20132040 under Scenario 2.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-25'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Kauer-Karin:
+    individualname: Kauer, Karin
+    role: ''
+    organization: Estonian University of Life Sciences
+    url: ''
+  Escuer-Gatius-Jordi:
+    individualname: Escuer-Gatius, Jordi
+    role: ''
+    organization: Estonian University of Life Sciences
+    url: 0000-0001-6766-5654
+  Kukk-Liia:
+    individualname: Kukk, Liia
+    role: ''
+    organization: Estonian University of Life Sciences
+    url: 0000-0002-0825-799X
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13991192
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13945384
+    type: WWW:LINK
+    title: IsSupplementTo
+  r1:
+    url: https://doi.org/10.5281/zenodo.13991192
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

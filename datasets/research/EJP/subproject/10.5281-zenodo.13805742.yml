@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13805742
+  dataseturi: https://doi.org/10.5281/zenodo.13805742
+  hierarchylevel: software
+identification:
+  title: EOM4SOIL - Exogenous organic matter physicochemical characteristics visualisation
+    tool - RShiny script
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: rshiny
+  abstract: This repository contains the R and Rshiny scripts needed to run the EOM4SOIL
+    visualisation tool. This user-friendly software allows for the dissemination of
+    EOM references at the national and European levels to public authorities and EOM
+    sector partners. This interactive tool enables users to explore and analyze the
+    diverse physicochemical properties of EOM types contained in the "Physico-chemical
+    Characteristics of External Organic Matters" database (datapaper in progress).
+    The software allows for dynamic filtering and visualization of data, providing
+    users with customized graphical representations of EOM. By offering an intuitive
+    interface, the application supports policymakers, scientists, and other stakeholders
+    in making informed decisions by visualizing complex datasets in a clear and accessible
+    manner.
+  license:
+    name: ''
+  dates:
+    issued: '2024-09-20'
+    submitted: '2024-10-31'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Caradec-Lucille:
+    individualname: Caradec, Lucille
+    role: DataCurator
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+  Tampio-Elina:
+    individualname: Tampio, Elina
+    role: Researcher
+    organization: Natural Resources Institute Finland
+    url: ''
+  Laakso-Johanna:
+    individualname: Laakso, Johanna
+    role: Researcher
+    organization: Natural Resources Institute Finland
+    url: ''
+  Michaud-Aurelia:
+    individualname: Michaud, Aurelia
+    role: ContactPerson
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+  Geneste-Christophe:
+    individualname: Geneste, Christophe
+    role: DataCurator
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+  Van-Der-Smissen-Helene:
+    individualname: Van Der Smissen, Helene
+    role: DataCurator
+    organization: Walloon Agricultural Research Centre
+    url: ''
+  Houot-Sabine:
+    individualname: Houot, Sabine
+    role: DataCurator
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+  Levavasseur-Florent:
+    individualname: Levavasseur, Florent
+    role: DataCurator
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13805742
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13969793
+    type: WWW:LINK
+    title: Requires
+  r1:
+    url: https://doi.org/10.5281/zenodo.13805741
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

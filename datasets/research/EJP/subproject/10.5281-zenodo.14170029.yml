@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14170029
+  dataseturi: https://doi.org/10.5281/zenodo.14170029
+  hierarchylevel: dataset
+identification:
+  title: 'DatabaseNH3 : EOM ammonia emission factor measured with INRAE Caract''Air
+    device (under controlled conditions)'
+  keywords:
+    project:
+      keywords:
+      - EOM4SOIL
+  abstract: "This dataset includes ammonia volatilization measurements led by ECOSYS\
+    \ INRAE with Caract\u2019Air device. Ammonia measurements, based on the principle\
+    \ of a mass balance in dynamic chambers are performed under thoroughly controlled\
+    \ and replicative conditions. Caract\u2019Air was designed to be as close as possible\
+    \ to field conditions (in situ soil cores) while optimizing ambient conditions\
+    \ (temperature, air humidity and soil water content) and exchange conditions (flow\
+    \ rate, head volume, air circulation conditions) (G\xE9nermont et al., 2021; D\xE9\
+    cuq et al., 2023). A variety of EOMs are represented ranging from historic livestock\
+    \ effluents and manure to emerging biowastes produced by human urban and agro-industrial\
+    \ activities, all these biowastes having undergone a variety of treatments: raw,\
+    \ separated, composted, anaerobically stored slurries, farm yard manure, sewage\
+    \ sludges, municipal and domestic wastes; various digestats from mechanization;\
+    \ urine based fertilizers; etc. The types and origins of the EOM are reported.\
+    \ The physico-chemical properties of the EOM as well as soils on which the EOM\
+    \ were applied are detailed, leading to 20 and 30 parameters accompanied by information\
+    \ on analytical methods. Measurement conditions are also described including the\
+    \ application dose, the experimental set duration, the ambient conditions, and\
+    \ also the reproductibily conditions, etc. Finally, ammonia volatilization data\
+    \ are compiled, in terms of total cumulative loss (kg N/ha) or volatilization\
+    \ rates (% N and % N-NH4 applied)."
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-15'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  decuq-celine:
+    individualname: decuq, celine
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: 0000-0003-4231-4676
+  Genermont-Sophie:
+    individualname: "G\xE9nermont, Sophie"
+    role: ''
+    organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    url: 0000-0002-8674-8380
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14170029
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14170028
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

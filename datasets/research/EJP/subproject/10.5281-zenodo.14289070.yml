@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14289070
+  dataseturi: https://doi.org/10.5281/zenodo.14289070
+  hierarchylevel: dataset
+identification:
+  title: Dataset - Report on the fertilizer value and contribution to greenhouse gas
+    emissions of waste streams and their composts
+  keywords:
+    project:
+      keywords:
+      - null
+  abstract: ''
+  license:
+    name: ''
+  dates:
+    issued: '2024-12-06'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Inagaki-Thiago-Massao:
+    individualname: Inagaki, Thiago Massao
+    role: ''
+    organization: "Norsk Institutt for Bio\xF8konomi"
+    url: 0000-0002-8407-5717
+  Budai-Alice:
+    individualname: Budai, Alice
+    role: ''
+    organization: Norwegian Institute of Bioeconomy Research
+    url: 0000-0002-6675-4548
+  Weldon-Simon:
+    individualname: Weldon, Simon
+    role: ''
+    organization: Norwegian Institute for Bioeconomy
+    url: 0000-0001-9851-9182
+  Rivier-Pierre-Adrien:
+    individualname: Rivier, Pierre-Adrien
+    role: ''
+    organization: ''
+    url: 0000-0003-4679-2018
+  Farkas-Eva:
+    individualname: Farkas, Eva
+    role: ''
+    organization: ''
+    url: 0000-0001-6914-3083
+  Bjornsgaard-Aas-Anders:
+    individualname: "Bj\xF8rnsgaard Aas, Anders"
+    role: ''
+    organization: ''
+    url: 0000-0001-8809-909X
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14289070
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14170304
+    type: WWW:LINK
+    title: IsDocumentedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.14289070
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

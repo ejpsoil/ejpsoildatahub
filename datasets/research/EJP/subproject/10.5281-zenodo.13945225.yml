@@ -1,0 +1,129 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13945225
+  dataseturi: https://doi.org/10.5281/zenodo.13945225
+  hierarchylevel: dataset
+identification:
+  title: EJPSOIL ARTEMIS on-farm monitoring of soil health and ecosystems services
+    (meta)data
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: agroecology
+  abstract: "This database includes the data and metadata \_from the initial on-farm\
+    \ monitoring od soil health and soil related ecosystem services of the EJPSOIL\
+    \ ARTEMIS project.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-29'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Panagea-Ioanna:
+    individualname: Panagea, Ioanna
+    role: ''
+    organization: Instituut voor Landbouw en Visserijonderzoek
+    url: 0000-0003-4813-2291
+  Walder-Florian:
+    individualname: Walder, Florian
+    role: ''
+    organization: Agroscope
+    url: ''
+  Vanderhasselt-Adriaan:
+    individualname: Vanderhasselt, Adriaan
+    role: ''
+    organization: Instituut voor Landbouw en Visserijonderzoek
+    url: ''
+  Rubeaud-C:
+    individualname: Rubeaud, C
+    role: ''
+    organization: Agroscope
+    url: ''
+  Willekens-Koen:
+    individualname: Willekens, Koen
+    role: ''
+    organization: Instituut voor Landbouw en Visserijonderzoek
+    url: ''
+  Urracci-Giulia:
+    individualname: Urracci, Giulia
+    role: ''
+    organization: AGRIS
+    url: ''
+  Canu-Marta:
+    individualname: Canu, Marta
+    role: ''
+    organization: AGRIS
+    url: ''
+  Carboni-Gianluca:
+    individualname: Carboni, Gianluca
+    role: ''
+    organization: AGRIS
+    url: ''
+  Tagliaferri-Elisa:
+    individualname: Tagliaferri, Elisa
+    role: ''
+    organization: Ente Regionale per i Servizi all'Agricoltura e alle Foreste
+    url: ''
+  Tonelli-Eliana-Paola:
+    individualname: Tonelli, Eliana Paola
+    role: ''
+    organization: Ente Regionale per i Servizi all'Agricoltura e alle Foreste
+    url: ''
+  Buttafuoco-Gabriele:
+    individualname: Buttafuoco, Gabriele
+    role: ''
+    organization: CNR
+    url: ''
+  Mereu-Valentina:
+    individualname: Mereu, Valentina
+    role: ''
+    organization: AGRIS
+    url: ''
+  Jose-Castro-Maria:
+    individualname: "Jos\xE9 Castro, Maria"
+    role: ''
+    organization: ''
+    url: ''
+  Prieto-Fernandez-Angeles:
+    individualname: Prieto-Fernandez, Angeles
+    role: ''
+    organization: ''
+    url: ''
+  Garcia-Manuel:
+    individualname: "Garc\xEDa, Manuel"
+    role: ''
+    organization: ''
+    url: ''
+  Stefanova-Milena:
+    individualname: Stefanova, Milena
+    role: ''
+    organization: ENEA Bologna Research Centre
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13945225
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14033165
+    type: WWW:LINK
+    title: IsDescribedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.13950482
+    type: WWW:LINK
+    title: IsSupplementTo
+  r2:
+    url: https://doi.org/10.5281/zenodo.13945225
+    type: WWW:LINK
+    title: IsSupplementedBy
+  r3:
+    url: https://doi.org/10.5281/zenodo.14186759
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

@@ -1,0 +1,138 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.10137003
+  dataseturi: https://doi.org/10.5281/zenodo.10137003
+  hierarchylevel: dataset
+identification:
+  title: Liming effects on microbial carbon use efficiency and its potential consequences
+    for soil organic carbon stocks
+  keywords:
+    project:
+      keywords:
+      - EnergyLink
+    default:
+      keywords:
+        subject: long-term field experiment (LTE)
+  abstract: "This repository contains all necessary raw data as well as the R code\
+    \ used to conduct statistical analysis and create figures of the publication\n\
+    \n\_\n\nLiming effects on microbial carbon use efficiency and its potential consequences\
+    \ for soil organic carbon stocks\n\nJulia Schroeder1, Claudia D\u01CEm\u01CEt\xEE\
+    rc\u01CE2,6, Tobias B\xF6lscher3, Claire Chenu3, Lars Elsgaard4, Christoph C.\
+    \ Tebbe5, Laura Skadell1, Christopher Poeplau1\n\n1 Th\xFCnen Institute of Climate-Smart\
+    \ Agriculture, Bundesallee 68, 38116 Braunschweig, Germany\n\n2 University of\
+    \ Turin, Department of Agricultural, Forest and Food Sciences, Largo Paolo Braccini\
+    \ 2, 10095 Grugliasco TO, Italy\n\n3 Universit\xE9 Paris-Saclay, INRAE, AgroParisTech,\
+    \ UMR EcoSys, 22 place de l'Agronomie, 91120 Palaiseau, France\n\n4 Aarhus University,\
+    \ Department of Agroecology, Blichers All\xE9 20, 8830 Tjele, Denmark\n\n5 Th\xFC\
+    nen Institute of Biodiversity, Bundesallee 65, 38116 Braunschweig, Germany\n\n\
+    6\_current address: Euro-Mediterranean Center on Climate Change (CMCC) Foundation,\
+    \ Division on Climate Change Impacts on Agriculture, Forests and Ecosystem Services\
+    \ (IAFES), Via Igino Garbini 51, 01100 Viterbo, Italy\n\nDOI:\_\_ 10.1016/j.soilbio.2024.109342\n\
+    \nIn this study, we set out to test the potential of liming as means to control\
+    \ the microbial carobn use efficiency (CUE). We assessed CUE using the 18O-labelling\
+    \ method for soils from three European long-term liming field trials (i.e. Jyndevad,\
+    \ Versailles, and D\xFCrnast). Additionally, the immediate response of CUE to\
+    \ liming in the lab was tested accounting for lime-derived CO2 emission. The lime-induced\
+    \ pH shift was a strong determinant of CUE. However, the relationship between\
+    \ CUE and soil pH followed a U-shaped (i.e. quadratic) curve, suggesting that\
+    \ CUE may be lowest at near neutral soil pH and therefore to interfere with agronomic\
+    \ interests (i.e. high crop yield). To assess the potential contribution of CUE\
+    \ on the net liming effect on SOC stocks, we calculated OC inputs and SOC stocks.\
+    \ Liming had a positive effect on SOC stocks, regardless of the change in CUE.\
+    \ Our results suggest that CUE added to the net liming effect on SOC stocks.\_\
+    \n\nStatistical analyses and data visualisation were conducted in R v4.1.2 (2021-11-01)\
+    \ (R Core Team, 2020) using RStudio\_v2022.12.0 (Posit team, 2022).\_\n\nThe repository\
+    \ includes the following files:\n\n\n\nliming_sample_data_R.csv - 18O-CUE data\
+    \ and measured pH for DK, DA, VB and DL (n=43)\n\nsite_info_R.csv - C, N, bulk\
+    \ density and pH data shared by co-authors for DK, DA and VB (n=32)\n\nyield_R.csv\
+    \ - yield data shared by co-authors for DK, DA and VB (n=236)\n\nCO2sources_R.csv\
+    \ - long-formatted data for CO2 source differentiation in the direct liming experiment\
+    \ (n=66)\n\nC_input_allocation_factors_R.csv - allocation factors to crop types\
+    \ (Jacobs et al. 2020, https://doi.org/10.1007/s10705-020-10087-5 )\n\n\n\_\n\n\
+    \n\nSchroeder_et_al._liming_effect_on_CUE.Rproj - Rproject (load project to work\
+    \ on provided scripts and data)\n\nload_data.R - loads required data\n\nliming_on_soil_pH.R\
+    \ -\_ statistical analysis liming effect on soil pH, creates output for Table\
+    \ 1 (additional figure effect liming on soil pH)\n\nliming_on_CUE.R - statistical\
+    \ analysis liming effect on CUE, creates output for Tables 2, S1 and S2\n\nliming_on_CmicCorg.R\
+    \ - statistical analysis liming effect on Cmic/Corg (laboratory liming excluded),\
+    \ creates output for Table 3\n\nliming_on_microbial_params.R - statistical analysis\
+    \ liming effect on Cmic, Cgrowth, Crespiration (all treatments), creates output\
+    \ for Tables S1 and S2\n\nliming_on_abundances.R - statistical analysis liming\
+    \ effect on microbial abundances (fungi, bacteria, archaea), creates output for\
+    \ Tables S1 and S2\n\nliming_on_K2SO4extrC.R - statistical analysis liming effect\
+    \ on K2SO4 extractable C as proxy for DOC, creates output for Table S3 and Figure\
+    \ S1\n\nz-tranformation_best_fit.R - tests different models to find best fit of\
+    \ z-transformed data over pH\n\ncalculation_C_stocks.R - test on treatment differences\
+    \ in bulk density, calculation of SOC stocks, creates output for Table S4 and\
+    \ Figure 7\n\ncalculation_C_input.R - calculation of C inputs based on yield_R.csv\
+    \ data and C_input_allocation_factors_R.csv, output Figure S3 and Table S5\n\n\
+    calculation_SOC_formation_efficiency.R - calculation of SOC formation efficiency\
+    \ based on estimated marginal mean difference of C stocks and inputs, script requires\
+    \ calculation_C_stocks.R and calculation_C_inputs.R to be run beforehand\n\nplot_figures.R\
+    \ - plots Figures 2, 3, 4, 5 ,6, and Figures S2 and S4\n\nplot_Figure8_radar_chart.R\
+    \ - plots Figure 8\n\n\n\_\n\n\n\ncalculation_maximum_relative_error_respiration_rate_estimates.xlsx\
+    \ - Output data from Visual MINTEQ secnarios plus calculation for error estimation\n\
+    \n\n\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-01-31'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Schroeder-Julia:
+    individualname: Schroeder, Julia
+    role: ''
+    organization: "Johann Heinrich von Th\xFCnen-Institut"
+    url: 0000-0003-3625-104X
+  Damatirca-Claudia:
+    individualname: "D\u01CEm\u01CEt\xEErc\u01CE, Claudia"
+    role: Researcher
+    organization: CMCC Foundation - Euro-Mediterranean Center on Climate Change
+    url: 0000-0003-1778-668X
+  Bolscher-Tobias:
+    individualname: "B\xF6lscher, Tobias"
+    role: Researcher
+    organization: "Universit\xE9 Paris-Saclay"
+    url: 0000-0001-5305-0616
+  Chenu-Claire:
+    individualname: Chenu, Claire
+    role: Researcher
+    organization: "Universit\xE9 Paris-Saclay"
+    url: 0000-0001-9054-0489
+  Elsgaard-Lars:
+    individualname: Elsgaard, Lars
+    role: Researcher
+    organization: Aarhus University
+    url: 0000-0003-0058-7609
+  Tebbe-Christoph-C.:
+    individualname: Tebbe, Christoph C.
+    role: Researcher
+    organization: "Johann Heinrich von Th\xFCnen-Institut"
+    url: 0000-0003-4861-0214
+  Skadell-Laura:
+    individualname: Skadell, Laura
+    role: Researcher
+    organization: "Johann Heinrich von Th\xFCnen-Institut"
+    url: 0000-0002-4789-8474
+  Poeplau-Christopher:
+    individualname: Poeplau, Christopher
+    role: Researcher
+    organization: "Johann Heinrich von Th\xFCnen-Institut"
+    url: 0000-0003-3108-8810
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.10137003
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1016/j.soilbio.2024.109342
+    type: WWW:LINK
+    title: IsPublishedIn
+  r1:
+    url: https://doi.org/10.5281/zenodo.10137003
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

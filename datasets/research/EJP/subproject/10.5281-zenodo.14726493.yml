@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14726493
+  dataseturi: https://doi.org/10.5281/zenodo.14726493
+  hierarchylevel: dataset
+identification:
+  title: European-scale responses of yields, soil organic carbon stocks, nitrous oxide
+    emissions and nitrate leaching to a 20 % reduction in mineral nitrogen fertilization
+  keywords:
+    project:
+      keywords:
+      - EJP Soil
+  abstract: "This data set was used for the trade-off analysis described in Anjum\
+    \ et al. (2025). It consists mainly of model-based changes in: yields, soil organic\
+    \ carbon (SOC) stocks, nitrous oxide emissions (N2O) and nitrate leaching (NO3)\
+    \ in response to a generic 20 % reduction in mineral nitrogen (N) fertilization\
+    \ for the entire European Union plus Switzerland and the UK. As spatial units\
+    \ we used all NUTS2 regions in which the six main crops wheat, maize, barley,\
+    \ rapeseed, potato and sugar beet were grown (1059 out of 2400 NUTS2 regions).\_\
+    Environmental data are included which were used for additional analysis (hierarchical\
+    \ clustering and random forest modelling) as described in Anjum et al. (2025).\_\
+    \n\nTo estimate the response of crop yields to a 20 % reduction in mineral N fertilization,\
+    \ an approach was used based on previously published equations and data sets (Madenoglu\
+    \ et al. 2024). This is the only data set that has a national, spatial resolution.\
+    \ Changes in SOC stocks of topsoils (0-30 cm) were estimated at the European-scale\
+    \ with the SOC model RothC (Pape 2024). Responses of N2O emissions and NO3 leaching\
+    \ to reductions in N fertilization were estimated using the N flow model MITERRA-Europe\
+    \ (Lesschen et al. 2025).\n\nPlease note that these modelled data are based mostly\
+    \ on national statistics and therefore results at crop- and NUTS2-levels are uncertain\
+    \ and should not be used for very specific studies. Please also note the special\
+    \ units for crop residues and organic matter inputs where UAA refers to utilized\
+    \ agricultural area. Furthermore, changes in SOC stocks are averages for 30 years.\_\
+    \n\nReferences\n\nAnjum, M. M., Lesschen, J. P., Madenoglu, S., Pape, B., Pinar,\
+    \ M. \xD6., Leifeld, J., & Keel, S. G. (2025). Synthesis report: European-scale\
+    \ trade-off analysis of reduced mineral nitrogen fertilization. Zenodo.\_https://doi.org/10.5281/zenodo.14644095\n\
+    \nLesschen, J.P., Hendriks, C., Nikolaus, K. & Duan, K. (2025). EU scale simulations\
+    \ on N2O and other N losses. EJP Soil SIMPLE Deliverable 5.1. Zenodo. https://doi.org/10.5281/zenodo.14621078\n\
+    \nMadenoglu, S., Keel, S., K\xE4tterer, T., & Pinar, M. \xD6. (2024). Creating\
+    \ a dataset on fertilizers and fertilization recommendations [Data set]. Zenodo.\_\
+    https://doi.org/10.5281/zenodo.14244316\n\nPape, B. (2024). Europe scale simulation\
+    \ of reduced fertilization scenarios. Zenodo. https://doi.org/10.5281/zenodo.14069147\n\
+    \n\_"
+  license:
+    name: ''
+  dates:
+    issued: '2025-01-23'
+    publication: '2025'
+  rights: cc-by-4.0
+contact:
+  Anjum-Muhammad-Mehran:
+    individualname: Anjum, Muhammad Mehran
+    role: ''
+    organization: Agroscope
+    url: 0000-0002-7415-7911
+  Lesschen-Jan-Peter:
+    individualname: Lesschen, Jan Peter
+    role: ''
+    organization: Wageningen University & Research
+    url: 0000-0003-1535-8294
+  Madenoglu-Sevinc:
+    individualname: Madenoglu, Sevinc
+    role: ''
+    organization: General Directorate of Agricultural Research and Policies
+    url: 0000-0002-5012-2773
+  Pape-Benjamin:
+    individualname: Pape, Benjamin
+    role: ''
+    organization: "Johann Heinrich von Th\xFCnen-Institut"
+    url: ''
+  Keel-Sonja-G.:
+    individualname: Keel, Sonja G.
+    role: ''
+    organization: Agroscope
+    url: 0000-0002-2645-273X
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14726493
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14726493
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

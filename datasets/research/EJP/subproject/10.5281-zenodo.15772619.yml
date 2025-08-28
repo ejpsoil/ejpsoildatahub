@@ -1,0 +1,107 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.15772619
+  dataseturi: https://doi.org/10.5281/zenodo.15772619
+  hierarchylevel: dataset
+identification:
+  title: 'Dataset to: Austrian NIR Soil Spectral Library for Soil Health Assessments'
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: near-infrared
+  abstract: "Dataset description\n\nThis is the corresponding dataset to the publication\
+    \ \"Austrian NIR Soil Spectral Library for Soil Health Assessments\" by Fohrafellner\
+    \ et al. (2025). In this publication, we created the first Austrian Near-Infrared\
+    \ (NIR) Soil Spectral Library (680 \u2013 2500 nm) using 2,129 legacy samples\
+    \ from all environmental zones of Austria. Additionally, we utilized partial least\
+    \ squares regression modeling to evaluate the dataset's current effectiveness\
+    \ for soil health assessments. The dataset contains three tabs, \"Document meta\
+    \ data\", \"Legend\" and \"Dataset\". Tab \"Document meta data\" gives information\
+    \ on the authors, the data collection time frame, terms of use, etc. In \"Legend\"\
+    , each column of the \"Dataset\" is described. The \"Dataset\" contains information\
+    \ on the legacy soil samples including:\_\n\n\n\nmeta data (e.g. sample number,\
+    \ sampling year, zip code, environmental zone, land use), \n\nsoil properties\
+    \ (soil organic carbon [SOC], SOC to clay ratio, total carbon, labile carbon,\
+    \ CaCO3, total nitrogen, plant available phosphorus, pH measured in CaCl2 and\
+    \ acetate, cation exchange capacity, texture [sand, silt, clay content], and clay\
+    \ content measured by density in suspension), and\n\nmeasured NIR soil spectra,\
+    \ also for the standards.\n\n\nProject description\n\nThis Austrian NIR Soil Spectral\
+    \ Library was built within the ProbeField project (November 2021 \u2013 January\
+    \ 2025), which was part of the European Joint Program for SOIL \"Towards climate-smart\
+    \ sustainable management of agricultural soils\" (EJP SOIL) funded by the European\
+    \ Union Horizon 2020 research and innovation programme (Grant Agreement N\xB0\
+    \ 862695). The project aimed to create a protocol detailing procedures and methodologies\
+    \ for accurately estimating fertility-related properties in agricultural soils\
+    \ in the field. Additionally, the potential for extending this data to two- and\
+    \ three-dimensional mapping using co-variates was demonstrated. ProbeField further\
+    \ collected field spectra that closely match laboratory spectra, enabling the\
+    \ prediction of soil properties using models calibrated with soil spectral libraries.\n\
+    \nReferences\n\nFohrafellner, J., Lippl, M., Bajraktarevic, A., Baumgarten, A.,\
+    \ Spiegel, H., K\xF6rner, R. and Sand\xE9n, T.: Austrian NIR Soil Spectral Library\
+    \ for Soil Health Assessments, 2025, in review."
+  license:
+    name: ''
+  dates:
+    issued: '2025-07-21'
+    submitted: '2025-07-21'
+    publication: '2025'
+  rights: cc-by-4.0
+contact:
+  Fohrafellner-Julia:
+    individualname: Fohrafellner, Julia
+    role: ContactPerson
+    organization: Austrian Agency for Health and Food Safety
+    url: 0000-0001-5734-7353
+  Lippl-Maximilian:
+    individualname: Lippl, Maximilian
+    role: DataCollector
+    organization: Austrian Agency for Health and Food Safety
+    url: ''
+  Bajraktarevic-Armin:
+    individualname: Bajraktarevic, Armin
+    role: DataCollector
+    organization: Austrian Agency for Health and Food Safety
+    url: ''
+  Baumgarten-Andreas:
+    individualname: Baumgarten, Andreas
+    role: Researcher
+    organization: Austrian Agency for Health and Food Safety
+    url: 0000-0001-7454-7592
+  Spiegel-Heide:
+    individualname: Spiegel, Heide
+    role: Researcher
+    organization: Austrian Agency for Health and Food Safety
+    url: 0000-0003-1285-8509
+  Korner-Robert:
+    individualname: "K\xF6rner, Robert"
+    role: DataCollector
+    organization: Austrian Agency for Health and Food Safety
+    url: ''
+  Sanden-Taru:
+    individualname: "Sand\xE9n, Taru"
+    role: Researcher
+    organization: Austrian Agency for Health and Food Safety
+    url: 0000-0002-9542-0117
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.15772619
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.15772619
+    type: WWW:LINK
+    title: HasVersion
+  r1:
+    url: https://doi.org/10.5281/zenodo.16032454
+    type: WWW:LINK
+    title: HasVersion
+  r2:
+    url: https://doi.org/10.5281/zenodo.16261617
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

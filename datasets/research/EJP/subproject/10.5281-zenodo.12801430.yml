@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.12801430
+  dataseturi: https://doi.org/10.5281/zenodo.12801430
+  hierarchylevel: dataset
+identification:
+  title: Dataset for "Towards an ecosystem capacity to stabilise organic carbon in
+    soils"
+  keywords:
+    project:
+      keywords:
+      - CarboSeq
+  abstract: "This dataset includes the data that was used in the Global Change Biology\
+    \ publication \"Towards an ecosystem capacity to stabilise organic carbon in soils\"\
+    \ by Poeplau et al.. It contains two xlsx files, with dataset_full.xlsx including\
+    \ all sites with soil properties that were used in the first part of the manuscript.\
+    \ It is a combined dataset from several open source datasets with a total of 1396\
+    \ individual sites. The file modelled_converged.xlsx includes the RothC model\
+    \ results of a total of 587 sites, for which modelling was possible and a convergence\
+    \ of measured and modelled data was reached. Both files include two sheets, one\
+    \ with a short explanation of the variable names and one data sheet.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-07-23'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Poeplau-Christopher:
+    individualname: Poeplau, Christopher
+    role: ''
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.12801430
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.12801430
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

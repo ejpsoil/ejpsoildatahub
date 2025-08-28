@@ -1,0 +1,101 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.15690531
+  dataseturi: https://doi.org/10.5281/zenodo.15690531
+  hierarchylevel: dataset
+identification:
+  title: Q sortings of factors influencing farmers' soil management - SoilX WP4
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: farmer typology
+  abstract: 'This dataset contains the Q sortings of the participants in the Q-Methodological
+    study that was conducted as part of work package 4 ("Farmer-related challenges
+    to the use of sustainable soil management practices") of the project SoilX ("Soil
+    management to mitigate climate change-related precipitation eXtremes").
+
+
+    The data are provided in an excel document in the format required for using the
+    Q analysis software KADE. Each sheet contains data for one of the case study regions
+    (identified by country: AT = Austria, SE = Sweden, ES = Spain, DK = Denmark, CH
+    = Switzerland). The first sheet also contains information on the sorting grid,
+    as needed for KADE.'
+  license:
+    name: ''
+  dates:
+    issued: '2025-06-24'
+    publication: '2025'
+  rights: cc-by-sa-4.0
+contact:
+  Leonhardt-Heidi:
+    individualname: Leonhardt, Heidi
+    role: ''
+    organization: BOKU University
+    url: 0000-0003-2129-1989
+  Braito-Michael:
+    individualname: Braito, Michael
+    role: ''
+    organization: University of Natural Resources and Life Sciences
+    url: 0000-0002-9763-0804
+  Butikofer-Nicole:
+    individualname: "B\xFCtikofer, Nicole"
+    role: ''
+    organization: Agroscope
+    url: 0009-0001-6877-1632
+  Graversgaard-Morten:
+    individualname: Graversgaard, Morten
+    role: ''
+    organization: Aarhus University
+    url: 0000-0001-7636-4335
+  Hockert-Jenny:
+    individualname: "H\xF6ckert, Jenny"
+    role: ''
+    organization: Swedish University of Agricultural Sciences
+    url: 0000-0002-1377-2339
+  Lunar-Koch-Ernesto-Jose:
+    individualname: Lunar Koch, Ernesto Jose
+    role: ''
+    organization: BOKU University
+    url: 0009-0004-9052-1818
+  Lundstrom-Christina:
+    individualname: "Lundstr\xF6m, Christina"
+    role: ''
+    organization: Swedish University of Agricultural Sciences
+    url: 0000-0003-0253-3663
+  Schreiber-Mariella:
+    individualname: Schreiber, Mariella
+    role: ''
+    organization: BOKU University
+    url: 0000-0002-0464-2364
+  Tiselius-Mette:
+    individualname: Tiselius, Mette
+    role: ''
+    organization: Swedish University of Agricultural Sciences
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.15690531
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.15682965
+    type: WWW:LINK
+    title: IsDescribedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.15730136
+    type: WWW:LINK
+    title: IsSupplementedBy
+  r2:
+    url: https://doi.org/10.5281/zenodo.15730034
+    type: WWW:LINK
+    title: HasVersion
+  r3:
+    url: https://doi.org/10.5281/zenodo.15690531
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

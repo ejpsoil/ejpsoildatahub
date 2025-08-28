@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14054264
+  dataseturi: https://doi.org/10.5281/zenodo.14054264
+  hierarchylevel: dataset
+identification:
+  title: SERENA EJP Soil Green house gas aplication Moravia region, Czechia
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: Czechia
+  abstract: "The present dataset corresponds to a map of Net Ecosystem Productivity\
+    \ (NEP) for Moravia region in Czechia classified as wheat by the Eurocrop 2028\
+    \ spatial product (d\u2019Andrimont et al. 2021). The map is the result of applying\
+    \ the NEP cookbook developed in SERENA/EJP-Soil to the area of interest (AOI)\
+    \ input data. NEP is expressed for a single 8-day period in early summer as it\
+    \ is the date with the highest value. The NEP value is a 2010-2014 average for\
+    \ the particular 8-day period. The data description document of the cookbook (hereafter\
+    \ \u201CGHG cookbook\u201D) itself corresponds to other document of the SERENA\
+    \ project."
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-08'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Reyes-Rojas-Jessica:
+    individualname: Reyes-Rojas, Jessica
+    role: ''
+    organization: Czech University of Life Sciences Prague (CZU)
+    url: 0000-0002-4712-5703
+  Medina-Roldan-Eduardo:
+    individualname: Medina-Roldan, Eduardo
+    role: Supervisor
+    organization: Institute of BioEconomy-National Research Council (IBE-CNR), Sesto
+      Fiorentino, Italy
+    url: 0000-0001-6703-9645
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14054264
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14054264
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

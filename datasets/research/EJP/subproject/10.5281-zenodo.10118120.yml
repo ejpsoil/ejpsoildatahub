@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.10118120
+  dataseturi: https://doi.org/10.5281/zenodo.10118120
+  hierarchylevel: dataset
+identification:
+  title: Soil grid data for 4 agricultural fields in PT (ECe; soil organic carbon,
+    pH)
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: soil organic carbon
+  abstract: "Soil data collected in an agricultural area with annual crops in Portugal\
+    \ (Lez\xEDria Grande). The data refers to soil properties of 63 soil samples collected\
+    \ at a depth of 0-20 cm, considering a regular sampling grid, in four fields with\
+    \ varying soil salinity (field areas between 2 and 34 ha). The samples were collected\
+    \ at a period when the soil was bare, following the harvest of the annual crops,\
+    \ and pictures of the soil surface were taken for eventual correction of corresponding\
+    \ remote sensing imaging. The data includes: soil organic carbon (SOC) (Walkley-Black\
+    \ method), soil water content, electric conductivity of the saturated soil paste\
+    \ (ECe), EC1:5, and \_pH1:5.\_\nThe data may be representative of the soil conditions\
+    \ of the area, which is a highly productive agricultural low land, prone to the\
+    \ development of soil salinity as a result of the rise of saline groundwater and/or\
+    \ irrigation. The data can be used to establish relations between soil salinity\
+    \ (ECe) and other soil properties as well as build prediction models of the soil\
+    \ properties from remote sensing namely, for developing models for SOC prediction\
+    \ under the STEROPES project (WP5 (WP5-T3) and WP2 (WP2-T3)).The aim of the collected\
+    \ dataset was to be able to analyze the influence of soil salinity in SOC prediction\
+    \ from remote sensing.\nData in the form of MS Excel files (xlsx), pictures of\
+    \ the soil surface in jpg. format.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2023-11-13'
+    publication: '2023'
+  rights: cc-by-4.0
+contact:
+  Paz-A.-M.:
+    individualname: Paz, A. M.
+    role: ''
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: 0000-0001-7276-8447
+  Farzamian-M.:
+    individualname: Farzamian, M.
+    role: ''
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: 0000-0001-9549-7344
+  Antunes-Joao:
+    individualname: "Antunes, Jo\xE3o"
+    role: ''
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: 0009-0004-3090-6935
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.10118120
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10118120
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

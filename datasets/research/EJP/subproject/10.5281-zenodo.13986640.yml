@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13986640
+  dataseturi: https://doi.org/10.5281/zenodo.13986640
+  hierarchylevel: dataset
+identification:
+  title: Map of soil organic carbon loss of mineral soils in Estonia
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: Estonia
+  abstract: "The internal EJP SOIL project SERENA contributed to the evaluation of\
+    \ soil multifunctionality aiming at providing assessment tools for land planning\
+    \ and soil policies at different scales. By co-working with relevant stakeholders,\
+    \ the project provided co-developed indicators and associated cookbooks to assess\
+    \ and map them, to report both on soil degradation, soil-based ecosystem services\
+    \ and their bundles, under actual conditions and for climate and land-use changes,\
+    \ at the regional, national, and European scales.\n\nThe map was generated to\
+    \ evaluate soil organic carbon (SOC) loss in Estonian agricultural soils. It is\
+    \ directly related to SERENA project WP3, T3.2, D3.3 with the aim of applying\
+    \ cookbooks to assess soil threats or ecosystem services. This map is the outcome\
+    \ of applying a cookbook developed by ISRIC (Genova, G., Poggio, L., Kempen, B.,\
+    \ & Colman, B. DSM Workflow Seedling. ISRIC - World Soil Information. https://doi.org/10.17027/ISRIC-FSX2-2691).\n\
+    \nThe generated map of SOC loss expressed as absolute sequestration rate (t C\
+    \ ha-1 a-1) between 2015 and 2021 is in GEOTIFF format at the resolution of 100m.\
+    \ The input data for the cookbook was from the PANDA database, which contains\
+    \ regular soil monitoring and voluntary soil sampling data by farmers in Estonia.\
+    \ To achieve the aim for accounting SOC loss in agricultural soils temporal pairs\
+    \ were selected resulting in 1037 paired points where the interval between second\
+    \ sampling was more than 5 years. SOC stocks were calculated for the depth of\
+    \ 20 cm using the equation by Adams (1973) to calculate soil bulk density. The\
+    \ calculated SOC stock for time0 and time2 (> 5 years resampled locations) were\
+    \ used as input points for digital soil mapping, that is the ISRIC cookbook.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-24'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Putku-Elsa:
+    individualname: Putku, Elsa
+    role: ''
+    organization: Centre of Estonian Rural Research and Knowledge (METK)
+    url: ''
+  Kikas-Tambet:
+    individualname: Kikas, Tambet
+    role: DataCurator
+    organization: Centre of Estonian Rural Research and Knowledge (METK)
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13986640
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13986640
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''
