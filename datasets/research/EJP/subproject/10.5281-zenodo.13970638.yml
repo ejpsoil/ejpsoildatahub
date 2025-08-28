@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13970638
+  dataseturi: https://doi.org/10.5281/zenodo.13970638
+  hierarchylevel: dataset
+identification:
+  title: SERENA EJPSOIL IE SOC Loss SOC
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: Ireland
+  abstract: "The internal EJP SOIL project SERENA contributed to the evaluation of\
+    \ soil multifunctionality aiming at providing assessment tools for land planning\
+    \ and soil policies at different scales. By co-working with relevant stakeholders,\
+    \ the project provided co-developed indicators and associated cookbooks to assess\
+    \ and map them, to report both on soil degradation, soil-based ecosystem services\
+    \ and their bundles, under actual conditions and for climate and land-use changes,\
+    \ at the regional, national, and European scales. \_ \_\n\n\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-22'
+    submitted: '2024-10-24'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Fahy-Alan:
+    individualname: Fahy, Alan
+    role: ''
+    organization: ''
+    url: 0009-0008-4709-9825
+  Shahrokh-Vajihe:
+    individualname: Shahrokh, Vajihe
+    role: ''
+    organization: ''
+    url: 0000-0001-9965-6111
+  Buttafuoco-Gabriele:
+    individualname: Buttafuoco, Gabriele
+    role: ''
+    organization: National Research Council
+    url: 0000-0002-0280-8658
+  Bondi-Giulia:
+    individualname: Bondi, Giulia
+    role: ''
+    organization: Teagasc - The Irish Agriculture and Food Development Authority
+    url: 0000-0002-8896-0262
+  O'Sullivan-Lilian:
+    individualname: O'Sullivan, Lilian
+    role: ''
+    organization: Teagasc - The Irish Agriculture and Food Development Authority
+    url: 0000-0002-5333-5758
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13970638
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13970637
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

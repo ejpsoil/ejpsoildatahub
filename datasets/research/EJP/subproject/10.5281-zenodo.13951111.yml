@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13951111
+  dataseturi: https://doi.org/10.5281/zenodo.13951111
+  hierarchylevel: dataset
+identification:
+  title: D2.2 ProbeField datasets metadata
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: ProbeField
+  abstract: Deliverable 2.2 (ProbeField SSL Metadata) consists of several sampling
+    campaigns conducted by institutes in ten European countries including Austria,
+    Czech Republic, Denmark, France, Italy, Netherlands, Poland, Spain, Sweden, and
+    Switzerland. The columns add information about the sampling scale, extent of the
+    area, climate, soil class, parent rock, land use, management, number of samples,
+    sampling date, vegetation type, SOC analysis method, SOC range, texture analysis
+    method and spectral measurement specifications.
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-18'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Czech-University-of-Life-Sciences-Prague:
+    individualname: Czech University of Life Sciences Prague
+    role: ''
+    organization: ''
+    url: 0415vcw02
+  Agricultural-Research-Council:
+    individualname: Agricultural Research Council
+    role: ''
+    organization: ''
+    url: 0327f2m07
+  Austrian-Agency-for-Health-and-Food-Safety:
+    individualname: Austrian Agency for Health and Food Safety
+    role: ''
+    organization: ''
+    url: 055xb4311
+  Spanish-National-Research-Council:
+    individualname: Spanish National Research Council
+    role: ''
+    organization: ''
+    url: 02gfc7t72
+  Wageningen-University--Research:
+    individualname: Wageningen University & Research
+    role: ''
+    organization: ''
+    url: 04qw24q55
+  Aarhus-University:
+    individualname: Aarhus University
+    role: ''
+    organization: ''
+    url: 01aj84f44
+  Swedish-University-of-Agricultural-Sciences:
+    individualname: Swedish University of Agricultural Sciences
+    role: ''
+    organization: ''
+    url: 02yy8x990
+  National-Research-Institute-for-Agriculture-Food-and-Environment:
+    individualname: National Research Institute for Agriculture, Food and Environment
+    role: ''
+    organization: ''
+    url: 003vg9w96
+  Institute-of-Soil-Science-and-Plant-Cultivation:
+    individualname: Institute of Soil Science and Plant Cultivation
+    role: ''
+    organization: ''
+    url: 00qhg0338
+  Agroscope:
+    individualname: Agroscope
+    role: ''
+    organization: ''
+    url: 04d8ztx87
+  National-Research-Council:
+    individualname: National Research Council
+    role: ''
+    organization: ''
+    url: 04zaypm56
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13951111
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13951111
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

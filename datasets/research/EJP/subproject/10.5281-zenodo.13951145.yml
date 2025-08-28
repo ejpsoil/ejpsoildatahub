@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13951145
+  dataseturi: https://doi.org/10.5281/zenodo.13951145
+  hierarchylevel: dataset
+identification:
+  title: SERENA EJP Soil - Map of Soil Sealing of Italy
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: H2020
+  abstract: The internal EJP SOIL project SERENA contributed to the evaluation of
+    soil multifunctionality aiming at providing assessment tools for land planning
+    and soil policies at different scales. By co-working with relevant stakeholders,
+    the project provided co-developed indicators and associated cookbooks to assess
+    and map them, to report both on soil degradation, soil-based ecosystem services
+    and their bundles, under actual conditions and for climate and land-use changes,
+    at the regional, national, and European scales.
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-18'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Smiraglia-Daniela:
+    individualname: Smiraglia, Daniela
+    role: ''
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: 0000-0002-0427-248X
+  Congedo-Luca:
+    individualname: Congedo, Luca
+    role: ''
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: 0000-0001-7283-116X
+  Marinosci-Ines:
+    individualname: Marinosci, Ines
+    role: ''
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: 0000-0002-8489-0607
+  De-Fioravante-Paolo:
+    individualname: De Fioravante, Paolo
+    role: ''
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: 0000-0002-3617-9925
+  ASSENNATO-FRANCESCA:
+    individualname: ASSENNATO, FRANCESCA
+    role: ''
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: 0000-0003-0267-7499
+  Munafo-Michele:
+    individualname: "Munaf\xF2, Michele"
+    role: ''
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: 0000-0002-3415-6105
+  Riitano-Nicola:
+    individualname: Riitano, Nicola
+    role: ''
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: 0000-0002-5812-2380
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13951145
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13951145
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

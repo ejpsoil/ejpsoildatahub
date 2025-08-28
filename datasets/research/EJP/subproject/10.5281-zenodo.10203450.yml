@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.10203450
+  dataseturi: https://doi.org/10.5281/zenodo.10203450
+  hierarchylevel: dataset
+identification:
+  title: 'Quantification of soil organic carbon: the challenge of biochar-induced
+    spatial heterogeneity'
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: agroforestry
+  abstract: "R-script and output from model on spatially discrete biochar application\
+    \ and its influence on representative SOC sampling. An additional document to\
+    \ explain the data curation is also available (\"Comment on Data curation\").\n\
+    \_"
+  license:
+    name: ''
+  dates:
+    issued: '2023-11-24'
+    submitted: '2023-11-26'
+    publication: '2023'
+  rights: cc-by-4.0
+contact:
+  ITHAKA:
+    individualname: ITHAKA
+    role: ''
+    organization: Ithaka Institute
+    url: ''
+  Lotz-Simon:
+    individualname: Lotz, Simon
+    role: Researcher
+    organization: Ithaka Institute
+    url: ''
+  Hagemann-Nikolas:
+    individualname: Hagemann, Nikolas
+    role: Researcher
+    organization: Ithaka Institute
+    url: ''
+  Bucheli-Thomas-D.:
+    individualname: Bucheli, Thomas D.
+    role: Researcher
+    organization: Agroscope
+    url: ''
+  Schmidt-Hans-Peter:
+    individualname: Schmidt, Hans-Peter
+    role: Researcher
+    organization: Ithaka Institute
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.10203450
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10203449
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

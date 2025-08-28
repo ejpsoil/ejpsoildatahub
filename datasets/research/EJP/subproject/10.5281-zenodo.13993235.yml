@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13993235
+  dataseturi: https://doi.org/10.5281/zenodo.13993235
+  hierarchylevel: dataset
+identification:
+  title: SERENA EJPSOIL BE Flanders EROSION SOILLOSS cookbook
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: EJPSOIL
+  abstract: "The internal EJP SOIL project SERENA contributed to the evaluation of\
+    \ soil multifunctionality aiming at providing assessment tools for land planning\
+    \ and soil policies at different scales. By co-working with relevant stakeholders,\
+    \ the project provided co-developed indicators and associated cookbooks to assess\
+    \ and map them, to report both on soil degradation, soil-based ecosystem services\
+    \ and their bundles, under actual conditions and for climate and land-use changes,\
+    \ at the regional, national, and European scales.\n\nThe dataset (5m resolution)\
+    \ was mainly produced to test the methodology of the SERENA soil erosion cookbook\
+    \ of the European SERENA EJP SOIL project. The data was prepared according to\
+    \ the methodology of SERENA soil erosion cookbook. The objective of SERENA project\
+    \ was to develop methods to calculate and map soil-based ecosystem services and\
+    \ soil threats. Soil loss was used as an indicator for soil erosion. For Belgium,\
+    \ the application was carried out at regional scale for the Flanders region. To\
+    \ create the soil erosion map, RULSE modelling was done according to the SERENA\
+    \ cookbook using several publicly available datasets. The following auxiliary\
+    \ data was used: K-Factor, Land-Cover Map, Long-term 30 yr averaged monthly rainfall,\_\
+    LS-Factor given by Panagos et al. (2015). The dataset will be mostly useful as\
+    \ a reference result for actors that want to learn to implement the part of the\
+    \ soil erosion cookbook of SERENA dealing with the creation of an erosion map.\
+    \ It has limited use as an erosion map for Flanders because a more detailed and\
+    \ accurate map exists for Flanders based on regional covariates.\n\nThis dataset\
+    \ is originally hosted at DOV (https://www.dov.vlaanderen.be/), for the most up\
+    \ to date version of the dataset access the data from the DOV repository through\
+    \ the DOV services. The original metdata is accesible through the DOV metadata\
+    \ catalog: SERENA EJPSOIL BE Flanders EROSION SOILLOSS cookbook\n\nThe DOV services:\n\
+    \n\n\nWMS ( OGC:WMS-1.3.0-http-get-map )\_\n\nWCS ( OGC:WCS )"
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-25'
+    publication: '2024'
+  rights: ''
+contact:
+  Callewaert-Seth:
+    individualname: Callewaert, Seth
+    role: ''
+    organization: Department of Environment and Spatial Development. Government of
+      Flanders (Belgium)
+    url: ''
+  Oorts-Katrien:
+    individualname: Oorts, Katrien
+    role: ''
+    organization: Department of Environment and Spatial Development. Government of
+      Flanders (Belgium)
+    url: 0000-0003-1997-4473
+  Luts-Dries:
+    individualname: Luts, Dries
+    role: ''
+    organization: Department of Environment and Spatial Development. Government of
+      Flanders (Belgium)
+    url: 0000-0003-2648-6988
+  Deproost-Petra:
+    individualname: Deproost, Petra
+    role: ''
+    organization: Department of Environment and Spatial Development. Government of
+      Flanders (Belgium)
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13993235
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13991088
+    type: WWW:LINK
+    title: IsPartOf
+  r1:
+    url: https://doi.org/10.5281/zenodo.13993235
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

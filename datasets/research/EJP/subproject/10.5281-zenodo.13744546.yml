@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13744546
+  dataseturi: https://doi.org/10.5281/zenodo.13744546
+  hierarchylevel: dataset
+identification:
+  title: CSIC-ProbeField SpectralDatasetMetadata-D4.2
+  keywords:
+    project:
+      keywords:
+      - EJP Soil
+    default:
+      keywords:
+        subject: Compositional; CoDa; EJP Soil; NIRS; ProbeField; SOC; soil organic
+          carbon
+  abstract: "The dataset comprises the information of the sampleset CSIC built in\
+    \ ProbeField-EJP Soil project on sampling date, site, crop, previous crop, depth\
+    \ (cm), latitude and longitude cooordinates, soil moisture (% dw), bulk density\
+    \ (g/cm3), labnumber, label, texture (%): coarse sand, fine sand, silt, clay,\
+    \ texture class. pH (Ext 1:2.5), EC (Ext 1:5) (mS/cm), carbonate (% CaCO3), org\xE1\
+    nic-C\_ (%), organic matter (%), total-N (%), avail-P (mg/kg), avail-K (mg/kg),\
+    \ elemental analysis (pXRF) and VisNIR spectra (350-2500 nm). As well as concerning\
+    \ the analytical methods."
+  license:
+    name: ''
+  dates:
+    issued: '2024-09-11'
+    publication: '2024'
+  rights: ''
+contact:
+  Lopez-Nunez-Rafael:
+    individualname: "L\xF3pez-N\xFA\xF1ez, Rafael"
+    role: ''
+    organization: Spanish National Research Council
+    url: 0000-0002-8848-3793
+  Cayuela-Sanchez-Jose-Antonio:
+    individualname: "Cayuela-S\xE1nchez, Jose Antonio"
+    role: ''
+    organization: Spanish National Research Council
+    url: 0000-0001-9026-631X
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13744546
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13744545
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

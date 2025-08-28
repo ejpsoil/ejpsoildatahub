@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.7908653
+  dataseturi: https://doi.org/10.5281/zenodo.7908653
+  hierarchylevel: journalarticle
+identification:
+  title: "Soil organic carbon sequestration potential for croplands in Finland over\
+    \ 2021\u20132040 under the interactive impacts of climate change and agricultural\
+    \ management"
+  keywords:
+    project:
+      keywords:
+      - null
+  abstract: "<em>CONTEXT: </em>Cropland soil organic carbon (SOC) stock can be increased\
+    \ by agricultural management, but is subject to various factors. The extent and\
+    \ rates of SOC sequestration potential, as well as the controlling factors, under\
+    \ different climate and management practices across a region or country are important\
+    \ for policy-makers and land managers, however have been rarely known. <em>OBJECTIVE:\
+    \ </em>We aim to investigate the extent and rates of SOC sequestration potential\
+    \ over 2021-2040 under different scenarios of climate change and Sustainable Soil\
+    \ Management (SSM) practices, and quantify the impacts of climate change and SSM\
+    \ practices on the SOC sequestration potential, for croplands across Finland at\
+    \ a spatial resolution of 1 km. <em>METHODS: </em>RothC model is run iteratively\
+    \ to equilibrium to calculate the size of the SOC pools and the annual plant carbon\
+    \ inputs. Then, it is applied to investigate the SOC sequestration potential over\
+    \ 2021-2040 under different scenarios of climate change and SSM practices. Finally,\
+    \ facorial simulation experiments are conducted to quantify the impacts of climate\
+    \ change and SSM practices, alone and in combination, on SOC sequestration potential.\
+    \ <em>RESULTS AND CONCLUSION: </em>Under the combined impacts of climate change\
+    \ and SSM practices, the SOC sequestration potential during 2021-2040 relative\
+    \ to 2020 will be on average -0.03, 0.007, 0.05, and 0.13 t C ha<sup>-1</sup>\
+    \ yr<sup>-1</sup>, respectively, with carbon input being business as usual, 5%,\
+    \ 10%, and 20% increase. This is equivalent to an annual change rate of -0.04%,\
+    \ 0.009%, 0.07%, and 0.17%, respectively. Therefore, a 20% increase in C input\
+    \ to soil will not be enough to obtain a 4\u2030 increase per year over the 20-year\
+    \ period in Finland. Carbon input will promote SOC sequestration potential; however,\
+    \ climate change will reduce it on average by 0.28 t C ha<sup>-1</sup>yr<sup>-1</sup>.\
+    \ Across the cropland in Finland, on average, the relative contributions of C\
+    \ input, temperature, and precipitation to SOC sequestration potential in 2021-2040\
+    \ will be 56%, 24%, and 20%, respectively, however there is a spatially explicit\
+    \ pattern. The SOC sequestration potential will be relatively high and dominated\
+    \ by C input in west and southwest Finland. By contrast, it will be relatively\
+    \ low and dominated by climate in north and east Finland, and the central part\
+    \ of southern Finland. <em>SIGNIFICANCE: </em>Our findings provide the information\
+    \ as to where, how much, and which SSM practices could be applied for enhancing\
+    \ SOC sequestration at a high spatial resolution, which is essential for stakeholders\
+    \ to increase cropland SOC sequestration efficiently."
+  license:
+    name: ''
+  dates:
+    issued: '2023-05-08'
+    publication: '2023'
+  rights: ''
+contact:
+  Fulu-Tao:
+    individualname: Fulu Tao
+    role: ''
+    organization: Natural Resources Institute Finland (Luke)
+    url: ''
+  Palosuo-Taru:
+    individualname: Palosuo, Taru
+    role: ''
+    organization: Natural Resources Institute Finland (Luke)
+    url: ''
+  Lehtonen-Aleksi:
+    individualname: Lehtonen, Aleksi
+    role: ''
+    organization: Natural Resources Institute Finland (Luke)
+    url: ''
+  Heikkinen-Jaakko:
+    individualname: Heikkinen, Jaakko
+    role: ''
+    organization: Natural Resources Institute Finland (Luke)
+    url: ''
+  Makipaa-Raisa:
+    individualname: "M\xE4kip\xE4\xE4, Raisa"
+    role: ''
+    organization: Natural Resources Institute Finland (Luke)
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.7908653
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7908653
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

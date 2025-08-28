@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14981641
+  dataseturi: https://doi.org/10.5281/zenodo.14981641
+  hierarchylevel: dataset
+identification:
+  title: Modelling soil compaction risk and wheel laod carrying capacity under climate
+    change (dataset)
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: Soil degradation
+        subjectScheme: GEMET
+  abstract: "The dataset contains (i) input data from 12 study sites in Europe for\
+    \ modelling the \u201Cwheel load carrying capacity (WLCC)\u201D with an updated\
+    \ version of the SaSCiA-model (Kuhwald et al. 2018, 2022) and (ii) the results\
+    \ of the modelling. The input data consists of soil profile data, crop rotations\
+    \ and climate projection data (point data, derived from free available CMIP6 model\
+    \ results) for each site.\n\nThe modelling results are predictions of the WLCC\
+    \ for each study site for 10 climate models, each with 2 scenarios (SSP 126 and\
+    \ SSP 585) for the period 2020-2100 on a daily basis. \_\n\nThe model results\
+    \ were used to analyse the impact of climate change on WLCC for different pedoclimatic\
+    \ zones.\n\nThe dataset is related to the publication \"Kuhwald and Lamande (202x;\
+    \ in preperation): Modelling soil compaction risk under climate change: an analysis\
+    \ of wheel load carrying capacity (WLCC) for different pedoclimatic zones in Europe\"\
+    .\n\n\_"
+  license:
+    name: ''
+  dates:
+    issued: '2025-03-06'
+    publication: '2025'
+  rights: cc-by-4.0
+contact:
+  Kuhwald-Michael:
+    individualname: Kuhwald, Michael
+    role: ''
+    organization: Aarhus University, Department of Agroecolgy
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14981641
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14981641
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

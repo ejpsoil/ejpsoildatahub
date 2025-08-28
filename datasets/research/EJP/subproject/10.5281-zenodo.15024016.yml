@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.15024016
+  dataseturi: https://doi.org/10.5281/zenodo.15024016
+  hierarchylevel: dataset
+identification:
+  title: Field data to evaluate soil compaction impacts references on key soil functions,
+    focusing on SOC stocks
+  keywords:
+    project:
+      keywords:
+      - null
+  abstract: ''
+  license:
+    name: ''
+  dates:
+    issued: '2025-03-14'
+    publication: '2025'
+  rights: cc-by-4.0
+contact:
+  Lamande-Mathieu:
+    individualname: "Lamand\xE9, Mathieu"
+    role: ''
+    organization: Aarhus University
+    url: 0000-0003-4211-9395
+  Weninger-Thomas:
+    individualname: Weninger, Thomas
+    role: ''
+    organization: Federal Agency for Water Management
+    url: 0000-0001-9004-4426
+  Moitzi-Gerhard:
+    individualname: Moitzi, Gerhard
+    role: ''
+    organization: BOKU University
+    url: 0000-0001-8139-8601
+  Schneider-Florian:
+    individualname: Schneider, Florian
+    role: ''
+    organization: "Th\xFCnen Institute of Climate-Smart Agriculture"
+    url: 0000-0003-3036-6284
+  D'Hose-Tommy:
+    individualname: D'Hose, Tommy
+    role: ''
+    organization: Instituut voor Landbouw en Visserijonderzoek
+    url: 0000-0002-8705-5666
+  Santin-Ines:
+    individualname: Santin, Ines
+    role: ''
+    organization: CSIC, Central Organisation
+    url: ''
+  Lacoste-Marine:
+    individualname: Lacoste, Marine
+    role: ''
+    organization: INRAE
+    url: 0000-0002-6635-873X
+  Kadziene-Grazina:
+    individualname: Kadziene, Grazina
+    role: ''
+    organization: Lithuanian Research Centre for Agriculture and Forestry
+    url: 0000-0002-1447-1802
+  Keller-Thomas:
+    individualname: Keller, Thomas
+    role: ''
+    organization: Swedish University of Agricultural Sciences
+    url: 0000-0002-9383-3209
+  Madenoglu-Sevinc:
+    individualname: Madenoglu, Sevinc
+    role: ''
+    organization: General Directorate of Agricultural Research and Policies
+    url: 0000-0002-5012-2773
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.15024016
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.15024016
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

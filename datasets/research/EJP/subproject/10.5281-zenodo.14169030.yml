@@ -1,0 +1,36 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14169030
+  dataseturi: https://doi.org/10.5281/zenodo.14169030
+  hierarchylevel: dataset
+identification:
+  title: D2.2.1.2_Mycorrhizal colonization intensity database_WP2_10.5281zenodo.14169030
+  keywords:
+    project:
+      keywords:
+      - null
+  abstract: ''
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-15'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Trinchera-Alessandra:
+    individualname: Trinchera, Alessandra
+    role: ''
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14169030
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14169029
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

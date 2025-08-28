@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13987916
+  dataseturi: https://doi.org/10.5281/zenodo.13987916
+  hierarchylevel: dataset
+identification:
+  title: SERENA EJPSOIL IE MEATH GHG NEP
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: EJP Soil, Serena, Greenhouse gas, soil based ecosystem service, NEP,
+          Ireland
+  abstract: "The internal EJP SOIL project SERENA contributed to the evaluation of\
+    \ soil multifunctionality aiming at providing assessment tools for land planning\
+    \ and soil policies at different scales. By co-working with relevant stakeholders,\
+    \ the project provided co-developed indicators and associated cookbooks to assess\
+    \ and map them, to report both on soil degradation, soil-based ecosystem services\
+    \ and their bundles, under actual conditions and for climate and land-use changes,\
+    \ at the regional, national, and European scales.\n\nData for NEP analysis was\
+    \ provided through the Microsoft Teams shared folder. However, MODIS data was\
+    \ obtained using the MODISTools R package in RStudio (R 4.3.1). Nine MODIS tiles\
+    \ to cover the extent of Ireland were merged and exported to QGIS for analysis.\_\
+    \n\nAn 8-day NEP analysis was conducted for the entirety of the Republic of Ireland\
+    \ under wheat crop from 02-09 of January. However, wheat production in Ireland\
+    \ is largely centred around several key regions in the east/central-east due to\
+    \ the relative dominance of grassland and alternative agricultural regimes elsewhere.\
+    \ This resulted in quite a sparse visualisation at national scale. Hence, a refined\
+    \ analysis for the same period in County Meath"
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-24'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Fahy-Alan:
+    individualname: Fahy, Alan
+    role: ''
+    organization: ''
+    url: 0009-0008-4709-9825
+  Bondi-Giulia:
+    individualname: Bondi, Giulia
+    role: ''
+    organization: Teagasc - The Irish Agriculture and Food Development Authority
+    url: 0000-0002-8896-0262
+  O'Sullivan-Lilian:
+    individualname: O'Sullivan, Lilian
+    role: ''
+    organization: Teagasc - The Irish Agriculture and Food Development Authority
+    url: 0000-0002-5333-5758
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13987916
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13987916
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

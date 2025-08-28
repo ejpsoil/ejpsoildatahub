@@ -1,0 +1,104 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14002689
+  dataseturi: https://doi.org/10.5281/zenodo.14002689
+  hierarchylevel: dataset
+identification:
+  title: 'SERENA EJP SOIL: Soil organic carbon concentration map for the topsoil of
+    Hungary (2016)'
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: digital soil mapping
+  abstract: "The internal EJP SOIL project\_SERENA contributed to the evaluation of\
+    \ soil multifunctionality aiming at providing assessment tools for land planning\
+    \ and soil policies at different scales. By co-working with relevant\_stakeholders,\
+    \ the project provided co-developed indicators and associated cookbooks to assess\
+    \ and map them, to report both on soil degradation, soil-based ecosystem services\
+    \ and their bundles, under actual conditions and for climate and land-use changes,\
+    \ at\_the regional, national, and European scales.\n\nThe data was prepared according\
+    \ to the methodology of SERENA SOC loss cookbook for the territory of Hungary.\
+    \ To compile the soil organic carbon map, soil organic carbon (0-30 cm, year 2016)\
+    \ data of the Hungarian Soil Information and Monitoring System (SIMS) were used,\
+    \ which are not publicly available. The selection of environmental covariates,\
+    \ which are then used to model and map SOC content, was based on the \u2018scorpan\u2019\
+    \ model: (s) soil properties, (c) climate, (o) organisms, (r) relief, (p) parent\
+    \ material, (a) age and (n) spatial coordinates. The following covariates were\
+    \ used: soil type map of Hungary (P\xE1sztor et al., 2018); long-term mean annual\
+    \ evapotranspiration, -evaporation, -precipitation, and -temperature (Szentimrey\
+    \ et al., 2007); CORINE Land Cover 2012; EU-DEM and derivatives; Geological map\
+    \ of Hungary (Gyalog & S\xEDkhegyi, 2005). Random forest kriging (RFK, combination\
+    \ of the random forest machine learning algorithm and the kriging technique) was\
+    \ used for the prediction of the SOC concentration."
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-30'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Beno-Andras:
+    individualname: "Ben\u0151, Andr\xE1s"
+    role: ''
+    organization: HUN-REN ATK TAKI
+    url: ''
+  Szatmari-Gabor:
+    individualname: "Szatm\xE1ri, G\xE1bor"
+    role: ''
+    organization: HUN-REN ATK TAKI
+    url: 0000-0003-3201-598X
+  Bakacsi-Zsofia:
+    individualname: Bakacsi, Zsofia
+    role: ''
+    organization: HUN-REN ATK TAKI
+    url: 0000-0002-8967-6052
+  Pasztor-Laszlo:
+    individualname: "P\xE1sztor, L\xE1szl\xF3"
+    role: ''
+    organization: HUN-REN ATK TAKI
+    url: 0000-0002-1605-4412
+  Szabo-Brigitta:
+    individualname: "Szab\xF3, Brigitta"
+    role: ''
+    organization: HUN-REN ATK TAKI
+    url: 0000-0002-2848-7274
+  Kassai-Piroska:
+    individualname: Kassai, Piroska
+    role: ''
+    organization: HUN-REN ATK TAKI
+    url: 0000-0001-5671-7009
+  Kocsis-Mihaly:
+    individualname: "Kocsis, Mih\xE1ly"
+    role: ''
+    organization: HUN-REN ATK TAKI
+    url: 0000-0002-0513-5735
+  Gedeon-Csongor-Istvan:
+    individualname: "Gedeon, Csongor Istv\xE1n"
+    role: ''
+    organization: HUN-REN ATK TAKI
+    url: 0000-0001-8148-7508
+  Csontos-Peter:
+    individualname: "Csontos, P\xE9ter"
+    role: ''
+    organization: HUN-REN ATK TAKI
+    url: 0000-0001-7874-522X
+  Laborczi-Annamaria:
+    individualname: "Laborczi, Annam\xE1ria"
+    role: ''
+    organization: HUN-REN ATK TAKI
+    url: 0000-0003-4095-7838
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14002689
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14002688
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

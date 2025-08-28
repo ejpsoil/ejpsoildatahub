@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14133386
+  dataseturi: https://doi.org/10.5281/zenodo.14133386
+  hierarchylevel: dataset
+identification:
+  title: Dataset BioCASH 5 field trials
+  keywords:
+    project:
+      keywords:
+      - null
+  abstract: "\_ \_\_Metadata_vijf_veldproeven_adjustedPLFA_vereenvoudigd.csv => Dataset\
+    \ of the five medium to long field trials in Northern Belgium used in the EJP\
+    \ Soil Biocash project. The relation between microbial soil health indicators\
+    \ and TOC or C input from exogenous organic matter in the top soil was investigated.\_\
+    \n\n\_ \_\_\"BioCash_Metadata_v2024-05-22.xlsx\" en\_ \"a163_BioCash_Codes.xlsx\"\
+    \ => Metadata\n\n\_ \_\_data_biocash_voor_Paul_v2023-11-29.RData => Dataset in\
+    \ R with spatial components\n\nHtml files: Output of data processing in Markdown\
+    \ files"
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-13'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Viaene-Jarinda:
+    individualname: Viaene, Jarinda
+    role: ''
+    organization: Instituut voor Landbouw en Visserijonderzoek
+    url: 0000-0002-6253-8848
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14133386
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14133385
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13951152
+  dataseturi: https://doi.org/10.5281/zenodo.13951152
+  hierarchylevel: dataset
+identification:
+  title: SERENA EJPSoil Soil loss by water erosion of Tuscany (Italy)
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: RUSLE
+  abstract: "The internal EJP SOIL project\_SERENA contributed to the evaluation of\
+    \ soil multifunctionality aiming at providing assessment tools for land planning\
+    \ and soil policies at different scales. By co-working with relevant\_stakeholders,\
+    \ the project provided co-developed indicators and associated cookbooks to assess\
+    \ and map them, to report both on soil degradation, soil-based ecosystem services\
+    \ and their bundles, under actual conditions and for climate and land-use changes,\
+    \ at\_the regional, national, and European scales.\n\nOne of the objective of\
+    \ SERENA project was to develop methods to calculate and map soil-based ecosystem\
+    \ services and soil threats. The present data was prepared according to the methodology\
+    \ of the SERENA Soil erosion and soil erosion control cookbook.\_ Soil loss was\
+    \ used as an indicator for soil erosion (ST). The map of soil loss by water erosion\
+    \ (soil threat) was based on the RUSLE model. For Italy, the cookbook was applied\
+    \ in the Tuscany region.\_\_To create the soil loss map we used:\n\n\n\nfor R-factor,\
+    \ not freely available database of meteorological parameters spatialized at 250\
+    \ m (minimum and maximum daily air temperature; cumulate daily precipitation)\
+    \ over Tuscany region (period 1990\u20132022, Lamma Consortium) \_and a local\
+    \ linear equation between R and mean annual precipitation (P);\n\nfor C -factor,\
+    \ Regional Land use map 1:10.000 (2018, freely available at: https://www502.regione.toscana.it/geoscopio/usocoperturasuolo.html)\
+    \ and ESDAC method (https://doi.org/10.1016/j.landusepol.2015.05.021) ;\_\n\n\
+    for K-factor, sand, silt, clay, and O.C. (%) maps (built from 4.000 soil profiles,\
+    \ following FAO\u2019s methodology in GSP-GSOC map, Lamma Consortium), and Torri\
+    \ et al. (1997) function;\n\nfor LS-factor, DEM 10 m of Tuscany, (freely available\
+    \ at https://www502.regione.toscana.it/geoscopio/cartoteca.html99) and Desmet\
+    \ & Govers (1996) SAGA tool (applied at 10 m and upscaled);\n\nfor P-factor, not\
+    \ freely available database 1:10.00 of terraced areas (Lamma Consortium, 2020)\
+    \ (for terraced areas a multiplication factor of \_0.5 \_was considered, based\
+    \ on expert evaluation)\n\n\nMaps was delivered in the GeoTIFF format in the resolution\
+    \ of 100m.\_Delivered data will be validated by stakeholders from Italy (scientist)\
+    \ in October, 2024."
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-18'
+    created: 2024-06
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Gardin-Lorenzo:
+    individualname: Gardin, Lorenzo
+    role: ''
+    organization: National Research Council
+    url: 0000-0002-2702-8148
+  Lorenzetti-Romina:
+    individualname: Lorenzetti, Romina
+    role: ''
+    organization: National Research Council
+    url: 0000-0003-3346-0874
+  Medina-Roldan-Eduardo:
+    individualname: Medina-Roldan, Eduardo
+    role: ''
+    organization: National Research Council
+    url: 0000-0001-6703-9645
+  Buttafuoco-Gabriele:
+    individualname: Buttafuoco, Gabriele
+    role: ''
+    organization: National Research Council
+    url: 0000-0002-0280-8658
+  Ungaro-Fabrizio:
+    individualname: Ungaro, Fabrizio
+    role: ''
+    organization: National Research Council
+    url: 0000-0003-0116-6611
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13951152
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13951152
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

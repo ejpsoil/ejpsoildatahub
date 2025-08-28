@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14002136
+  dataseturi: https://doi.org/10.5281/zenodo.14002136
+  hierarchylevel: dataset
+identification:
+  title: 'SERENA EJP Soil: Bundles'' cookbook exemplary datasets'
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: EJP-Soil
+  abstract: The internal EJP SOIL project SERENA contributed to the evaluation of
+    soil multifunctionality aiming at providing assessment tools for land planning
+    and soil policies at different scales. By co-working with relevant stakeholders,
+    the project provided co-developed indicators and associated cookbooks to assess
+    and map them, to report both on soil degradation, soil-based ecosystem services
+    and their bundles, under actual conditions and for climate and land-use changes,
+    at the regional, national, and European scales.
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-28'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  SERENA-EJP-Soil-Bundles-Working-Group:
+    individualname: SERENA EJP-Soil Bundles Working Group
+    role: ''
+    organization: ''
+    url: ''
+  Medina-Roldan-Eduardo:
+    individualname: Medina-Roldan, Eduardo
+    role: ''
+    organization: National Research Council
+    url: 0000-0001-6703-9645
+  Reyes-Rojas-Jessica:
+    individualname: Reyes Rojas, Jessica
+    role: ''
+    organization: Czech University of Life Sciences Prague
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14002136
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14002271
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.14002136
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

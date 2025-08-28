@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13951147
+  dataseturi: https://doi.org/10.5281/zenodo.13951147
+  hierarchylevel: dataset
+identification:
+  title: Map of SESs/STs Bundles for Estonian agricultural land
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: agricultural land
+  abstract: "The internal EJP SOIL project SERENA contributed to the evaluation of\
+    \ soil multifunctionality aiming at providing assessment tools for land planning\
+    \ and soil policies at different scales. By co-working with relevant stakeholders,\
+    \ the project provided co-developed indicators and associated cookbooks to assess\
+    \ and map them, to report both on soil degradation, soil-based ecosystem services\
+    \ and their bundles, under actual conditions and for climate and land-use changes,\
+    \ at the regional, national, and European scales.\n\nThis map is the outcome of\
+    \ applying a bundles cookbook developed in SERENA based on soil threats (ST) SOC\
+    \ loss and erosion potential and soil ecosystem service (SES) biomass production.\
+    \ The resulting bundles are clusters of SESs/STs where the intra-cluster variability\
+    \ is lower than the inter-cluster variability in the mean values of the selected\
+    \ SESs/STs to identify the bundles. The generated map of SESs/STs Bundles for\
+    \ Estonian agricultural land is at the resolution of 100m. The input data for\
+    \ the cookbook was the Map of soil organic carbon loss of mineral soils in Estonia\
+    \ ; Soil water erosion potential in agricultural soils modelled by USLE, and primary\
+    \ biomass production.\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-18'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Putku-Elsa:
+    individualname: Putku, Elsa
+    role: ''
+    organization: Centre of Estonian Rural Research and Knowledge (METK)
+    url: ''
+  Kikas-Tambet:
+    individualname: Kikas, Tambet
+    role: DataCurator
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13951147
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13951146
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

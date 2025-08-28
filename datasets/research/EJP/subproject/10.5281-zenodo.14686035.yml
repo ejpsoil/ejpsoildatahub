@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14686035
+  dataseturi: https://doi.org/10.5281/zenodo.14686035
+  hierarchylevel: dataset
+identification:
+  title: Response of the major soil fungal phyla (18S DNA copy numbers) to prolonged
+    drought and soil wetness variable temperatures. Simulation in Phytotron
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: Soil use
+        subjectScheme: GEMET
+  abstract: "This data set belongs to a study on the soil microbial response to altered\
+    \ temperature and moisture conditions, simulating scenarios relevant to the central-eastern\
+    \ Po Valley, Italy.\n\nExperimental Design:\n\n\n\nTemperature: Two spring temperatures\
+    \ were simulated: +2\xB0C and -2\xB0C relative to the average.\n\nMoisture: Prolonged\
+    \ drought (20% of field capacity-FC), prolonged wet (above FC), and moderate drought\
+    \ (50% FC) were tested.\n\nSoil: Loam-silty soil from a ploughed and an unploughed\
+    \ field was used.\n\nMicrobes: Total fungi and the two main fungal phyla occurring\
+    \ in top soil (Ascomycota and Basidiomycota) were quantified, respectively, with\
+    \ general and specific primers of the18S ribosomal RNA region using digital PCR.\
+    \ Total \_bacteria were quantified with general primers of the 16S ribosomal RNA\
+    \ region using Real-Time PCR.\_\n\n\nProcedure:\n\n\n\nWheat seedlings were grown\
+    \ in pots for 15 days at 22\xB0C and 50% FC.\n\nTwo 60-day experimental periods\
+    \ followed, with the designated temperature and moisture conditions.\n\nSoil samples\
+    \ were collected from the rhizosphere of wheat plants at the end of each 60-day\
+    \ cycle."
+  license:
+    name: ''
+  dates:
+    issued: '2026'
+    submitted: '2025-01-18'
+    publication: '2026'
+  rights: cc-by-4.0
+contact:
+  Manici-Luisa-Maria:
+    individualname: Manici, Luisa Maria
+    role: ''
+    organization: Consiglio per la ricerca in agricoltura e l"analisi dell"economia
+      agraria
+    url: 0000-0003-2798-4428
+  Caputo-Francesco:
+    individualname: Caputo, Francesco
+    role: ''
+    organization: Consiglio per la ricerca in agricoltura e l'analisi dell'economia
+      agraria
+    url: 0000-0001-6889-0044
+  Morello-Bruno:
+    individualname: Morello, Bruno
+    role: DataCollector
+    organization: Consiglio per la ricerca in agricoltura e l'analisi dell'economia
+      agraria
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14686035
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14686034
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

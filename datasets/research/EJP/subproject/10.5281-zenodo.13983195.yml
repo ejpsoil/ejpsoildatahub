@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13983195
+  dataseturi: https://doi.org/10.5281/zenodo.13983195
+  hierarchylevel: dataset
+identification:
+  title: "SERENA Task 1.4 \u2013 Definition of scenarios - Survey results"
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: Task1.4
+  abstract: The internal EJP SOIL project SERENA contributed to the evaluation of
+    soil multifunctionality aiming at providing assessment tools for land planning
+    and soil policies at different scales. By co-working with relevant stakeholders,
+    the project provided co-developed indicators and associated cookbooks to assess
+    and map them, to report both on soil degradation, soil-based ecosystem services
+    and their bundles, under actual conditions and for climate and land-use changes,
+    at the regional, national, and European scales.
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-23'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Smiraglia-Daniela:
+    individualname: Smiraglia, Daniela
+    role: ''
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: 0000-0002-0427-248X
+  Assennato-Francesca:
+    individualname: Assennato, Francesca
+    role: ''
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: 0000-0003-0267-7499
+  Foldal-Cecilie:
+    individualname: Foldal, Cecilie
+    role: ''
+    organization: Austrian Research Centre for Forests
+    url: 0000-0002-3853-314X
+  Asins-Velis-Sabina:
+    individualname: Asins-Velis, Sabina
+    role: ''
+    organization: "Centro de Investigaciones sobre Desertificaci\xF3n"
+    url: 0000-0001-5496-3943
+  Astover-Alar:
+    individualname: Astover, Alar
+    role: ''
+    organization: Estonian University of Life Sciences
+    url: 0000-0002-8924-6925
+  Fioramonti-Veronica:
+    individualname: Fioramonti, Veronica
+    role: ''
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: ''
+  Kukk-Liia:
+    individualname: Kukk, Liia
+    role: ''
+    organization: Estonian University of Life Sciences
+    url: ''
+  Mernagh-Orlaith:
+    individualname: Mernagh, Orlaith
+    role: ''
+    organization: Teagasc - The Irish Agriculture and Food Development Authority
+    url: ''
+  O'Sullivan-Lilian:
+    individualname: O'Sullivan, Lilian
+    role: ''
+    organization: Teagasc - The Irish Agriculture and Food Development Authority
+    url: 0000-0002-5333-5758
+  Riitano-Nicola:
+    individualname: Riitano, Nicola
+    role: ''
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: 0000-0002-5812-2380
+  Stefanova-Milena:
+    individualname: Stefanova, Milena
+    role: ''
+    organization: ENEA
+    url: 0000-0002-9132-3299
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13983195
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13983195
+    type: WWW:LINK
+    title: HasVersion
+  r1:
+    url: https://doi.org/10.5281/zenodo.13982875
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

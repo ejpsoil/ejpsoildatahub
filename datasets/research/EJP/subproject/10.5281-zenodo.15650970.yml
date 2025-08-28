@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.15650970
+  dataseturi: https://doi.org/10.5281/zenodo.15650970
+  hierarchylevel: dataset
+identification:
+  title: 'Mechanisms of Soil Carbon and Nitrogen Sequestration Under Tillage-fertilizer
+    Interactions: Field study in Loess Plateau'
+  keywords:
+    project:
+      keywords:
+      - EJP Soil
+    default:
+      keywords:
+        subject: Soil
+        subjectScheme: GEMET
+  abstract: "The study was performed in the Experimental Demonstration Base of Conservation\
+    \ Tillage of Shanxi Agricultural University, Taigu District, Jinzhong City, Shanxi\
+    \ Province, China. Fresh soil, undisturbed soil, and cutting ring soil samples\
+    \ were collected from the 0-10, 10-20, 20-40, and 40-60 cm soil layers in various\
+    \ plots of the experimental field before the start of the experiment in 2016 (Before\
+    \ the experiment, Be) and during the winter wheat harvest in 2020-2023. To maintain\
+    \ the soil physical properties, such as porosity and water content in its natural\
+    \ state, the samples of undisturbed soil and cutting ring soil were obtained by\
+    \ the press-in method. Among them, fresh soil was used for SSA determination,\
+    \ undisturbed soil was partly used to measure soil aggregates and other related\
+    \ properties, and partly for SOC, STN, and SPA determinations, and cutting ring\
+    \ soil was used to measure soil three-phase properties.\n\n\_"
+  license:
+    name: ''
+  dates:
+    issued: '2025-06-12'
+    publication: '2025'
+  rights: ''
+contact:
+  Yang-Sha:
+    individualname: Yang, Sha
+    role: ContactPerson
+    organization: Shanxi Agricultural University
+    url: 0000-0002-1075-854X
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.15650970
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.15650970
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

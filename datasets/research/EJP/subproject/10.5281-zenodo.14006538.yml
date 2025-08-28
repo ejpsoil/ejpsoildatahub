@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14006538
+  dataseturi: https://doi.org/10.5281/zenodo.14006538
+  hierarchylevel: dataset
+identification:
+  title: SERENA EJPSOIL PT SOCLOSS SOC 0-20 cm
+  keywords:
+    project:
+      keywords:
+      - null
+  abstract: 'The internal EJP SOIL project SERENA contributed to evaluating soil multifunctionality,
+    aiming to provide assessment tools for land planning and soil policies at different
+    scales. By co-working with relevant stakeholders, the project provided co-developed
+    indicators and associated cookbooks to assess and map them, to report both on
+    soil degradation, soil-based ecosystem services and their bundles, under actual
+    conditions and for climate and land-use changes, at the regional, national, and
+    European scales.
+
+
+    The dataset corresponds to a map of Soil Organic Carbon (SOC) concentration (g
+    kg-1) in Portugal. The map of soil organic carbon, as an indicator of SOC loss
+    threat, was based on ordinary kriging and has a spatial resolution of 50 m. Soil
+    organic carbon (0-0.20 m) data from LUCAS 2018 TOPSOIL data - ESDAC - European
+    Commission database, which is freely available (https://esdac.jrc.ec.europa.eu/content/lucas-2018-topsoil-data).'
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-29'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Castanheira-Nadia-Luisa:
+    individualname: "Castanheira, N\xE1dia Lu\xEDsa"
+    role: ''
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: 0000-0002-9276-1805
+  Buttafuoco-Gabriele:
+    individualname: Buttafuoco, Gabriele
+    role: ''
+    organization: National Research Council of Italy
+    url: 0000-0002-0280-8658
+  Goncalves-Maria-Conceicao:
+    individualname: "Gon\xE7alves, Maria Concei\xE7\xE3o"
+    role: ''
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: 0000-0002-5980-0294
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14006538
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.14006537
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

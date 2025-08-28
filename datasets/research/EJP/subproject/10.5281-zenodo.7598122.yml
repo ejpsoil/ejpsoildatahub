@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.7598122
+  dataseturi: https://doi.org/10.5281/zenodo.7598122
+  hierarchylevel: software
+identification:
+  title: EJPSOIL ARTEMIS on-farm monitoring of soil health and ecosystems services
+    (meta)data template
+  keywords:
+    project:
+      keywords:
+      - null
+  abstract: "Within ARTEMIS a template was created for both the collection and storage\
+    \ of the monitoring (meta)data coming from the proposed monitoring framework (ARTEMIS\
+    \ D5.1 (Panagea et.al, 2024)) as well as for storing farm management data that\
+    \ are required for estimation of the indirect indicators, the interpretation of\
+    \ the monitoring results and analysis.\_ For the template, we have started from\
+    \ the format and coding of the EJPSOIL SoilX management data template (Heller,\
+    \ Wittwer, et al., 2024) and the SoilCare database template (Panagea et al., 2021)\
+    \ but made some modification to cover the needs and requirements of the ARTEMIS\
+    \ on-farm monitoring framework."
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-17'
+    publication: '2024'
+  rights: cc-by-nc-4.0
+contact:
+  Panagea-Ioanna:
+    individualname: Panagea, Ioanna
+    role: ''
+    organization: Instituut voor Landbouw en Visserijonderzoek
+    url: ''
+  Vanderhasselt-Adriaan:
+    individualname: Vanderhasselt, Adriaan
+    role: ''
+    organization: Instituut voor Landbouw en Visserijonderzoek
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.7598122
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5541295
+    type: WWW:LINK
+    title: HasPart
+  r1:
+    url: https://doi.org/10.5281/zenodo.7598122
+    type: WWW:LINK
+    title: HasPart
+  r2:
+    url: https://doi.org/10.5281/zenodo.13857907
+    type: WWW:LINK
+    title: HasPart
+  r3:
+    url: https://doi.org/10.5281/zenodo.13950483
+    type: WWW:LINK
+    title: IsSupplementedBy
+  r4:
+    url: https://doi.org/10.5281/zenodo.13945224
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13960888
+  dataseturi: https://doi.org/10.5281/zenodo.13960888
+  hierarchylevel: dataset
+identification:
+  title: SERENA EJPSOIL NL SOILSEALING SEALINGDEGREE
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: sentinel
+  abstract: "The internal EJP SOIL project\_SERENA contributed to the evaluation of\
+    \ soil multifunctionality aiming at providing assessment tools for land planning\
+    \ and soil policies at different scales. By co-working with relevant\_stakeholders,\
+    \ the project provided co-developed indicators and associated cookbooks to assess\
+    \ and map them, to report both on soil degradation, soil-based ecosystem services\
+    \ and their bundles, under actual conditions and for climate and land-use changes,\
+    \ at\_the regional, national, and European scales.\n\nThe dataset corresponds\
+    \ to a map of soil sealing of the Netherlands for the year 2022 (compared to 2021).\
+    \ The map is the result of applying the Soil Sealing cookbook developed in SERENA/EJP-Soil.\
+    \ It is based on multitemporal satellite images (a combination of Sentinel 1 &\
+    \ 2 sattelite images). The methodology uses vegetation (Sentinel 1) and backscatter\
+    \ (Sentinel 2) indices calculated over time series of images. The final map has\
+    \ 10 m spatial resolution and is classified according to the following:\n\n1.\
+    \ Possible changes identified by both Sentinel-1 and Sentinel-2 methodologies\
+    \ (very probable changes)2. Possible changes identified by Sentinel-1 methodology3.\
+    \ Possible changes identified by Sentinel-2 methodology4. Possible changes identified\
+    \ by Sentinel-2 methodology with shift period (less probable)"
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-21'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Hessel-Rudi:
+    individualname: Hessel, Rudi
+    role: ''
+    organization: Wageningen University & Research
+    url: 0000-0002-1859-309X
+  Trip-Martine:
+    individualname: Trip, Martine
+    role: ''
+    organization: Wageningen University & Research
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13960888
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13991088
+    type: WWW:LINK
+    title: IsPublishedIn
+  r1:
+    url: https://doi.org/10.5281/zenodo.13993621
+    type: WWW:LINK
+    title: IsDescribedBy
+  r2:
+    url: https://doi.org/10.5281/zenodo.13960888
+    type: WWW:LINK
+    title: HasVersion
+spatial:
+  type: ''

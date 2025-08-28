@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14178082
+  dataseturi: https://doi.org/10.5281/zenodo.14178082
+  hierarchylevel: dataset
+identification:
+  title: Dataset of the assessment of the sensitivity of soil communities under climate
+    change
+  keywords:
+    project:
+      keywords:
+      - MINOTAUR
+  abstract: "Dataset of the assessment of the sensitivity of soil communities under\
+    \ climate change. Includes measures of microbial biomass and enzymatic activities\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-18'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Vera-Alfonso:
+    individualname: Vera, Alfonso
+    role: ''
+    organization: ''
+    url: 0000-0002-1822-0496
+  Siles-Jose-A:
+    individualname: "Siles, Jos\xE9 A"
+    role: ''
+    organization: ''
+    url: 0000-0002-5850-0281
+  Patino-Garcia-Maria:
+    individualname: "Pati\xF1o Garc\xEDa, Maria"
+    role: ''
+    organization: ''
+    url: ''
+  Bastida-Felipe:
+    individualname: Bastida, Felipe
+    role: ''
+    organization: ''
+    url: ''
+  Aponte-Cristina:
+    individualname: Aponte, Cristina
+    role: ''
+    organization: ''
+    url: ''
+  Prieto-Fernandez-Angeles:
+    individualname: "Prieto-Fern\xE1ndez, \xC1ngeles"
+    role: ''
+    organization: ''
+    url: ''
+  Rodriguez-Garrido-Beatriz:
+    individualname: "Rodr\xEDguez-Garrido, Beatriz"
+    role: ''
+    organization: ''
+    url: ''
+  Trasar-Cepeda-Carmen:
+    individualname: Trasar-Cepeda, Carmen
+    role: ''
+    organization: ''
+    url: ''
+  Mocali-Stefano:
+    individualname: Mocali, Stefano
+    role: ''
+    organization: ''
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14178082
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14136747.
+    type: WWW:LINK
+    title: IsSupplementTo
+  r1:
+    url: https://doi.org/10.5281/zenodo.14178081
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

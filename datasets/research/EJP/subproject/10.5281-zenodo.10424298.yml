@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.10424298
+  dataseturi: https://doi.org/10.5281/zenodo.10424298
+  hierarchylevel: dataset
+identification:
+  title: "Full database to: Cover Crops Affect Pool Specific Soil Organic Carbon in\
+    \ Cropland \u2013 A Meta-analysis"
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: EJPSOIL
+  abstract: Full database to a meta-analysis studying the effects of cover crops on
+    the mineral-associated organic carbon pool (MAOC), the particulate organic carbon
+    pool (POC) and the microbial biomass carbon pool (MBC). Consists of list of included
+    studies, all extracted data necessary for response ratio calculation and moderator
+    analysis, and additional information.
+  license:
+    name: ''
+  dates:
+    issued: '2023-12-22'
+    available: '2023-12-22'
+    publication: '2023'
+  rights: cc-by-4.0
+contact:
+  Fohrafellner-Julia:
+    individualname: Fohrafellner, Julia
+    role: ''
+    organization: BIOS Science Austria
+    url: ''
+  Keiblinger-Katharina:
+    individualname: Keiblinger, Katharina
+    role: ''
+    organization: University of Natural Resources and Life Sciences, Vienna
+    url: ''
+  Zechmeister-Boltenstern-Sophie:
+    individualname: Zechmeister-Boltenstern, Sophie
+    role: ''
+    organization: University of Natural Resources and Life Sciences, Vienna
+    url: ''
+  Murugan-Rajasekaran:
+    individualname: Murugan, Rajasekaran
+    role: ''
+    organization: BIOS Science Austria
+    url: ''
+  Spiegel-Heide:
+    individualname: Spiegel, Heide
+    role: ''
+    organization: Austrian Agency for Health and Food Safety
+    url: ''
+  Valkama-Elena:
+    individualname: Valkama, Elena
+    role: ''
+    organization: Natural Resources Institute Finland
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.10424298
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1016/j.mex.2023.102411
+    type: WWW:LINK
+    title: Continues
+  r1:
+    url: https://doi.org/10.5281/zenodo.10036874
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

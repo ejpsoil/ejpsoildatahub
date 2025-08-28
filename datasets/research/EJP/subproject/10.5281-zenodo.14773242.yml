@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14773242
+  dataseturi: https://doi.org/10.5281/zenodo.14773242
+  hierarchylevel: dataset
+identification:
+  title: Covariate datasets used to predict soil property distribution in EJP Soil
+    mapping
+  keywords:
+    project:
+      keywords:
+      - EJP Soil
+    default:
+      keywords:
+        subject: Lithology
+        subjectScheme: EuroSciVoc
+  abstract: "These datasets were prepared within the scope of the EJP SOIL programme.\
+    \ The datasets are extracted from different sources, clipped and reprojected to\
+    \ EPSG:3035. The sources are listed in the table below. The datasets were used\
+    \ as environmental layers to prodict soil property distribution (soil maps) at\
+    \ National and continental level within the EJP SOIL programme.\_\n\nDataset sources:\n\
+    \n\n\n\nCopernicus Climate Data Store\nhttps://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land-monthly-means?tab=overview\n\
+    \n\nRESOLVE Biodiversity and Wildlife Solutions\nhttps://ecoregions2017.appspot.com/\n\
+    \n\nCopernicus Land Monitoring Service\nhttps://sentinel.esa.int/web/sentinel/user-guides/sentinel-1-sar/\n\
+    \n\nEuropean Union/ESA/Copernicus\nhttps://sentinel.esa.int/web/sentinel/user-guides/sentinel-1-sar/\n\
+    \n\nGLiM - Global Lithological Map\nhttps://www.geo.uni-hamburg.de/en/geologie/forschung/aquatische-geochemie/glim.html\n\
+    \n\n\n\n\_\n\n\_\n\n\_"
+  license:
+    name: ''
+  dates:
+    issued: '2025-01-30'
+    available: '2024-02-29'
+    publication: '2025'
+  rights: cc-by-4.0
+contact:
+  Poggio-Laura:
+    individualname: Poggio, Laura
+    role: ContactPerson
+    organization: Wageningen University & Research
+    url: 0000-0003-1892-0764
+  van-Egmond-Fenny:
+    individualname: van Egmond, Fenny
+    role: ProjectManager
+    organization: ISRIC World Soil Information
+    url: 0000-0002-2608-9889
+  Ruiperez-Maria:
+    individualname: Ruiperez, Maria
+    role: DataCollector
+    organization: ISRIC - World Soil Information
+    url: 0000-0003-0960-0873
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14773242
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14773241
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

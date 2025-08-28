@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13951680
+  dataseturi: https://doi.org/10.5281/zenodo.13951680
+  hierarchylevel: dataset
+identification:
+  title: SERENA EJPSOIL NL EROSION SOILLOSS
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: RUSLE
+  abstract: "The internal EJP SOIL project\_SERENA contributed to the evaluation of\
+    \ soil multifunctionality aiming at providing assessment tools for land planning\
+    \ and soil policies at different scales. By co-working with relevant\_stakeholders,\
+    \ the project provided co-developed indicators and associated cookbooks to assess\
+    \ and map them, to report both on soil degradation, soil-based ecosystem services\
+    \ and their bundles, under actual conditions and for climate and land-use changes,\
+    \ at\_the regional, national, and European scales.\n\nThe dataset corresponds\
+    \ to a map of potential soil loss (Mg/ha/yr) due to erosion risk. The map is the\
+    \ result of applying the Erosion cookbook developed in SERENA/EJP-Soil. The map\
+    \ is created by calculating the erosion factor by the RUSLE model and has 25 m\
+    \ spatial resolution."
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-18'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Hessel-Rudi:
+    individualname: Hessel, Rudi
+    role: ''
+    organization: Wageningen University & Research
+    url: 0000-0002-1859-309X
+  Trip-Martine:
+    individualname: Trip, Martine
+    role: DataManager
+    organization: Wageningen University & Research
+    url: ''
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13951680
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.13991088
+    type: WWW:LINK
+    title: IsPublishedIn
+  r1:
+    url: https://doi.org/10.5281/zenodo.13993621
+    type: WWW:LINK
+    title: IsDescribedBy
+  r2:
+    url: https://doi.org/10.5281/zenodo.13951679
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

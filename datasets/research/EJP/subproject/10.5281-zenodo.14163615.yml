@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.14163615
+  dataseturi: https://doi.org/10.5281/zenodo.14163615
+  hierarchylevel: dataset
+identification:
+  title: STEROPES_dataset-29
+  keywords:
+    project:
+      keywords:
+      - null
+    default:
+      keywords:
+        subject: UAV
+  abstract: "Dataset 29: Multispectral UAV data, ILVO\_\_\n\nOrigin: Multispectral\
+    \ UAV remote sensing data of soil surface were collected across the ILVO field\
+    \ trails (s15 - BOPACT & S2 - Gavere) in Flanders (Belgium). \_\n\nPurpose: Used\
+    \ in WP 4.\_\_\n\nFormat: raster files.\_\_\n\nData utility:\_ For fusing with\
+    \ sentinel-2 data in order to improve the spatial resolution of sentinel-2 images\
+    \ in evaluating the impact of plant residual on SOC prediction.\_\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-11-14'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  De-Boever-Maarten:
+    individualname: De Boever, Maarten
+    role: ''
+    organization: Instituut voor Landbouw en Visserijonderzoek
+    url: 0000-0001-9352-0475
+  saberioon-mohammadmehdi:
+    individualname: saberioon, mohammadmehdi
+    role: ''
+    organization: Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
+    url: 0000-0003-1627-4957
+  Van-Beek-Jonathan:
+    individualname: Van Beek, Jonathan
+    role: ''
+    organization: Instituut voor Landbouw- Visserij- en Voedingsonderzoek
+    url: 0000-0001-5096-9475
+  Callens-Bert:
+    individualname: Callens, Bert
+    role: ''
+    organization: Instituut voor Landbouw- Visserij- en Voedingsonderzoek
+    url: 0000-0002-6821-0798
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.14163615
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.14163614
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

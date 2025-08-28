@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.12582998
+  dataseturi: https://doi.org/10.5281/zenodo.12582998
+  hierarchylevel: dataset
+identification:
+  title: New parameter estimates for exogenous organic materials including biochar
+    for the Rothamsted carbon model
+  keywords:
+    project:
+      keywords:
+      - CarboSeq
+  abstract: "This parameter set has been established within the EJP Soil project Carboseq\
+    \ and is fully explained in the corresponding report (Leifeld, J., Hardy, B.,\
+    \ Budai, A., Elsgaard, L., Keel, S.G., Levavasseur, F., Liang, Z., Mondini, C.,\
+    \ Plaza, C., Rodrigues, L. 2024. Soil organic carbon sequestration potential of\
+    \ agricultural soils in Europe. Final report EJP Soil CarboSeq work package 3\
+    \ \u2013 Biochar and other organic amendments)."
+  license:
+    name: ''
+  dates:
+    issued: '2024-06-28'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Leifeld-Jens:
+    individualname: Leifeld, Jens
+    role: ''
+    organization: ''
+    url: 0000-0002-7245-9852
+  Hardy-Brieuc:
+    individualname: Hardy, Brieuc
+    role: ''
+    organization: ''
+    url: 0000-0002-8396-7246
+  Budai-Alice:
+    individualname: Budai, Alice
+    role: ''
+    organization: ''
+    url: 0000-0002-6675-4548
+  Elsgaard-Lars:
+    individualname: Elsgaard, Lars
+    role: ''
+    organization: ''
+    url: 0000-0003-0058-7609
+  Keel-Sonja-G.:
+    individualname: Keel, Sonja G.
+    role: ''
+    organization: ''
+    url: 0000-0002-2645-273X
+  Levavasseur-Florent:
+    individualname: Levavasseur, Florent
+    role: ''
+    organization: ''
+    url: ''
+  Liang-Zhi:
+    individualname: Liang, Zhi
+    role: ''
+    organization: ''
+    url: ''
+  Mondini-Claudio:
+    individualname: Mondini, Claudio
+    role: ''
+    organization: ''
+    url: 0000-0002-1561-8036
+  Plaza-Cesar:
+    individualname: "Plaza, C\xE9sar"
+    role: ''
+    organization: ''
+    url: 0000-0001-8616-7001
+  Rodrigues-Leonor:
+    individualname: Rodrigues, Leonor
+    role: ''
+    organization: ''
+    url: 0000-0002-8414-8357
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.12582998
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.12582997
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''

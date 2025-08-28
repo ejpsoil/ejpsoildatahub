@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.13947787
+  dataseturi: https://doi.org/10.5281/zenodo.13947787
+  hierarchylevel: dataset
+identification:
+  title: 'Supporting data to "Pedotransfer functions versus model structure: What
+    drives uncertainty in agro-hydrological modelling?"'
+  keywords:
+    project:
+      keywords:
+      - EJP Soil
+  abstract: "Supporting files to Pedotransfer functions versus model structure: What\
+    \ drives uncertainty in agro-hydrological modelling?\n\n\_Original publication.\
+    \ https://doi.org/10.5281/zenodo.14002494\n\nGitlab: SoilX / proj_uncertainty_PTF_soilX\
+    \ \xB7 GitLab or 10.5281/zenodo.14017708\n\n\_"
+  license:
+    name: ''
+  dates:
+    issued: '2024-10-17'
+    publication: '2024'
+  rights: cc-by-4.0
+contact:
+  Turek-Maria-Eliza:
+    individualname: Turek, Maria Eliza
+    role: ''
+    organization: Agroscope
+    url: 0000-0002-3616-8695
+  Holzkamper-Annelie:
+    individualname: "Holzk\xE4mper, Annelie"
+    role: ''
+    organization: Agroscope
+    url: 0000-0002-1951-1041
+  Pullens-Johannes-Wilhelmus-Maria:
+    individualname: Pullens, Johannes Wilhelmus Maria
+    role: ''
+    organization: Aarhus University
+    url: 0000-0003-4581-6444
+  Meurer-Katharina:
+    individualname: Meurer, Katharina
+    role: ''
+    organization: Uppsala University
+    url: 0000-0002-8880-9650
+  Moura-Lima-Edberto:
+    individualname: Moura-Lima, Edberto
+    role: ''
+    organization: BOKU University
+    url: 0000-0002-8447-8460
+  Mehdi-Schulz-Bano:
+    individualname: Mehdi-Schulz, Bano
+    role: ''
+    organization: BOKU University
+    url: 0000-0003-1085-3683
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.13947787
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1111/ejss.70088
+    type: WWW:LINK
+    title: IsSupplementTo
+  r1:
+    url: https://doi.org/10.5281/zenodo.14017708
+    type: WWW:LINK
+    title: IsSupplementTo
+  r2:
+    url: https://doi.org/10.5281/zenodo.13947786
+    type: WWW:LINK
+    title: IsVersionOf
+spatial:
+  type: ''
