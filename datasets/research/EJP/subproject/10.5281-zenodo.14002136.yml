@@ -52,8 +52,8 @@ distribution:
     type: WWW:LINK
     title: IsDerivedFrom
   r1:
-    url: https://doi.org/10.5281/zenodo.14002136
+    url: https://doi.org/10.5281/zenodo.14002135
     type: WWW:LINK
-    title: HasVersion
+    title: IsVersionOf
 spatial:
   type: ''

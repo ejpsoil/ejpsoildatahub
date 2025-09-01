@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13993235
+  10.5281/zenodo.13993235
   dataseturi: https://doi.org/10.5281/zenodo.13993235
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: SERENA EJPSOIL BE Flanders EROSION SOILLOSS cookbook
   keywords:
@@ -44,32 +45,38 @@ identification:
   dates:
     issued: '2024-10-25'
     publication: '2024'
-  rights: ''
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: en
 contact:
   Callewaert-Seth:
     individualname: Callewaert, Seth
-    role: ''
+    role: creator
     organization: Department of Environment and Spatial Development. Government of
       Flanders (Belgium)
     url: ''
   Oorts-Katrien:
     individualname: Oorts, Katrien
-    role: ''
+    role: creator
     organization: Department of Environment and Spatial Development. Government of
       Flanders (Belgium)
     url: 0000-0003-1997-4473
   Luts-Dries:
     individualname: Luts, Dries
-    role: ''
+    role: creator
     organization: Department of Environment and Spatial Development. Government of
       Flanders (Belgium)
     url: 0000-0003-2648-6988
   Deproost-Petra:
     individualname: Deproost, Petra
-    role: ''
+    role: creator
     organization: Department of Environment and Spatial Development. Government of
       Flanders (Belgium)
     url: ''
+  Databank-Ondergrond-Vlaanderen:
+    individualname: Databank Ondergrond Vlaanderen
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13993235
@@ -83,5 +90,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13993235
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: SERENA EJPSOIL BE Flanders EROSION SOILLOSS cookbook
+    url: https://zenodo.org/doi/10.5281/zenodo.13993235
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

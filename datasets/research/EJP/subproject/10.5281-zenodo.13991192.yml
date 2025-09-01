@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13991192
+  10.5281/zenodo.13991192
   dataseturi: https://doi.org/10.5281/zenodo.13991192
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: 'EJPSOIL_SERENA: Maps of Soil Organic Carbon Loss Scenarios in Elva Parish,
     Estonia'
@@ -42,23 +43,29 @@ identification:
   dates:
     issued: '2024-10-25'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: en
 contact:
   Kauer-Karin:
     individualname: Kauer, Karin
-    role: ''
+    role: creator
     organization: Estonian University of Life Sciences
     url: ''
   Escuer-Gatius-Jordi:
     individualname: Escuer-Gatius, Jordi
-    role: ''
+    role: creator
     organization: Estonian University of Life Sciences
     url: 0000-0001-6766-5654
   Kukk-Liia:
     individualname: Kukk, Liia
-    role: ''
+    role: creator
     organization: Estonian University of Life Sciences
     url: 0000-0002-0825-799X
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13991192
@@ -72,5 +79,12 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13991192
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: 'EJPSOIL_SERENA: Maps of Soil Organic Carbon Loss Scenarios in Elva Parish,
+      Estonia'
+    url: https://zenodo.org/doi/10.5281/zenodo.13991192
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

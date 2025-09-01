@@ -73,9 +73,9 @@ distribution:
     type: WWW:LINK
     title: Link
   r0:
-    url: https://doi.org/10.5281/zenodo.14070573
+    url: https://doi.org/10.5281/zenodo.14070572
     type: WWW:LINK
-    title: HasVersion
+    title: IsVersionOf
   r1:
     url: https://doi.org/10.5281/zenodo.14168345
     type: WWW:LINK

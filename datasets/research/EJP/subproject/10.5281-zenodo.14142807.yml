@@ -123,8 +123,8 @@ distribution:
     type: WWW:LINK
     title: IsDescribedBy
   r2:
-    url: https://doi.org/10.5281/zenodo.14142807
+    url: https://doi.org/10.5281/zenodo.14142806
     type: WWW:LINK
-    title: HasVersion
+    title: IsVersionOf
 spatial:
   type: ''

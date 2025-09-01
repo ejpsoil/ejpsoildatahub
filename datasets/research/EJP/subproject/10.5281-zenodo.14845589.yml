@@ -88,8 +88,8 @@ distribution:
     type: WWW:LINK
     title: IsSupplementedBy
   r2:
-    url: https://doi.org/10.5281/zenodo.15114208
+    url: https://doi.org/10.5281/zenodo.15114209
     type: WWW:LINK
-    title: IsVersionOf
+    title: HasVersion
 spatial:
   type: ''

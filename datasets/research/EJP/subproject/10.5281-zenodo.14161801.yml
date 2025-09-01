@@ -1,33 +1,42 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.14161801
+  10.5281/zenodo.14161801
   dataseturi: https://doi.org/10.5281/zenodo.14161801
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: INSURE DK Vejrumbro 2021_22
   keywords:
     project:
       keywords:
       - null
+    default:
+      keywords: []
   abstract: ''
   license:
     name: ''
   dates:
     issued: '2024-11-14'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: ''
 contact:
   Laerke-Poul-Erik:
     individualname: "L\xE6rke, Poul Erik"
-    role: ''
+    role: creator
     organization: Senior Researcher
     url: 0000-0002-2224-3893
   Rodriguez-Andres:
     individualname: "Rodriguez, Andr\xE9s"
-    role: ''
+    role: creator
     organization: Postdoc
     url: 0000-0003-4407-6640
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.14161801
@@ -37,5 +46,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.14161801
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: INSURE DK Vejrumbro 2021_22
+    url: https://zenodo.org/doi/10.5281/zenodo.14161801
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

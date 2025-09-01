@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13744545
+  10.5281/zenodo.13744545
   dataseturi: https://doi.org/10.5281/zenodo.13744545
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: CSIC-ProbeField SpectralDatasetMetadata-D4.2
   keywords:
@@ -27,18 +28,24 @@ identification:
   dates:
     issued: '2024-09-11'
     publication: '2024'
-  rights: ''
+    creation: ''
+  rights: CC-BY-NC-SA
+  status: ''
+  language: ''
 contact:
   Lopez-Nunez-Rafael:
     individualname: "L\xF3pez-N\xFA\xF1ez, Rafael"
-    role: ''
+    role: creator
     organization: Spanish National Research Council
     url: 0000-0002-8848-3793
   Cayuela-Sanchez-Jose-Antonio:
     individualname: "Cayuela-S\xE1nchez, Jose Antonio"
-    role: ''
+    role: creator
     organization: Spanish National Research Council
     url: 0000-0001-9026-631X
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13744545
@@ -48,5 +55,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13744546
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: CSIC-ProbeField SpectralDatasetMetadata-D4.2
+    url: https://zenodo.org/doi/10.5281/zenodo.13744545
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

@@ -1,12 +1,13 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13945225
+  10.5281/zenodo.13945225
   dataseturi: https://doi.org/10.5281/zenodo.13945225
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: EJPSOIL ARTEMIS on-farm monitoring of soil health and ecosystems services
-    (meta)data
+    (meta)data template
   keywords:
     project:
       keywords:
@@ -22,11 +23,14 @@ identification:
   dates:
     issued: '2024-11-29'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution Non Commercial 4.0 International
+  status: ''
+  language: ''
 contact:
   Panagea-Ioanna:
     individualname: Panagea, Ioanna
-    role: ''
+    role: creator
     organization: Instituut voor Landbouw en Visserijonderzoek
     url: 0000-0003-4813-2291
   Walder-Florian:
@@ -36,7 +40,7 @@ contact:
     url: ''
   Vanderhasselt-Adriaan:
     individualname: Vanderhasselt, Adriaan
-    role: ''
+    role: creator
     organization: Instituut voor Landbouw en Visserijonderzoek
     url: ''
   Rubeaud-C:
@@ -104,6 +108,9 @@ contact:
     role: ''
     organization: ENEA Bologna Research Centre
     url: ''
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13945225
@@ -125,5 +132,12 @@ distribution:
     url: https://doi.org/10.5281/zenodo.14186759
     type: WWW:LINK
     title: IsVersionOf
+  www:
+    name: EJPSOIL ARTEMIS on-farm monitoring of soil health and ecosystems services
+      (meta)data template
+    url: https://zenodo.org/doi/10.5281/zenodo.13945225
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13981885
+  10.5281/zenodo.13981885
   dataseturi: https://doi.org/10.5281/zenodo.13981885
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: SERENA EJPSOIL BE Flanders SOCLOSS SOC 0-20cm cookbook
   keywords:
@@ -55,31 +56,37 @@ identification:
   dates:
     issued: '2024-10-25'
     publication: '2024'
-  rights: cc-by-3.0
+    creation: ''
+  rights: Model license for free reuse - v1.0
+  status: ''
+  language: en
 contact:
   Oorts-Katrien:
     individualname: Oorts, Katrien
-    role: ''
+    role: creator
     organization: Department of Environment and Spatial Development. Government of
       Flanders (Belgium)
     url: 0000-0003-1997-4473
   Josipovic-Davor:
     individualname: Josipovic, Davor
-    role: ''
+    role: creator
     organization: RoVaD
     url: ''
   Luts-Dries:
     individualname: Luts, Dries
-    role: ''
+    role: creator
     organization: Department of Environment and Spatial Development. Government of
       Flanders (Belgium)
     url: 0000-0003-2648-6988
   Salomez-Joost:
     individualname: Salomez, Joost
-    role: ''
+    role: creator
     organization: Department of Environment and Spatial Development. Government of
       Flanders (Belgium)
     url: 0009-0006-8481-7107
+  Databank-Ondergrond-Vlaanderen:
+    individualname: Databank Ondergrond Vlaanderen
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13981885
@@ -97,5 +104,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13981885
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: SERENA EJPSOIL BE Flanders SOCLOSS SOC 0-20cm cookbook
+    url: https://zenodo.org/doi/10.5281/zenodo.13981885
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

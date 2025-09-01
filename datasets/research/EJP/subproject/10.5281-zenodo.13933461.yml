@@ -1,15 +1,18 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13933461
+  10.5281/zenodo.13933461
   dataseturi: https://doi.org/10.5281/zenodo.13933461
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: EJP Soil - SoilCompaC - Detection of soil compaction using remote sensing
   keywords:
     project:
       keywords:
       - null
+    default:
+      keywords: []
   abstract: 'Datasets for EJP Soil project SoilCompaC, Task 1.1
 
 
@@ -20,21 +23,24 @@ identification:
   dates:
     issued: '2025-06-13'
     publication: '2025'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: ''
 contact:
   Konzett-Matthias:
     individualname: Konzett, Matthias
-    role: ''
+    role: creator
     organization: ''
     url: 0000-0001-5843-9452
   Ramler-David:
     individualname: Ramler, David
-    role: ''
+    role: creator
     organization: ''
     url: 0000-0003-4833-0351
   Weninger-Thomas:
     individualname: Weninger, Thomas
-    role: ''
+    role: creator
     organization: Federal Agency for Water Management
     url: 0000-0001-9004-4426
   D'Hose-Tommy:
@@ -42,6 +48,9 @@ contact:
     role: ''
     organization: ''
     url: 0000-0002-8705-5666
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13933461
@@ -55,5 +64,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13933461
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: EJP Soil - SoilCompaC - Detection of soil compaction using remote sensing
+    url: https://zenodo.org/doi/10.5281/zenodo.13933461
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

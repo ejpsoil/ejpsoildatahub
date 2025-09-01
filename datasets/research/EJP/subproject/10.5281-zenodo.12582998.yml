@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.12582998
+  10.5281/zenodo.12582998
   dataseturi: https://doi.org/10.5281/zenodo.12582998
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: New parameter estimates for exogenous organic materials including biochar
     for the Rothamsted carbon model
@@ -11,6 +12,8 @@ identification:
     project:
       keywords:
       - CarboSeq
+    default:
+      keywords: []
   abstract: "This parameter set has been established within the EJP Soil project Carboseq\
     \ and is fully explained in the corresponding report (Leifeld, J., Hardy, B.,\
     \ Budai, A., Elsgaard, L., Keel, S.G., Levavasseur, F., Liang, Z., Mondini, C.,\
@@ -22,58 +25,64 @@ identification:
   dates:
     issued: '2024-06-28'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: ''
 contact:
   Leifeld-Jens:
     individualname: Leifeld, Jens
-    role: ''
+    role: creator
     organization: ''
     url: 0000-0002-7245-9852
   Hardy-Brieuc:
     individualname: Hardy, Brieuc
-    role: ''
+    role: creator
     organization: ''
     url: 0000-0002-8396-7246
   Budai-Alice:
     individualname: Budai, Alice
-    role: ''
+    role: creator
     organization: ''
     url: 0000-0002-6675-4548
   Elsgaard-Lars:
     individualname: Elsgaard, Lars
-    role: ''
+    role: creator
     organization: ''
     url: 0000-0003-0058-7609
   Keel-Sonja-G.:
     individualname: Keel, Sonja G.
-    role: ''
+    role: creator
     organization: ''
     url: 0000-0002-2645-273X
   Levavasseur-Florent:
     individualname: Levavasseur, Florent
-    role: ''
+    role: creator
     organization: ''
     url: ''
   Liang-Zhi:
     individualname: Liang, Zhi
-    role: ''
+    role: creator
     organization: ''
     url: ''
   Mondini-Claudio:
     individualname: Mondini, Claudio
-    role: ''
+    role: creator
     organization: ''
     url: 0000-0002-1561-8036
   Plaza-Cesar:
     individualname: "Plaza, C\xE9sar"
-    role: ''
+    role: creator
     organization: ''
     url: 0000-0001-8616-7001
   Rodrigues-Leonor:
     individualname: Rodrigues, Leonor
-    role: ''
+    role: creator
     organization: ''
     url: 0000-0002-8414-8357
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.12582998
@@ -83,5 +92,12 @@ distribution:
     url: https://doi.org/10.5281/zenodo.12582997
     type: WWW:LINK
     title: IsVersionOf
+  www:
+    name: New parameter estimates for exogenous organic materials including biochar
+      for the Rothamsted carbon model
+    url: https://zenodo.org/doi/10.5281/zenodo.12582998
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

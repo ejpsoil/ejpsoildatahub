@@ -1,28 +1,37 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.14168515
+  10.5281/zenodo.14168515
   dataseturi: https://doi.org/10.5281/zenodo.14168515
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: D1.2.1_AGROECOseqC overall dataset_10.5281zenodo.14168515
   keywords:
     project:
       keywords:
       - AGROECOseqC
+    default:
+      keywords: []
   abstract: ''
   license:
     name: ''
   dates:
     issued: '2024-11-15'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: ''
 contact:
   Trinchera-Alessandra:
     individualname: Trinchera, Alessandra
-    role: ''
+    role: creator
     organization: ''
     url: ''
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.14168515
@@ -32,5 +41,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.14168515
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: D1.2.1_AGROECOseqC overall dataset_10.5281zenodo.14168515
+    url: https://zenodo.org/doi/10.5281/zenodo.14168515
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

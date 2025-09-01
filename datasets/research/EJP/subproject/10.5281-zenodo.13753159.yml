@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13753159
+  10.5281/zenodo.13753159
   dataseturi: https://doi.org/10.5281/zenodo.13753159
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: D3.2_20240117_ProbeField_Preprosessed_Spectra_V1
   keywords:
@@ -39,11 +40,14 @@ identification:
   dates:
     issued: '2024-09-12'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: en
 contact:
   Castaldi-Fabio:
     individualname: Castaldi, Fabio
-    role: DataCurator
+    role: creator
     organization: Consiglio Nazionale delle Ricerche
     url: 0000-0001-9160-1765
   Stajnko-Denis:
@@ -129,6 +133,9 @@ contact:
     role: DataCollector
     organization: Austrian Agency for Health and Food Safety
     url: ''
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13753159
@@ -142,5 +149,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13753159
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: D3.2_20240117_ProbeField_Preprosessed_Spectra_V1
+    url: https://zenodo.org/doi/10.5281/zenodo.13753159
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

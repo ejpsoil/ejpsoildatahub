@@ -90,8 +90,12 @@ distribution:
     type: WWW:LINK
     title: IsPartOf
   r1:
-    url: https://doi.org/10.5281/zenodo.13981884
+    url: https://doi.org/10.5281/zenodo.13993045
     type: WWW:LINK
-    title: IsVersionOf
+    title: HasVersion
+  r2:
+    url: https://doi.org/10.5281/zenodo.13981885
+    type: WWW:LINK
+    title: HasVersion
 spatial:
   type: ''

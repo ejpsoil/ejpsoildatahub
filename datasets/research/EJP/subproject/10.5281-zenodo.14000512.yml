@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.14000512
+  10.5281/zenodo.14000512
   dataseturi: https://doi.org/10.5281/zenodo.14000512
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: "EJPSOIL_SERENA: Impacts of Climate Change Scenarios on Net Ecosystem Productivity\
     \ in Peipsi\xE4\xE4re Municipality, Estonia"
@@ -48,18 +49,24 @@ identification:
   dates:
     issued: '2024-10-28'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: en
 contact:
   Kukk-Liia:
     individualname: Kukk, Liia
-    role: ''
+    role: creator
     organization: Estonian University of Life Sciences
     url: 0000-0002-0825-799X
   Astover-Alar:
     individualname: Astover, Alar
-    role: ''
+    role: creator
     organization: Estonian University of Life Sciences
     url: 0000-0002-8924-6925
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.14000512
@@ -73,5 +80,12 @@ distribution:
     url: https://doi.org/10.5281/zenodo.14000512
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: "EJPSOIL_SERENA: Impacts of Climate Change Scenarios on Net Ecosystem Productivity\
+      \ in Peipsi\xE4\xE4re Municipality, Estonia"
+    url: https://zenodo.org/doi/10.5281/zenodo.14000512
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

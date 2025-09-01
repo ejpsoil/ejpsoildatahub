@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.14000725
+  10.5281/zenodo.14000725
   dataseturi: https://doi.org/10.5281/zenodo.14000725
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: 'EPJSOIL SERENA WP3 T3.3 : France climatic and agricultural change modelling
     dataset (Naizin)'
@@ -40,43 +41,49 @@ identification:
   dates:
     issued: '2024-10-28'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: en
 contact:
   Lemercier-Blandine:
     individualname: Lemercier, Blandine
-    role: ''
+    role: creator
     organization: Institut Agro Rennes-Angers
     url: 0000-0001-7270-8743
   Michot-Didier:
     individualname: Michot, Didier
-    role: ''
+    role: creator
     organization: Institut Agro Rennes-Angers
     url: 0000-0003-4706-7694
   Boutier-Antoine:
     individualname: Boutier, Antoine
-    role: ''
+    role: creator
     organization: Institut Agro Rennes-Angers
     url: 0000-0003-4013-0566
   Walter-Christian:
     individualname: Walter, Christian
-    role: ''
+    role: creator
     organization: Institut Agro Rennes-Angers
     url: 0000-0002-4395-4942
   Gaillot-Arthur:
     individualname: Gaillot, Arthur
-    role: ''
+    role: creator
     organization: Agro ParisTech
     url: 0000-0002-4343-324X
   Montagne-David:
     individualname: Montagne, David
-    role: ''
+    role: creator
     organization: Agro ParisTech
     url: 0000-0003-4735-4618
   Le-Bas-Christine:
     individualname: Le Bas, Christine
-    role: ''
+    role: creator
     organization: National Research Institute for Agriculture, Food and Environment
     url: 0000-0001-7111-5794
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.14000725
@@ -90,5 +97,12 @@ distribution:
     url: https://doi.org/10.5281/zenodo.14000724
     type: WWW:LINK
     title: IsVersionOf
+  www:
+    name: 'EPJSOIL SERENA WP3 T3.3 : France climatic and agricultural change modelling
+      dataset (Naizin)'
+    url: https://zenodo.org/doi/10.5281/zenodo.14000725
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

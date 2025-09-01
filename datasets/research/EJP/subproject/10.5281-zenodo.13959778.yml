@@ -65,8 +65,8 @@ distribution:
     type: WWW:LINK
     title: IsSupplementTo
   r1:
-    url: https://doi.org/10.5281/zenodo.13959778
+    url: https://doi.org/10.5281/zenodo.13959777
     type: WWW:LINK
-    title: HasVersion
+    title: IsVersionOf
 spatial:
   type: ''

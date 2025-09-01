@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13969875
+  10.5281/zenodo.13969875
   dataseturi: https://doi.org/10.5281/zenodo.13969875
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: SERENA_EJPSOIL_AT_SOILSEALING_SEALINGDEGREE
   keywords:
@@ -33,13 +34,19 @@ identification:
     issued: '2024-10-22'
     created: '2024-10-20'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: ''
 contact:
   Foldal-Cecilie:
     individualname: Foldal, Cecilie
-    role: ''
+    role: creator
     organization: Austrian Research Centre for Forests
     url: ''
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13969875
@@ -53,5 +60,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13969874
     type: WWW:LINK
     title: IsVersionOf
+  www:
+    name: SERENA_EJPSOIL_AT_SOILSEALING_SEALINGDEGREE
+    url: https://zenodo.org/doi/10.5281/zenodo.13969875
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

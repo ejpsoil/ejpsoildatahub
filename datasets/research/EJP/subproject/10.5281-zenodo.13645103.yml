@@ -1,15 +1,18 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13645103
+  10.5281/zenodo.13645103
   dataseturi: https://doi.org/10.5281/zenodo.13645103
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: Ghana African Dark Earths Historical Data - C-arouNd
   keywords:
     project:
       keywords:
       - C-arouNd
+    default:
+      keywords: []
   abstract: Soil organic carbon and nutrient dynamics of African Dark Earths (AfDEs)
     and adjacent ecosystems were assessed to identify indigenous soil enrichment practices
     for improving soil fertility and carbon storage in West African soils.
@@ -19,11 +22,14 @@ identification:
     issued: '2024-09-03'
     available: '2024'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: ''
 contact:
   Ocansey-Caleb-Melenya:
     individualname: Ocansey, Caleb Melenya
-    role: ''
+    role: creator
     organization: CSIR - Crops Research Institute
     url: 0000-0003-1891-1438
   Logah-Vincent:
@@ -36,6 +42,9 @@ contact:
     role: DataManager
     organization: ''
     url: ''
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13645103
@@ -53,5 +62,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13645103
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: Ghana African Dark Earths Historical Data - C-arouNd
+    url: https://zenodo.org/doi/10.5281/zenodo.13645103
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

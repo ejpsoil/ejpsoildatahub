@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.14001698
+  10.5281/zenodo.14001698
   dataseturi: https://doi.org/10.5281/zenodo.14001698
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: 'SERENA EJP Soil: Bundles Application Emilia-Romagna, Italy'
   keywords:
@@ -25,23 +26,29 @@ identification:
   dates:
     issued: '2024-10-28'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: ''
 contact:
   Medina-Roldan-Eduardo:
     individualname: Medina-Roldan, Eduardo
-    role: ''
+    role: creator
     organization: National Research Council
     url: 0000-0001-6703-9645
   Lorenzetti-Romina:
     individualname: Lorenzetti, Romina
-    role: ''
+    role: creator
     organization: National Research Council
     url: 0000-0003-3346-0874
   Ungaro-Fabrizio:
     individualname: Ungaro, Fabrizio
-    role: ''
+    role: creator
     organization: National Research Council
     url: 0000-0003-0116-6611
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.14001698
@@ -59,5 +66,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.14001698
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: 'SERENA EJP Soil: Bundles Application Emilia-Romagna, Italy'
+    url: https://zenodo.org/doi/10.5281/zenodo.14001698
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

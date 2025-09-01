@@ -131,8 +131,8 @@ distribution:
     type: WWW:LINK
     title: IsPublishedIn
   r1:
-    url: https://doi.org/10.5281/zenodo.10137003
+    url: https://doi.org/10.5281/zenodo.10137002
     type: WWW:LINK
-    title: HasVersion
+    title: IsVersionOf
 spatial:
   type: ''

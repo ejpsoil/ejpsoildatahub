@@ -5,12 +5,14 @@ metadata:
   dataseturi: https://github.com/ejpsoil/ejpsoildatahub/blob/main/datasets/research/EJP%20Research/subproject/projects.csv
   language: eng
   hierarchylevel: dataset
-  datestamp: '2025-08-08'
+  datestamp: '2025-08-28T11:51:56'
 identification:
   title: EJP Soil Sub projects with their Zenodo community name
-  abstract: "dataset aims to collect the Zenodo community name for each of the EJP Soil Sub projects"
+  abstract: dataset aims to collect the Zenodo community name for each of the EJP
+    Soil Sub projects
   dates:
-    creation: '2025-08-08'
+    creation: '2025-08-28T11:51:56'
+    modified: '2025-08-28T11:51:56'
   language: en
   license:
     name: cc-by-4.0
@@ -19,13 +21,22 @@ identification:
     default:
       keywords:
       - EJP Soil
+  extents: {}
 contact:
   publisher:
     role: creator
     organization: ISRIC - World Soil Information
- 
 distribution:
   primary:
     name: projects.csv
     type: text/csv
     url: https://github.com/ejpsoil/ejpsoildatahub/blob/main/datasets/research/EJP%20Research/subproject/projects.csv
+  local:
+    url: /tmp/projects.csv
+    name: /tmp/projects
+    type: csv
+  d1:
+    url: /tmp/projects.csv
+    name: projects
+    type: WWW:LINK
+    size: 8440

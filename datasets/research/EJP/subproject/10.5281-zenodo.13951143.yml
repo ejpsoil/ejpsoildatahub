@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13951143
+  10.5281/zenodo.13951143
   dataseturi: https://doi.org/10.5281/zenodo.13951143
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: 'SERENA EJP Soil: Green House Gas Regulation Application Emilia-Romagna,
     Italy (Summer)'
@@ -26,33 +27,39 @@ identification:
   dates:
     issued: '2024-10-18'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: en
 contact:
   Medina-Roldan-Eduardo:
     individualname: Medina-Roldan, Eduardo
-    role: ''
+    role: creator
     organization: National Research Council
     url: 0000-0001-6703-9645
   Lorenzetti-Romina:
     individualname: Lorenzetti, Romina
-    role: ''
+    role: creator
     organization: National Research Council
     url: 0000-0003-3346-0874
   GARDIN-LORENZO:
     individualname: GARDIN, LORENZO
-    role: ''
+    role: creator
     organization: National Research Council
     url: 0000-0002-2702-8148
   Buttafuoco-Gabriele:
     individualname: Buttafuoco, Gabriele
-    role: ''
+    role: creator
     organization: College of New Rochelle
     url: 0000-0002-0280-8658
   Ungaro-Fabrizio:
     individualname: Ungaro, Fabrizio
-    role: ''
+    role: creator
     organization: National Research Council
     url: 0000-0003-0116-6611
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13951143
@@ -62,5 +69,12 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13951142
     type: WWW:LINK
     title: IsVersionOf
+  www:
+    name: 'SERENA EJP Soil: Green House Gas Regulation Application Emilia-Romagna,
+      Italy (Summer)'
+    url: https://zenodo.org/doi/10.5281/zenodo.13951143
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

@@ -3,22 +3,22 @@ mcf:
 metadata:
   identifier: 10.5281-zenodo.13947787
   dataseturi: https://doi.org/10.5281/zenodo.13947787
-  hierarchylevel: dataset
+  hierarchylevel: software
 identification:
-  title: 'Supporting data to "Pedotransfer functions versus model structure: What
-    drives uncertainty in agro-hydrological modelling?"'
+  title: 'Git-Repo: Pedotransfer functions versus model structure: What drives uncertainty
+    in agro-hydrological modelling?'
   keywords:
     project:
       keywords:
       - EJP Soil
-  abstract: "Supporting files to Pedotransfer functions versus model structure: What\
-    \ drives uncertainty in agro-hydrological modelling?\n\n\_Original publication.\
-    \ https://doi.org/10.5281/zenodo.14002494\n\nGitlab: SoilX / proj_uncertainty_PTF_soilX\
-    \ \xB7 GitLab or 10.5281/zenodo.14017708\n\n\_"
+  abstract: "These are the scripts used to visualize and analyse the data from the\
+    \ project \"Pedotransfer functions versus model structure: What drives uncertainty\
+    \ in agro-hydrological modelling?, https://doi.org/10.5281/zenodo.14002494\".\
+    \ Git-repo: SoilX / proj_uncertainty_PTF_soilX \xB7 GitLab"
   license:
     name: ''
   dates:
-    issued: '2024-10-17'
+    issued: '2024-10-31'
     publication: '2024'
   rights: cc-by-4.0
 contact:
@@ -62,11 +62,11 @@ distribution:
     type: WWW:LINK
     title: IsSupplementTo
   r1:
-    url: https://doi.org/10.5281/zenodo.14017708
+    url: https://doi.org/10.5281/zenodo.13947787
     type: WWW:LINK
-    title: IsSupplementTo
+    title: IsSupplementedBy
   r2:
-    url: https://doi.org/10.5281/zenodo.13947786
+    url: https://doi.org/10.5281/zenodo.14017708
     type: WWW:LINK
     title: IsVersionOf
 spatial:

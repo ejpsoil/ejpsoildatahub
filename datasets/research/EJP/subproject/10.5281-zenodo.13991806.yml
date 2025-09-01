@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13991806
+  10.5281/zenodo.13991806
   dataseturi: https://doi.org/10.5281/zenodo.13991806
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: Maps for Soil loss by water from climate change scenarios for Austria
   keywords:
@@ -34,18 +35,24 @@ identification:
   dates:
     issued: '2024-10-25'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: ''
 contact:
   Brunner-Thomas:
     individualname: Brunner, Thomas
-    role: ''
+    role: creator
     organization: Federal Agency for Water Management (BAW)
     url: 0000-0002-0402-219X
   Weninger-Thomas:
     individualname: Weninger, Thomas
-    role: ''
+    role: creator
     organization: Federal Agency for Water Management (BAW)
     url: 0000-0001-9004-4426
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13991806
@@ -59,5 +66,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13991806
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: Maps for Soil loss by water from climate change scenarios for Austria
+    url: https://zenodo.org/doi/10.5281/zenodo.13991806
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

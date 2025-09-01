@@ -1,31 +1,37 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.10959618
+  10.5281/zenodo.10959618
   dataseturi: https://doi.org/10.5281/zenodo.10959618
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: EJP SOIL C-arouNd - (Meta)data of Long-term field experiments (LET)
   keywords:
     project:
       keywords:
       - C-arouNd
+    default:
+      keywords: []
   abstract: ''
   license:
     name: ''
   dates:
     issued: '2024-04-11'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: ''
 contact:
   Rheinland-Pfalzische-Technische-Universitat-Kaiserslautern-Landau:
-    individualname: "Rheinland-Pf\xE4lzische Technische Universit\xE4t Kaiserslautern-Landau"
-    role: ''
+    individualname: "{Rheinland-Pf\xE4lzische Technische Universit\xE4t Kaiserslautern-Landau}"
+    role: creator
     organization: ''
     url: 01qrts582
   Norwegian-Centre-for-Organic-Agriculture:
-    individualname: Norwegian Centre for Organic Agriculture
-    role: ''
+    individualname: '{Norwegian Centre for Organic Agriculture}'
+    role: creator
     organization: ''
     url: 04vgq9s06
   Centre-of-Estonian-Rural-Research-and-Knowledge:
@@ -33,6 +39,15 @@ contact:
     role: ''
     organization: ''
     url: ''
+  Centre-of-Estonian-Rural-Research:
+    individualname: '{Centre of Estonian Rural Research'
+    role: creator
+  Knowledge:
+    individualname: Knowledge}
+    role: creator
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.10959618
@@ -42,5 +57,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.10959617
     type: WWW:LINK
     title: IsVersionOf
+  www:
+    name: EJP SOIL C-arouNd - (Meta)data of Long-term field experiments (LET)
+    url: https://zenodo.org/doi/10.5281/zenodo.10959618
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

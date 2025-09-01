@@ -1,28 +1,37 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13353432
+  10.5281/zenodo.13353432
   dataseturi: https://doi.org/10.5281/zenodo.13353432
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: CoupModel files for cultivated peatlands in Norway
   keywords:
     project:
       keywords:
       - null
+    default:
+      keywords: []
   abstract: ''
   license:
     name: ''
   dates:
     issued: '2024-08-21'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: ''
 contact:
   Zhao-Junbin:
     individualname: Zhao, Junbin
-    role: ''
+    role: creator
     organization: ''
     url: ''
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13353432
@@ -32,5 +41,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13353431
     type: WWW:LINK
     title: IsVersionOf
+  www:
+    name: CoupModel files for cultivated peatlands in Norway
+    url: https://zenodo.org/doi/10.5281/zenodo.13353432
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

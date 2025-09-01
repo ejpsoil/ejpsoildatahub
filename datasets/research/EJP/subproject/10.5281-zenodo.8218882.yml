@@ -45,8 +45,8 @@ distribution:
     type: WWW:LINK
     title: Requires
   r3:
-    url: https://doi.org/10.5281/zenodo.11046222
+    url: https://doi.org/10.5281/zenodo.11046223
     type: WWW:LINK
-    title: IsVersionOf
+    title: HasVersion
 spatial:
   type: ''

@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13960888
+  10.5281/zenodo.13960888
   dataseturi: https://doi.org/10.5281/zenodo.13960888
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: SERENA EJPSOIL NL SOILSEALING SEALINGDEGREE
   keywords:
@@ -35,18 +36,24 @@ identification:
   dates:
     issued: '2024-10-21'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: en
 contact:
   Hessel-Rudi:
     individualname: Hessel, Rudi
-    role: ''
+    role: creator
     organization: Wageningen University & Research
     url: 0000-0002-1859-309X
   Trip-Martine:
     individualname: Trip, Martine
-    role: ''
+    role: creator
     organization: Wageningen University & Research
     url: ''
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13960888
@@ -64,5 +71,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13960888
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: SERENA EJPSOIL NL SOILSEALING SEALINGDEGREE
+    url: https://zenodo.org/doi/10.5281/zenodo.13960888
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

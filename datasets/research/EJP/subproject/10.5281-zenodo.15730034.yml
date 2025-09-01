@@ -112,8 +112,8 @@ distribution:
     type: WWW:LINK
     title: IsSupplementTo
   r2:
-    url: https://doi.org/10.5281/zenodo.15730135
+    url: https://doi.org/10.5281/zenodo.15730136
     type: WWW:LINK
-    title: IsVersionOf
+    title: HasVersion
 spatial:
   type: ''

@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.14006019
+  10.5281/zenodo.14006019
   dataseturi: https://doi.org/10.5281/zenodo.14006019
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: 'SERENA EJP SOIL: Soil water erosion map of Hungary according to the RUSLE
     model'
@@ -36,28 +37,34 @@ identification:
   dates:
     issued: '2024-10-30'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: ''
 contact:
   Laborczi-Annamaria:
     individualname: "Laborczi, Annam\xE1ria"
-    role: ''
+    role: creator
     organization: HUN-REN ATK TAKI
     url: 0000-0003-4095-7838
   Gedeon-Csongor-Istvan:
     individualname: "Gedeon, Csongor Istv\xE1n"
-    role: ''
+    role: creator
     organization: HUN-REN ATK TAKI
     url: 0000-0001-8148-7508
   Csontos-Peter:
     individualname: "Csontos, P\xE9ter"
-    role: ''
+    role: creator
     organization: HUN-REN ATK TAKI
     url: 0000-0001-7874-522X
   Pasztor-Laszlo:
     individualname: "P\xE1sztor, L\xE1szl\xF3"
-    role: ''
+    role: creator
     organization: HUN-REN ATK TAKI
     url: 0000-0002-1605-4412
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.14006019
@@ -67,5 +74,12 @@ distribution:
     url: https://doi.org/10.5281/zenodo.14006019
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: 'SERENA EJP SOIL: Soil water erosion map of Hungary according to the RUSLE
+      model'
+    url: https://zenodo.org/doi/10.5281/zenodo.14006019
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

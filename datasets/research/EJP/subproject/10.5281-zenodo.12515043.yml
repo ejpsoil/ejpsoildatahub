@@ -84,8 +84,8 @@ distribution:
     type: WWW:LINK
     title: HasMetadata
   r1:
-    url: https://doi.org/10.5281/zenodo.13913151
+    url: https://doi.org/10.5281/zenodo.13913150
     type: WWW:LINK
-    title: HasVersion
+    title: IsVersionOf
 spatial:
   type: ''

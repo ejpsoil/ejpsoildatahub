@@ -1,12 +1,13 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13969793
+  10.5281/zenodo.13969793
   dataseturi: https://doi.org/10.5281/zenodo.13969793
-  hierarchylevel: software
+  hierarchylevel: dataset
+  datestamp: ''
 identification:
-  title: EOM4SOIL - Exogenous organic matter physicochemical characteristics visualisation
-    tool - RShiny script
+  title: EOM4SOIL - Physico-chemical characteristics of external organic matters (EOMs)
+    database
   keywords:
     project:
       keywords:
@@ -31,27 +32,30 @@ identification:
     issued: '2024-09-20'
     submitted: '2024-10-31'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: en
 contact:
   Caradec-Lucille:
     individualname: Caradec, Lucille
-    role: DataCurator
+    role: creator
     organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
       et l'Environnement
     url: ''
   Tampio-Elina:
     individualname: Tampio, Elina
-    role: Researcher
+    role: creator
     organization: Natural Resources Institute Finland
     url: ''
   Laakso-Johanna:
     individualname: Laakso, Johanna
-    role: Researcher
+    role: creator
     organization: Natural Resources Institute Finland
     url: ''
   Michaud-Aurelia:
-    individualname: Michaud, Aurelia
-    role: ContactPerson
+    individualname: "Michaud, Aur\xE9lia"
+    role: creator
     organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
       et l'Environnement
     url: ''
@@ -62,22 +66,43 @@ contact:
       et l'Environnement
     url: ''
   Van-Der-Smissen-Helene:
-    individualname: Van Der Smissen, Helene
-    role: DataCurator
+    individualname: "Van Der Smissen, H\xE9l\xE8ne"
+    role: creator
     organization: Walloon Agricultural Research Centre
     url: ''
   Houot-Sabine:
     individualname: Houot, Sabine
-    role: DataCurator
+    role: creator
     organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
       et l'Environnement
     url: ''
   Levavasseur-Florent:
     individualname: Levavasseur, Florent
-    role: DataCurator
+    role: creator
     organization: Institut National de Recherche pour l'Agriculture, l'Alimentation
       et l'Environnement
     url: ''
+  Barcauskaite-Karolina:
+    individualname: Barcauskaite, Karolina
+    role: creator
+  Lasorella-Valentina:
+    individualname: Lasorella, Valentina
+    role: creator
+  Criscuoli-Irene:
+    individualname: Criscuoli, Irene
+    role: creator
+  Asperen-Paulien:
+    individualname: Asperen, Paulien
+    role: creator
+  Dehaan-Janjo:
+    individualname: Dehaan, Janjo
+    role: creator
+  Jimenez-Julie:
+    individualname: Jimenez, Julie
+    role: creator
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13969793
@@ -91,5 +116,12 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13805741
     type: WWW:LINK
     title: IsVersionOf
+  www:
+    name: EOM4SOIL - Physico-chemical characteristics of external organic matters
+      (EOMs) database
+    url: https://zenodo.org/doi/10.5281/zenodo.13969793
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

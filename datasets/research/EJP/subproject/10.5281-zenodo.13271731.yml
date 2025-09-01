@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13271731
+  10.5281/zenodo.13271731
   dataseturi: https://doi.org/10.5281/zenodo.13271731
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: The effect of crop diversification and season on microbial carbon use efficiency
     across a European pedoclimatic gradient
@@ -109,11 +110,14 @@ identification:
   dates:
     issued: '2025-02-04'
     publication: '2025'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: en
 contact:
   Schroeder-Julia:
     individualname: Schroeder, Julia
-    role: ''
+    role: creator
     organization: "Johann Heinrich von Th\xFCnen-Institut"
     url: 0000-0003-3625-104X
   Konig-Alexander:
@@ -121,6 +125,9 @@ contact:
     role: DataCollector
     organization: ''
     url: 0000-0002-0539-8842
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13271731
@@ -130,5 +137,12 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13271731
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: The effect of crop diversification and season on microbial carbon use efficiency
+      across a European pedoclimatic gradient
+    url: https://zenodo.org/doi/10.5281/zenodo.13271731
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

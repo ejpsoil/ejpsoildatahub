@@ -1,48 +1,57 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.14046545
+  10.5281/zenodo.14046545
   dataseturi: https://doi.org/10.5281/zenodo.14046545
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: Open-source database of N2O emissions related to SOC-sequestration measures
   keywords:
     project:
       keywords:
       - CarboSeq
+    default:
+      keywords: []
   abstract: Open-source database of N2O emissions related to SOC-sequestration measures
   license:
     name: ''
   dates:
     issued: '2024-11-06'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: ''
 contact:
   Porre-R.J.:
     individualname: Porre, R.J.
-    role: ''
+    role: creator
     organization: ''
     url: ''
   Martinez-Garcia-L.:
     individualname: Martinez-Garcia, L.
-    role: ''
+    role: creator
     organization: ''
     url: ''
   Diaz-Pinez-E.:
     individualname: Diaz-Pinez, E.
-    role: ''
+    role: creator
     organization: ''
     url: ''
   Esparza-Robles-U.:
     individualname: Esparza-Robles, U.
-    role: ''
+    role: creator
     organization: ''
     url: ''
   Lesschen-J.P.:
     individualname: Lesschen, J.P.
-    role: ''
+    role: creator
     organization: ''
     url: ''
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.14046545
@@ -52,5 +61,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.14046545
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: Open-source database of N2O emissions related to SOC-sequestration measures
+    url: https://zenodo.org/doi/10.5281/zenodo.14046545
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.13757029
+  10.5281/zenodo.13757029
   dataseturi: https://doi.org/10.5281/zenodo.13757029
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: D3.3_20230919_ProbeField_Aligned_Spectra_V1
   keywords:
@@ -30,11 +31,14 @@ identification:
   dates:
     issued: '2024-09-13'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: en
 contact:
   Castaldi-Fabio:
     individualname: Castaldi, Fabio
-    role: DataCollector
+    role: creator
     organization: National Research Council
     url: 0000-0001-9160-1765
   Stenberg-Bo:
@@ -72,6 +76,9 @@ contact:
     role: DataCollector
     organization: Institute of Soil Science and Plant Cultivation
     url: ''
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.13757029
@@ -81,5 +88,11 @@ distribution:
     url: https://doi.org/10.5281/zenodo.13757029
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: D3.3_20230919_ProbeField_Aligned_Spectra_V1
+    url: https://zenodo.org/doi/10.5281/zenodo.13757029
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc

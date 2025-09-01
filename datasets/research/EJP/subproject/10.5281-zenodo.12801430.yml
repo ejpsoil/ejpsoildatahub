@@ -1,9 +1,10 @@
 mcf:
   version: 1.0
 metadata:
-  identifier: 10.5281-zenodo.12801430
+  10.5281/zenodo.12801430
   dataseturi: https://doi.org/10.5281/zenodo.12801430
   hierarchylevel: dataset
+  datestamp: ''
 identification:
   title: Dataset for "Towards an ecosystem capacity to stabilise organic carbon in
     soils"
@@ -11,6 +12,8 @@ identification:
     project:
       keywords:
       - CarboSeq
+    default:
+      keywords: []
   abstract: "This dataset includes the data that was used in the Global Change Biology\
     \ publication \"Towards an ecosystem capacity to stabilise organic carbon in soils\"\
     \ by Poeplau et al.. It contains two xlsx files, with dataset_full.xlsx including\
@@ -25,13 +28,19 @@ identification:
   dates:
     issued: '2024-07-23'
     publication: '2024'
-  rights: cc-by-4.0
+    creation: ''
+  rights: Creative Commons Attribution 4.0 International
+  status: ''
+  language: ''
 contact:
   Poeplau-Christopher:
     individualname: Poeplau, Christopher
-    role: ''
+    role: creator
     organization: ''
     url: ''
+  Zenodo:
+    individualname: Zenodo
+    role: creator
 distribution:
   contentUrl:
     url: 10.5281/zenodo.12801430
@@ -41,5 +50,12 @@ distribution:
     url: https://doi.org/10.5281/zenodo.12801430
     type: WWW:LINK
     title: HasVersion
+  www:
+    name: Dataset for "Towards an ecosystem capacity to stabilise organic carbon in
+      soils"
+    url: https://zenodo.org/doi/10.5281/zenodo.12801430
+    type: www
 spatial:
   type: ''
+content_info:
+  type: misc
